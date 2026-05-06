@@ -1,26 +1,579 @@
 {
-  "updatedAt": null,
-  "generatedBy": "sample",
-  "feeds": [],
+  "updatedAt": "2026-05-06T09:13:06.383Z",
+  "generatedBy": "GitHub Actions",
+  "feeds": [
+    {
+      "category": "国内",
+      "source": "Yahoo!ニュース 国内",
+      "url": "https://news.yahoo.co.jp/rss/topics/domestic.xml"
+    },
+    {
+      "category": "経済",
+      "source": "Yahoo!ニュース 経済",
+      "url": "https://news.yahoo.co.jp/rss/topics/business.xml"
+    },
+    {
+      "category": "IT",
+      "source": "Yahoo!ニュース IT",
+      "url": "https://news.yahoo.co.jp/rss/topics/it.xml"
+    },
+    {
+      "category": "IT",
+      "source": "ITmedia NEWS",
+      "url": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml"
+    },
+    {
+      "category": "スポーツ",
+      "source": "Yahoo!ニュース スポーツ",
+      "url": "https://news.yahoo.co.jp/rss/topics/sports.xml"
+    },
+    {
+      "category": "エンタメ",
+      "source": "Yahoo!ニュース エンタメ",
+      "url": "https://news.yahoo.co.jp/rss/topics/entertainment.xml"
+    }
+  ],
   "errors": [],
   "items": [
     {
-      "id": "sample-1",
-      "title": "これはサンプル記事です。GitHub Actionsを実行するとRSSから取得したニュースに置き換わります。",
-      "source": "サンプル",
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579044?source=rss-井脇ノブ子さん 病で38kgの激やせ",
+      "title": "井脇ノブ子さん 病で38kgの激やせ",
+      "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-05-06T00:00:00.000Z",
-      "description": "GitHub公開後、Actionsタブから手動実行するか、3時間ごとの自動実行を待つと data/news.json が更新されます。",
-      "url": "#"
+      "publishedAt": "2026-05-06T08:56:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579044?source=rss"
     },
     {
-      "id": "sample-2",
-      "title": "検索・カテゴリ絞り込みの動作確認用サンプルです。",
-      "source": "サンプル",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579046?source=rss-長友佑都が復帰 W杯へアピール",
+      "title": "長友佑都が復帰 W杯へアピール",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-06T08:54:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579046?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6579040?source=rss-金融向けAI アンソロピック発表",
+      "title": "金融向けAI アンソロピック発表",
+      "source": "Yahoo!ニュース IT",
       "category": "IT",
-      "publishedAt": "2026-05-06T00:00:00.000Z",
-      "description": "検索欄に IT や サンプル と入力すると、表示が絞り込まれます。",
-      "url": "#"
+      "publishedAt": "2026-05-06T08:53:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579040?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579043?source=rss-日中関係 対話なく膠着状態続く",
+      "title": "日中関係 対話なく膠着状態続く",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-06T08:47:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579043?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579042?source=rss-ベンチ殴打 SB杉山1軍合流し謝罪",
+      "title": "ベンチ殴打 SB杉山1軍合流し謝罪",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-06T08:37:53.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579042?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579038?source=rss-7日は夏日続出か 30℃に迫る所も",
+      "title": "7日は夏日続出か 30℃に迫る所も",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-06T08:25:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579038?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/06/news033.html-Meta、AIで13歳未満を自動検出 InstagramとFacebookで導入拡大",
+      "title": "Meta、AIで13歳未満を自動検出 InstagramとFacebookで導入拡大",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-06T08:17:00.000Z",
+      "description": "Metaは、FacebookとInstagramで13歳未満のユーザーを検出するAIを導入する。プライバシー配慮を強調しつつ、業界全体での一貫した年齢確認の必要性を訴え、OS事業者が年齢確認を行うことを義務付ける法整備を求めている。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/06/news033.html"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579037?source=rss-ホテル客室で鍋や焼肉 法的問題は",
+      "title": "ホテル客室で鍋や焼肉 法的問題は",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-06T08:16:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579037?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579031?source=rss-セール頼み限界 国内線の生存戦略",
+      "title": "セール頼み限界 国内線の生存戦略",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-06T07:56:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579031?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579027?source=rss-現役アイドル 恋愛ゼロのまま35歳",
+      "title": "現役アイドル 恋愛ゼロのまま35歳",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-06T07:44:51.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579027?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579025?source=rss-香坂みゆき 離婚して気づいた自由",
+      "title": "香坂みゆき 離婚して気づいた自由",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-06T07:25:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579025?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579023?source=rss-豊臣兄弟!創作許容される境界線は",
+      "title": "豊臣兄弟!創作許容される境界線は",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-06T07:14:29.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579023?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579022?source=rss-寝台特急のシャワー券 高額転売",
+      "title": "寝台特急のシャワー券 高額転売",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-06T07:01:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579022?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6579019?source=rss-YouTubeは「親安倍」? 投稿分析",
+      "title": "YouTubeは「親安倍」? 投稿分析",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-05-06T06:46:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579019?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579020?source=rss-大谷 村上の活躍は「素晴らしい」",
+      "title": "大谷 村上の活躍は「素晴らしい」",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-06T06:44:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579020?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579018?source=rss-首相が面会の省庁偏り 法務など0",
+      "title": "首相が面会の省庁偏り 法務など0",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-06T06:38:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579018?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579015?source=rss-DeNA助っ人・コックス 今季絶望",
+      "title": "DeNA助っ人・コックス 今季絶望",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-06T06:23:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579015?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579013?source=rss-円が再び急騰 20分ほどで2円以上",
+      "title": "円が再び急騰 20分ほどで2円以上",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-06T06:13:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579013?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579012?source=rss-オリ渡部がフェンス激突 球場騒然",
+      "title": "オリ渡部がフェンス激突 球場騒然",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-06T05:58:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579012?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579009?source=rss-安青錦が稽古で足首痛める 病院へ",
+      "title": "安青錦が稽古で足首痛める 病院へ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-06T05:32:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579009?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6579006?source=rss-60代で9割利用 シニアのSNS事情",
+      "title": "60代で9割利用 シニアのSNS事情",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-05-06T05:19:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579006?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579000?source=rss-大谷 打撃不振「悲観していない」",
+      "title": "大谷 打撃不振「悲観していない」",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-06T04:35:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579000?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6578999?source=rss-GW最終日 帰国ラッシュピーク",
+      "title": "GW最終日 帰国ラッシュピーク",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-06T04:30:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6578999?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6578997?source=rss-異彩放つ文学ドラマ 追い風か",
+      "title": "異彩放つ文学ドラマ 追い風か",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-06T04:10:01.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6578997?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6578992?source=rss-「五月病が原因で転職」2割 調査",
+      "title": "「五月病が原因で転職」2割 調査",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-06T03:12:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6578992?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6578991?source=rss-AIから4回プロポーズ 断った女性",
+      "title": "AIから4回プロポーズ 断った女性",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-05-06T03:01:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6578991?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6578988?source=rss-ホンダ カナダのEV工場計画凍結",
+      "title": "ホンダ カナダのEV工場計画凍結",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-06T02:21:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6578988?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6578987?source=rss-ドリフ特番の演出物議 テレビの今",
+      "title": "ドリフ特番の演出物議 テレビの今",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-06T02:05:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6578987?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6578983?source=rss-経産相 サウジ・UAEと原油で協力",
+      "title": "経産相 サウジ・UAEと原油で協力",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-06T01:37:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6578983?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6578982?source=rss-板野友美 ホリプロ退社し独立",
+      "title": "板野友美 ホリプロ退社し独立",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-06T01:12:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6578982?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6578975?source=rss-日産 欧州で10%の人員削減へ",
+      "title": "日産 欧州で10%の人員削減へ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-06T00:00:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6578975?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6578974?source=rss-松井裕樹がILから復帰 球団発表",
+      "title": "松井裕樹がILから復帰 球団発表",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-05T23:53:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6578974?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/06/news019.html-去年の2倍以上！ SDカード“高騰”時代だから知っておきたい無駄のない製品の選び方",
+      "title": "去年の2倍以上！ SDカード“高騰”時代だから知っておきたい無駄のない製品の選び方",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-05T23:14:00.000Z",
+      "description": "デジカメ撮影に欠かせないSDカードやCFexpressカード。これが今年に入ってから、急激に値上がりしている。今回はそんな価格高騰時代のSDカードの話。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/06/news019.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/06/news023.html-Anthropic、金融業界向けに10種のAIエージェントテンプレートを公開",
+      "title": "Anthropic、金融業界向けに10種のAIエージェントテンプレートを公開",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-05T22:53:00.000Z",
+      "description": "Anthropicは、金融サービス企業向けに10種類のAIエージェントテンプレートを公開した。投資銀行などの専門家を対象に、ピッチブック作成や監査などの業務を支援する。Microsoft 365との連携強化や、外部データプロバイダーとの接続も発表した。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/06/news023.html"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6578957?source=rss-大塚愛 高校生ユニをプロデュース",
+      "title": "大塚愛 高校生ユニをプロデュース",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-05T22:30:12.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6578957?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6578953?source=rss-田中圭 ポーカーで賞金1200万円超",
+      "title": "田中圭 ポーカーで賞金1200万円超",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-05T14:14:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6578953?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6578939?source=rss-日比 護衛艦輸出へ枠組み創設合意",
+      "title": "日比 護衛艦輸出へ枠組み創設合意",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-05T12:52:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6578939?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6578940?source=rss-米政府 新AIモデルを事前審査へ",
+      "title": "米政府 新AIモデルを事前審査へ",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-05-05T12:50:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6578940?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6578938?source=rss-陸自「ドクロ」ロゴに批判 論点は",
+      "title": "陸自「ドクロ」ロゴに批判 論点は",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-05T12:39:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6578938?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6578937?source=rss-安定雇用の若手研究者が減少 調査",
+      "title": "安定雇用の若手研究者が減少 調査",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-05T12:34:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6578937?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6578913?source=rss-「読書通帳」図書館が導入する訳",
+      "title": "「読書通帳」図書館が導入する訳",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-05-05T09:40:29.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6578913?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6578895?source=rss-裁判官「口コミ」サイト 中傷も",
+      "title": "裁判官「口コミ」サイト 中傷も",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-05-05T07:58:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6578895?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/05/news022.html-ポタ電で7年連続国内トップシェア、Jackeryの強みとは？",
+      "title": "ポタ電で7年連続国内トップシェア、Jackeryの強みとは？",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-05T03:14:00.000Z",
+      "description": "3月にEcoFlowがグローバルでトップシェアを獲得したと報じられたが、一方で日本国内ではトップシェアを獲得できていない。その日本で7年連続でトップシェアを獲得しているのが、Jackeryである。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/05/news022.html"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6578811?source=rss-会話に没頭 生成AIと「結婚」決意",
+      "title": "会話に没頭 生成AIと「結婚」決意",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-05-04T22:56:26.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6578811?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/05/news023.html-Anthropic、Blackstoneらと新会社設立へ 中小企業へのClaude導入を加速",
+      "title": "Anthropic、Blackstoneらと新会社設立へ 中小企業へのClaude導入を加速",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-04T22:00:00.000Z",
+      "description": "Anthropicは、Blackstoneなどの資産運用大手と共同でエンタープライズ向けAIサービス企業を設立した。新会社は主に中小企業のClaude導入を支援し、既存のパートナー網を補完する役割を担う。同様にOpenAIも投資会社と組み、AI実装を担う新会社の設立に向けて動いていると報じられた。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/05/news023.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/04/news032.html-「insta360 GO Ultra」は夜にも強かった 画質とウェアラブル性のバランスがいいアクションカムを試す",
+      "title": "「insta360 GO Ultra」は夜にも強かった 画質とウェアラブル性のバランスがいいアクションカムを試す",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-04T09:11:00.000Z",
+      "description": "どのカメラよりも気軽にウェアラブルできて、ハンズフリー撮影も楽々なアクションカメラだが、小さいためにバッテリーの持ちや動画性能に限界があった。そこを解消すべく登場したのが「insta360 GO Ultra」だ。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/04/news032.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2604/07/news013.html-【全話まとめ】漫画「15日後、データセンター業務のリアルを知るヤマダくん」",
+      "title": "【全話まとめ】漫画「15日後、データセンター業務のリアルを知るヤマダくん」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-04T01:00:00.000Z",
+      "description": "データセンターで働く人々の様子を4コマ漫画で紹介するコンテンツ「15日後、データセンター業務のリアルを知るヤマダくん」。連載時点では1日に1記事ずつ公開していましたが、本記事ではその全エピソードをまとめて掲載します。",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/07/news013.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/03/news023.html-マリオ好きにはたまらないけど映画としては……？ マリオ新作映画を見てマンガ家が首を傾げた理由",
+      "title": "マリオ好きにはたまらないけど映画としては……？ マリオ新作映画を見てマンガ家が首を傾げた理由",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-02T22:14:00.000Z",
+      "description": "24日に公開された映画「ザ・スーパーマリオギャラクシー・ムービー」の国内興行収入が、公開3日で16億109万3600円を記録しました。ボクも大満足で劇場を後にした、と言いたかったのですが……なぜかそれほど満足感がありませんでした。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/03/news023.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/02/news033.html-山善の“水冷服”にみる体温を下げる仕組みの進化 そして毎年起こる「売り切れ問題」",
+      "title": "山善の“水冷服”にみる体温を下げる仕組みの進化 そして毎年起こる「売り切れ問題」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-02T05:00:00.000Z",
+      "description": "山善から主に屋外で作業をする人に向けた猛暑対策ウェア「DIRECT COOL ProPLUS 水路式」と「Mizu fit」が発表されました。脇を冷やす設計が強化されるなど様々な改善が施されていて、完成度の高さを感じます。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/02/news033.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/01/news119.html-マネーフォワード、GitHubからソースコードと一部ユーザー情報流出か 銀行連携を一時停止",
+      "title": "マネーフォワード、GitHubからソースコードと一部ユーザー情報流出か 銀行連携を一時停止",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-01T11:43:00.000Z",
+      "description": "",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/01/news119.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/01/news118.html-Googleフォトに“バーチャル試着機能”登場 写真内の衣服を登録、アプリで組み合わせ可能に",
+      "title": "Googleフォトに“バーチャル試着機能”登場 写真内の衣服を登録、アプリで組み合わせ可能に",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-01T10:05:00.000Z",
+      "description": "",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/01/news118.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/01/news116.html-KADOKAWA、Webtoonの展開強化 LINEらと新スタジオ設立、第1弾は「ロードス島戦記」スピンオフ",
+      "title": "KADOKAWA、Webtoonの展開強化 LINEらと新スタジオ設立、第1弾は「ロードス島戦記」スピンオフ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-01T09:40:00.000Z",
+      "description": "KADOKAWAが、LINE Digital Frontierや韓国REDICE STUDIOとWebtoon制作スタジオを共同で設立する。日本のIP（知的財産）とWebtoon制作ノウハウを掛け合わせ、グローバルな配信網に乗せることで、世界150カ国以上のユーザーへのリーチを目指す。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/01/news116.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/01/news113.html-IT大喜利「エンタープライズ版BeReal.にありそうなこと」【回答募集】",
+      "title": "IT大喜利「エンタープライズ版BeReal.にありそうなこと」【回答募集】",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-01T09:13:00.000Z",
+      "description": "日々懸命にビジネスを生き抜くあなたに一息を。本連載ではITに関する大喜利を実施し、読者の皆さまから回答を募ります。もしかしたら、仕事に役立つアイデアが見つかるかも……。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/01/news113.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/01/news114.html-ナトリウムイオン電池、前から飛行機に持ち込み不可だった エレコムが訂正と謝罪",
+      "title": "ナトリウムイオン電池、前から飛行機に持ち込み不可だった エレコムが訂正と謝罪",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-01T09:11:00.000Z",
+      "description": "エレコムは1日、ナトリウムイオン電池の航空機内への持ち込みについて、4月28日に発表した内容に誤りがあったとして謝罪、訂正した。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/01/news114.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/01/news112.html-LINEの“iOS／Android間でも履歴完全移行”機能にまた不具合、一部履歴が復元できず 公開鍵の保存不備で",
+      "title": "LINEの“iOS／Android間でも履歴完全移行”機能にまた不具合、一部履歴が復元できず 公開鍵の保存不備で",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-01T08:52:00.000Z",
+      "description": "プレミアムバックアップをめぐっては、登録時に、意図せずLINEパスワードが上書きされる不具合が公表されたばかりだ。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/01/news112.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/01/news111.html-イエローハット子会社で最大345万人分の情報漏えいか データ持ち出しの痕跡確認",
+      "title": "イエローハット子会社で最大345万人分の情報漏えいか データ持ち出しの痕跡確認",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-01T08:50:00.000Z",
+      "description": "イエローハットは5月1日、オートバイ用品チェーンを展開する子会社の２りんかんイエローハット（埼玉県和光市）で発生した不正アクセスを巡り、最大で345万件超の情報が持ち出された痕跡を確認したと発表した。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/01/news111.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/01/news109.html-「Gemini」「NotebookLM」のエンタープライズ版、“政府認定サービス”入り 政府調達の対称に",
+      "title": "「Gemini」「NotebookLM」のエンタープライズ版、“政府認定サービス”入り 政府調達の対称に",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-01T08:28:00.000Z",
+      "description": "",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/01/news109.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/01/news105.html-「いらすとやメーカー」登場 パーツを自在にカスタマイズで、“被り”も回避可能？",
+      "title": "「いらすとやメーカー」登場 パーツを自在にカスタマイズで、“被り”も回避可能？",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-01T08:10:00.000Z",
+      "description": "フリー素材サイト「いらすとや」を運営するみふねたかし氏は5月1日、パーツを組み合わせて自由にキャラクターを作成できる新サービス「いらすとやメーカー」を公開した。同サービスで作成した画像は商用利用も可能だ。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/01/news105.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/01/news103.html-楽天カード利用者に「詐欺サイトに入力した疑いあり」警告開始 セキュリティ企業と連携",
+      "title": "楽天カード利用者に「詐欺サイトに入力した疑いあり」警告開始 セキュリティ企業と連携",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-01T07:45:00.000Z",
+      "description": "",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/01/news103.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/01/news099.html-東証、KDDIに違約金9120万円 子会社の架空取引で「投資者の信頼を損なった」",
+      "title": "東証、KDDIに違約金9120万円 子会社の架空取引で「投資者の信頼を損なった」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-01T07:13:00.000Z",
+      "description": "東証は問題の背景として、KDDIが広告代理事業を「非中核・傍流事業」と位置付け、全社的に知見が不足していた点などを指摘している。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/01/news099.html"
     }
   ]
 }

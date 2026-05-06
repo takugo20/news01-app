@@ -1,10 +1,10 @@
 {
-  "updatedAt": null,
-  "newsItems": 0,
+  "updatedAt": "2026-05-06T09:13:07.107Z",
+  "newsItems": 60,
   "newsErrors": [],
   "topErrors": {
-    "nikkei225": "GitHub Actions実行前です。",
-    "usdJpy": "GitHub Actions実行前です。",
-    "weather": "GitHub Actions実行前です。"
+    "nikkei225": null,
+    "usdJpy": null,
+    "weather": null
   }
 }
