@@ -1,0 +1,40 @@
+{
+  "updatedAt": null,
+  "generatedBy": "sample",
+  "market": {
+    "nikkei225": {
+      "label": "日経平均株価",
+      "symbol": "^nkx",
+      "value": null,
+      "date": null,
+      "time": null,
+      "source": "Stooq",
+      "url": null,
+      "error": "GitHub Actions実行前のため、まだ取得していません。"
+    },
+    "usdJpy": {
+      "label": "円/ドル為替レート",
+      "symbol": "usdjpy",
+      "value": null,
+      "date": null,
+      "time": null,
+      "source": "Stooq",
+      "url": null,
+      "error": "GitHub Actions実行前のため、まだ取得していません。"
+    }
+  },
+  "weather": {
+    "city": "宇都宮市",
+    "latitude": 36.5657,
+    "longitude": 139.8836,
+    "temperature": null,
+    "weatherCode": null,
+    "windSpeed": null,
+    "precipitationProbability": null,
+    "temperatureMax": null,
+    "temperatureMin": null,
+    "source": "Open-Meteo",
+    "url": null,
+    "error": "GitHub Actions実行前のため、まだ取得していません。"
+  }
+}

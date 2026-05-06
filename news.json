@@ -1,0 +1,26 @@
+{
+  "updatedAt": null,
+  "generatedBy": "sample",
+  "feeds": [],
+  "errors": [],
+  "items": [
+    {
+      "id": "sample-1",
+      "title": "これはサンプル記事です。GitHub Actionsを実行するとRSSから取得したニュースに置き換わります。",
+      "source": "サンプル",
+      "category": "国内",
+      "publishedAt": "2026-05-06T00:00:00.000Z",
+      "description": "GitHub公開後、Actionsタブから手動実行するか、3時間ごとの自動実行を待つと data/news.json が更新されます。",
+      "url": "#"
+    },
+    {
+      "id": "sample-2",
+      "title": "検索・カテゴリ絞り込みの動作確認用サンプルです。",
+      "source": "サンプル",
+      "category": "IT",
+      "publishedAt": "2026-05-06T00:00:00.000Z",
+      "description": "検索欄に IT や サンプル と入力すると、表示が絞り込まれます。",
+      "url": "#"
+    }
+  ]
+}
