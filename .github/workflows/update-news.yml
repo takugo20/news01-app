@@ -1,0 +1,42 @@
+name: Update news data
+
+on:
+  schedule:
+    # GitHub ActionsのscheduleはUTC基準です。
+    # 0 */3 * * * は、UTCで3時間ごとに実行します。
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch RSS, market, and weather data
+        run: npm run update-data
+
+      - name: Commit generated JSON files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json data/top.json data/update-log.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update news data"
+            git push
+          fi
