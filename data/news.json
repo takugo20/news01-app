@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T17:17:33.759Z",
+  "updatedAt": "2026-05-06T21:44:54.006Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579095?source=rss-田中圭 鈴木おさむ氏の舞台で主演",
+      "title": "田中圭 鈴木おさむ氏の舞台で主演",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-06T21:42:26.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579095?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579094?source=rss-NY株終値612ドル高 戦闘終結期待",
+      "title": "NY株終値612ドル高 戦闘終結期待",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-06T21:28:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579094?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579092?source=rss-大谷26打席ぶり安打 新パフォ披露",
+      "title": "大谷26打席ぶり安打 新パフォ披露",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-06T21:06:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579092?source=rss"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579088?source=rss-演出不評 ドリフ特番なぜ放送続く",
       "title": "演出不評 ドリフ特番なぜ放送続く",
@@ -288,15 +315,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6579031?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579027?source=rss-現役アイドル 恋愛ゼロのまま35歳",
-      "title": "現役アイドル 恋愛ゼロのまま35歳",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-06T07:44:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579027?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579022?source=rss-寝台特急のシャワー券 高額転売",
       "title": "寝台特急のシャワー券 高額転売",
       "source": "Yahoo!ニュース 経済",
@@ -315,15 +333,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6579019?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579020?source=rss-大谷 村上の活躍は「素晴らしい」",
-      "title": "大谷 村上の活躍は「素晴らしい」",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-06T06:44:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579020?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579018?source=rss-首相が面会の省庁偏り 法務など0",
       "title": "首相が面会の省庁偏り 法務など0",
       "source": "Yahoo!ニュース 国内",
@@ -331,15 +340,6 @@
       "publishedAt": "2026-05-06T06:38:10.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6579018?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579013?source=rss-円が再び急騰 20分ほどで2円以上",
-      "title": "円が再び急騰 20分ほどで2円以上",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-06T06:13:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579013?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6579006?source=rss-60代で9割利用 シニアのSNS事情",
