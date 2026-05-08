@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T18:01:31.082Z",
+  "updatedAt": "2026-05-08T00:08:45.104Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,114 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579227?source=rss-国民民主「5万円給付」提言へ",
+      "title": "国民民主「5万円給付」提言へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-08T00:01:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579227?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6579229?source=rss-絵文字「合掌」の意味 回答に反響",
+      "title": "絵文字「合掌」の意味 回答に反響",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-05-07T23:56:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579229?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579226?source=rss-美浜3号機で蒸気漏れ 原子炉停止",
+      "title": "美浜3号機で蒸気漏れ 原子炉停止",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-07T23:48:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579226?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/08/news054.html-「ChatGPT」に緊急連絡先機能「Trusted Contact」登場 自殺リスク検知で通知",
+      "title": "「ChatGPT」に緊急連絡先機能「Trusted Contact」登場 自殺リスク検知で通知",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-07T23:05:00.000Z",
+      "description": "OpenAIは、「ChatGPT」にメンタルヘルスの懸念が生じた際に信頼できる人物へ通知する安全機能「Trusted Contact」を追加した。18歳以上の個人ユーザーが対象で、AIと人間が深刻なリスクを検知した場合にのみユーザーが指定した連絡先へ安否確認を促す。会話の詳細は非公開で、現実のサポートへの橋渡しを目的と...",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/08/news054.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/08/news020.html-「脳内のゴミ掃除機能」壊す新たな一因を特定 抗体で狙い撃ち→マウスのアルツハイマー症状が改善",
+      "title": "「脳内のゴミ掃除機能」壊す新たな一因を特定 抗体で狙い撃ち→マウスのアルツハイマー症状が改善",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-07T23:00:00.000Z",
+      "description": "広州医科大学などに所属する研究者らが発表した論文「A brain-persistent DDR2-degrading antibody reverses Alzheimer’s pathologies by restoring brain fluid dynamics and metabolic clearance」は...",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/08/news020.html"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579219?source=rss-コロナ5類移行3年 教訓生かす政府",
+      "title": "コロナ5類移行3年 教訓生かす政府",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-07T22:33:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579219?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579217?source=rss-芸人永野が監督 南米映画祭で受賞",
+      "title": "芸人永野が監督 南米映画祭で受賞",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-07T22:28:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579217?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579218?source=rss-アニメ監督・佐藤竜雄さん死去",
+      "title": "アニメ監督・佐藤竜雄さん死去",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-07T22:18:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579218?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/08/news018.html-脳のオン/オフ切り替えは鍛えられる──イメトレで実際の運動能力向上に成功、慶應大がPNASで発表",
+      "title": "脳のオン/オフ切り替えは鍛えられる──イメトレで実際の運動能力向上に成功、慶應大がPNASで発表",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-07T22:00:00.000Z",
+      "description": "慶應義塾大学に所属する研究者らがPNASで発表した論文「Brain-computer interface-based neurofeedback training enables transferable control of cortical state switching in humans」は、ブレイン・コンピュ...",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/08/news018.html"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579216?source=rss-「内密出産」支援へ検討 自民PT",
+      "title": "「内密出産」支援へ検討 自民PT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-07T21:56:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579216?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579215?source=rss-今永が4勝目 ファン総立ちで称賛",
+      "title": "今永が4勝目 ファン総立ちで称賛",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-07T21:33:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579215?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579214?source=rss-危険スイングに「退場」検討 NPB",
+      "title": "危険スイングに「退場」検討 NPB",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-07T21:20:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579214?source=rss"
+    },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/08/news050.html-Google、画面がないフィットネストラッカー「Fitbit Air」発表 Geminiが“専任コーチ”に",
       "title": "Google、画面がないフィットネストラッカー「Fitbit Air」発表 Geminiが“専任コーチ”に",
@@ -261,24 +369,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6579180?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579174?source=rss-「美容整形の後遺症」相談増加",
-      "title": "「美容整形の後遺症」相談増加",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-07T09:02:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579174?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579178?source=rss-再審見直し巡る自民議論 結論出ず",
-      "title": "再審見直し巡る自民議論 結論出ず",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-07T08:54:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579178?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579173?source=rss-バスケSR渋谷 新チーム名を発表",
       "title": "バスケSR渋谷 新チーム名を発表",
       "source": "Yahoo!ニュース スポーツ",
@@ -286,15 +376,6 @@
       "publishedAt": "2026-05-07T08:41:22.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6579173?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579172?source=rss-関東以西は夏日当たり前に 対策を",
-      "title": "関東以西は夏日当たり前に 対策を",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-07T08:39:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579172?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579167?source=rss-バンテリンD 塩むすび販売継続",
@@ -333,15 +414,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2605/07/news096.html"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579158?source=rss-43歳・冨永愛 約20年ぶりに出産",
-      "title": "43歳・冨永愛 約20年ぶりに出産",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-07T07:17:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579158?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/07/news093.html-「ウィザードリィ」の権利は「売却する意思」なし ドリコムが一部報道を否定する声明",
       "title": "「ウィザードリィ」の権利は「売却する意思」なし ドリコムが一部報道を否定する声明",
       "source": "ITmedia NEWS",
@@ -360,33 +432,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2605/07/news075.html"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579150?source=rss-大河内奈々子 2度目の離婚を告白",
-      "title": "大河内奈々子 2度目の離婚を告白",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-07T05:27:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579150?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579147?source=rss-FIFA会長 W杯チケ巡る批判に反論",
-      "title": "FIFA会長 W杯チケ巡る批判に反論",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-07T04:55:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579147?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579148?source=rss-太鼓の達人ヤスリがけ 法的問題は",
-      "title": "太鼓の達人ヤスリがけ 法的問題は",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-07T04:49:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579148?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/07/news072.html-富士通、予備自衛官の管理業務をデジタル化 招集や教育も効率化、災害救助にも一役",
       "title": "富士通、予備自衛官の管理業務をデジタル化 招集や教育も効率化、災害救助にも一役",
       "source": "ITmedia NEWS",
@@ -403,15 +448,6 @@
       "publishedAt": "2026-05-07T04:14:00.000Z",
       "description": "舞台装置や遊戯機械の設計・製造を手掛ける三精テクノロジーズが開発した乗用人型変形ロボット「SR-01」が、スタートアップ向けの展示会「SusHi Tech Tokyo 2026」（東京ビッグサイト、4月27～29日）の未来体験パビリオンに展示された。会場では全長約4.7m、車重2.3tの巨体が、車型から人型に変形するデ...",
       "url": "https://www.itmedia.co.jp/news/articles/2605/08/news012.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579137?source=rss-鈴木誠也 まさかの尻餅で2点許す",
-      "title": "鈴木誠也 まさかの尻餅で2点許す",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-07T03:02:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579137?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/04/news015.html-“白髪”はがんから体を守った印？ 急な黒髪復活は要注意、頭皮活性化に警鐘──東大などがNature系列で2025年に発表",
@@ -486,15 +522,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6579040?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/06/news033.html-Meta、AIで13歳未満を自動検出 InstagramとFacebookで導入拡大",
-      "title": "Meta、AIで13歳未満を自動検出 InstagramとFacebookで導入拡大",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-06T08:17:00.000Z",
-      "description": "Metaは、FacebookとInstagramで13歳未満のユーザーを検出するAIを導入する。プライバシー配慮を強調しつつ、業界全体での一貫した年齢確認の必要性を訴え、OS事業者が年齢確認を行うことを義務付ける法整備を求めている。",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/06/news033.html"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6579019?source=rss-YouTubeは「親安倍」? 投稿分析",
       "title": "YouTubeは「親安倍」? 投稿分析",
       "source": "Yahoo!ニュース IT",
@@ -522,24 +549,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6578991?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/06/news019.html-去年の2倍以上！ SDカード“高騰”時代だから知っておきたい無駄のない製品の選び方",
-      "title": "去年の2倍以上！ SDカード“高騰”時代だから知っておきたい無駄のない製品の選び方",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-05T23:14:00.000Z",
-      "description": "デジカメ撮影に欠かせないSDカードやCFexpressカード。これが今年に入ってから、急激に値上がりしている。今回はそんな価格高騰時代のSDカードの話。",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/06/news019.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/06/news023.html-Anthropic、金融業界向けに10種のAIエージェントテンプレートを公開",
-      "title": "Anthropic、金融業界向けに10種のAIエージェントテンプレートを公開",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-05T22:53:00.000Z",
-      "description": "Anthropicは、金融サービス企業向けに10種類のAIエージェントテンプレートを公開した。投資銀行などの専門家を対象に、ピッチブック作成や監査などの業務を支援する。Microsoft 365との連携強化や、外部データプロバイダーとの接続も発表した。",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/06/news023.html"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6578940?source=rss-米政府 新AIモデルを事前審査へ",
       "title": "米政府 新AIモデルを事前審査へ",
       "source": "Yahoo!ニュース IT",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-05-05T07:58:42.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6578895?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6578811?source=rss-会話に没頭 生成AIと「結婚」決意",
-      "title": "会話に没頭 生成AIと「結婚」決意",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-05-04T22:56:26.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6578811?source=rss"
     }
   ]
 }
