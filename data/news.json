@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T13:27:20.350Z",
+  "updatedAt": "2026-05-09T15:57:47.472Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,42 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579444?source=rss-鈴木光司氏死去 Jホラー火付け役",
+      "title": "鈴木光司氏死去 Jホラー火付け役",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-09T14:38:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579444?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579447?source=rss-中京大 水泳部で未成年飲酒と暴力",
+      "title": "中京大 水泳部で未成年飲酒と暴力",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-09T14:12:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579447?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579446?source=rss-訪日客7都道府県に集中 共同分析",
+      "title": "訪日客7都道府県に集中 共同分析",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-09T14:08:56.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579446?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579445?source=rss-卓球女子 6連覇中の中国と決勝へ",
+      "title": "卓球女子 6連覇中の中国と決勝へ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-09T13:58:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579445?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579437?source=rss-薬あっても容器足りない 薬局嘆き",
       "title": "薬あっても容器足りない 薬局嘆き",
       "source": "Yahoo!ニュース 経済",
@@ -52,15 +88,6 @@
       "publishedAt": "2026-05-09T13:18:42.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6579440?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579436?source=rss-早田ひな「心臓に悪い」逆転勝利",
-      "title": "早田ひな「心臓に悪い」逆転勝利",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-09T13:11:13.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579436?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579435?source=rss-小池祐貴 バイオリニストと結婚",
@@ -171,15 +198,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6579405?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579404?source=rss-田中将大 挟殺プレーで走者と激突",
-      "title": "田中将大 挟殺プレーで走者と激突",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-09T07:09:58.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579404?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579396?source=rss-チームみらい1年 政策でも存在感",
       "title": "チームみらい1年 政策でも存在感",
       "source": "Yahoo!ニュース 国内",
@@ -259,15 +277,6 @@
       "publishedAt": "2026-05-09T02:28:56.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6579375?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579370?source=rss-消費減税や改憲 世論はどう見る",
-      "title": "消費減税や改憲 世論はどう見る",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-09T01:49:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579370?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579366?source=rss-トム・ブラウン漫才 aikoの曲応用",
@@ -367,15 +376,6 @@
       "publishedAt": "2026-05-08T12:23:26.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6579320?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579319?source=rss-テレビ東京HD 過去最高売り上げ",
-      "title": "テレビ東京HD 過去最高売り上げ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-08T12:15:09.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579319?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6579312?source=rss-Switch2値上げ発表 苦渋の決断か",

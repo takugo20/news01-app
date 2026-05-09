@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-05-09T13:27:20.352Z",
+  "updatedAt": "2026-05-09T15:57:47.860Z",
   "newsItems": 60,
   "newsErrors": [],
   "topErrors": {
-    "nikkei225": "CSVの行数が不足しています",
-    "usdJpy": "CSVの行数が不足しています",
+    "nikkei225": null,
+    "usdJpy": null,
     "weather": null
   }
 }
