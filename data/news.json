@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T21:52:08.905Z",
+  "updatedAt": "2026-05-10T03:47:17.410Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,184 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579444?source=rss-鈴木光司氏死去 Jホラー火付け役",
-      "title": "鈴木光司氏死去 Jホラー火付け役",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579489?source=rss-大関かど番の安青錦 全治3週間",
+      "title": "大関かど番の安青錦 全治3週間",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-10T03:35:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579489?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579486?source=rss-麟太郎が145m弾 実況日本語で驚き",
+      "title": "麟太郎が145m弾 実況日本語で驚き",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-10T03:03:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579486?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579481?source=rss-健保法修正案 立憲公明の概要判明",
+      "title": "健保法修正案 立憲公明の概要判明",
       "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-05-09T14:38:08.000Z",
+      "publishedAt": "2026-05-10T02:15:37.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579444?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6579481?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579482?source=rss-MLB名将 ボビー・コックス氏死去",
+      "title": "MLB名将 ボビー・コックス氏死去",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-10T02:13:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579482?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579478?source=rss-卓球日本 男女とも決勝相手は中国",
+      "title": "卓球日本 男女とも決勝相手は中国",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-10T02:11:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579478?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579480?source=rss-オープンハウス 路上営業は合理的",
+      "title": "オープンハウス 路上営業は合理的",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-10T01:57:26.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579480?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579476?source=rss-Mr.マリック 娘と疎遠の過去語る",
+      "title": "Mr.マリック 娘と疎遠の過去語る",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-10T01:18:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579476?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579475?source=rss-三浦知良59歳 母に毎朝LINE送る",
+      "title": "三浦知良59歳 母に毎朝LINE送る",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-10T01:10:47.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579475?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579473?source=rss-燃料高騰 カーネーションにも影響",
+      "title": "燃料高騰 カーネーションにも影響",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-10T00:49:56.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579473?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579472?source=rss-成城石井は「高くない」のか 考察",
+      "title": "成城石井は「高くない」のか 考察",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-10T00:44:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579472?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579468?source=rss-MF中村敬斗が圧巻 1試合4ゴール",
+      "title": "MF中村敬斗が圧巻 1試合4ゴール",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-10T00:07:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579468?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6579467?source=rss-ゲーム機値上げ時代 今後の展開は",
+      "title": "ゲーム機値上げ時代 今後の展開は",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-05-09T23:53:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579467?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579466?source=rss-生保契約者の保護制度 延長検討",
+      "title": "生保契約者の保護制度 延長検討",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-09T23:47:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579466?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579463?source=rss-SNS時代にラッピング電車 狙い",
+      "title": "SNS時代にラッピング電車 狙い",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-09T23:46:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579463?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579461?source=rss-特典中止物議 令和ロマン払い戻し",
+      "title": "特典中止物議 令和ロマン払い戻し",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-09T23:34:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579461?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579460?source=rss-日本初のシネコン 33年の歴史に幕",
+      "title": "日本初のシネコン 33年の歴史に幕",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-09T23:07:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579460?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579455?source=rss-政府 成長分野での学び直し支援へ",
+      "title": "政府 成長分野での学び直し支援へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-09T22:48:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579455?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579452?source=rss-鈴木光司氏死去 「貞子」生みの親",
+      "title": "鈴木光司氏死去 「貞子」生みの親",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-09T22:33:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579452?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579450?source=rss-日本代表に激震 三笘薫が負傷交代",
+      "title": "日本代表に激震 三笘薫が負傷交代",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-09T22:17:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579450?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/10/news014.html-中国産ソシャゲ「NTE」をプレイしたマンガ家が思う「アニメ調オープンワールド大作」を日本が作らなくてもいい理由",
+      "title": "中国産ソシャゲ「NTE」をプレイしたマンガ家が思う「アニメ調オープンワールド大作」を日本が作らなくてもいい理由",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-09T22:14:00.000Z",
+      "description": "最近、SNSで盛り上がっている話題の一つに「日本のゲーム業界はアニメ調のオープンワールドゲームをなぜ作らないのか」というものがあります。キッカケは「NTE: Neverness to Everness」でした。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/10/news014.html"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579447?source=rss-中京大 水泳部で未成年飲酒と暴力",
@@ -63,15 +234,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6579446?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579445?source=rss-卓球女子 6連覇中の中国と決勝へ",
-      "title": "卓球女子 6連覇中の中国と決勝へ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-09T13:58:35.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579445?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579437?source=rss-薬あっても容器足りない 薬局嘆き",
       "title": "薬あっても容器足りない 薬局嘆き",
       "source": "Yahoo!ニュース 経済",
@@ -90,15 +252,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6579440?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579435?source=rss-小池祐貴 バイオリニストと結婚",
-      "title": "小池祐貴 バイオリニストと結婚",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-09T13:00:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579435?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579438?source=rss-「リング」作家 鈴木光司さん死去",
       "title": "「リング」作家 鈴木光司さん死去",
       "source": "Yahoo!ニュース 国内",
@@ -108,60 +261,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6579438?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579432?source=rss-日体大バレー部 組織的サイン盗み",
-      "title": "日体大バレー部 組織的サイン盗み",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-09T12:17:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579432?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579431?source=rss-村上宗隆 衝撃の「記録ラッシュ」",
-      "title": "村上宗隆 衝撃の「記録ラッシュ」",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-09T11:46:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579431?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579429?source=rss-来週後半 10年に一度レベルの高温",
-      "title": "来週後半 10年に一度レベルの高温",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-09T11:37:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579429?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579430?source=rss-卓球女子3-0で独に完勝 決勝進出",
-      "title": "卓球女子3-0で独に完勝 決勝進出",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-09T11:34:56.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579430?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579426?source=rss-閉店迫るヴィレヴァン本店で催し",
-      "title": "閉店迫るヴィレヴァン本店で催し",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-09T11:04:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579426?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579423?source=rss-高木美帆氏 第2の人生満喫したい",
-      "title": "高木美帆氏 第2の人生満喫したい",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-09T10:25:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579423?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579421?source=rss-災害時ペット同行避難 指針改定へ",
       "title": "災害時ペット同行避難 指針改定へ",
       "source": "Yahoo!ニュース 国内",
@@ -169,15 +268,6 @@
       "publishedAt": "2026-05-09T10:14:07.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6579421?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579415?source=rss-カープついに最下位転落 完封負け",
-      "title": "カープついに最下位転落 完封負け",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-09T09:07:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579415?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579407?source=rss-築40年以上の病棟 全国に1568カ所",
@@ -225,15 +315,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6579392?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579390?source=rss-1期4年のリリーフ 林真理子氏語る",
-      "title": "1期4年のリリーフ 林真理子氏語る",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-09T05:00:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579390?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579387?source=rss-XG香港公演の日変更 7/31に批判",
       "title": "XG香港公演の日変更 7/31に批判",
       "source": "Yahoo!ニュース エンタメ",
@@ -250,24 +331,6 @@
       "publishedAt": "2026-05-09T03:48:16.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6579383?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579380?source=rss-ドコモ 値上げに踏み切れない背景",
-      "title": "ドコモ 値上げに踏み切れない背景",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-09T03:11:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579380?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579377?source=rss-フードロス削減アプリ 急速に台頭",
-      "title": "フードロス削減アプリ 急速に台頭",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-09T02:57:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579377?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579375?source=rss-目黒蓮とアクション 小手伸也奮闘",
@@ -288,15 +351,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6579366?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579368?source=rss-サイゼが販売休止 生ハムの今後",
-      "title": "サイゼが販売休止 生ハムの今後",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-09T01:27:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579368?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/09/news024.html-防衛装備庁、国産ドローン300台を1.1億円で導入へ 日本企業と契約",
       "title": "防衛装備庁、国産ドローン300台を1.1億円で導入へ 日本企業と契約",
       "source": "ITmedia NEWS",
@@ -306,24 +360,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2605/09/news024.html"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579352?source=rss-岩田絵里奈アナ 日テレ退社の理由",
-      "title": "岩田絵里奈アナ 日テレ退社の理由",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-08T23:26:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579352?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579349?source=rss-休日の連絡 つながらない権利とは",
-      "title": "休日の連絡 つながらない権利とは",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-08T23:18:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579349?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6579345?source=rss-ソニーGがTSMCと戦略的提携へ",
       "title": "ソニーGがTSMCと戦略的提携へ",
       "source": "Yahoo!ニュース IT",
@@ -331,15 +367,6 @@
       "publishedAt": "2026-05-08T22:58:12.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6579345?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579339?source=rss-生見愛瑠「GTO」鬼塚のバディに",
-      "title": "生見愛瑠「GTO」鬼塚のバディに",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-08T22:16:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579339?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/09/news027.html-ソニーセミコンとTSMC、次世代イメージセンサーで提携 フィジカルAI分野に照準",
@@ -358,15 +385,6 @@
       "publishedAt": "2026-05-08T15:02:21.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6579336?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579322?source=rss-ナフサ不安 食品値上げ懸念の理由",
-      "title": "ナフサ不安 食品値上げ懸念の理由",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-08T12:32:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579322?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6579320?source=rss-「Switch2」値上げを発表 初代も",
@@ -457,15 +475,6 @@
       "publishedAt": "2026-05-08T04:29:00.000Z",
       "description": "はてなは7日、不正な送金指示によって約11億円の資金が銀行口座から流出した件で、外部の専門家で構成する特別調査委員会を設置すると発表した。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/08/news079.html"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6579263?source=rss-メルカリ ちいかわハピセ出品禁止",
-      "title": "メルカリ ちいかわハピセ出品禁止",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-05-08T04:18:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579263?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/08/news077.html-「FILCO」のダイヤテックが破産──東京商工リサーチ",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-05-07T09:57:00.000Z",
       "description": "京都大が人工多能性幹細胞（iPS細胞）に関する基本特許の権利延長に向け、6月までに特許庁へ申請する方針を明らかにした。開発初期に出願した基本特許は20年間で原則効力を失うが、iPS細胞を用いた2製品が再生医療等製品として製造販売の条件・期限付き承認を得たことで、最長5年間の延長申請が可能になった。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/07/news114.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/07/news110.html-商品選びから決済までをAIでお助け──MUFGがGoogleとタッグで実現目指す Google Cloud上にインフラ構築",
-      "title": "商品選びから決済までをAIでお助け──MUFGがGoogleとタッグで実現目指す Google Cloud上にインフラ構築",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-07T09:30:00.000Z",
-      "description": "",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/07/news110.html"
     }
   ]
 }
