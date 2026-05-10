@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T13:39:40.575Z",
+  "updatedAt": "2026-05-10T15:58:32.671Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,42 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579571?source=rss-G捕手の頭にバット直撃 一時騒然",
+      "title": "G捕手の頭にバット直撃 一時騒然",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-10T14:50:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579571?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579568?source=rss-早田ひなが涙「1ゲームも取れず」",
+      "title": "早田ひなが涙「1ゲームも取れず」",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-10T14:23:17.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579568?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579565?source=rss-日村勇紀 休養中で際立つ存在感",
+      "title": "日村勇紀 休養中で際立つ存在感",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-10T14:02:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579565?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579567?source=rss-日本が中国に敗れ銀 卓球女子",
+      "title": "日本が中国に敗れ銀 卓球女子",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-10T13:43:29.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579567?source=rss"
+    },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6579561?source=rss-米企業の新型AI 危険視される能力",
       "title": "米企業の新型AI 危険視される能力",
@@ -106,15 +142,6 @@
       "publishedAt": "2026-05-10T10:06:57.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6579536?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579531?source=rss-速報・卓球女子決勝 日本vs中国",
-      "title": "速報・卓球女子決勝 日本vs中国",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-10T09:53:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579531?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579534?source=rss-負傷のMF三笘薫 森保監督が言及",
@@ -234,15 +261,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6579505?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579500?source=rss-大谷3試合連続安打 チームは完敗",
-      "title": "大谷3試合連続安打 チームは完敗",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-10T05:18:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579500?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579497?source=rss-特典中止で払い戻し くるまが謝罪",
       "title": "特典中止で払い戻し くるまが謝罪",
       "source": "Yahoo!ニュース エンタメ",
@@ -250,15 +268,6 @@
       "publishedAt": "2026-05-10T04:44:45.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6579497?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579496?source=rss-阪神に試練 チームの故障者相次ぐ",
-      "title": "阪神に試練 チームの故障者相次ぐ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-10T04:42:56.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579496?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579490?source=rss-閑散期でも活況 ライブツーリズム",
@@ -340,15 +349,6 @@
       "publishedAt": "2026-05-09T07:37:21.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6579405?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579395?source=rss-北川景子 2歳息子の動画好き心配",
-      "title": "北川景子 2歳息子の動画好き心配",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-09T05:30:55.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579395?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6579383?source=rss-デジタル教科書 IT先進国での失敗",
