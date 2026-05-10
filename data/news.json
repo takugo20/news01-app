@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T03:47:17.410Z",
+  "updatedAt": "2026-05-10T08:14:05.583Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,150 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579519?source=rss-クルーズ船・にっぽん丸 歴史に幕",
+      "title": "クルーズ船・にっぽん丸 歴史に幕",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-10T08:09:31.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579519?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579518?source=rss-プラごみを油に 挑む「都市油田」",
+      "title": "プラごみを油に 挑む「都市油田」",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-10T07:56:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579518?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579516?source=rss-外国人が修業 千葉のラーメン学校",
+      "title": "外国人が修業 千葉のラーメン学校",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-10T07:51:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579516?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579514?source=rss-健康保険の扶養見直し案 誤解も",
+      "title": "健康保険の扶養見直し案 誤解も",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-10T07:28:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579514?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579515?source=rss-初対面でも母娘 レンタルお母さん",
+      "title": "初対面でも母娘 レンタルお母さん",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-10T07:25:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579515?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579512?source=rss-関東〜九州 16日頃から真夏日急増",
+      "title": "関東〜九州 16日頃から真夏日急増",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-10T07:17:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579512?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579511?source=rss-永瀬廉 高橋海人と週4ライブが夢",
+      "title": "永瀬廉 高橋海人と週4ライブが夢",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-10T07:00:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579511?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579510?source=rss-SB周東が本盗成功 球場どよめき",
+      "title": "SB周東が本盗成功 球場どよめき",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-10T06:51:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579510?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579509?source=rss-パンダ不在でも客足好調 白浜町",
+      "title": "パンダ不在でも客足好調 白浜町",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-10T06:45:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579509?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579504?source=rss-久保凜社会人デビュー 組6着で涙",
+      "title": "久保凜社会人デビュー 組6着で涙",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-10T06:10:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579504?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579505?source=rss-東大が歓喜 六大学野球で勝ち点",
+      "title": "東大が歓喜 六大学野球で勝ち点",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-10T05:58:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579505?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579500?source=rss-大谷3試合連続安打 チームは完敗",
+      "title": "大谷3試合連続安打 チームは完敗",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-10T05:18:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579500?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579497?source=rss-特典中止で払い戻し くるまが謝罪",
+      "title": "特典中止で払い戻し くるまが謝罪",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-10T04:44:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579497?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579496?source=rss-阪神に試練 チームの故障者相次ぐ",
+      "title": "阪神に試練 チームの故障者相次ぐ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-10T04:42:56.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579496?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579491?source=rss-平良達郎 UFC王者にTKO負け",
+      "title": "平良達郎 UFC王者にTKO負け",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-10T03:59:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579491?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579490?source=rss-閑散期でも活況 ライブツーリズム",
+      "title": "閑散期でも活況 ライブツーリズム",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-10T03:47:26.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579490?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579489?source=rss-大関かど番の安青錦 全治3週間",
       "title": "大関かど番の安青錦 全治3週間",
       "source": "Yahoo!ニュース スポーツ",
@@ -43,15 +187,6 @@
       "publishedAt": "2026-05-10T03:35:40.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6579489?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579486?source=rss-麟太郎が145m弾 実況日本語で驚き",
-      "title": "麟太郎が145m弾 実況日本語で驚き",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-10T03:03:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579486?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579481?source=rss-健保法修正案 立憲公明の概要判明",
@@ -72,15 +207,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6579482?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579478?source=rss-卓球日本 男女とも決勝相手は中国",
-      "title": "卓球日本 男女とも決勝相手は中国",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-10T02:11:35.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579478?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579480?source=rss-オープンハウス 路上営業は合理的",
       "title": "オープンハウス 路上営業は合理的",
       "source": "Yahoo!ニュース 経済",
@@ -99,15 +225,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6579476?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579475?source=rss-三浦知良59歳 母に毎朝LINE送る",
-      "title": "三浦知良59歳 母に毎朝LINE送る",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-10T01:10:47.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579475?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579473?source=rss-燃料高騰 カーネーションにも影響",
       "title": "燃料高騰 カーネーションにも影響",
       "source": "Yahoo!ニュース 経済",
@@ -117,24 +234,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6579473?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579472?source=rss-成城石井は「高くない」のか 考察",
-      "title": "成城石井は「高くない」のか 考察",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-10T00:44:41.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579472?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579468?source=rss-MF中村敬斗が圧巻 1試合4ゴール",
-      "title": "MF中村敬斗が圧巻 1試合4ゴール",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-10T00:07:55.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579468?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6579467?source=rss-ゲーム機値上げ時代 今後の展開は",
       "title": "ゲーム機値上げ時代 今後の展開は",
       "source": "Yahoo!ニュース IT",
@@ -142,42 +241,6 @@
       "publishedAt": "2026-05-09T23:53:49.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6579467?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579466?source=rss-生保契約者の保護制度 延長検討",
-      "title": "生保契約者の保護制度 延長検討",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-09T23:47:41.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579466?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579463?source=rss-SNS時代にラッピング電車 狙い",
-      "title": "SNS時代にラッピング電車 狙い",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-09T23:46:55.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579463?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579461?source=rss-特典中止物議 令和ロマン払い戻し",
-      "title": "特典中止物議 令和ロマン払い戻し",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-09T23:34:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579461?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579460?source=rss-日本初のシネコン 33年の歴史に幕",
-      "title": "日本初のシネコン 33年の歴史に幕",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-09T23:07:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579460?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579455?source=rss-政府 成長分野での学び直し支援へ",
@@ -198,15 +261,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6579452?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579450?source=rss-日本代表に激震 三笘薫が負傷交代",
-      "title": "日本代表に激震 三笘薫が負傷交代",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-09T22:17:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579450?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/10/news014.html-中国産ソシャゲ「NTE」をプレイしたマンガ家が思う「アニメ調オープンワールド大作」を日本が作らなくてもいい理由",
       "title": "中国産ソシャゲ「NTE」をプレイしたマンガ家が思う「アニメ調オープンワールド大作」を日本が作らなくてもいい理由",
       "source": "ITmedia NEWS",
@@ -214,33 +268,6 @@
       "publishedAt": "2026-05-09T22:14:00.000Z",
       "description": "最近、SNSで盛り上がっている話題の一つに「日本のゲーム業界はアニメ調のオープンワールドゲームをなぜ作らないのか」というものがあります。キッカケは「NTE: Neverness to Everness」でした。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/10/news014.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579447?source=rss-中京大 水泳部で未成年飲酒と暴力",
-      "title": "中京大 水泳部で未成年飲酒と暴力",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-09T14:12:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579447?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579446?source=rss-訪日客7都道府県に集中 共同分析",
-      "title": "訪日客7都道府県に集中 共同分析",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-09T14:08:56.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579446?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579437?source=rss-薬あっても容器足りない 薬局嘆き",
-      "title": "薬あっても容器足りない 薬局嘆き",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-09T13:22:58.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579437?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579440?source=rss-石井竜也 米米名曲のタイ語版披露",
@@ -288,15 +315,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6579405?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579396?source=rss-チームみらい1年 政策でも存在感",
-      "title": "チームみらい1年 政策でも存在感",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-09T06:13:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579396?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579395?source=rss-北川景子 2歳息子の動画好き心配",
       "title": "北川景子 2歳息子の動画好き心配",
       "source": "Yahoo!ニュース エンタメ",
@@ -304,15 +322,6 @@
       "publishedAt": "2026-05-09T05:30:55.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6579395?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579392?source=rss-検事取り調べ映像 国が地裁に提出",
-      "title": "検事取り調べ映像 国が地裁に提出",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-09T05:19:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579392?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579387?source=rss-XG香港公演の日変更 7/31に批判",
@@ -340,15 +349,6 @@
       "publishedAt": "2026-05-09T02:28:56.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6579375?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579366?source=rss-トム・ブラウン漫才 aikoの曲応用",
-      "title": "トム・ブラウン漫才 aikoの曲応用",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-09T01:27:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579366?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/09/news024.html-防衛装備庁、国産ドローン300台を1.1億円で導入へ 日本企業と契約",
