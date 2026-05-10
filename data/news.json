@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T08:14:05.583Z",
+  "updatedAt": "2026-05-10T10:18:55.682Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,60 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579536?source=rss-高齢者シェアハウス どんな暮らし",
+      "title": "高齢者シェアハウス どんな暮らし",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-10T10:06:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579536?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579531?source=rss-速報・卓球女子決勝 日本vs中国",
+      "title": "速報・卓球女子決勝 日本vs中国",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-10T09:53:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579531?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579534?source=rss-負傷のMF三笘薫 森保監督が言及",
+      "title": "負傷のMF三笘薫 森保監督が言及",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-10T09:39:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579534?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579533?source=rss-障がい重い子 放課後デイに断られ",
+      "title": "障がい重い子 放課後デイに断られ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-10T09:18:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579533?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579529?source=rss-SB周東佑京が活躍 亡き母思い涙",
+      "title": "SB周東佑京が活躍 亡き母思い涙",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-10T09:07:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579529?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579522?source=rss-SB柳田が死球受け交代 球場怒号",
+      "title": "SB柳田が死球受け交代 球場怒号",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-10T08:20:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579522?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579519?source=rss-クルーズ船・にっぽん丸 歴史に幕",
       "title": "クルーズ船・にっぽん丸 歴史に幕",
@@ -99,15 +153,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6579511?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579510?source=rss-SB周東が本盗成功 球場どよめき",
-      "title": "SB周東が本盗成功 球場どよめき",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-10T06:51:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579510?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579509?source=rss-パンダ不在でも客足好調 白浜町",
       "title": "パンダ不在でも客足好調 白浜町",
       "source": "Yahoo!ニュース 経済",
@@ -162,15 +207,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6579496?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579491?source=rss-平良達郎 UFC王者にTKO負け",
-      "title": "平良達郎 UFC王者にTKO負け",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-10T03:59:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579491?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579490?source=rss-閑散期でも活況 ライブツーリズム",
       "title": "閑散期でも活況 ライブツーリズム",
       "source": "Yahoo!ニュース 経済",
@@ -180,15 +216,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6579490?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579489?source=rss-大関かど番の安青錦 全治3週間",
-      "title": "大関かど番の安青錦 全治3週間",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-10T03:35:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579489?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579481?source=rss-健保法修正案 立憲公明の概要判明",
       "title": "健保法修正案 立憲公明の概要判明",
       "source": "Yahoo!ニュース 国内",
@@ -196,15 +223,6 @@
       "publishedAt": "2026-05-10T02:15:37.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6579481?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579482?source=rss-MLB名将 ボビー・コックス氏死去",
-      "title": "MLB名将 ボビー・コックス氏死去",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-10T02:13:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579482?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579480?source=rss-オープンハウス 路上営業は合理的",
@@ -286,24 +304,6 @@
       "publishedAt": "2026-05-09T12:57:10.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6579438?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579421?source=rss-災害時ペット同行避難 指針改定へ",
-      "title": "災害時ペット同行避難 指針改定へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-09T10:14:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579421?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579407?source=rss-築40年以上の病棟 全国に1568カ所",
-      "title": "築40年以上の病棟 全国に1568カ所",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-09T07:51:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579407?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579405?source=rss-小泉今日子 2026年内の休養を発表",
