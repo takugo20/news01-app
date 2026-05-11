@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T19:54:49.784Z",
+  "updatedAt": "2026-05-11T22:10:48.990Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6579727?source=rss-日本政府 米最新AIの使用権要求",
+      "title": "日本政府 米最新AIの使用権要求",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-05-11T21:38:56.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579727?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/12/news053.html-OpenAI、企業向けAI導入支援を本格展開 「Deployment Company」設立",
+      "title": "OpenAI、企業向けAI導入支援を本格展開 「Deployment Company」設立",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-11T21:31:00.000Z",
+      "description": "OpenAIは、AI導入を支援する新会社「OpenAI Deployment Company」を設立した。AIコンサルティング企業のTomoro買収により体制を強化し、専門エンジニアを顧客に派遣して業務フローのAI転換を推進する。TPGやソフトバンクなどから40億ドル超の資金を確保。Anthropicとの企業向けAI導...",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/12/news053.html"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579725?source=rss-山田涼介「一次元の挿し木」主演",
+      "title": "山田涼介「一次元の挿し木」主演",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-11T21:09:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579725?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579724?source=rss-来週は30℃以上続出か 熱中症注意",
       "title": "来週は30℃以上続出か 熱中症注意",
@@ -342,15 +369,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2605/11/news099.html"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579663?source=rss-ケツメツアーで禁止行為 注意喚起",
-      "title": "ケツメツアーで禁止行為 注意喚起",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-11T07:55:15.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579663?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/11/news110.html-Switch 2「2年目失速」予想を嫌気 任天堂株、一時7000円割る",
       "title": "Switch 2「2年目失速」予想を嫌気 任天堂株、一時7000円割る",
       "source": "ITmedia NEWS",
@@ -540,15 +558,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2605/09/news027.html"
     },
     {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6579336?source=rss-ドコモ 値上げ「考えなければ」",
-      "title": "ドコモ 値上げ「考えなければ」",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-05-08T15:02:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579336?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6579320?source=rss-「Switch2」値上げを発表 初代も",
       "title": "「Switch2」値上げを発表 初代も",
       "source": "Yahoo!ニュース IT",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-05-08T09:00:00.000Z",
       "description": "米Googleは5月8日、ヘルスケアアプリ「Fitbit」の名称を「Google Health」へ変更し、全面刷新すると発表。米国時間19日より全ユーザーを対象に順次アップデートを開始する。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/08/news113.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/08/news100.html-Apple、390億円の和解金支払いで合意 AI機能の開発遅れに関する集団訴訟で",
-      "title": "Apple、390億円の和解金支払いで合意 AI機能の開発遅れに関する集団訴訟で",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-08T08:05:00.000Z",
-      "description": "音声アシスタント「Siri」のAI機能の誇大広告を巡る集団訴訟について、米Appleが2億5000万ドル（約390億円）の支払いで合意する和解案を米国の裁判所へ提出した。2024年に発表したAIプラットフォーム「Apple Intelligence」の開発遅れに関するもので、同社は今後、和解の対象となる米国の消費者に対...",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/08/news100.html"
     }
   ]
 }
