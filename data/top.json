@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T09:50:37.110Z",
+  "updatedAt": "2026-05-11T15:22:41.322Z",
   "generatedBy": "GitHub Actions",
   "market": {
     "nikkei225": {
@@ -15,24 +15,24 @@
     "usdJpy": {
       "label": "円/ドル為替レート",
       "symbol": "usdjpy",
-      "value": null,
-      "date": null,
-      "time": null,
+      "value": 157.0305,
+      "date": "2026-05-11",
+      "time": "17:22:40",
       "source": "Stooq",
-      "url": null,
-      "error": "CSVの行数が不足しています"
+      "url": "https://stooq.com/q/l/?s=usdjpy&f=sd2t2ohlcv&h=&e=csv",
+      "error": null
     }
   },
   "weather": {
     "city": "宇都宮市",
     "latitude": 36.5657,
     "longitude": 139.8836,
-    "temperature": 19.1,
-    "weatherCode": 1,
-    "windSpeed": 9.7,
-    "precipitationProbability": 6,
-    "temperatureMax": 24.4,
-    "temperatureMin": 11.5,
+    "temperature": 14.6,
+    "weatherCode": 0,
+    "windSpeed": 5.3,
+    "precipitationProbability": 4,
+    "temperatureMax": 23.5,
+    "temperatureMin": 11.9,
     "source": "Open-Meteo",
     "url": "https://api.open-meteo.com/v1/forecast?latitude=36.5657&longitude=139.8836&current=temperature_2m%2Cweather_code%2Cwind_speed_10m&daily=precipitation_probability_max%2Ctemperature_2m_max%2Ctemperature_2m_min&timezone=Asia%2FTokyo&forecast_days=2",
     "error": null
