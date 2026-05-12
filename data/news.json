@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T14:35:38.132Z",
+  "updatedAt": "2026-05-12T17:17:38.928Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579868?source=rss-首相と米財務長官 対中擦り合わせ",
+      "title": "首相と米財務長官 対中擦り合わせ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-12T14:40:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579868?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579866?source=rss-中道 大敗した衆院選総括を決定",
       "title": "中道 大敗した衆院選総括を決定",
@@ -394,15 +403,6 @@
       "publishedAt": "2026-05-12T07:30:41.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6579807?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579806?source=rss-中道 皇族数確保策の見解を決定",
-      "title": "中道 皇族数確保策の見解を決定",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-12T07:19:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579806?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/12/news123.html-「BeReal」──若者特有の同調心理を巧みに刺激する“自己露出型サービス”の功罪",
