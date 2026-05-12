@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T19:59:56.093Z",
+  "updatedAt": "2026-05-12T22:15:55.828Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579871?source=rss-東北南部から四国 急な雷雨に注意",
+      "title": "東北南部から四国 急な雷雨に注意",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-12T21:28:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579871?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579869?source=rss-浦和新監督にチョウ氏の就任濃厚",
+      "title": "浦和新監督にチョウ氏の就任濃厚",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-12T21:07:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579869?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579868?source=rss-首相と米財務長官 対中擦り合わせ",
       "title": "首相と米財務長官 対中擦り合わせ",
@@ -270,15 +288,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6579837?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579832?source=rss-DeNA球団社長 トレード理由説明",
-      "title": "DeNA球団社長 トレード理由説明",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-12T09:51:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579832?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579835?source=rss-中山功太が発言を撤回「後悔」",
       "title": "中山功太が発言を撤回「後悔」",
       "source": "Yahoo!ニュース エンタメ",
@@ -304,15 +313,6 @@
       "publishedAt": "2026-05-12T09:31:34.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6579834?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579831?source=rss-5月なのに真夏日続出 17日頃から",
-      "title": "5月なのに真夏日続出 17日頃から",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-12T09:30:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579831?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/12/news137.html-アイリスオーヤマ、コメ生産に参入 長期目標1000ha、ドローン活用も",
