@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T20:02:12.129Z",
+  "updatedAt": "2026-05-13T22:17:52.630Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,51 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6580033?source=rss-3メガ銀 AIミュトス利用の見通し",
+      "title": "3メガ銀 AIミュトス利用の見通し",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-05-13T22:14:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580033?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580032?source=rss-日産が5330億円の赤字 3月期",
+      "title": "日産が5330億円の赤字 3月期",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-13T22:14:01.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580032?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580028?source=rss-琴桜 朝稽古中に人助けしていた",
+      "title": "琴桜 朝稽古中に人助けしていた",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-13T21:25:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580028?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580027?source=rss-元日テレアナ 吉田塡一郎さん死去",
+      "title": "元日テレアナ 吉田塡一郎さん死去",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-13T21:14:12.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580027?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580025?source=rss-岩手県で最大震度4 津波心配なし",
+      "title": "岩手県で最大震度4 津波心配なし",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-13T20:13:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580025?source=rss"
+    },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/14/news065.html-ソニー、6680万画素のフルサイズミラーレス「α7R VI」発表 R初の積層型センサー 約74万円",
       "title": "ソニー、6680万画素のフルサイズミラーレス「α7R VI」発表 R初の積層型センサー 約74万円",
@@ -288,24 +333,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6579971?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579970?source=rss-「山本祐大ロス」駅で異例の光景",
-      "title": "「山本祐大ロス」駅で異例の光景",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-13T08:33:41.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579970?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579969?source=rss-レアアース採掘船建造 自民提言へ",
-      "title": "レアアース採掘船建造 自民提言へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-13T08:29:56.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579969?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579964?source=rss-「物価高倒産」再び急増に転じる",
       "title": "「物価高倒産」再び急増に転じる",
       "source": "Yahoo!ニュース 経済",
@@ -324,15 +351,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2605/13/news126.html"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579960?source=rss-SBG 日本企業初の最終益5兆円超",
-      "title": "SBG 日本企業初の最終益5兆円超",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-13T08:06:03.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579960?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579953?source=rss-AOKIが青山に初めての逆転 3月期",
       "title": "AOKIが青山に初めての逆転 3月期",
       "source": "Yahoo!ニュース 経済",
@@ -340,15 +358,6 @@
       "publishedAt": "2026-05-13T07:40:09.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6579953?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579946?source=rss-俳優・杉本有美 再婚&妊娠を報告",
-      "title": "俳優・杉本有美 再婚&妊娠を報告",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-13T07:11:35.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579946?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6579942?source=rss-選挙の偽情報対策 自民検討案判明",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-05-11T13:42:59.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6579717?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6579561?source=rss-米企業の新型AI 危険視される能力",
-      "title": "米企業の新型AI 危険視される能力",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-05-10T13:22:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579561?source=rss"
     }
   ]
 }
