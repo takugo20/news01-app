@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T14:46:09.374Z",
+  "updatedAt": "2026-05-13T17:20:19.876Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/14/news065.html-ソニー、6680万画素のフルサイズミラーレス「α7R VI」発表 R初の積層型センサー 約74万円",
+      "title": "ソニー、6680万画素のフルサイズミラーレス「α7R VI」発表 R初の積層型センサー 約74万円",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-13T14:50:00.000Z",
+      "description": "ソニーは5月13日、フルサイズミラーレス一眼カメラ「α7R VI」を発表した。αシリーズ最高となる有効6680万画素の積層型CMOSイメージセンサーを搭載し、ブラックアウトフリーで最高約30コマ/秒の連続撮影に対応する。8K 30p動画記録にも対応。6月5日に発売し、市場推定価格は74万円前後。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/14/news065.html"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580022?source=rss-G坂本サヨナラ3ラン 大歓声沸く",
       "title": "G坂本サヨナラ3ラン 大歓声沸く",
@@ -529,15 +538,6 @@
       "publishedAt": "2026-05-12T09:00:00.000Z",
       "description": "企業ロボット開発企業の中国Unitree Robotics（浙江省杭州市）は、人間が直接乗り込んで操縦できる変形ロボット「GD01」のデモ動画を公開した。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/12/news133.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/12/news119.html-「イオン大宮」の土地に10万円から投資 三井物産子会社、日本初の“底地”デジタル証券を公開",
-      "title": "「イオン大宮」の土地に10万円から投資 三井物産子会社、日本初の“底地”デジタル証券を公開",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-12T08:55:00.000Z",
-      "description": "三井物産デジタル・アセットマネジメント（東京都中央区）は5月12日、デジタル証券（ST）を活用した資産運用サービス「ALTERNA（オルタナ）」において、大型商業施設「イオン大宮」の土地を投資対象とする新商品を公開した。借地権付きの土地所有権、いわゆる「底地（そこち）」をデジタル証券化する試みは国内初という。",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/12/news119.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6579776?source=rss-マネフォ 銀行連携を一部再開",
