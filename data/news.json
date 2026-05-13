@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T08:51:08.283Z",
+  "updatedAt": "2026-05-13T11:32:54.455Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,114 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579989?source=rss-高橋茂雄のCM ライオン見合わせ",
+      "title": "高橋茂雄のCM ライオン見合わせ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-13T11:18:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579989?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579990?source=rss-守田英正 Rマドリード獲得候補に",
+      "title": "守田英正 Rマドリード獲得候補に",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-13T11:17:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579990?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579988?source=rss-再審見直し法案 自民部会が了承",
+      "title": "再審見直し法案 自民部会が了承",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-13T11:05:56.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579988?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579987?source=rss-ラグビー日本代表HC指導自粛処分",
+      "title": "ラグビー日本代表HC指導自粛処分",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-13T10:56:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579987?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579980?source=rss-四千頭身・後藤 雨の始球式で自虐",
+      "title": "四千頭身・後藤 雨の始球式で自虐",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-13T10:24:12.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579980?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579981?source=rss-六三四の剣 40年ぶり新作掲載へ",
+      "title": "六三四の剣 40年ぶり新作掲載へ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-13T10:14:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579981?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579982?source=rss-西野未姫&山本圭壱 第2子が誕生",
+      "title": "西野未姫&山本圭壱 第2子が誕生",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-13T10:14:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579982?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579979?source=rss-白黒の商品偽画像 西友が注意喚起",
+      "title": "白黒の商品偽画像 西友が注意喚起",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-13T10:01:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579979?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579977?source=rss-コメ価格 下がるか高止まりか",
+      "title": "コメ価格 下がるか高止まりか",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-13T09:43:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579977?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/13/news129.html-Claudeに法律業務特化の拡張機能 DocuSignなどと連携、12種の新プラグインも",
+      "title": "Claudeに法律業務特化の拡張機能 DocuSignなどと連携、12種の新プラグインも",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-13T09:40:00.000Z",
+      "description": "米Anthropicは5月12日（現地時間）、AI アシスタント「Claude」において、法律業界で使用されているソフトウェアとClaudeを連携させる20種類以上の新しいMCPコネクタと、特定の法律業務や専門分野に特化した12種類の新しいプラグインをリリースすると発表した。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/13/news129.html"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579973?source=rss-白黒包装 湖池屋はポテチどうする",
+      "title": "白黒包装 湖池屋はポテチどうする",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-13T09:09:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579973?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579971?source=rss-坂本花織さん結婚 夫の人柄明かす",
+      "title": "坂本花織さん結婚 夫の人柄明かす",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-13T09:00:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6579971?source=rss"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579967?source=rss-粗品＝ポスト松本人志説 フジ期待",
       "title": "粗品＝ポスト松本人志説 フジ期待",
@@ -171,24 +279,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6579938?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579935?source=rss-品質不正疑い ニデックがおわび",
-      "title": "品質不正疑い ニデックがおわび",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-13T06:20:45.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579935?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579937?source=rss-ミレービスケット 一部生産停止",
-      "title": "ミレービスケット 一部生産停止",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-13T06:19:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579937?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579929?source=rss-細木数子氏 元マネジャー語る素顔",
       "title": "細木数子氏 元マネジャー語る素顔",
       "source": "Yahoo!ニュース エンタメ",
@@ -196,24 +286,6 @@
       "publishedAt": "2026-05-13T06:17:23.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6579929?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579934?source=rss-VIVANT「意味深投稿」15日連続",
-      "title": "VIVANT「意味深投稿」15日連続",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-13T06:12:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579934?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579931?source=rss-坂本花織さん結婚 大学時代出会い",
-      "title": "坂本花織さん結婚 大学時代出会い",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-13T05:44:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579931?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/13/news115.html-パナソニック、高性能コンデジ「DC-L10」発表 GH7と同じ4/3センサー搭載 21万円前後",
@@ -252,15 +324,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6579925?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6579920?source=rss-ナフサ高騰 包装巡りスーパー悲鳴",
-      "title": "ナフサ高騰 包装巡りスーパー悲鳴",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-13T04:23:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579920?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579918?source=rss-旧姓使用法案の提出 政府見送りへ",
       "title": "旧姓使用法案の提出 政府見送りへ",
       "source": "Yahoo!ニュース 国内",
@@ -288,15 +351,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2605/13/news097.html"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579915?source=rss-ルパン三世の音楽 大野雄二氏死去",
-      "title": "ルパン三世の音楽 大野雄二氏死去",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-13T03:35:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579915?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579916?source=rss-大谷12試合ぶりHR ファン大歓声",
       "title": "大谷12試合ぶりHR ファン大歓声",
       "source": "Yahoo!ニュース スポーツ",
@@ -315,15 +369,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2605/12/news077.html"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579910?source=rss-坂本花織さん 引退会見で結婚発表",
-      "title": "坂本花織さん 引退会見で結婚発表",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-13T02:59:24.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579910?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/13/news079.html-TikTok動画から旅行予約「TikTok GO」日本で利用拡大 半年で270％増",
       "title": "TikTok動画から旅行予約「TikTok GO」日本で利用拡大 半年で270％増",
       "source": "ITmedia NEWS",
@@ -333,24 +378,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2605/13/news079.html"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6579903?source=rss-悪夢 今井達也復帰も4回6失点降板",
-      "title": "悪夢 今井達也復帰も4回6失点降板",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-13T01:55:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579903?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579904?source=rss-「名探偵津田」コンビがCMで共演",
-      "title": "「名探偵津田」コンビがCMで共演",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-13T01:54:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579904?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/13/news076.html-マツダ、電動化投資を3000億円減額 需要縮小で自社開発EV投入を2年程度延期",
       "title": "マツダ、電動化投資を3000億円減額 需要縮小で自社開発EV投入を2年程度延期",
       "source": "ITmedia NEWS",
@@ -358,15 +385,6 @@
       "publishedAt": "2026-05-13T01:29:00.000Z",
       "description": "マツダが電動化投資計画の修正を発表した。昨年3月時点で1.5兆円としていた2022～30年の累計投資額を1.2兆円に3000億円減額する。トランプ政権による環境規制の緩和などに伴う米国の電気自動車（EV）需要の縮小を踏まえ、自社開発EVの投入時期を当初予定の27年から2年程度延期するなど商品戦略を見直した。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/13/news076.html"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6579891?source=rss-日テレ・杉野真実アナ 復職を報告",
-      "title": "日テレ・杉野真実アナ 復職を報告",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-13T00:15:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579891?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579890?source=rss-サイバー攻撃 AIミュトス巡る課題",
@@ -403,15 +421,6 @@
       "publishedAt": "2026-05-12T14:40:06.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6579868?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6579866?source=rss-中道 大敗した衆院選総括を決定",
-      "title": "中道 大敗した衆院選総括を決定",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-12T14:17:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6579866?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6579859?source=rss-コインチェック KDDIと業務提携",
@@ -529,15 +538,6 @@
       "publishedAt": "2026-05-12T07:15:00.000Z",
       "description": "今年に入ってから話題になっているのが「BeReal（ビーリアル）」からの情報漏えい事件。なぜ青年層は、BeRealにハマるのだろうか。その特徴を順に分析してみたい。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/12/news123.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/12/news111.html-Z世代の新入社員、研修の切り札はAI パソコン相手に接客特訓、システム開発 リスクは",
-      "title": "Z世代の新入社員、研修の切り札はAI パソコン相手に接客特訓、システム開発 リスクは",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-12T05:57:00.000Z",
-      "description": "生成AIの普及が進む中、新入社員の研修にAIを活用する企業が目立っている。アバター（分身）を相手に接客の練習をしたり、AIを使ったシステム開発を体験したりといったもので、導入企業は効率的・実践的な研修ができることなどをメリットとして挙げる。一方で企業はAIには誤回答などのリスクもあるとし、情報リテラシー（活用能力）教育...",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/12/news111.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6579776?source=rss-マネフォ 銀行連携を一部再開",
