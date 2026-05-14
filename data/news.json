@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-14T08:44:22.327Z",
+  "updatedAt": "2026-05-14T11:17:23.748Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,22 +36,139 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580131?source=rss-ベッツ大谷称え He's the best",
-      "title": "ベッツ大谷称え He's the best",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580152?source=rss-目の前で三笘負傷 カメラマン証言",
+      "title": "目の前で三笘負傷 カメラマン証言",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-05-14T08:38:14.000Z",
+      "publishedAt": "2026-05-14T10:57:30.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580131?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6580152?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580129?source=rss-局地的に激しい雨 落雷や突風注意",
-      "title": "局地的に激しい雨 落雷や突風注意",
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580151?source=rss-アンガ田中に第1子 山根は驚き",
+      "title": "アンガ田中に第1子 山根は驚き",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-14T10:51:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580151?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580140?source=rss-米中会談で台湾焦点 日本どう影響",
+      "title": "米中会談で台湾焦点 日本どう影響",
       "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-05-14T08:17:43.000Z",
+      "publishedAt": "2026-05-14T10:30:13.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580129?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6580140?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580148?source=rss-飲み会苦手な首相 夫が明かす理由",
+      "title": "飲み会苦手な首相 夫が明かす理由",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-14T10:30:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580148?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/14/news140.html-「ホロアース」終了へ ホロライブ発のメタバースサービス 開始から約1年で",
+      "title": "「ホロアース」終了へ ホロライブ発のメタバースサービス 開始から約1年で",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-14T10:20:00.000Z",
+      "description": "VTuber事務所「ホロライブプロダクション」を運営するカバーは5月14日、メタバースプロジェクト「ホロアース」を6月28日午後9時でサービス終了すると発表した。正式リリースから約1年で幕を下ろす。発表に合わせ「ホロコイン」の販売を同日より停止した。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/14/news140.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/14/news137.html-選挙時のSNS規制、与野党が偽誤情報対策で今国会で法改正目指す方針で一致",
+      "title": "選挙時のSNS規制、与野党が偽誤情報対策で今国会で法改正目指す方針で一致",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-14T09:57:00.000Z",
+      "description": "与野党が選挙期間中のSNS上での偽・誤情報拡散への対策などを検討する各党協議会を国会内で開いた。来年春の統一地方選を視野に、今国会で関連法の改正を目指す方針で合意した。近く改正法案の作成に着手する見通しだ。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/14/news137.html"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580143?source=rss-スタジオジブリ 社長の交代を発表",
+      "title": "スタジオジブリ 社長の交代を発表",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-14T09:36:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580143?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/14/news133.html-カバー、特別損失32億円を計上 「ホロアース」サービス終了にともない",
+      "title": "カバー、特別損失32億円を計上 「ホロアース」サービス終了にともない",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-14T09:30:00.000Z",
+      "description": "カバーは2026年5月14日、26年3月期決算において31億9900万円の特別損失を計上したと発表した。開発を進めていたメタバースプロジェクト「ホロアース」の開発方針転換および現行サービスの終了に伴い、関連するソフトウェア資産を全額減損処理する。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/14/news133.html"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580135?source=rss-BTS W杯ハーフタイムショー出演",
+      "title": "BTS W杯ハーフタイムショー出演",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-14T09:21:12.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580135?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580142?source=rss-アンガールズ田中卓志 第1子誕生",
+      "title": "アンガールズ田中卓志 第1子誕生",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-14T09:15:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580142?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580138?source=rss-真矢さんお別れ会 祭壇ドラム3台",
+      "title": "真矢さんお別れ会 祭壇ドラム3台",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-14T09:13:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580138?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580134?source=rss-強豪 社会人野球セガサミー廃部へ",
+      "title": "強豪 社会人野球セガサミー廃部へ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-14T09:05:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580134?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580137?source=rss-ベッツ大谷称え「翔平だからね」",
+      "title": "ベッツ大谷称え「翔平だからね」",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-14T09:01:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580137?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580133?source=rss-鈴木福 あのちゃんの芝居想像以上",
+      "title": "鈴木福 あのちゃんの芝居想像以上",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-14T08:56:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580133?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580132?source=rss-国交省局長 発言巡り維新に謝罪",
+      "title": "国交省局長 発言巡り維新に謝罪",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-14T08:43:31.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580132?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580126?source=rss-消えたナフサ由来商品 困惑する客",
@@ -207,15 +324,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2605/14/news101.html"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580106?source=rss-白黒ポテトチップス なぜ気になる",
-      "title": "白黒ポテトチップス なぜ気になる",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-14T05:44:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580106?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580103?source=rss-大島優子 家のカレーは林遣都担当",
       "title": "大島優子 家のカレーは林遣都担当",
       "source": "Yahoo!ニュース エンタメ",
@@ -342,15 +450,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6580063?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580065?source=rss-ゼルダの伝説実写映画 公開前倒し",
-      "title": "ゼルダの伝説実写映画 公開前倒し",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-14T01:43:15.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580065?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/14/news077.html-AIブームでクラウドインフラ市場が年35％の急成長 上位3社のシェアには変動なし 2026年第1四半期、Synergy Research調査",
       "title": "AIブームでクラウドインフラ市場が年35％の急成長 上位3社のシェアには変動なし 2026年第1四半期、Synergy Research調査",
       "source": "ITmedia NEWS",
@@ -367,15 +466,6 @@
       "publishedAt": "2026-05-14T01:34:59.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6580062?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580058?source=rss-サバンナ高橋 生放送で騒動に言及",
-      "title": "サバンナ高橋 生放送で騒動に言及",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-14T00:53:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580058?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/14/news072.html-リコージャパン、社内基幹システムに障害 通信回線破損で 「サイバー攻撃ではない」",
@@ -405,15 +495,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2605/14/news045.html"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580047?source=rss-出自知る権利巡る議連修正案 判明",
-      "title": "出自知る権利巡る議連修正案 判明",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-13T23:44:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580047?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580045?source=rss-W杯日本戦 NHKなど地上波放送",
       "title": "W杯日本戦 NHKなど地上波放送",
       "source": "Yahoo!ニュース スポーツ",
@@ -423,51 +504,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6580045?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580046?source=rss-岡本和真 坂本300号に「さすが」",
-      "title": "岡本和真 坂本300号に「さすが」",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-13T23:35:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580046?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/14/news024.html-コーヒーは腸を介して認知機能に影響する？ アイルランドでの調査結果、Nature系列誌で研究発表",
-      "title": "コーヒーは腸を介して認知機能に影響する？ アイルランドでの調査結果、Nature系列誌で研究発表",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-13T23:00:00.000Z",
-      "description": "アイルランドのユニバーシティ・カレッジ・コークやイタリアのパルマ大学に所属する研究者らがNature Communicationsで発表した論文「Habitual coffee intake shapes the gut microbiome and modifies host physiology and cogni...",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/14/news024.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580038?source=rss-坂本花織さんへ 親友選手から手紙",
-      "title": "坂本花織さんへ 親友選手から手紙",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-13T22:50:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580038?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580039?source=rss-田中麗奈 「推し」はちゃんみな",
-      "title": "田中麗奈 「推し」はちゃんみな",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-13T22:49:03.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580039?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580037?source=rss-坂口健太郎 10月期大型連ドラ主演",
-      "title": "坂口健太郎 10月期大型連ドラ主演",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-13T22:36:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580037?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6580033?source=rss-3メガ銀 AIミュトス利用の見通し",
       "title": "3メガ銀 AIミュトス利用の見通し",
       "source": "Yahoo!ニュース IT",
@@ -475,42 +511,6 @@
       "publishedAt": "2026-05-13T22:14:43.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6580033?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/14/news068.html-米中首脳会談の代表団にイーロン・マスク氏、ジェンスン・フアン氏、ティム・クック氏など17人の企業幹部が参加",
-      "title": "米中首脳会談の代表団にイーロン・マスク氏、ジェンスン・フアン氏、ティム・クック氏など17人の企業幹部が参加",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-13T22:11:00.000Z",
-      "description": "トランプ米大統領は、習近平国家主席との首脳会談に向けた訪中に、イーロン・マスク氏やジェンスン・フアン氏、ティム・クック氏ら17人の企業幹部を同行させた。中国との間で投資委員会や貿易委員会の設立について協議する見通しだ。",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/14/news068.html"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580027?source=rss-元日テレアナ 吉田塡一郎さん死去",
-      "title": "元日テレアナ 吉田塡一郎さん死去",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-13T21:14:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580027?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/14/news065.html-ソニー、6680万画素のフルサイズミラーレス「α7R VI」発表 R初の積層型センサー 約74万円",
-      "title": "ソニー、6680万画素のフルサイズミラーレス「α7R VI」発表 R初の積層型センサー 約74万円",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-13T14:50:00.000Z",
-      "description": "ソニーは5月13日、フルサイズミラーレス一眼カメラ「α7R VI」を発表した。αシリーズ最高となる有効6680万画素の積層型CMOSイメージセンサーを搭載し、ブラックアウトフリーで最高約30コマ/秒の連続撮影に対応する。8K 30p動画記録にも対応。6月5日に発売し、市場推定価格は74万円前後。",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/14/news065.html"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580018?source=rss-再審見直し案 検察からは不満の声",
-      "title": "再審見直し案 検察からは不満の声",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-13T13:38:09.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580018?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6579942?source=rss-選挙の偽情報対策 自民検討案判明",
