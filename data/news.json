@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-14T19:52:02.707Z",
+  "updatedAt": "2026-05-14T22:14:58.796Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,42 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580188?source=rss-大谷がスタメン外れる 今季初めて",
+      "title": "大谷がスタメン外れる 今季初めて",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-14T22:10:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580188?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580186?source=rss-緊急事態条項 与野党議論に温度差",
+      "title": "緊急事態条項 与野党議論に温度差",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-14T21:35:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580186?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580185?source=rss-蒼井優 18年ぶり地上波連ドラ主演",
+      "title": "蒼井優 18年ぶり地上波連ドラ主演",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-14T21:20:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580185?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580184?source=rss-オリ・舜平大が今季絶望か 肘手術",
+      "title": "オリ・舜平大が今季絶望か 肘手術",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-14T21:13:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580184?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580180?source=rss-大阪メトロ 万博EVバス損失計上",
       "title": "大阪メトロ 万博EVバス損失計上",
@@ -315,15 +351,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6580126?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580124?source=rss-打撃不振の大谷翔平「実力不足」",
-      "title": "打撃不振の大谷翔平「実力不足」",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-14T08:13:41.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580124?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/14/news127.html-KADOKAWA、早期退職募集 通期大幅減益、「アニメ・実写」は赤字転落",
       "title": "KADOKAWA、早期退職募集 通期大幅減益、「アニメ・実写」は赤字転落",
       "source": "ITmedia NEWS",
@@ -405,15 +432,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2605/14/news101.html"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580103?source=rss-大島優子 家のカレーは林遣都担当",
-      "title": "大島優子 家のカレーは林遣都担当",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-14T05:21:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580103?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/14/news100.html-「『妖怪ウォッチ2』Unityで作り直した」非公式リメイク報告、海外で拡散 レベルファイブ「厳正に対処」",
       "title": "「『妖怪ウォッチ2』Unityで作り直した」非公式リメイク報告、海外で拡散 レベルファイブ「厳正に対処」",
       "source": "ITmedia NEWS",
@@ -421,15 +439,6 @@
       "publishedAt": "2026-05-14T04:54:00.000Z",
       "description": "Xで、「妖怪ウォッチ2」をUnityで再構築し、「PC、モバイル、Switch、VRで利用可能にした」と主張するスペイン語の投稿と、スクリーンショットが公開されていた。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/14/news100.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580082?source=rss-本田圭佑 なぜFCジュロン選んだ",
-      "title": "本田圭佑 なぜFCジュロン選んだ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-14T03:31:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580082?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/14/news087.html-Instagram、素の日常を共有できる新機能「Instants」リリース 写真は友達の閲覧後に自動消去",
@@ -466,15 +475,6 @@
       "publishedAt": "2026-05-14T02:35:00.000Z",
       "description": "くら寿司は14日、「大阪・関西万博」で注目を集めた「くら寿司 万博店」のコンセプトを引き継ぐ「くら寿司 メモリアル店 なんば千日前」をオープンした。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/14/news084.html"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580072?source=rss-再審見直し 自民と法務省痛み分け",
-      "title": "再審見直し 自民と法務省痛み分け",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-14T02:33:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580072?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/14/news079.html-高市首相、“研究費実質倍増”を表明 産総研拡充も 「新技術立国」へ",
