@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-14T14:25:55.227Z",
+  "updatedAt": "2026-05-14T17:03:45.564Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580180?source=rss-大阪メトロ 万博EVバス損失計上",
+      "title": "大阪メトロ 万博EVバス損失計上",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-14T14:27:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580180?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580177?source=rss-ピジョン ベビーカーの生産終了へ",
       "title": "ピジョン ベビーカーの生産終了へ",
@@ -322,15 +331,6 @@
       "publishedAt": "2026-05-14T08:03:00.000Z",
       "description": "「コンテンツ産業の需要構造の二極化が進む中、筋肉質な体制の構築とコスト管理が不可欠」と説明している。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/14/news127.html"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580125?source=rss-カゴメ ケチャップ包装のトマト減",
-      "title": "カゴメ ケチャップ包装のトマト減",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-14T07:44:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580125?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580122?source=rss-タンカーが海峡通過 ENEOS発表",
