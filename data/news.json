@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T08:55:00.042Z",
+  "updatedAt": "2026-05-15T11:24:27.494Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,130 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580267?source=rss-W杯日本代表26人が決定 Xの反応",
-      "title": "W杯日本代表26人が決定 Xの反応",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580287?source=rss-森保氏 涙浮かべながら代表発表",
+      "title": "森保氏 涙浮かべながら代表発表",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-05-15T08:40:39.000Z",
+      "publishedAt": "2026-05-15T11:13:38.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580267?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6580287?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/15/news114.html-「超かぐや姫！」のブルーレイ「特装限定版」、売り切れ続出で増産を検討中 「転売と思われる高額な出品を確認した」",
+      "title": "「超かぐや姫！」のブルーレイ「特装限定版」、売り切れ続出で増産を検討中 「転売と思われる高額な出品を確認した」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-15T10:44:00.000Z",
+      "description": "映画「超かぐや姫！」の公式Xアカウントは15日、Blu-ray Disc「特装限定版」の在庫切れが相次いでいるとして、増産に向けた生産体制の強化を検討していると明らかにした。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/15/news114.html"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580285?source=rss-回る松阪牛「一升びん」の挑戦",
+      "title": "回る松阪牛「一升びん」の挑戦",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-15T10:36:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580285?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580283?source=rss-郵便料金の値上げ検討 27年度にも",
+      "title": "郵便料金の値上げ検討 27年度にも",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-15T10:16:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580283?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580280?source=rss-スバル 自社開発のEV投入を延期",
+      "title": "スバル 自社開発のEV投入を延期",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-15T10:02:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580280?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/15/news109.html-ワコム社長が西新宿オフィスの一角を私物化、ダンススペースとして娘に提供か “物言う株主”が解任提案",
+      "title": "ワコム社長が西新宿オフィスの一角を私物化、ダンススペースとして娘に提供か “物言う株主”が解任提案",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-15T10:00:00.000Z",
+      "description": "ワコムの筆頭株主である英投資ファンドのアセット・バリュー・インベスターズ（AVI）は5月14日、ワコム社長の井出信孝氏らの解任を求める株主提案を行った。ブランド製品事業が失速や公私混同と思われるガバナンス不全を是正する目的だという。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/15/news109.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/15/news111.html-「Xperia」の新AI機能を紹介したポストが海外で「最高の反AI広告だ」と物議 ソニーの説明は？",
+      "title": "「Xperia」の新AI機能を紹介したポストが海外で「最高の反AI広告だ」と物議 ソニーの説明は？",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-15T09:55:00.000Z",
+      "description": "ソニーのスマートフォン「Xperia」の公式グローバルXアカウントによる、あるポストが「最高の反AI広告だ」などと物議を醸している。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/15/news111.html"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580270?source=rss-「ナシ婚」増える 結婚式は必要か",
+      "title": "「ナシ婚」増える 結婚式は必要か",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-15T09:39:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580270?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580278?source=rss-バイオリニスト木嶋真優さん 妊娠",
+      "title": "バイオリニスト木嶋真優さん 妊娠",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-15T09:39:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580278?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580277?source=rss-OW アナ・アマリ役声優を変更",
+      "title": "OW アナ・アマリ役声優を変更",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-15T09:28:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580277?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580275?source=rss-蘭役声優死去 新一役が悲痛な思い",
+      "title": "蘭役声優死去 新一役が悲痛な思い",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-15T09:25:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580275?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580272?source=rss-キオクシア利益47倍予想 4～6月期",
+      "title": "キオクシア利益47倍予想 4～6月期",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-15T09:10:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580272?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580271?source=rss-W杯日本代表26人が決定 SNS反応",
+      "title": "W杯日本代表26人が決定 SNS反応",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-15T08:58:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580271?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580269?source=rss-美川憲一 生歌唱中にコロッケ登場",
+      "title": "美川憲一 生歌唱中にコロッケ登場",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-15T08:55:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580269?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6580265?source=rss-「本人希望」でマイナ廃止 93万枚",
@@ -126,15 +243,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6580250?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580251?source=rss-日経平均株価 終値は1244円安",
-      "title": "日経平均株価 終値は1244円安",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-15T06:56:55.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580251?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580248?source=rss-「おかめ納豆」など15%値上げへ",
       "title": "「おかめ納豆」など15%値上げへ",
       "source": "Yahoo!ニュース 経済",
@@ -198,15 +306,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6580242?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580233?source=rss-プラダを着た悪魔2人気 3つの反響",
-      "title": "プラダを着た悪魔2人気 3つの反響",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-15T04:37:01.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580233?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6580240?source=rss-中国で折りたたみスマホ普及 なぜ",
       "title": "中国で折りたたみスマホ普及 なぜ",
       "source": "Yahoo!ニュース IT",
@@ -214,24 +313,6 @@
       "publishedAt": "2026-05-15T04:16:03.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6580240?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580238?source=rss-コナン毛利蘭役 後任に現在の代役",
-      "title": "コナン毛利蘭役 後任に現在の代役",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-15T03:56:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580238?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580237?source=rss-美空ひばりさん 未発表の音源発見",
-      "title": "美空ひばりさん 未発表の音源発見",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-15T03:50:13.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580237?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580235?source=rss-湖池屋 犬用「わんムーチョ」好調",
@@ -252,24 +333,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6580227?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580224?source=rss-米NVIDIA 7日間で株価20%上昇",
-      "title": "米NVIDIA 7日間で株価20%上昇",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-15T03:26:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580224?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580220?source=rss-相方騒動 サバンナ八木の危機管理",
-      "title": "相方騒動 サバンナ八木の危機管理",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-15T03:20:24.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580220?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580226?source=rss-毛利蘭の声優 山崎和佳奈さん死去",
       "title": "毛利蘭の声優 山崎和佳奈さん死去",
       "source": "Yahoo!ニュース エンタメ",
@@ -286,15 +349,6 @@
       "publishedAt": "2026-05-15T02:36:00.000Z",
       "description": "Spotifyは、Spotify for CreatorsとMegaphoneをAppleが1月に発表した新の技術「HLS」に対応させると発表した。これによりクリエイターは、SpotifyとApple Podcastsの両方で動画ポッドキャストをシームレスに配信可能になる。また「Spotify Distribution...",
       "url": "https://www.itmedia.co.jp/news/articles/2605/15/news077.html"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580214?source=rss-LVMH マーク ジェイコブスを売却",
-      "title": "LVMH マーク ジェイコブスを売却",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-15T02:18:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580214?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580211?source=rss-歌手にもBGM使用料配分 閣議決定",
@@ -333,15 +387,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6580213?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580210?source=rss-作家の佐藤愛子さん死去 102歳",
-      "title": "作家の佐藤愛子さん死去 102歳",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-15T01:31:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580210?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/15/news068.html-AI事業者が争う姿勢 朝日、日経の記事無断使用巡り",
       "title": "AI事業者が争う姿勢 朝日、日経の記事無断使用巡り",
       "source": "ITmedia NEWS",
@@ -349,15 +394,6 @@
       "publishedAt": "2026-05-15T01:17:00.000Z",
       "description": "インターネットで生成AIの利用者に回答を作成する際、記事を無断使用して著作権を侵害したとして、朝日新聞社と日経新聞社が米国の事業者Perplexityに無断使用の差し止めと計44億円の損害賠償を求めた訴訟の第1回口頭弁論が東京地裁であった。Perplexity側は請求を退けるよう求めた。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/15/news068.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580208?source=rss-仏メンバー26人発表 サッカーW杯",
-      "title": "仏メンバー26人発表 サッカーW杯",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-15T00:59:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580208?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/15/news066.html-AIデータセンター建設に米国民の7割が反対──Gallup調べ",
@@ -385,15 +421,6 @@
       "publishedAt": "2026-05-15T00:06:50.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6580200?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580198?source=rss-「コメ騒動」一転 なぜ価格が下落",
-      "title": "「コメ騒動」一転 なぜ価格が下落",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-14T23:44:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580198?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/15/news064.html-Anthropicとゲイツ財団が提携 AIによる社会貢献に2億ドル拠出",
@@ -502,33 +529,6 @@
       "publishedAt": "2026-05-14T09:57:00.000Z",
       "description": "与野党が選挙期間中のSNS上での偽・誤情報拡散への対策などを検討する各党協議会を国会内で開いた。来年春の統一地方選を視野に、今国会で関連法の改正を目指す方針で合意した。近く改正法案の作成に着手する見通しだ。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/14/news137.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/14/news133.html-カバー、特別損失32億円を計上 「ホロアース」サービス終了にともない",
-      "title": "カバー、特別損失32億円を計上 「ホロアース」サービス終了にともない",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-14T09:30:00.000Z",
-      "description": "カバーは2026年5月14日、26年3月期決算において31億9900万円の特別損失を計上したと発表した。開発を進めていたメタバースプロジェクト「ホロアース」の開発方針転換および現行サービスの終了に伴い、関連するソフトウェア資産を全額減損処理する。",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/14/news133.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/14/news127.html-KADOKAWA、早期退職募集 通期大幅減益、「アニメ・実写」は赤字転落",
-      "title": "KADOKAWA、早期退職募集 通期大幅減益、「アニメ・実写」は赤字転落",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-14T08:03:00.000Z",
-      "description": "「コンテンツ産業の需要構造の二極化が進む中、筋肉質な体制の構築とコスト管理が不可欠」と説明している。",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/14/news127.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/14/news119.html-津田塾大学が個人情報漏えいで謝罪、別件で逮捕された元職員が“匿名掲示板”に投稿 システム権限の設定ミスも",
-      "title": "津田塾大学が個人情報漏えいで謝罪、別件で逮捕された元職員が“匿名掲示板”に投稿 システム権限の設定ミスも",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-14T07:37:00.000Z",
-      "description": "津田塾大学は、過去の在籍者9人分の個人情報が匿名掲示板に投稿されていたとして謝罪した。投稿したのは2025年10月に器物損壊罪などで逮捕された元職員。在籍時に本来は閲覧権限のない情報にアクセスしていた可能性がある。",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/14/news119.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6580033?source=rss-3メガ銀 AIミュトス利用の見通し",
