@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T14:23:25.986Z",
+  "updatedAt": "2026-05-15T16:53:44.711Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580312?source=rss-補正予算案の編成 首相来週表明へ",
+      "title": "補正予算案の編成 首相来週表明へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-15T14:40:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580312?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580311?source=rss-南野拓実 W杯メンバー外で同行へ",
       "title": "南野拓実 W杯メンバー外で同行へ",
@@ -133,15 +142,6 @@
       "publishedAt": "2026-05-15T11:36:23.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6580291?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580293?source=rss-宮城で震度5弱 津波の心配なし",
-      "title": "宮城で震度5弱 津波の心配なし",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-15T11:30:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580293?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/15/news107.html-「なろう・異世界系に偏重していた」 KADOKAWA、出版事業で大幅減益 構造改革急ぐ",
