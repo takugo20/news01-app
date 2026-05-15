@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T11:24:27.494Z",
+  "updatedAt": "2026-05-15T14:23:25.986Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,121 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580287?source=rss-森保氏 涙浮かべながら代表発表",
-      "title": "森保氏 涙浮かべながら代表発表",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580311?source=rss-南野拓実 W杯メンバー外で同行へ",
+      "title": "南野拓実 W杯メンバー外で同行へ",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-05-15T11:13:38.000Z",
+      "publishedAt": "2026-05-15T14:18:34.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580287?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6580311?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580302?source=rss-1年半で株価32倍 キオクシアとは",
+      "title": "1年半で株価32倍 キオクシアとは",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-15T14:01:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580302?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580308?source=rss-細木氏ドラマ賛否 人物描く難しさ",
+      "title": "細木氏ドラマ賛否 人物描く難しさ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-15T13:53:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580308?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580305?source=rss-長友39歳 日本初の5大会連続選出",
+      "title": "長友39歳 日本初の5大会連続選出",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-15T13:44:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580305?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580306?source=rss-危険スイング初適用 場内どよめく",
+      "title": "危険スイング初適用 場内どよめく",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-15T13:27:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580306?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580301?source=rss-お台場 実物大ガンダム展示終了へ",
+      "title": "お台場 実物大ガンダム展示終了へ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-15T13:06:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580301?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580299?source=rss-日米首脳が電話協議 米中会談受け",
+      "title": "日米首脳が電話協議 米中会談受け",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-15T12:52:56.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580299?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/15/news120.html-実物大ユニコーンガンダム立像、展示終了へ 17年の公開から9年弱",
+      "title": "実物大ユニコーンガンダム立像、展示終了へ 17年の公開から9年弱",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-15T12:18:00.000Z",
+      "description": "TOKYOガンダムプロジェクト2026実行委員会は15日、東京・お台場にある実物大ユニコーンガンダム立像の展示を8月末で終了すると発表した。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/15/news120.html"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580298?source=rss-中東情勢が影響 紙おむつ値上げへ",
+      "title": "中東情勢が影響 紙おむつ値上げへ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-15T12:16:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580298?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580295?source=rss-森保監督が涙の読み上げ 代表発表",
+      "title": "森保監督が涙の読み上げ 代表発表",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-15T11:49:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580295?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580291?source=rss-地方民放の経営統合 総務省容認へ",
+      "title": "地方民放の経営統合 総務省容認へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-15T11:36:23.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580291?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580293?source=rss-宮城で震度5弱 津波の心配なし",
+      "title": "宮城で震度5弱 津波の心配なし",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-15T11:30:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580293?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/15/news107.html-「なろう・異世界系に偏重していた」 KADOKAWA、出版事業で大幅減益 構造改革急ぐ",
+      "title": "「なろう・異世界系に偏重していた」 KADOKAWA、出版事業で大幅減益 構造改革急ぐ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-15T11:10:00.000Z",
+      "description": "KADOKAWAは5月14日、2026年3月期通期決算を発表。出版・IP創出事業において、売上高は維持・向上したものの、営業利益が前年同期比でほぼ半減する大幅な減益を記録。同社は要因として、実績のある「なろう・異世界系」ジャンルへの過度な依存による市場飽和と、企画の類型化などを挙げている。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/15/news107.html"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/15/news114.html-「超かぐや姫！」のブルーレイ「特装限定版」、売り切れ続出で増産を検討中 「転売と思われる高額な出品を確認した」",
@@ -144,15 +252,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6580272?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580271?source=rss-W杯日本代表26人が決定 SNS反応",
-      "title": "W杯日本代表26人が決定 SNS反応",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-15T08:58:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580271?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580269?source=rss-美川憲一 生歌唱中にコロッケ登場",
       "title": "美川憲一 生歌唱中にコロッケ登場",
       "source": "Yahoo!ニュース エンタメ",
@@ -189,24 +288,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2605/15/news102.html"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580256?source=rss-真夏日の地点今年最多 最高31.6℃",
-      "title": "真夏日の地点今年最多 最高31.6℃",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-15T07:30:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580256?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580258?source=rss-従業員のSNS 社内ルールなし7割",
-      "title": "従業員のSNS 社内ルールなし7割",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-15T07:27:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580258?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580257?source=rss-ちいかわハピセ 転売対策の効果は",
       "title": "ちいかわハピセ 転売対策の効果は",
       "source": "Yahoo!ニュース 経済",
@@ -216,15 +297,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6580257?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580253?source=rss-負傷の三笘薫が落選 W杯日本代表",
-      "title": "負傷の三笘薫が落選 W杯日本代表",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-15T07:16:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580253?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580254?source=rss-中道 クラファン5時間で1500万円",
       "title": "中道 クラファン5時間で1500万円",
       "source": "Yahoo!ニュース 国内",
@@ -232,15 +304,6 @@
       "publishedAt": "2026-05-15T07:04:35.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6580254?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580250?source=rss-香西かおり 乳がん手術と退院発表",
-      "title": "香西かおり 乳がん手術と退院発表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-15T07:04:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580250?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580248?source=rss-「おかめ納豆」など15%値上げへ",
@@ -288,15 +351,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6580245?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580236?source=rss-春ドラマ不発 話題は夏ドラマに?",
-      "title": "春ドラマ不発 話題は夏ドラマに?",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-15T05:10:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580236?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580242?source=rss-蘭役の声優死去 青山剛昌氏が追悼",
       "title": "蘭役の声優死去 青山剛昌氏が追悼",
       "source": "Yahoo!ニュース エンタメ",
@@ -313,15 +367,6 @@
       "publishedAt": "2026-05-15T04:16:03.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6580240?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580235?source=rss-湖池屋 犬用「わんムーチョ」好調",
-      "title": "湖池屋 犬用「わんムーチョ」好調",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-15T03:46:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580235?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580227?source=rss-国旗損壊罪骨子案見送り 自民PT",
@@ -351,15 +396,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2605/15/news077.html"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580211?source=rss-歌手にもBGM使用料配分 閣議決定",
-      "title": "歌手にもBGM使用料配分 閣議決定",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-15T02:05:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580211?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/15/news070.html-オフィス業務にスポットワーカーを タイミーが「Timee BPO」始動、キモは業務設計込みの“丸ごと受託”",
       "title": "オフィス業務にスポットワーカーを タイミーが「Timee BPO」始動、キモは業務設計込みの“丸ごと受託”",
       "source": "ITmedia NEWS",
@@ -376,15 +412,6 @@
       "publishedAt": "2026-05-15T01:56:00.000Z",
       "description": "OpenAIは、サプライチェーン攻撃により従業員のデバイスが侵害されたと発表した。170以上のパッケージが影響を受け、コード署名証明書が漏洩した可能性がある。顧客データ等への影響は確認されていないが、予防措置として証明書の更新を実施。macOS版アプリのユーザーに対し、6月12日までのアプリのアップデートを求めている。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/15/news075.html"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580213?source=rss-冷静な行動を ごみ袋品薄で環境相",
-      "title": "冷静な行動を ごみ袋品薄で環境相",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-15T01:50:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580213?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/15/news068.html-AI事業者が争う姿勢 朝日、日経の記事無断使用巡り",
@@ -477,15 +504,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2605/15/news056.html"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580184?source=rss-オリ・舜平大が今季絶望か 肘手術",
-      "title": "オリ・舜平大が今季絶望か 肘手術",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-14T21:13:03.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580184?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/14/news155.html-「食べログ」運営のカカクコム買収、LINEヤフー陣営が再提案 1株3232円に引き上げ",
       "title": "「食べログ」運営のカカクコム買収、LINEヤフー陣営が再提案 1株3232円に引き上げ",
       "source": "ITmedia NEWS",
@@ -511,24 +529,6 @@
       "publishedAt": "2026-05-14T11:29:00.000Z",
       "description": "トヨタ自動車が電動パーソナルモビリティー「LAND HOPPER」を2027年春以降に発売すると発表した。道路交通法では特定小型原動機付自転車として扱われ、16歳以上であれば運転免許なしでも運転できる（ヘルメット着用は任意）。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/14/news150.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/14/news140.html-「ホロアース」終了へ ホロライブ発のメタバースサービス 開始から約1年で",
-      "title": "「ホロアース」終了へ ホロライブ発のメタバースサービス 開始から約1年で",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-14T10:20:00.000Z",
-      "description": "VTuber事務所「ホロライブプロダクション」を運営するカバーは5月14日、メタバースプロジェクト「ホロアース」を6月28日午後9時でサービス終了すると発表した。正式リリースから約1年で幕を下ろす。発表に合わせ「ホロコイン」の販売を同日より停止した。",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/14/news140.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/14/news137.html-選挙時のSNS規制、与野党が偽誤情報対策で今国会で法改正目指す方針で一致",
-      "title": "選挙時のSNS規制、与野党が偽誤情報対策で今国会で法改正目指す方針で一致",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-14T09:57:00.000Z",
-      "description": "与野党が選挙期間中のSNS上での偽・誤情報拡散への対策などを検討する各党協議会を国会内で開いた。来年春の統一地方選を視野に、今国会で関連法の改正を目指す方針で合意した。近く改正法案の作成に着手する見通しだ。",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/14/news137.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6580033?source=rss-3メガ銀 AIミュトス利用の見通し",
