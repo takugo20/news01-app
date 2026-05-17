@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T08:27:01.229Z",
+  "updatedAt": "2026-05-17T10:25:07.546Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,67 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580528?source=rss-W杯選出の長友会見 平愛梨が登場",
-      "title": "W杯選出の長友会見 平愛梨が登場",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580544?source=rss-勝った西田有志と負けた高橋藍 涙",
+      "title": "勝った西田有志と負けた高橋藍 涙",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-05-17T08:23:26.000Z",
+      "publishedAt": "2026-05-17T10:09:09.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580528?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6580544?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580538?source=rss-100mライルズ 出遅れも9秒95でV",
+      "title": "100mライルズ 出遅れも9秒95でV",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-17T09:38:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580538?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580533?source=rss-政府の節約呼びかけ必要70% 共同",
+      "title": "政府の節約呼びかけ必要70% 共同",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-17T09:16:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580533?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580537?source=rss-日韓首脳会談 首相は国賓級待遇",
+      "title": "日韓首脳会談 首相は国賓級待遇",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-17T09:13:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580537?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580536?source=rss-18日 7月上旬並みの気温の高さか",
+      "title": "18日 7月上旬並みの気温の高さか",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-17T08:58:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580536?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6580534?source=rss-新型Xperia 3万円超値上げの理由",
+      "title": "新型Xperia 3万円超値上げの理由",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-05-17T08:55:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580534?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580532?source=rss-長友佑都の会見 妻・平愛梨が花束",
+      "title": "長友佑都の会見 妻・平愛梨が花束",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-17T08:38:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580532?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580524?source=rss-長友佑都 僕らには大きな夢がある",
@@ -117,15 +171,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6580511?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580504?source=rss-都心で今年初の真夏日 熱中症注意",
-      "title": "都心で今年初の真夏日 熱中症注意",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-17T05:38:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580504?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580502?source=rss-首長選苦戦続き 自民がテコ入れ",
       "title": "首長選苦戦続き 自民がテコ入れ",
       "source": "Yahoo!ニュース 国内",
@@ -160,15 +205,6 @@
       "publishedAt": "2026-05-17T04:45:47.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6580500?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580498?source=rss-男子3000mで快挙 森凪也が日本新",
-      "title": "男子3000mで快挙 森凪也が日本新",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-17T04:36:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580498?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6580495?source=rss-組織的強盗 未成年の接触防ぐには",
@@ -252,24 +288,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6580473?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580470?source=rss-岡本和真 思わぬ好捕に敵地騒然",
-      "title": "岡本和真 思わぬ好捕に敵地騒然",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-17T00:09:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580470?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580465?source=rss-山火事 消火剤導入し対応力向上へ",
-      "title": "山火事 消火剤導入し対応力向上へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-16T23:55:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580465?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580464?source=rss-居酒屋の倒産急増 過去最多ペース",
       "title": "居酒屋の倒産急増 過去最多ペース",
       "source": "Yahoo!ニュース 経済",
@@ -331,15 +349,6 @@
       "publishedAt": "2026-05-16T14:11:01.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6580450?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6580429?source=rss-私大削減案 文科省は一律削減警戒",
-      "title": "私大削減案 文科省は一律削減警戒",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-16T12:03:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580429?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6580388?source=rss-SNS「助けてください投稿」賛否",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-05-14T22:00:00.000Z",
       "description": "大阪メトロは14日、大阪・関西万博で使用したEVモーターズ・ジャパン（EV社、北九州市）の電気自動車バスを巡り、2026年3月期連結決算に67億円の特別損失を計上したと明らかにした。車両トラブルによる事故が相次ぎ、路線バスなどへの転用を断念したためで、国や自治体からの補助金も返還する。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/15/news056.html"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6580033?source=rss-3メガ銀 AIミュトス利用の見通し",
-      "title": "3メガ銀 AIミュトス利用の見通し",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-05-13T22:14:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580033?source=rss"
     }
   ]
 }
