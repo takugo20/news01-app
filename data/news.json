@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T19:15:40.776Z",
+  "updatedAt": "2026-05-17T21:59:04.567Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,31 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580578?source=rss-FW上田綺世が偉業 リーグ得点王",
-      "title": "FW上田綺世が偉業 リーグ得点王",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580584?source=rss-朗希 今季2勝&メジャー3勝目権利",
+      "title": "朗希 今季2勝&メジャー3勝目権利",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-05-17T14:43:49.000Z",
+      "publishedAt": "2026-05-17T21:48:12.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580578?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6580584?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580581?source=rss-上田綺世が蘭1部で得点王 初快挙",
+      "title": "上田綺世が蘭1部で得点王 初快挙",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-17T21:19:12.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580581?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580579?source=rss-GACKTが月9主演 弁護士&建築士",
+      "title": "GACKTが月9主演 弁護士&建築士",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-17T21:08:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580579?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580572?source=rss-シールの価値付け 心配する親の声",
@@ -124,15 +142,6 @@
       "publishedAt": "2026-05-17T11:21:35.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6580551?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580548?source=rss-大谷の長打 新設ネットでエ軍混乱",
-      "title": "大谷の長打 新設ネットでエ軍混乱",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-17T10:54:01.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580548?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580547?source=rss-ビスブラ・原田泰雅 結婚を公表",
@@ -340,15 +349,6 @@
       "publishedAt": "2026-05-16T22:14:00.000Z",
       "description": "任天堂は「Nintendo Switch 2」などを5月25日から値上げすると発表しました。でも、今回値上げが発表されたのは、ゲーム機本体だけではありません。オンラインサービスも7月1日から値上げされます。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/17/news015.html"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580452?source=rss-蘭役が死去 初代・小五郎役が追悼",
-      "title": "蘭役が死去 初代・小五郎役が追悼",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-16T14:32:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580452?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6580388?source=rss-SNS「助けてください投稿」賛否",
