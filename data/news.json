@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T19:49:56.304Z",
+  "updatedAt": "2026-05-18T22:07:17.622Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,42 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580736?source=rss-日産が横浜工場の縮小検討",
+      "title": "日産が横浜工場の縮小検討",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-18T21:56:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580736?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/19/news058.html-イーロン・マスク氏のOpenAI訴訟、時効により請求棄却 陪審が全員一致の評決",
+      "title": "イーロン・マスク氏のOpenAI訴訟、時効により請求棄却 陪審が全員一致の評決",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-18T21:48:00.000Z",
+      "description": "イーロン・マスク氏がOpenAIのサム・アルトマンCEOらを相手取った訴訟を巡り、カリフォルニア州北部地区連邦地裁の陪審は、提訴の時効が成立しているとの全員一致の評決を下した。判事もこの判断に同意し、マスクの請求を棄却した。マスクは控訴する意向だが、判事は陪審の判断を強く支持した。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/19/news058.html"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580734?source=rss-MF佐野海舟 弟のW杯落選に言及",
+      "title": "MF佐野海舟 弟のW杯落選に言及",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-18T21:27:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580734?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580732?source=rss-日テレ森圭介アナ 「チーフ」昇格",
+      "title": "日テレ森圭介アナ 「チーフ」昇格",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-18T21:08:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6580732?source=rss"
+    },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6580731?source=rss-「くまログ」不正確な投稿相次ぐ",
       "title": "「くまログ」不正確な投稿相次ぐ",
@@ -160,15 +196,6 @@
       "publishedAt": "2026-05-18T11:35:24.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6580709?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580708?source=rss-大関霧島 顔面流血のアクシデント",
-      "title": "大関霧島 顔面流血のアクシデント",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-18T11:31:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580708?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580707?source=rss-トヨタ 逆輸入車「タンドラ」公開",
@@ -369,15 +396,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6580672?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6580664?source=rss-不祥事に高畑裕太声明 女性側驚き",
-      "title": "不祥事に高畑裕太声明 女性側驚き",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-18T07:09:55.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580664?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6580662?source=rss-内田篤人氏 なでしこコーチに就任",
       "title": "内田篤人氏 なでしこコーチに就任",
       "source": "Yahoo!ニュース スポーツ",
@@ -468,15 +486,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2605/15/news115.html"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580596?source=rss-無印良品とニトリ明暗 2社の差は",
-      "title": "無印良品とニトリ明暗 2社の差は",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-17T22:46:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580596?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6580534?source=rss-新型Xperia 3万円超値上げの理由",
       "title": "新型Xperia 3万円超値上げの理由",
       "source": "Yahoo!ニュース IT",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-05-15T10:00:00.000Z",
       "description": "ワコムの筆頭株主である英投資ファンドのアセット・バリュー・インベスターズ（AVI）は5月14日、ワコム社長の井出信孝氏らの解任を求める株主提案を行った。ブランド製品事業が失速や公私混同と思われるガバナンス不全を是正する目的だという。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/15/news109.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/15/news111.html-「Xperia」の新AI機能を紹介したポストが海外で「最高の反AI広告だ」と物議 ソニーの説明は？",
-      "title": "「Xperia」の新AI機能を紹介したポストが海外で「最高の反AI広告だ」と物議 ソニーの説明は？",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-15T09:55:00.000Z",
-      "description": "ソニーのスマートフォン「Xperia」の公式グローバルXアカウントによる、あるポストが「最高の反AI広告だ」などと物議を醸している。",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/15/news111.html"
     }
   ]
 }
