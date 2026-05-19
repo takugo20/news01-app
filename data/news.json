@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T15:35:40.995Z",
+  "updatedAt": "2026-05-19T19:57:15.549Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/20/news063.html-Google、“動画版Nano Banana”こと「Gemini Omni」公開 会話で映像を生成・編集",
+      "title": "Google、“動画版Nano Banana”こと「Gemini Omni」公開 会話で映像を生成・編集",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-19T18:38:00.000Z",
+      "description": "米Googleが開発者会議「Google I/O 2026」で、動画の生成・編集に対応するAIモデル「Gemini Omni」を発表した。自然言語による指示で動画を作成・編集でき、同社は「世界モデル」や画像生成モデル「Nano Banana」の動画版とうたう。最初のモデル「Gemini Omni Flash」の提供も開...",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/20/news063.html"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6580881?source=rss-食品トレー 6月から相次ぎ値上げ",
       "title": "食品トレー 6月から相次ぎ値上げ",
@@ -547,15 +556,6 @@
       "publishedAt": "2026-05-18T23:00:00.000Z",
       "description": "英オックスフォード大学に所属する研究者らがRoyal Society Open Scienceで発表した論文「Perceived value of video games, but not hours played, predicts mental well-being in casual adult Nintendo...",
       "url": "https://www.itmedia.co.jp/news/articles/2605/18/news058.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/18/news123.html-国際科学コンテストで札幌の高校生が最高賞、日本初 「折り紙」の研究で 受賞数でも過去最多",
-      "title": "国際科学コンテストで札幌の高校生が最高賞、日本初 「折り紙」の研究で 受賞数でも過去最多",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-18T23:00:00.000Z",
-      "description": "米国の非営利団体が開催する、中高生向けの国際的な科学研究コンテストで、日本代表の高校生が最高賞を受賞した。日本代表が同賞を受賞するのは1958年に日本が初めて参加して以来初となる。",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/18/news123.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6580737?source=rss-政府 AIミュトス対策の方針策定",
