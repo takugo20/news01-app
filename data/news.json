@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T20:23:38.022Z",
+  "updatedAt": "2026-05-20T22:25:44.574Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6581033?source=rss-OpenAI 数週間内IPO非公開申請へ",
+      "title": "OpenAI 数週間内IPO非公開申請へ",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-05-20T21:37:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6581033?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6581027?source=rss-7点差逆転負け 中日監督会見拒否",
       "title": "7点差逆転負け 中日監督会見拒否",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-05-19T04:24:49.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6580784?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6580767?source=rss-先端AIの悪用対応で一致 G7財務相",
-      "title": "先端AIの悪用対応で一致 G7財務相",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-05-19T02:29:01.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6580767?source=rss"
     }
   ]
 }
