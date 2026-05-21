@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T19:59:40.951Z",
+  "updatedAt": "2026-05-21T22:23:09.220Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6581160?source=rss-梅澤美波が大粒の涙 乃木坂卒コン",
+      "title": "梅澤美波が大粒の涙 乃木坂卒コン",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-21T21:17:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6581160?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6581159?source=rss-NPB「人的補償」撤廃を検討",
+      "title": "NPB「人的補償」撤廃を検討",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-21T21:09:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6581159?source=rss"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6581157?source=rss-椎名林檎ワールド全開 校歌誕生",
       "title": "椎名林檎ワールド全開 校歌誕生",
@@ -234,15 +252,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6581121?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6581118?source=rss-37歳・松坂桃李 20年前は進路悩み",
-      "title": "37歳・松坂桃李 20年前は進路悩み",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-21T08:46:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6581118?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/21/news108.html-ChatGPTでYahoo!ショッピングの商品が探せるように ECモールで初の連携",
       "title": "ChatGPTでYahoo!ショッピングの商品が探せるように ECモールで初の連携",
       "source": "ITmedia NEWS",
@@ -367,15 +376,6 @@
       "publishedAt": "2026-05-21T04:21:00.000Z",
       "description": "NHKの井上樹彦会長は、20日に行われた会見でNetflixへのコンテンツ提供に触れ、「NHKの国際展開戦略上、大きな転換点となる取り組み」とした。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/21/news093.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6581075?source=rss-「脱丸刈り」名門柔道部員が挑戦",
-      "title": "「脱丸刈り」名門柔道部員が挑戦",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-21T04:14:41.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6581075?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/21/news083.html-Anthropic、SpaceXのクラウドに毎月2000億円弱を支払うと判明 「Claude」の計算リソース確保で",
