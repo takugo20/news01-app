@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-20T22:25:44.579Z",
+  "updatedAt": "2026-05-21T04:11:12.171Z",
   "generatedBy": "GitHub Actions",
   "market": {
     "nikkei225": {
       "label": "日経平均株価",
       "symbol": "^nkx",
-      "value": 59804.41,
-      "date": "2026-05-20",
-      "time": "23:00:00",
+      "value": 61904.43,
+      "date": "2026-05-21",
+      "time": "05:55:50",
       "source": "Stooq",
       "url": "https://stooq.com/q/l/?s=%5Enkx&f=sd2t2ohlcv&h=&e=csv",
       "error": null
@@ -15,9 +15,9 @@
     "usdJpy": {
       "label": "円/ドル為替レート",
       "symbol": "usdjpy",
-      "value": 158.8675,
+      "value": 158.9645,
       "date": "2026-05-21",
-      "time": "00:25:44",
+      "time": "06:11:08",
       "source": "Stooq",
       "url": "https://stooq.com/q/l/?s=usdjpy&f=sd2t2ohlcv&h=&e=csv",
       "error": null
@@ -27,12 +27,12 @@
     "city": "宇都宮市",
     "latitude": 36.5657,
     "longitude": 139.8836,
-    "temperature": 17.2,
-    "weatherCode": 63,
-    "windSpeed": 7.8,
+    "temperature": 17.9,
+    "weatherCode": 61,
+    "windSpeed": 6.9,
     "precipitationProbability": 100,
     "temperatureMax": 19.4,
-    "temperatureMin": 13.7,
+    "temperatureMin": 13.4,
     "source": "Open-Meteo",
     "url": "https://api.open-meteo.com/v1/forecast?latitude=36.5657&longitude=139.8836&current=temperature_2m%2Cweather_code%2Cwind_speed_10m&daily=precipitation_probability_max%2Ctemperature_2m_max%2Ctemperature_2m_min&timezone=Asia%2FTokyo&forecast_days=2",
     "error": null
