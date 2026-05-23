@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T13:47:00.607Z",
+  "updatedAt": "2026-05-23T16:04:23.619Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6581434?source=rss-あの降板宣言 TVの古い作法限界",
+      "title": "あの降板宣言 TVの古い作法限界",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-23T14:35:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6581434?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6581429?source=rss-森保Jアウェーユニ爆売れ 驚きも",
       "title": "森保Jアウェーユニ爆売れ 驚きも",
@@ -295,15 +304,6 @@
       "publishedAt": "2026-05-23T07:50:38.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6581381?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6581378?source=rss-見栄晴が始球式で涙 2年前がんに",
-      "title": "見栄晴が始球式で涙 2年前がんに",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-23T07:33:01.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6581378?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6581370?source=rss-ナフサ巡るデマ論争 首相きっかけ",
