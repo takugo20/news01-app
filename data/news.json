@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T13:45:35.484Z",
+  "updatedAt": "2026-05-24T16:04:24.522Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6581545?source=rss-珍名馬 ボクマダネムイヨが圧勝",
+      "title": "珍名馬 ボクマダネムイヨが圧勝",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-24T14:44:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6581545?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6581543?source=rss-携帯キャリア次々乗り換え 問題は",
+      "title": "携帯キャリア次々乗り換え 問題は",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-05-24T14:00:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6581543?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6581542?source=rss-G1勝利 騎手カメラで「聖奈節」",
       "title": "G1勝利 騎手カメラで「聖奈節」",
@@ -187,15 +205,6 @@
       "publishedAt": "2026-05-24T08:46:44.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6581511?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6581510?source=rss-異例引退のビシエド 花束に涙",
-      "title": "異例引退のビシエド 花束に涙",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-24T08:27:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6581510?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6581505?source=rss-木村文乃が出産報告 文末でサラリ",
@@ -430,15 +439,6 @@
       "publishedAt": "2026-05-22T08:25:00.000Z",
       "description": "2021年にGoogleが推定100億円以上をかけて買収したが、期待されたGoogle Payへの送金機能統合は実現しないまま幕を閉じる。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/22/news129.html"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6581244?source=rss-自分専用スマホ小1-3で3割 都調査",
-      "title": "自分専用スマホ小1-3で3割 都調査",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-05-22T08:11:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6581244?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/22/news127.html-全国のApple StoreがPayPay決済に対応 コード決済で初",
