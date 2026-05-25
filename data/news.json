@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T15:17:53.259Z",
+  "updatedAt": "2026-05-25T19:48:18.209Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6581694?source=rss-G球団社長 阿部監督逮捕受け謝罪",
+      "title": "G球団社長 阿部監督逮捕受け謝罪",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-25T15:20:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6581694?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6581692?source=rss-スズキ 一部店でオイル交換に遅れ",
       "title": "スズキ 一部店でオイル交換に遅れ",
@@ -241,15 +250,6 @@
       "publishedAt": "2026-05-25T10:02:27.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6581656?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6581647?source=rss-サッカーW杯 前回と違うルールは",
-      "title": "サッカーW杯 前回と違うルールは",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-25T09:36:41.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6581647?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6581646?source=rss-嵐だから実現 民放5社で同時CM",
