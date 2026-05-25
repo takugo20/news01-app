@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T19:48:18.209Z",
+  "updatedAt": "2026-05-25T22:12:02.413Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6581697?source=rss-くるま 映画監督としてブレイクは",
+      "title": "くるま 映画監督としてブレイクは",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-25T21:29:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6581697?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/26/news059.html-教皇レオ14世、AIの軍事利用や労働への影響に回勅で警鐘 Anthropicの共同創業者が同席してコメント",
+      "title": "教皇レオ14世、AIの軍事利用や労働への影響に回勅で警鐘 Anthropicの共同創業者が同席してコメント",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-25T21:17:00.000Z",
+      "description": "教皇レオ14世は、AI時代における人間の尊厳の守り方について、新たな“回勅”を発表した。この回勅、AIを用いた自動化システムによる戦争の危険性や労働への影響に強い警鐘を鳴らし、巨大企業への権力集中を批判。発表の場にはAnthropicの共同創業者も同席し、技術への倫理的指針の提示を歓迎するコメントを述べた。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/26/news059.html"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6581695?source=rss-村上が18号 リーグトップ再浮上",
+      "title": "村上が18号 リーグトップ再浮上",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-25T21:07:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6581695?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6581694?source=rss-G球団社長 阿部監督逮捕受け謝罪",
       "title": "G球団社長 阿部監督逮捕受け謝罪",
@@ -144,15 +171,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6581669?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6581670?source=rss-くるま オダギリに動画で出演依頼",
-      "title": "くるま オダギリに動画で出演依頼",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-25T11:28:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6581670?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6581668?source=rss-ボートレース 若手ホープ同士結婚",
       "title": "ボートレース 若手ホープ同士結婚",
       "source": "Yahoo!ニュース スポーツ",
@@ -241,15 +259,6 @@
       "publishedAt": "2026-05-25T10:15:00.000Z",
       "description": "NTTドコモは5月22日、北海道内の基地局に画像認識AI連携の監視カメラを設置し、クマの出没をリアルタイムで検知する実証実験を開始した。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/25/news127.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6581656?source=rss-森下翔太 球宴中間で全体トップ",
-      "title": "森下翔太 球宴中間で全体トップ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-25T10:02:27.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6581656?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6581646?source=rss-嵐だから実現 民放5社で同時CM",
@@ -511,15 +520,6 @@
       "publishedAt": "2026-05-25T01:00:00.000Z",
       "description": "日本円建てのステーブルコインを発行するJPYC社は5月22日、LINEヤフーグループのLINE NEXTが提供するweb3ウォレット「Unifi」でJPYCが利用可能になったと発表した。LINEアプリ経由のKaiaネットワーク上でJPYCを利用できるのは国内初となる。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/22/news134.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/25/news024.html-脳卒中後、なぜ後遺症が残るのか？ 脳が修復する仕組み解明 科学大などがNatureで発表 新薬をマウスに投与で改善",
-      "title": "脳卒中後、なぜ後遺症が残るのか？ 脳が修復する仕組み解明 科学大などがNatureで発表 新薬をマウスに投与で改善",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-24T23:00:00.000Z",
-      "description": "東京科学大学などに所属する研究者らがNatureで発表した論文「Sustaining microglial reparative function enhances stroke recovery」は、 脳卒中などによって損傷した脳組織が自らを修復するメカニズムを解明し、その回復力を持続させる新たな薬の開発に成功した研...",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/25/news024.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6581543?source=rss-携帯キャリア次々乗り換え 問題は",
