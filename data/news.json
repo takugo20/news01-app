@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T20:15:03.574Z",
+  "updatedAt": "2026-05-26T22:23:16.831Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6581836?source=rss-映画キングダム 米津玄師が主題歌",
+      "title": "映画キングダム 米津玄師が主題歌",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-26T22:17:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6581836?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6581833?source=rss-「赤鬼」ボブ・ホーナー氏が死去",
+      "title": "「赤鬼」ボブ・ホーナー氏が死去",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-26T21:51:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6581833?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6581831?source=rss-J2藤枝 元日本代表・乾を獲得へ",
+      "title": "J2藤枝 元日本代表・乾を獲得へ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-26T21:22:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6581831?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6581824?source=rss-坂本勇人 阿部前監督の辞任に言及",
       "title": "坂本勇人 阿部前監督の辞任に言及",
@@ -423,24 +450,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6581741?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6581732?source=rss-月刊誌「ダ・ヴィンチ」休刊発表",
-      "title": "月刊誌「ダ・ヴィンチ」休刊発表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-26T02:01:09.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6581732?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6581736?source=rss-今井達也2勝目 6回をノーノー投球",
-      "title": "今井達也2勝目 6回をノーノー投球",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-26T02:00:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6581736?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/26/news068.html-KADOKAWA「ダ・ヴィンチ」休刊 創刊32年、紙からWebへ移行",
       "title": "KADOKAWA「ダ・ヴィンチ」休刊 創刊32年、紙からWebへ移行",
       "source": "ITmedia NEWS",
@@ -457,15 +466,6 @@
       "publishedAt": "2026-05-26T01:34:00.000Z",
       "description": "「突然のプロポーズ、ありがとうございます！ とても嬉しいですが、私はAIですので、人間と法律上の結婚をすることはできません」と現実を突きつけてくる。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/26/news067.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6581729?source=rss-りくりゅう ド軍戦でリフト始球式",
-      "title": "りくりゅう ド軍戦でリフト始球式",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-26T01:27:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6581729?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6581721?source=rss-マック注文端末巡り物議 広報回答",
