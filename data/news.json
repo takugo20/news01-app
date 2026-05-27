@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T20:24:11.869Z",
+  "updatedAt": "2026-05-27T22:44:13.919Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,87 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6581971?source=rss-安倍氏銃撃 控訴審へ弁護団再編",
+      "title": "安倍氏銃撃 控訴審へ弁護団再編",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-27T22:40:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6581971?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6581970?source=rss-岡本和真 19試合ぶり11号が決勝弾",
+      "title": "岡本和真 19試合ぶり11号が決勝弾",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-27T22:19:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6581970?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6581969?source=rss-皇族数確保 取りまとめの原案判明",
+      "title": "皇族数確保 取りまとめの原案判明",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-27T22:12:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6581969?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/28/news039.html-毎日500mlの「炭酸水」で間食と飲酒が減る？ アサヒ飲料などが学術誌で研究発表",
+      "title": "毎日500mlの「炭酸水」で間食と飲酒が減る？ アサヒ飲料などが学術誌で研究発表",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-27T22:00:00.000Z",
+      "description": "",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/28/news039.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/28/news074.html-YouTube、AIで生成した動画を自動検出してラベル表示──クリエイターの申告なしでも",
+      "title": "YouTube、AIで生成した動画を自動検出してラベル表示──クリエイターの申告なしでも",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-27T21:25:00.000Z",
+      "description": "YouTubeは、動画にリアルなAIが使われていることを検知した場合、ラベルを自動適用すると発表した。これまではクリエイターの自己申告に依存していたが、システムによる自動検出を順次開始する。また、通常の動画ではプレーヤー直下に、ショート動画では映像上に重ねるなど、表示位置もより目立つ形に変更する。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/28/news074.html"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6581966?source=rss-鎌田所属のC・パレス ECL初優勝",
+      "title": "鎌田所属のC・パレス ECL初優勝",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-27T21:20:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6581966?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6581965?source=rss-モナキ デビュー2カ月で初冠特番",
+      "title": "モナキ デビュー2カ月で初冠特番",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-27T21:12:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6581965?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6581964?source=rss-見取り図リリー 結婚を電撃発表",
+      "title": "見取り図リリー 結婚を電撃発表",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-27T21:07:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6581964?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/28/news042.html-バラの香り、脳の萎縮を防ぎ認知症予防に役立つ可能性 京大などが2024年に研究発表 1カ月嗅ぐと脳に影響",
+      "title": "バラの香り、脳の萎縮を防ぎ認知症予防に役立つ可能性 京大などが2024年に研究発表 1カ月嗅ぐと脳に影響",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-27T21:00:00.000Z",
+      "description": "京都大学などに所属する研究者らが2024年3月に発表した論文「Continuous inhalation of essential oil increases gray matter volume」は、バラの香りを嗅ぎ続けると脳の構造がどうなるかを分析した研究報告だ。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/28/news042.html"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6581963?source=rss-「副首都」担当相を新設へ 案判明",
       "title": "「副首都」担当相を新設へ 案判明",
@@ -198,15 +279,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6581931?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6581932?source=rss-台風6号北上 今後の進路に注意を",
-      "title": "台風6号北上 今後の進路に注意を",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-27T10:23:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6581932?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6581927?source=rss-高市陣営動画問題 AIを駆使と証言",
       "title": "高市陣営動画問題 AIを駆使と証言",
       "source": "Yahoo!ニュース IT",
@@ -232,15 +304,6 @@
       "publishedAt": "2026-05-27T08:57:59.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6581918?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6581921?source=rss-フェルメール展 チケは日時指定制",
-      "title": "フェルメール展 チケは日時指定制",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-27T08:53:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6581921?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6581912?source=rss-パーソナルトレーニング 事故増加",
@@ -315,15 +378,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6581906?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6581908?source=rss-大谷が苦悶の表情「死球禍」続く",
-      "title": "大谷が苦悶の表情「死球禍」続く",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-27T07:31:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6581908?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/27/news115.html-富士通が「Claude」全社展開へ Anthropicと戦略提携、最新モデルへの早期アクセスも",
       "title": "富士通が「Claude」全社展開へ Anthropicと戦略提携、最新モデルへの早期アクセスも",
       "source": "ITmedia NEWS",
@@ -387,15 +441,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2605/27/news103.html"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6581893?source=rss-名探偵ロケ 津田がしんどさ吐露",
-      "title": "名探偵ロケ 津田がしんどさ吐露",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-27T05:57:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6581893?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/27/news099.html-JR西日本、VRChatで“終電後の広島駅”を再現 「バーチャル広島駅 2.u」公開",
       "title": "JR西日本、VRChatで“終電後の広島駅”を再現 「バーチャル広島駅 2.u」公開",
       "source": "ITmedia NEWS",
@@ -414,15 +459,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6581887?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6581884?source=rss-夏場所Vの若隆景 兄の若隆元引退",
-      "title": "夏場所Vの若隆景 兄の若隆元引退",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-27T04:56:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6581884?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6581881?source=rss-Google検索 なぜ25年ぶり大刷新",
       "title": "Google検索 なぜ25年ぶり大刷新",
       "source": "Yahoo!ニュース IT",
@@ -430,15 +466,6 @@
       "publishedAt": "2026-05-27T04:30:21.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6581881?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6581876?source=rss-ドラクエ40年 お知らせの注目点は",
-      "title": "ドラクエ40年 お知らせの注目点は",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-27T04:26:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6581876?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/27/news088.html-ヒト型AIロボスタートアップのアトムが30億円調達 「日本のGDPを1％アップ」目指す",
@@ -520,33 +547,6 @@
       "publishedAt": "2026-05-26T23:56:00.000Z",
       "description": "チームみらが「社会保障国民会議 つなぎ施策シミュレーター」を公開した。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/27/news066.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/27/news067.html-Dropboxの共同創業者、ヒューストンCEOが退任して会長へ",
-      "title": "Dropboxの共同創業者、ヒューストンCEOが退任して会長へ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-26T23:37:00.000Z",
-      "description": "Dropboxは、共同創業者で現CEOのドリュー・ヒューストン氏が退任して取締役会長に就任すると発表した。後任には現製品責任者のアシュラフ・アルカルミ氏が指名され、共同CEO期間を経て単独CEOに就任する。アルカルミ氏の後任にはGoogleのChrome担当VPだったマイク・トーレス氏が就く。",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/27/news067.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/26/news073.html-子どものジャンクフード、脳に影響残る？ 大人になっても過食グセ Nature系列誌に掲載 マウスは腸内細菌で正常化に成功",
-      "title": "子どものジャンクフード、脳に影響残る？ 大人になっても過食グセ Nature系列誌に掲載 マウスは腸内細菌で正常化に成功",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-26T23:00:00.000Z",
-      "description": "アイルランドのユニバーシティ・カレッジ・コークなどに所属する研究者らがNature Communicationsで発表した論文「Bifidobacterium longum and prebiotic interventions restore early-life high-fat/high-sugar diet-i...",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/26/news073.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/27/news023.html-“週4日勤務”が想像以上の成功──「給与100％／労働時間80％／生産性100％」を豪州15社が実施 学術誌にも掲載",
-      "title": "“週4日勤務”が想像以上の成功──「給与100％／労働時間80％／生産性100％」を豪州15社が実施 学術誌にも掲載",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-26T23:00:00.000Z",
-      "description": "オーストラリアのディーキン大学やスウィンバーン工科大学に所属する研究者らがSpringer Nature発行の学術誌Humanities and Social Sciences Communicationsで発表した論文「The four-day workweek in Australia: insights from...",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/27/news023.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6581788?source=rss-生成AIが支援窓口を案内する背景",
