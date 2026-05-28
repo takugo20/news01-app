@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T20:29:50.261Z",
+  "updatedAt": "2026-05-28T22:42:24.858Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,87 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582107?source=rss-カンボジア名誉領事 資金申告漏れ",
+      "title": "カンボジア名誉領事 資金申告漏れ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-28T22:35:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582107?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582105?source=rss-横山裕が連ドラ主演 刑事役6度目",
+      "title": "横山裕が連ドラ主演 刑事役6度目",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-28T22:35:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582105?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582104?source=rss-迷惑動画が波紋 回転寿司の防衛線",
+      "title": "迷惑動画が波紋 回転寿司の防衛線",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-28T22:22:26.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582104?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/29/news080.html-Anthropic、650億ドル調達──評価額は3カ月で2.5倍の9650億ドルとなりOpenAIを上回る",
+      "title": "Anthropic、650億ドル調達──評価額は3カ月で2.5倍の9650億ドルとなりOpenAIを上回る",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-28T22:14:00.000Z",
+      "description": "Anthropicは、シリーズHラウンドで650億ドルを調達したと発表した。資金調達後の評価額は9650億ドルに達し、未上場としてOpenAIを抜き、世界最高の評価額を持つAI企業となった。同日には最新モデル「Claude Opus 4.8」の提供も開始した。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/29/news080.html"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582102?source=rss-銀座線 浅草-銀座で運転見合わせ",
+      "title": "銀座線 浅草-銀座で運転見合わせ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-28T22:09:47.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582102?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6582101?source=rss-3メガ銀 OpenAI新型モデル活用へ",
+      "title": "3メガ銀 OpenAI新型モデル活用へ",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-05-28T21:43:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582101?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582100?source=rss-カープ 薬物巡り「調査は継続中」",
+      "title": "カープ 薬物巡り「調査は継続中」",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-28T21:34:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582100?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582098?source=rss-トヨタ 次世代EVの開発を中止へ",
+      "title": "トヨタ 次世代EVの開発を中止へ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-28T21:10:31.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582098?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582097?source=rss-木村拓哉 ソロ初の海外公演開催へ",
+      "title": "木村拓哉 ソロ初の海外公演開催へ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-28T21:04:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582097?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582093?source=rss-武尊 引退セレモニーで涙浮かべる",
       "title": "武尊 引退セレモニーで涙浮かべる",
@@ -135,15 +216,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6582075?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582078?source=rss-はま寿司回答 寿司に洗剤動画拡散",
-      "title": "はま寿司回答 寿司に洗剤動画拡散",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-28T11:32:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582078?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6582074?source=rss-ガバメントAI 全府省庁で実証開始",
       "title": "ガバメントAI 全府省庁で実証開始",
       "source": "Yahoo!ニュース IT",
@@ -216,15 +288,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2605/28/news137.html"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582064?source=rss-「ねるねるねるね」40年 誕生秘話",
-      "title": "「ねるねるねるね」40年 誕生秘話",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-28T09:36:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582064?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6582065?source=rss-メルカリ突然の制限通知 困惑の声",
       "title": "メルカリ突然の制限通知 困惑の声",
       "source": "Yahoo!ニュース IT",
@@ -270,15 +333,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6582058?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582055?source=rss-「目印アクセ」が社会現象化 なぜ",
-      "title": "「目印アクセ」が社会現象化 なぜ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-28T08:30:55.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582055?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582052?source=rss-PRODUCE 101 ひぼう中傷に声明",
       "title": "PRODUCE 101 ひぼう中傷に声明",
       "source": "Yahoo!ニュース エンタメ",
@@ -286,15 +340,6 @@
       "publishedAt": "2026-05-28T08:16:26.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6582052?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582050?source=rss-悪質通信業者の公表検討 総務省",
-      "title": "悪質通信業者の公表検討 総務省",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-28T08:13:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582050?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/28/news115.html-SpaceXのIPO、日本からも申し込み可能に 楽天証券・SBI証券が募集へ",
@@ -405,33 +450,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6582032?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582029?source=rss-バレー代表 佐藤容疑者の登録抹消",
-      "title": "バレー代表 佐藤容疑者の登録抹消",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-28T06:00:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582029?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582027?source=rss-「踊る」映画 青島が捜査一課配属",
-      "title": "「踊る」映画 青島が捜査一課配属",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-28T05:40:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582027?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582019?source=rss-リリー結婚 ご祝儀確認に盛山驚く",
-      "title": "リリー結婚 ご祝儀確認に盛山驚く",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-28T04:50:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582019?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/28/news107.html-Amazon、新幹線で商品輸送スタート JR東「はこビュン」活用",
       "title": "Amazon、新幹線で商品輸送スタート JR東「はこビュン」活用",
       "source": "ITmedia NEWS",
@@ -522,15 +540,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2605/28/news079.html"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/28/news050.html-持った瞬間「新しい」 新素材のシャープペンシルがわずかな“ひんやり感”を保つ秘密、三井化学とトンボ鉛筆に聞いた",
-      "title": "持った瞬間「新しい」 新素材のシャープペンシルがわずかな“ひんやり感”を保つ秘密、三井化学とトンボ鉛筆に聞いた",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-27T23:14:00.000Z",
-      "description": "トンボ鉛筆が3月に発売したシャープペンシル「FUMI」は、個人的には今年のナンバーワン文房具と言っても構わないと思っているほど新しい。持った瞬間に「新しい」と感じるほど、その持ち心地が心地いいのだ。",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/28/news050.html"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6581939?source=rss-国会答弁に生成AI活用 デジタル相",
       "title": "国会答弁に生成AI活用 デジタル相",
       "source": "Yahoo!ニュース IT",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-05-27T04:30:21.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6581881?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6581788?source=rss-生成AIが支援窓口を案内する背景",
-      "title": "生成AIが支援窓口を案内する背景",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-05-26T10:23:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6581788?source=rss"
     }
   ]
 }
