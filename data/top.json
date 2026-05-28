@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T16:11:03.726Z",
+  "updatedAt": "2026-05-28T20:29:49.689Z",
   "generatedBy": "GitHub Actions",
   "market": {
     "nikkei225": {
@@ -15,9 +15,9 @@
     "usdJpy": {
       "label": "円/ドル為替レート",
       "symbol": "usdjpy",
-      "value": 159.2865,
+      "value": 159.2625,
       "date": "2026-05-28",
-      "time": "18:11:00",
+      "time": "22:29:48",
       "source": "Stooq",
       "url": "https://stooq.com/q/l/?s=usdjpy&f=sd2t2ohlcv&h=&e=csv",
       "error": null
@@ -27,9 +27,9 @@
     "city": "宇都宮市",
     "latitude": 36.5657,
     "longitude": 139.8836,
-    "temperature": 20.7,
+    "temperature": 19.8,
     "weatherCode": 3,
-    "windSpeed": 3.6,
+    "windSpeed": 3.3,
     "precipitationProbability": 45,
     "temperatureMax": 29,
     "temperatureMin": 15.8,
