@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T20:32:08.943Z",
+  "updatedAt": "2026-05-29T22:39:07.202Z",
   "generatedBy": "GitHub Actions",
   "market": {
     "nikkei225": {
@@ -7,7 +7,7 @@
       "symbol": "^nkx",
       "value": 66329.5,
       "date": "2026-05-29",
-      "time": "08:45:03",
+      "time": "23:00:00",
       "source": "Stooq",
       "url": "https://stooq.com/q/l/?s=%5Enkx&f=sd2t2ohlcv&h=&e=csv",
       "error": null
@@ -27,9 +27,9 @@
     "city": "宇都宮市",
     "latitude": 36.5657,
     "longitude": 139.8836,
-    "temperature": 12.5,
+    "temperature": 17.6,
     "weatherCode": 0,
-    "windSpeed": 1.9,
+    "windSpeed": 0.4,
     "precipitationProbability": 4,
     "temperatureMax": 28.6,
     "temperatureMin": 12,

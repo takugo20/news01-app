@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T20:32:09.081Z",
+  "updatedAt": "2026-05-29T22:39:07.178Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,42 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582243?source=rss-「泣き虫先生」山口良治さん死去",
+      "title": "「泣き虫先生」山口良治さん死去",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-29T22:33:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582243?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582238?source=rss-紀平梨花 早大スケート部に入部",
+      "title": "紀平梨花 早大スケート部に入部",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-29T22:21:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582238?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/30/news022.html-イメージセンサーを“湾曲“させて広角撮影時の周辺ぼやけを抑える技術、NHK技研が開発",
+      "title": "イメージセンサーを“湾曲“させて広角撮影時の周辺ぼやけを抑える技術、NHK技研が開発",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-29T22:00:00.000Z",
+      "description": "NHK放送技術研究所は、技術展示イベント「技研公開2026」（5月28日～31日）で、広視野カメラの小型化と高画質化を両立する「凹面湾曲イメージセンサー」を展示している。厚さわずか0.01mmまで薄くしたセンサーを凹面状に湾曲させ、広角レンズで生じる映像周辺部のぼやけを抑える。2030年ごろの実用化を目指す。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/30/news022.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/30/news031.html-OpenAIが生命科学推論AI「GPT-Rosalind」をバイオディフェンスに開放 デュアルユースリスクに懸念も",
+      "title": "OpenAIが生命科学推論AI「GPT-Rosalind」をバイオディフェンスに開放 デュアルユースリスクに懸念も",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-29T21:48:00.000Z",
+      "description": "OpenAIは、生命科学研究に特化したフロンティア推論モデル「GPT-Rosalind」を活用した「Rosalind Biodefense」プログラムを発表した。生物脅威の検知など防衛目的に限定し、審査済みの開発者や米政府機関および同盟国のパートナー組織にAPIを無償提供する。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/30/news031.html"
+    },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/30/news028.html-フルカラー3D像が空中に浮かぶ「透明ホログラム」、NHK技研が公開 30年に動画表示目指す",
       "title": "フルカラー3D像が空中に浮かぶ「透明ホログラム」、NHK技研が公開 30年に動画表示目指す",
@@ -315,15 +351,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2605/29/news059.html"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582186?source=rss-久保建英8番へ思い 南野から継承",
-      "title": "久保建英8番へ思い 南野から継承",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-29T07:52:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582186?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582188?source=rss-衆院選1票の格差 「合憲」10件目",
       "title": "衆院選1票の格差 「合憲」10件目",
       "source": "Yahoo!ニュース 国内",
@@ -331,15 +358,6 @@
       "publishedAt": "2026-05-29T07:35:57.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6582188?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582187?source=rss-ビーチバレー大会 観客の撮影禁止",
-      "title": "ビーチバレー大会 観客の撮影禁止",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-29T07:35:15.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582187?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582177?source=rss-人口減少率ワースト 東北が上位",
@@ -538,24 +556,6 @@
       "publishedAt": "2026-05-28T11:18:39.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6582074?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/28/news144.html-「先週いくら使った？」ChatGPTが即答 資産管理のマネーツリーに新機能",
-      "title": "「先週いくら使った？」ChatGPTが即答 資産管理のマネーツリーに新機能",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-28T10:30:00.000Z",
-      "description": "MUFGとマネーツリーは5月28日、「Apps in ChatGPT」を通じて口座残高や取引明細をChatGPT上で確認できる新サービスの提供を開始した。",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/28/news144.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/28/news145.html-レノボ、国内に“水冷AIインフラ”の検証施設 GPUサーバ需要増で水冷活用促す",
-      "title": "レノボ、国内に“水冷AIインフラ”の検証施設 GPUサーバ需要増で水冷活用促す",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-28T10:25:00.000Z",
-      "description": "レノボ・ジャパンが水冷技術を活用したAIインフラの検証施設「Neptuneラボ」を新設した。レノボの冷却技術を使う顧客やパートナー企業に対し、本番に近い検証・PoC環境として提供する。クラウドベンダーやSIerとの共同検証を通し、推奨される機器構成などの策定にも役立てる。レノボが日本で同様の施設を開設するのは初という。",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/28/news145.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6582065?source=rss-メルカリ突然の制限通知 困惑の声",
