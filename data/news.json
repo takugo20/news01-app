@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T15:52:10.936Z",
+  "updatedAt": "2026-05-29T20:32:09.081Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/30/news028.html-フルカラー3D像が空中に浮かぶ「透明ホログラム」、NHK技研が公開 30年に動画表示目指す",
+      "title": "フルカラー3D像が空中に浮かぶ「透明ホログラム」、NHK技研が公開 30年に動画表示目指す",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-05-29T20:00:00.000Z",
+      "description": "NHK放送技術研究所は、フルカラーの3次元像を空中に映し出す「透明ホログラム」を開発した。技術展示イベント「技研公開2026」（5月28日～31日）で公開中だ。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/30/news028.html"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582235?source=rss-診察キャンセル料巡り厚労相陳謝",
       "title": "診察キャンセル料巡り厚労相陳謝",
@@ -547,15 +556,6 @@
       "publishedAt": "2026-05-28T10:25:00.000Z",
       "description": "レノボ・ジャパンが水冷技術を活用したAIインフラの検証施設「Neptuneラボ」を新設した。レノボの冷却技術を使う顧客やパートナー企業に対し、本番に近い検証・PoC環境として提供する。クラウドベンダーやSIerとの共同検証を通し、推奨される機器構成などの策定にも役立てる。レノボが日本で同様の施設を開設するのは初という。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/28/news145.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/28/news143.html-ヤマハ、ネットワーク機器値上げ 20万円アップの製品も",
-      "title": "ヤマハ、ネットワーク機器値上げ 20万円アップの製品も",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-28T10:17:00.000Z",
-      "description": "ヤマハが7月1日以降、ルーターや無線アクセスポイント、ネットワークスイッチなどを3000円～18万円程度値上げする。「半導体部品の原材料価格をはじめ、輸送や燃料費などコスト上昇の影響を受け、価格を維持することが困難となった」という。",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/28/news143.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6582065?source=rss-メルカリ突然の制限通知 困惑の声",
