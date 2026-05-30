@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T13:49:30.236Z",
+  "updatedAt": "2026-05-30T16:07:29.784Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582354?source=rss-ミサイル共同開発加速で一致 日米",
+      "title": "ミサイル共同開発加速で一致 日米",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-30T14:21:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582354?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582353?source=rss-橋之助&能條 豪華披露宴に約千人",
+      "title": "橋之助&能條 豪華披露宴に約千人",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-30T14:12:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582353?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582351?source=rss-婚活市場 縮む「理想の年齢差」",
+      "title": "婚活市場 縮む「理想の年齢差」",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-30T13:53:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582351?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582349?source=rss-JALとANA 台風で計260便以上欠航",
       "title": "JALとANA 台風で計260便以上欠航",
@@ -270,15 +297,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6582303?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582301?source=rss-報酬低く いじめ調査委設置できず",
-      "title": "報酬低く いじめ調査委設置できず",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-30T05:57:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582301?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582299?source=rss-映画発「タゴサク構文」なぜ流行",
       "title": "映画発「タゴサク構文」なぜ流行",
       "source": "Yahoo!ニュース エンタメ",
@@ -324,15 +342,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2605/30/news029.html"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582275?source=rss-山口良治さん死去 山下真司が追悼",
-      "title": "山口良治さん死去 山下真司が追悼",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-30T02:17:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582275?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/29/news101.html-「作れば売れる」時代の終わり――岐路に立たされるアニメ業界、決算が映す各社の“明暗”を分けたもの",
       "title": "「作れば売れる」時代の終わり――岐路に立たされるアニメ業界、決算が映す各社の“明暗”を分けたもの",
       "source": "ITmedia NEWS",
@@ -349,15 +358,6 @@
       "publishedAt": "2026-05-30T00:00:00.000Z",
       "description": "NHK放送技術研究所は、技術展示イベント「技研公開2026」（5月28日～31日）で、映像の撮影から配信までの過程を記録・検証する「来歴情報技術」の研究成果を展示している。C2PA規格に基づき、放送局とユーザーの双方がコンテンツの信頼性を確認できる仕組みだ。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/30/news025.html"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582253?source=rss-首相の取材対応巡り 多忙と木原氏",
-      "title": "首相の取材対応巡り 多忙と木原氏",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-29T23:38:01.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582253?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6582252?source=rss-SNS巡る子保護に「共通原則」G7",
