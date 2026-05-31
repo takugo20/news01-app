@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T08:52:53.878Z",
+  "updatedAt": "2026-05-31T11:02:18.904Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,51 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582452?source=rss-嵐ありがとう 企業から投稿相次ぐ",
+      "title": "嵐ありがとう 企業から投稿相次ぐ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-31T10:57:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582452?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582450?source=rss-日ハム・万波 141m特大弾に興奮",
+      "title": "日ハム・万波 141m特大弾に興奮",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-31T10:40:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582450?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582444?source=rss-速報・森保J アイスランド戦",
+      "title": "速報・森保J アイスランド戦",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-31T10:25:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582444?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582449?source=rss-カープが泥沼6連敗 監督謝罪",
+      "title": "カープが泥沼6連敗 監督謝罪",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-31T10:14:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582449?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582443?source=rss-森保Jアウェーユニ求め 長蛇の列",
+      "title": "森保Jアウェーユニ求め 長蛇の列",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-31T09:36:31.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582443?source=rss"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582440?source=rss-嵐がラストライブ SNSの​反応",
       "title": "嵐がラストライブ SNSの​反応",
@@ -117,15 +162,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6582421?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582418?source=rss-朗希 球速アップの要因を明かす",
-      "title": "朗希 球速アップの要因を明かす",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-31T05:52:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582418?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582416?source=rss-KARA 日本のファンイベント延期",
       "title": "KARA 日本のファンイベント延期",
       "source": "Yahoo!ニュース エンタメ",
@@ -142,15 +178,6 @@
       "publishedAt": "2026-05-31T05:32:24.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6582415?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582414?source=rss-朗希 快投を見せるも4勝目お預け",
-      "title": "朗希 快投を見せるも4勝目お預け",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-31T05:17:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582414?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582412?source=rss-市川由衣 15歳からの事務所を退所",
@@ -216,15 +243,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6582399?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582390?source=rss-西武ライオンズ 嵐の曲流して練習",
-      "title": "西武ライオンズ 嵐の曲流して練習",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-31T02:13:56.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582390?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582392?source=rss-「仮面夫婦」なぜ関係続けるのか",
       "title": "「仮面夫婦」なぜ関係続けるのか",
       "source": "Yahoo!ニュース 国内",
@@ -277,15 +295,6 @@
       "publishedAt": "2026-05-31T00:58:00.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6582379?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582378?source=rss-燕・塩見749日ぶり安打 支えた妻",
-      "title": "燕・塩見749日ぶり安打 支えた妻",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-31T00:29:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582378?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582372?source=rss-小中の統廃合検討を加速へ 文科省",
@@ -367,15 +376,6 @@
       "publishedAt": "2026-05-30T10:05:02.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6582326?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582303?source=rss-マックと対極 バーガーキング社風",
-      "title": "マックと対極 バーガーキング社風",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-30T06:19:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582303?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/30/news029.html-VR上でも“触感”を再現 光で硬さを自在に変えられる新素材、「NHK技研公開」で展示中",
