@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T19:23:38.312Z",
+  "updatedAt": "2026-05-31T22:03:36.601Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,40 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582481?source=rss-嵐活動終了 大野はSTARTO社退所",
-      "title": "嵐活動終了 大野はSTARTO社退所",
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582485?source=rss-台風6号 夜に沖縄本島に最接近",
+      "title": "台風6号 夜に沖縄本島に最接近",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-31T21:44:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582485?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582484?source=rss-嵐が歴史に幕 メンバーの今後は",
+      "title": "嵐が歴史に幕 メンバーの今後は",
       "source": "Yahoo!ニュース エンタメ",
       "category": "エンタメ",
-      "publishedAt": "2026-05-31T15:06:18.000Z",
+      "publishedAt": "2026-05-31T21:34:27.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582481?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6582484?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582483?source=rss-珍事 山本由伸がABSで初回に2K",
+      "title": "珍事 山本由伸がABSで初回に2K",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-31T21:16:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582483?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582482?source=rss-嵐が異例の30分あいさつ 大野は涙",
+      "title": "嵐が異例の30分あいさつ 大野は涙",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-31T21:08:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582482?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582478?source=rss-選手がサポに中指立て J1浦和謝罪",
@@ -79,15 +106,6 @@
       "publishedAt": "2026-05-31T14:02:58.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6582476?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582473?source=rss-台風 警戒レベル4までに避難を",
-      "title": "台風 警戒レベル4までに避難を",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-31T13:53:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582473?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582470?source=rss-黒谷友香 30年超所属の事務所退所",
@@ -207,15 +225,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6582433?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582429?source=rss-原辰徳氏 阿部氏辞任の巨人に言及",
-      "title": "原辰徳氏 阿部氏辞任の巨人に言及",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-31T07:34:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582429?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582428?source=rss-活動終了の嵐 芸能界の賞賛相次ぐ",
       "title": "活動終了の嵐 芸能界の賞賛相次ぐ",
       "source": "Yahoo!ニュース エンタメ",
@@ -241,15 +250,6 @@
       "publishedAt": "2026-05-31T06:07:52.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6582421?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582416?source=rss-KARA 日本のファンイベント延期",
-      "title": "KARA 日本のファンイベント延期",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-31T05:48:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582416?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582415?source=rss-ヴィレヴァン本店閉店 ファンが列",
