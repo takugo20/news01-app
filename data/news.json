@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T13:55:05.700Z",
+  "updatedAt": "2026-05-31T16:15:15.198Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,51 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582481?source=rss-嵐活動終了 大野はSTARTO社退所",
+      "title": "嵐活動終了 大野はSTARTO社退所",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-31T15:06:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582481?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582478?source=rss-選手がサポに中指立て J1浦和謝罪",
+      "title": "選手がサポに中指立て J1浦和謝罪",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-31T14:27:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582478?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582477?source=rss-相葉の親友 風間俊介が万感の思い",
+      "title": "相葉の親友 風間俊介が万感の思い",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-31T14:08:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582477?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582474?source=rss-タイヤ不具合 海外では墜落事故も",
+      "title": "タイヤ不具合 海外では墜落事故も",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-31T14:03:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582474?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582476?source=rss-吉田麻也 交代時の花道に「恐縮」",
+      "title": "吉田麻也 交代時の花道に「恐縮」",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-31T14:02:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582476?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582473?source=rss-台風 警戒レベル4までに避難を",
       "title": "台風 警戒レベル4までに避難を",
@@ -117,15 +162,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6582456?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582453?source=rss-吉田麻也交代に異例花道 国立拍手",
-      "title": "吉田麻也交代に異例花道 国立拍手",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-31T11:13:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582453?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582452?source=rss-嵐ありがとう 企業から投稿相次ぐ",
       "title": "嵐ありがとう 企業から投稿相次ぐ",
       "source": "Yahoo!ニュース 経済",
@@ -162,15 +198,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6582443?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582440?source=rss-嵐がラストライブ SNSの​反応",
-      "title": "嵐がラストライブ SNSの​反応",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-31T08:45:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582440?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582433?source=rss-1号在留者受け入れ停止 外食悲鳴",
       "title": "1号在留者受け入れ停止 外食悲鳴",
       "source": "Yahoo!ニュース 経済",
@@ -178,15 +205,6 @@
       "publishedAt": "2026-05-31T07:53:10.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6582433?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582432?source=rss-天皇陛下と愛子さま観戦 球場沸く",
-      "title": "天皇陛下と愛子さま観戦 球場沸く",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-31T07:38:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582432?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582429?source=rss-原辰徳氏 阿部氏辞任の巨人に言及",
@@ -270,15 +288,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6582410?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582407?source=rss-「ありがとう」ファンが嵐に感謝",
-      "title": "「ありがとう」ファンが嵐に感謝",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-31T04:17:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582407?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582392?source=rss-「仮面夫婦」なぜ関係続けるのか",
       "title": "「仮面夫婦」なぜ関係続けるのか",
       "source": "Yahoo!ニュース 国内",
@@ -331,15 +340,6 @@
       "publishedAt": "2026-05-30T23:43:40.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6582372?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582368?source=rss-なぜチョコバナナ人気 専門店続々",
-      "title": "なぜチョコバナナ人気 専門店続々",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-30T23:34:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582368?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/31/news021.html-薄くてモバイルバッテリーでも動いてスマホ操作もできて秋には小さく収納できる「扇風機」を見てきた",
