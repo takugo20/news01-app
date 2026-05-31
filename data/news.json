@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T11:02:18.904Z",
+  "updatedAt": "2026-05-31T13:55:05.700Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,96 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582473?source=rss-台風 警戒レベル4までに避難を",
+      "title": "台風 警戒レベル4までに避難を",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-31T13:53:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582473?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582470?source=rss-黒谷友香 30年超所属の事務所退所",
+      "title": "黒谷友香 30年超所属の事務所退所",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-31T13:26:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582470?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582469?source=rss-森保J 堅守に苦戦も6連勝でW杯へ",
+      "title": "森保J 堅守に苦戦も6連勝でW杯へ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-31T13:14:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582469?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582465?source=rss-小川航基が豪快ヘッド 国立大興奮",
+      "title": "小川航基が豪快ヘッド 国立大興奮",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-31T13:13:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582465?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582463?source=rss-大河 中野英雄サプライズ親子共演",
+      "title": "大河 中野英雄サプライズ親子共演",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-31T13:12:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582463?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582460?source=rss-エアコン買い替え 急ぐ動き強まる",
+      "title": "エアコン買い替え 急ぐ動き強まる",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-31T12:41:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582460?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582462?source=rss-ナフサ100%水準戻る見通し 経産相",
+      "title": "ナフサ100%水準戻る見通し 経産相",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-05-31T12:40:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582462?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582458?source=rss-瀕死の工場 妻に作った器具ヒット",
+      "title": "瀕死の工場 妻に作った器具ヒット",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-05-31T12:09:26.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582458?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582456?source=rss-GTO生徒役にカジサックの長女",
+      "title": "GTO生徒役にカジサックの長女",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-05-31T11:42:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582456?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582453?source=rss-吉田麻也交代に異例花道 国立拍手",
+      "title": "吉田麻也交代に異例花道 国立拍手",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-05-31T11:13:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582453?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582452?source=rss-嵐ありがとう 企業から投稿相次ぐ",
       "title": "嵐ありがとう 企業から投稿相次ぐ",
       "source": "Yahoo!ニュース 経済",
@@ -52,15 +142,6 @@
       "publishedAt": "2026-05-31T10:40:42.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6582450?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582444?source=rss-速報・森保J アイスランド戦",
-      "title": "速報・森保J アイスランド戦",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-31T10:25:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582444?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582449?source=rss-カープが泥沼6連敗 監督謝罪",
@@ -117,15 +198,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6582429?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582427?source=rss-ロブチェン ダービーVで2冠達成",
-      "title": "ロブチェン ダービーVで2冠達成",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-31T06:59:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582427?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582428?source=rss-活動終了の嵐 芸能界の賞賛相次ぐ",
       "title": "活動終了の嵐 芸能界の賞賛相次ぐ",
       "source": "Yahoo!ニュース エンタメ",
@@ -133,15 +205,6 @@
       "publishedAt": "2026-05-31T06:56:55.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6582428?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582424?source=rss-台風は1日沖縄に最接近 厳重警戒",
-      "title": "台風は1日沖縄に最接近 厳重警戒",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-31T06:49:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582424?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582423?source=rss-なぜ 街路樹の「やりすぎせん定」",
@@ -180,15 +243,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6582415?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582412?source=rss-市川由衣 15歳からの事務所を退所",
-      "title": "市川由衣 15歳からの事務所を退所",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-31T05:12:58.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582412?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582413?source=rss-「GTO」生徒役28人を一挙発表",
       "title": "「GTO」生徒役28人を一挙発表",
       "source": "Yahoo!ニュース エンタメ",
@@ -207,15 +261,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6582411?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582409?source=rss-久保が背番号8 南野に覚悟の電話",
-      "title": "久保が背番号8 南野に覚悟の電話",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-05-31T04:48:58.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582409?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582410?source=rss-「新型軍国主義」は虚偽 防衛相",
       "title": "「新型軍国主義」は虚偽 防衛相",
       "source": "Yahoo!ニュース 国内",
@@ -232,15 +277,6 @@
       "publishedAt": "2026-05-31T04:17:23.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6582407?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582399?source=rss-勝地涼 所属事務所の退所を発表",
-      "title": "勝地涼 所属事務所の退所を発表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-31T03:22:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582399?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582392?source=rss-「仮面夫婦」なぜ関係続けるのか",
@@ -288,15 +324,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6582382?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582379?source=rss-佐藤二朗の映画 揺れる解釈と賛否",
-      "title": "佐藤二朗の映画 揺れる解釈と賛否",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-05-31T00:58:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582379?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582372?source=rss-小中の統廃合検討を加速へ 文科省",
       "title": "小中の統廃合検討を加速へ 文科省",
       "source": "Yahoo!ニュース 国内",
@@ -333,15 +360,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6582366?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582364?source=rss-大学の0円朝食 どんなメニュー",
-      "title": "大学の0円朝食 どんなメニュー",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-30T23:00:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582364?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/31/news014.html-「Forza Horizon 6」にハマったマンガ家がレースゲームに興味ない人にも勧めたい理由は……できなくてもいい快適さ？",
       "title": "「Forza Horizon 6」にハマったマンガ家がレースゲームに興味ない人にも勧めたい理由は……できなくてもいい快適さ？",
       "source": "ITmedia NEWS",
@@ -349,24 +367,6 @@
       "publishedAt": "2026-05-30T22:14:00.000Z",
       "description": "実はボクは車やレースゲームにそこまで興味があるわけではありませんが、「Forza Horizon 6」にはすっかりハマりました。ボクを夢中にさせたのは、その自由度の高さです。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/31/news014.html"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582354?source=rss-ミサイル共同開発加速で一致 日米",
-      "title": "ミサイル共同開発加速で一致 日米",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-05-30T14:21:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582354?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582348?source=rss-パジェロ復活 要望「非常に強く」",
-      "title": "パジェロ復活 要望「非常に強く」",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-05-30T13:27:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582348?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6582326?source=rss-首相の動向発信する速報X 話題",
