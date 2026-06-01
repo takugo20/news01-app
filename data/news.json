@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T17:50:57.322Z",
+  "updatedAt": "2026-06-01T21:38:12.873Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,51 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582611?source=rss-台風 2～3日に九州から関東に接近",
+      "title": "台風 2～3日に九州から関東に接近",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-01T21:33:01.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582611?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6582610?source=rss-Anthropic 上場に向けIPO申請",
+      "title": "Anthropic 上場に向けIPO申請",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-06-01T21:21:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582610?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/02/news062.html-Anthropicが上場申請",
+      "title": "Anthropicが上場申請",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-01T21:20:00.000Z",
+      "description": "Anthropicは、米証券取引委員会（SEC）に内容非公開で新規株式公開（IPO）を申請したと発表した。発行株数や価格などの詳細は後日公開される。同社は直近の資金調達により企業価値がOpenAIを上回ったとされており、年間予想売上高も増加している。早ければ今秋にも上場する見通しだ。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/02/news062.html"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582609?source=rss-堂前透と結婚 田中かえさんとは",
+      "title": "堂前透と結婚 田中かえさんとは",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-01T21:12:53.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582609?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582608?source=rss-櫻井翔 LIVEあいさつの真意明かす",
+      "title": "櫻井翔 LIVEあいさつの真意明かす",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-01T21:05:53.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582608?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582605?source=rss-櫻井翔 公演後ステージで5人乾杯",
       "title": "櫻井翔 公演後ステージで5人乾杯",
       "source": "Yahoo!ニュース エンタメ",
@@ -52,15 +97,6 @@
       "publishedAt": "2026-06-01T14:00:39.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6582575?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582602?source=rss-台風 西日本など中心に天気大荒れ",
-      "title": "台風 西日本など中心に天気大荒れ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-01T13:49:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582602?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582600?source=rss-ロングコートダディ堂前 結婚発表",
@@ -216,15 +252,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6582563?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582564?source=rss-30分間の嵐5人のスピーチ 全文",
-      "title": "30分間の嵐5人のスピーチ 全文",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-01T08:38:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582564?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582561?source=rss-補正予算案 5日に成立の見通し",
       "title": "補正予算案 5日に成立の見通し",
       "source": "Yahoo!ニュース 国内",
@@ -268,15 +295,6 @@
       "publishedAt": "2026-06-01T07:50:00.000Z",
       "description": "沖縄県浦添市は5月29日、業務用ノートPC83台が盗難に遭い、うち3台に住民登録者11万5526人分などの個人情報が含まれていたと発表した。現時点において、情報の流出や悪用被害は確認していないという。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/01/news086.html"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582556?source=rss-芸能界 退所や移籍などの発表続々",
-      "title": "芸能界 退所や移籍などの発表続々",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-01T07:46:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582556?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582552?source=rss-TOHOシネマズ 料金一部値上げへ",
@@ -556,24 +574,6 @@
       "publishedAt": "2026-05-30T22:14:00.000Z",
       "description": "実はボクは車やレースゲームにそこまで興味があるわけではありませんが、「Forza Horizon 6」にはすっかりハマりました。ボクを夢中にさせたのは、その自由度の高さです。",
       "url": "https://www.itmedia.co.jp/news/articles/2605/31/news014.html"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6582326?source=rss-首相の動向発信する速報X 話題",
-      "title": "首相の動向発信する速報X 話題",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-05-30T10:05:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582326?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2605/30/news029.html-VR上でも“触感”を再現 光で硬さを自在に変えられる新素材、「NHK技研公開」で展示中",
-      "title": "VR上でも“触感”を再現 光で硬さを自在に変えられる新素材、「NHK技研公開」で展示中",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-05-30T03:00:00.000Z",
-      "description": "NHK放送技術研究所は、技術展示イベント「技研公開2026」（5月28日～31日）で、光を当てると軟らかさが変わる材料を使った触感提示デバイスの研究成果を展示している。青色光を当てると軟らかくなり、止めると元の硬さに戻る独自のポリマー材料を開発した。",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/30/news029.html"
     }
   ]
 }
