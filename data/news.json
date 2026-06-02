@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T16:42:34.452Z",
+  "updatedAt": "2026-06-02T20:55:17.025Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,33 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582726?source=rss-台風6号 関東は朝から雨風ピーク",
+      "title": "台風6号 関東は朝から雨風ピーク",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-02T20:27:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582726?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582725?source=rss-台風6号 和歌山県南部に上陸",
+      "title": "台風6号 和歌山県南部に上陸",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-02T19:59:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582725?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/03/news063.html-Microsoft、NVIDIAのSoC搭載でAI特化のミニPC「Surface RTX Spark Dev Box」披露",
+      "title": "Microsoft、NVIDIAのSoC搭載でAI特化のミニPC「Surface RTX Spark Dev Box」披露",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-02T19:50:00.000Z",
+      "description": "Microsoftは「Build 2026」で、AI特化型デスクトップPC「Surface RTX Spark Dev Box」を発表した。NVIDIAの「RTX Spark」を搭載し、最大1ペタフロップスの演算性能と128GBのメモリにより、1200億パラメータ超のモデルのローカル推論や学習を可能にする。各種開発ツー...",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/03/news063.html"
+    },
+    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582724?source=rss-ポケカ30周年パック 転売対策は",
       "title": "ポケカ30周年パック 転売対策は",
       "source": "Yahoo!ニュース 経済",
@@ -61,15 +88,6 @@
       "publishedAt": "2026-06-02T13:52:13.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6582718?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582716?source=rss-台風6号 各地の警戒期間や注意点",
-      "title": "台風6号 各地の警戒期間や注意点",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-02T13:23:09.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582716?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582717?source=rss-2万羽が焼け死んだ養鶏場 客続々",
@@ -441,15 +459,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2606/02/news066.html"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582623?source=rss-知事選 自民「久々」勝利に安堵感",
-      "title": "知事選 自民「久々」勝利に安堵感",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-01T23:59:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582623?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/02/news063.html-フロリダ州がOpenAIとアルトマンCEOを提訴 ChatGPTを「子供を危険にさらす製品」と非難",
       "title": "フロリダ州がOpenAIとアルトマンCEOを提訴 ChatGPTを「子供を危険にさらす製品」と非難",
       "source": "ITmedia NEWS",
@@ -529,15 +538,6 @@
       "publishedAt": "2026-06-01T08:10:29.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6582555?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/01/news086.html-市役所のPC83台が盗難被害 中に11万人分の個人情報――委託先社員を逮捕、転売目的か 浦添市",
-      "title": "市役所のPC83台が盗難被害 中に11万人分の個人情報――委託先社員を逮捕、転売目的か 浦添市",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-01T07:50:00.000Z",
-      "description": "沖縄県浦添市は5月29日、業務用ノートPC83台が盗難に遭い、うち3台に住民登録者11万5526人分などの個人情報が含まれていたと発表した。現時点において、情報の流出や悪用被害は確認していないという。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/01/news086.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6582522?source=rss-AI巡る米中の競争 日本の役割は",
