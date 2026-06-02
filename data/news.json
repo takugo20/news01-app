@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T20:55:17.025Z",
+  "updatedAt": "2026-06-02T23:04:50.166Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,67 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582726?source=rss-台風6号 関東は朝から雨風ピーク",
-      "title": "台風6号 関東は朝から雨風ピーク",
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582735?source=rss-台風6号の影響は 現地のSNS投稿",
+      "title": "台風6号の影響は 現地のSNS投稿",
       "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-06-02T20:27:11.000Z",
+      "publishedAt": "2026-06-02T23:03:08.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582726?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6582735?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582734?source=rss-日銀 1%への追加利上げを本格検討",
+      "title": "日銀 1%への追加利上げを本格検討",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-02T23:00:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582734?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/03/news066.html-Microsoft、AndroidベースのAIエージェント基盤「Solara」発表 Snapdragon搭載のバッジ型端末も披露",
+      "title": "Microsoft、AndroidベースのAIエージェント基盤「Solara」発表 Snapdragon搭載のバッジ型端末も披露",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-02T22:49:00.000Z",
+      "description": "Microsoftは「Build 2026」で、AIエージェントの実行に特化した新プラットフォーム「Project Solara」を発表した。OSにはWindowsではなくAOSPベースのOSを採用。Qualcommと共同開発した社員証のようなデバイスと、MediaTekと共同開発した据え置き型デバイスのリファレンスを...",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/03/news066.html"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582731?source=rss-台風6号 東海や関東で大雨ピーク",
+      "title": "台風6号 東海や関東で大雨ピーク",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-02T22:22:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582731?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/03/news054.html-「電源タップは3～5年で交換推奨」は短すぎ？ 推奨する日本配線システム工業会に聞いてみた",
+      "title": "「電源タップは3～5年で交換推奨」は短すぎ？ 推奨する日本配線システム工業会に聞いてみた",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-02T22:14:00.000Z",
+      "description": "「電源タップの交換目安は、3～5年」というパナソニックのX投稿が物議を醸している。そこで、推奨している団体として名前が挙がっていた日本配線システム工業会に話を聞いた。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/03/news054.html"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6571062?source=rss-全国の鉄道・フライト 最新情報",
+      "title": "全国の鉄道・フライト 最新情報",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-02T21:52:00.000Z",
+      "description": "最新の鉄道運行情報、フライト情報。災害による交通機関への影響を確認。",
+      "url": "https://news.yahoo.co.jp/pickup/6571062?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582728?source=rss-セブン 全国2万店から過大徴収",
+      "title": "セブン 全国2万店から過大徴収",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-02T21:32:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582728?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582725?source=rss-台風6号 和歌山県南部に上陸",
@@ -70,15 +124,6 @@
       "publishedAt": "2026-06-02T15:17:04.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6582724?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582723?source=rss-東京などで線状降水帯発生の恐れ",
-      "title": "東京などで線状降水帯発生の恐れ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-02T14:46:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582723?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582718?source=rss-橋本環奈 ドレスで走ってイベ合流",
@@ -207,15 +252,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6582698?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582695?source=rss-スルメイカ不漁 夢も希望もねえ",
-      "title": "スルメイカ不漁 夢も希望もねえ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-02T10:00:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582695?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582692?source=rss-台風 各地のイベントに多大な影響",
       "title": "台風 各地のイベントに多大な影響",
       "source": "Yahoo!ニュース エンタメ",
@@ -234,15 +270,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6582690?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582689?source=rss-鶏肉の需要増は「節約志向」農相",
-      "title": "鶏肉の需要増は「節約志向」農相",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-02T08:48:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582689?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582676?source=rss-CUTIE STREET 韓国まで人気波及",
       "title": "CUTIE STREET 韓国まで人気波及",
       "source": "Yahoo!ニュース エンタメ",
@@ -250,15 +277,6 @@
       "publishedAt": "2026-06-02T08:45:47.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6582676?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582685?source=rss-スーパー「Olympic」なぜ弱体化",
-      "title": "スーパー「Olympic」なぜ弱体化",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-02T08:39:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582685?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/02/news097.html-マネーフォワードの銀行連携、再開率99％超でも「完全復旧」に至らないワケ",
@@ -511,24 +529,6 @@
       "publishedAt": "2026-06-01T09:54:00.000Z",
       "description": "「JCB社員が社員証や他社の社内資料と思しき写真をInstagramに投稿している」──5月29日、Xでこんな投稿が拡散した。添付のスクリーンショットには、同社やその関連会社のものと思しきシステム構成図や個人情報の取り扱いをまとめた資料が。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/01/news120.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/01/news119.html-リコー、複合機・プリンタなど値上げ 141万円アップの機種も 8月3日から",
-      "title": "リコー、複合機・プリンタなど値上げ 141万円アップの機種も 8月3日から",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-01T09:50:00.000Z",
-      "description": "リコーとリコージャパンは、複合機やレーザープリンタなど一部商品の価格を8月3日に改定する。原材料費などの高騰が続く中、企業努力だけでは吸収しきれなくなったと説明する。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/01/news119.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/01/news062.html-マクドナルドのセルフレジは使いにくい？ じゃあ、最高に使いやすいセルフレジはどれだ",
-      "title": "マクドナルドのセルフレジは使いにくい？ じゃあ、最高に使いやすいセルフレジはどれだ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-01T08:13:00.000Z",
-      "description": "逆に、使いやすいセルフレジはどれだ？",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/01/news062.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6582555?source=rss-子どものSNS利用 法規制は必要?",
