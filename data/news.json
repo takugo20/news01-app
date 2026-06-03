@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T23:04:50.166Z",
+  "updatedAt": "2026-06-03T04:44:49.226Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,247 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582735?source=rss-台風6号の影響は 現地のSNS投稿",
-      "title": "台風6号の影響は 現地のSNS投稿",
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582776?source=rss-一時1ドル160円台 1カ月ぶり水準",
+      "title": "一時1ドル160円台 1カ月ぶり水準",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-03T04:42:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582776?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6582772?source=rss-警察庁 サイバー対策に民間専門家",
+      "title": "警察庁 サイバー対策に民間専門家",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-06-03T04:25:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582772?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582771?source=rss-大谷に敬遠 敵地なのにブーイング",
+      "title": "大谷に敬遠 敵地なのにブーイング",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-03T04:20:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582771?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582770?source=rss-日経平均 一時2000円超値上がり",
+      "title": "日経平均 一時2000円超値上がり",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-03T03:52:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582770?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582767?source=rss-元SB又吉 メキシコで野球観一変",
+      "title": "元SB又吉 メキシコで野球観一変",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-03T03:36:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582767?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/02/news032.html-サイバーセキュリティクラウドで働くみんなのデスク環境 上場セキュリティ企業を支える机をチェック",
+      "title": "サイバーセキュリティクラウドで働くみんなのデスク環境 上場セキュリティ企業を支える机をチェック",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-03T03:00:00.000Z",
+      "description": "IT関連企業で働く人のデスク環境を写真や本人のコメント付きで紹介。社員がどんな環境で働いているかチェックする。今回は、Webセキュリティサービスを展開するサイバーセキュリティクラウドで働く人たちのデスク環境を探る。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/02/news032.html"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6582763?source=rss-トランプ氏 AI規制強化で大統領令",
+      "title": "トランプ氏 AI規制強化で大統領令",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-06-03T02:57:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582763?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582765?source=rss-台風6号 関東は夕方まで風ピーク",
+      "title": "台風6号 関東は夕方まで風ピーク",
       "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-06-02T23:03:08.000Z",
+      "publishedAt": "2026-06-03T02:52:00.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582735?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6582765?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/03/news087.html-Microsoft、次世代量子チップ「Majorana 2」披露 実用化目標を2029年に前倒し",
+      "title": "Microsoft、次世代量子チップ「Majorana 2」披露 実用化目標を2029年に前倒し",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-03T02:47:00.000Z",
+      "description": "Microsoftは「Build 2026」で、次世代トポロジカル量子チップ「Majorana 2」を発表した。先代比で量子ビットの信頼性が1000倍に向上し、最長1分間の量子状態維持を達成。エージェント型AIの活用で開発が劇的に加速したとし、商用量子コンピュータの実現目標を2029年へと大幅に前倒しした。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/03/news087.html"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582761?source=rss-二宮 6/1に買い物先で相葉と遭遇",
+      "title": "二宮 6/1に買い物先で相葉と遭遇",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-03T02:38:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582761?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582758?source=rss-嵐公演で混雑の駅 構内放送が話題",
+      "title": "嵐公演で混雑の駅 構内放送が話題",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-03T02:18:01.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582758?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582757?source=rss-台風が関東に接近 現地のSNS投稿",
+      "title": "台風が関東に接近 現地のSNS投稿",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-03T02:15:00.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582757?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/03/news081.html-デザイン書の老舗・MdNが消滅へ インプレスに吸収合併",
+      "title": "デザイン書の老舗・MdNが消滅へ インプレスに吸収合併",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-03T02:14:00.000Z",
+      "description": "デザイン誌「MdN」で知られた出版社・エムディエヌコーポレーションが7月1日付でインプレスに吸収合併され、法人として消滅する。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/03/news081.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/03/news077.html-Microsoft、自社開発した7つのAIモデル発表 画像編集や音声認識も",
+      "title": "Microsoft、自社開発した7つのAIモデル発表 画像編集や音声認識も",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-03T02:03:00.000Z",
+      "description": "米Microsoftが自社開発した7つのAIモデル群「Microsoft AI Models」を発表しました。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/03/news077.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/03/news074.html-Microsoft、AIエージェント用のカスタマイズ可能な分離環境「Microsoft Execution Containers」発表 OpenClawも動作",
+      "title": "Microsoft、AIエージェント用のカスタマイズ可能な分離環境「Microsoft Execution Containers」発表 OpenClawも動作",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-03T02:02:00.000Z",
+      "description": "米MicrosoftがAIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers」（MXC）を発表しました。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/03/news074.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/03/news072.html-気象庁「線状降水帯情報」不具合で発表できず 運用開始わずか5日",
+      "title": "気象庁「線状降水帯情報」不具合で発表できず 運用開始わずか5日",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-03T01:37:00.000Z",
+      "description": "新しい防災気象情報だが、台風6号の接近と重なるタイミングで運用に支障が出ている。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/03/news072.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/03/news071.html-ネット青少年保護、年齢確認を厳格化 一律年齢制限には踏み込まず 総務省有識者案",
+      "title": "ネット青少年保護、年齢確認を厳格化 一律年齢制限には踏み込まず 総務省有識者案",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-03T01:28:00.000Z",
+      "description": "総務省がインターネット上で青少年を保護するための規制に関する有識者会議を開き、サービス事業者に年齢確認の厳格化などを求める報告書案を公表した。SNS依存や誹謗（ひぼう）中傷が社会問題化し、生成AIを悪用して加害者になるケースも相次いでいるため、対策を強化する。一方、年齢による一律の利用制限は望ましくないとした。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/03/news071.html"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582752?source=rss-美女と野獣 歌手ブライソン氏死去",
+      "title": "美女と野獣 歌手ブライソン氏死去",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-03T01:25:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582752?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582753?source=rss-長友佑都 ハット姿でメキシコ入り",
+      "title": "長友佑都 ハット姿でメキシコ入り",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-03T01:21:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582753?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582751?source=rss-KIOXIA 時価総額が一時トヨタ超え",
+      "title": "KIOXIA 時価総額が一時トヨタ超え",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-03T01:14:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582751?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582748?source=rss-皇族数確保 養子は15歳以上を想定",
+      "title": "皇族数確保 養子は15歳以上を想定",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-03T00:45:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582748?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/03/news068.html-トランプ米大統領、AI安全保障に関する大統領令に署名 最先端モデルを公開30日前に政府が検査可能に",
+      "title": "トランプ米大統領、AI安全保障に関する大統領令に署名 最先端モデルを公開30日前に政府が検査可能に",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-03T00:42:00.000Z",
+      "description": "トランプ米大統領は、先進的AIのイノベーションと安全保障の促進に関する大統領令に署名した。戦争省やCISAによるサイバー防衛強化に加え、主要企業の最先端AIモデルを政府が事前検証する任意の枠組みを構築する。政府は全面的な監視を否定しており、民間の開発自由度を維持しつつ安全保障の確保を目指すとしている。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/03/news068.html"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582747?source=rss-「鬼武者」完全新作 9月25日発売",
+      "title": "「鬼武者」完全新作 9月25日発売",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-03T00:33:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582747?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582743?source=rss-岡本和真が3戦ぶり13号 敵地沈黙",
+      "title": "岡本和真が3戦ぶり13号 敵地沈黙",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-03T00:05:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582743?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582742?source=rss-3.1兆円補正予算案を閣議決定",
+      "title": "3.1兆円補正予算案を閣議決定",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-02T23:53:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582742?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582737?source=rss-U-19日本代表MF 主審ミスで退場",
+      "title": "U-19日本代表MF 主審ミスで退場",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-02T23:38:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582737?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582736?source=rss-台風6号 各地の河川水位情報",
+      "title": "台風6号 各地の河川水位情報",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-02T23:06:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582736?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582734?source=rss-日銀 1%への追加利上げを本格検討",
@@ -61,15 +295,6 @@
       "publishedAt": "2026-06-02T22:49:00.000Z",
       "description": "Microsoftは「Build 2026」で、AIエージェントの実行に特化した新プラットフォーム「Project Solara」を発表した。OSにはWindowsではなくAOSPベースのOSを採用。Qualcommと共同開発した社員証のようなデバイスと、MediaTekと共同開発した据え置き型デバイスのリファレンスを...",
       "url": "https://www.itmedia.co.jp/news/articles/2606/03/news066.html"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582731?source=rss-台風6号 東海や関東で大雨ピーク",
-      "title": "台風6号 東海や関東で大雨ピーク",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-02T22:22:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582731?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/03/news054.html-「電源タップは3～5年で交換推奨」は短すぎ？ 推奨する日本配線システム工業会に聞いてみた",
@@ -99,15 +324,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6582728?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582725?source=rss-台風6号 和歌山県南部に上陸",
-      "title": "台風6号 和歌山県南部に上陸",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-02T19:59:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582725?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/03/news063.html-Microsoft、NVIDIAのSoC搭載でAI特化のミニPC「Surface RTX Spark Dev Box」披露",
       "title": "Microsoft、NVIDIAのSoC搭載でAI特化のミニPC「Surface RTX Spark Dev Box」披露",
       "source": "ITmedia NEWS",
@@ -133,15 +349,6 @@
       "publishedAt": "2026-06-02T13:52:13.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6582718?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582717?source=rss-2万羽が焼け死んだ養鶏場 客続々",
-      "title": "2万羽が焼け死んだ養鶏場 客続々",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-02T13:22:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582717?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582715?source=rss-東京D 試合前にDJが嵐メドレー",
@@ -171,24 +378,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2606/02/news128.html"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582712?source=rss-台風 出社か在宅か法的ポイントは",
-      "title": "台風 出社か在宅か法的ポイントは",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-02T12:13:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582712?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582709?source=rss-名鉄広見線 新可児-御嵩なぜ廃止",
-      "title": "名鉄広見線 新可児-御嵩なぜ廃止",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-02T11:29:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582709?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582706?source=rss-「線状降水帯」情報 発表に不具合",
       "title": "「線状降水帯」情報 発表に不具合",
       "source": "Yahoo!ニュース 国内",
@@ -196,15 +385,6 @@
       "publishedAt": "2026-06-02T11:25:01.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6582706?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582707?source=rss-補正予算案が判明 全額赤字国債で",
-      "title": "補正予算案が判明 全額赤字国債で",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-02T11:16:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582707?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582703?source=rss-楽天低迷 監督の采配にファン不満",
@@ -225,15 +405,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2606/02/news123.html"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582700?source=rss-清原勝児が躍動「父喜ばせたい」",
-      "title": "清原勝児が躍動「父喜ばせたい」",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-02T10:23:03.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582700?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582697?source=rss-有村架純 ロケで全力疾走しコケた",
       "title": "有村架純 ロケで全力疾走しコケた",
       "source": "Yahoo!ニュース エンタメ",
@@ -241,24 +412,6 @@
       "publishedAt": "2026-06-02T10:15:42.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6582697?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582698?source=rss-看板「つり具」 実態は大衆そば屋",
-      "title": "看板「つり具」 実態は大衆そば屋",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-02T10:10:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582698?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582692?source=rss-台風 各地のイベントに多大な影響",
-      "title": "台風 各地のイベントに多大な影響",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-02T09:23:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582692?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582690?source=rss-早紀江さん 滋さんに「ごめんね」",
@@ -297,24 +450,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6582683?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582681?source=rss-G浅野ら2軍降格 監督代行が説明",
-      "title": "G浅野ら2軍降格 監督代行が説明",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-02T08:00:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582681?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582678?source=rss-千葉ロッテ新本拠地 ドーム化へ",
-      "title": "千葉ロッテ新本拠地 ドーム化へ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-02T07:46:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582678?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582680?source=rss-山本耕史 学校行事参加は慎重に",
       "title": "山本耕史 学校行事参加は慎重に",
       "source": "Yahoo!ニュース エンタメ",
@@ -331,24 +466,6 @@
       "publishedAt": "2026-06-02T07:34:23.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6582677?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582668?source=rss-歌手の菅原洋一さん死去 92歳",
-      "title": "歌手の菅原洋一さん死去 92歳",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-02T05:28:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582668?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582666?source=rss-得意の6月 大谷3安打で好スタート",
-      "title": "得意の6月 大谷3安打で好スタート",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-02T05:08:09.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582666?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6582667?source=rss-マンジャロSNSで拡散 副作用も",
@@ -378,15 +495,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6582665?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582660?source=rss-松浦亜弥 久しぶりのCM&歌唱",
-      "title": "松浦亜弥 久しぶりのCM&歌唱",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-02T04:02:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582660?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/02/news077.html-女性向け転職サイトで3万8000件の不正ログイン 「女の転職type」にリスト型攻撃",
       "title": "女性向け転職サイトで3万8000件の不正ログイン 「女の転職type」にリスト型攻撃",
       "source": "ITmedia NEWS",
@@ -394,15 +502,6 @@
       "publishedAt": "2026-06-02T03:20:00.000Z",
       "description": "キャリアデザインセンターは、転職サイト「女の転職type」のスマホアプリが不正アクセスを受け、最大1万8253人分の会員情報を第三者が閲覧したおそれがあると発表した。外部で入手したIDとパスワードを悪用するリスト型攻撃を受けた可能性があるという。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/02/news077.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582652?source=rss-野球強豪校で食堂廃止 保護者憤り",
-      "title": "野球強豪校で食堂廃止 保護者憤り",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-02T03:07:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582652?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/02/news085.html-AWS、他クラウドと500Mbpsまでの接続が無料に 「AWS Interconnect - multicloud」に無料枠が登場",
@@ -441,60 +540,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2606/02/news073.html"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/02/news070.html-生成AIを「悩み相談」に使う10代女性たち 阿部前監督事件を招いた「AI正論」の波紋",
-      "title": "生成AIを「悩み相談」に使う10代女性たち 阿部前監督事件を招いた「AI正論」の波紋",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-02T01:31:00.000Z",
-      "description": "長女（18）への暴行容疑で、プロ野球巨人の監督だった阿部慎之助さん（47）が逮捕された。きっかけは、長女が対話型の生成AI「ChatGPT」に被害を相談し、回答に基づき児童相談所へ連絡したことだった。長女の行動の是非（ぜひ）とは別に、生成AIは若者の相談相手として定着し、若い女性ほど信頼しているとの調査結果もある。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/02/news070.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/02/news068.html-「N高がテレアポ営業」文春報道、かわんご氏が反論 「教育に数値管理は必要」 N高・ZEN大の「正直な数値」発表へ",
-      "title": "「N高がテレアポ営業」文春報道、かわんご氏が反論 「教育に数値管理は必要」 N高・ZEN大の「正直な数値」発表へ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-02T01:06:00.000Z",
-      "description": "かわんご氏は、「個人的なコメント」と前置きした上で、数値管理やマニュアル化は、「教育の質を高めるために必要」だと主張する。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/02/news068.html"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582630?source=rss-自賠責運用益の助成金 不正相次ぐ",
-      "title": "自賠責運用益の助成金 不正相次ぐ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-02T00:56:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582630?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/02/news066.html-Google擁するAlphabet、AI基盤増強に向け800億ドルの株式調達へ",
-      "title": "Google擁するAlphabet、AI基盤増強に向け800億ドルの株式調達へ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-02T00:34:00.000Z",
-      "description": "Googleの親会社Alphabetは、AI向けインフラ拡充を目的に総額800億ドル規模の株式資本調達を実施すると発表した。公募増資やATMプログラム、Berkshire Hathawayへの第三者割当増資を組み合わせる。資金は主にAI基盤の設備投資に充てられ、需要超過が続くAI市場での供給能力拡大と急成長を支える。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/02/news066.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/02/news063.html-フロリダ州がOpenAIとアルトマンCEOを提訴 ChatGPTを「子供を危険にさらす製品」と非難",
-      "title": "フロリダ州がOpenAIとアルトマンCEOを提訴 ChatGPTを「子供を危険にさらす製品」と非難",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-01T22:18:00.000Z",
-      "description": "米フロリダ州は、OpenAIとサム・アルトマンCEOを提訴した。同州司法長官は、OpenAIが安全に関する警告を無視してChatGPTを導入し、利用者を自殺誘導や銃乱射事件の幇助などの危険にさらし、未成年者を依存状態に陥れたと主張。同州は4月、州内の銃乱射事件に関連して刑事捜査も開始している。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/02/news063.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/02/news021.html-名門カリフォルニア大学で“中学数学を教え直す”異常事態 理工系教員ら1000人超が連名で抗議文書 原因は……",
-      "title": "名門カリフォルニア大学で“中学数学を教え直す”異常事態 理工系教員ら1000人超が連名で抗議文書 原因は……",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-01T22:00:00.000Z",
-      "description": "カリフォルニア大学（UC）の数学およびSTEM（科学・技術・工学・数学）分野の教員らが、、大学運営陣やカリフォルニア州民に向け、教育体制に関する公開書簡（抗議文書）を発表した。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/02/news021.html"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6582610?source=rss-Anthropic 上場に向けIPO申請",
       "title": "Anthropic 上場に向けIPO申請",
       "source": "Yahoo!ニュース IT",
@@ -502,33 +547,6 @@
       "publishedAt": "2026-06-01T21:21:57.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6582610?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/02/news062.html-Anthropicが上場申請",
-      "title": "Anthropicが上場申請",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-01T21:20:00.000Z",
-      "description": "Anthropicは、米証券取引委員会（SEC）に内容非公開で新規株式公開（IPO）を申請したと発表した。発行株数や価格などの詳細は後日公開される。同社は直近の資金調達により企業価値がOpenAIを上回ったとされており、年間予想売上高も増加している。早ければ今秋にも上場する見通しだ。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/02/news062.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/01/news117.html-NVIDIAがヒト型ロボットのリファレンス公開、中国Unitree「H2」ベース 26年後半に実機販売も",
-      "title": "NVIDIAがヒト型ロボットのリファレンス公開、中国Unitree「H2」ベース 26年後半に実機販売も",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-01T10:00:00.000Z",
-      "description": "NVIDIAが、研究者向けにヒト型ロボットの参照設計を公開した。ロボット本体や開発用ソフトを組み合わせた一式。実機はロボット企業のUnitreeが2026年後半に発売する。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/01/news117.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/01/news120.html-「JCB社員がインスタに社内資料を載せている」Xで画像拡散 同社「事実関係を調査中」",
-      "title": "「JCB社員がインスタに社内資料を載せている」Xで画像拡散 同社「事実関係を調査中」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-01T09:54:00.000Z",
-      "description": "「JCB社員が社員証や他社の社内資料と思しき写真をInstagramに投稿している」──5月29日、Xでこんな投稿が拡散した。添付のスクリーンショットには、同社やその関連会社のものと思しきシステム構成図や個人情報の取り扱いをまとめた資料が。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/01/news120.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6582555?source=rss-子どものSNS利用 法規制は必要?",
@@ -556,24 +574,6 @@
       "publishedAt": "2026-06-01T05:40:32.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6582544?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6582537?source=rss-エバース ネタの「車」がゲームに",
-      "title": "エバース ネタの「車」がゲームに",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-06-01T03:57:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582537?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6582512?source=rss-飛び降り予兆AIで解析 40施設導入",
-      "title": "飛び降り予兆AIで解析 40施設導入",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-06-01T01:51:15.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582512?source=rss"
     }
   ]
 }
