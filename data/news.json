@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T16:59:09.935Z",
+  "updatedAt": "2026-06-03T21:20:59.877Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582857?source=rss-戸郷翔征 初の危険球退場を猛省",
+      "title": "戸郷翔征 初の危険球退場を猛省",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-03T21:19:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582857?source=rss"
+    },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6582855?source=rss-不法滞在巡る市のX 抗議受け削除",
       "title": "不法滞在巡る市のX 抗議受け削除",
@@ -187,15 +196,6 @@
       "publishedAt": "2026-06-03T10:24:40.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6582823?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582817?source=rss-戸郷が危険球退場 東京ドーム騒然",
-      "title": "戸郷が危険球退場 東京ドーム騒然",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-03T09:45:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582817?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6582816?source=rss-藤田医科大病院 患者情報漏えいか",
