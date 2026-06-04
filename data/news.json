@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T20:11:00.837Z",
+  "updatedAt": "2026-06-04T22:23:45.381Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,42 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582985?source=rss-セルフレジで万引き ごまかす手口",
+      "title": "セルフレジで万引き ごまかす手口",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-04T22:16:47.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582985?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582984?source=rss-内閣支持率で若年層50%割れ 毎日",
+      "title": "内閣支持率で若年層50%割れ 毎日",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-04T21:42:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582984?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582983?source=rss-相葉雅紀 嵐活動終了後初の連ドラ",
+      "title": "相葉雅紀 嵐活動終了後初の連ドラ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-04T21:28:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582983?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582982?source=rss-吉田麻也 日本代表に緊急合流へ",
+      "title": "吉田麻也 日本代表に緊急合流へ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-04T21:13:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6582982?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582980?source=rss-消費減税 外食業界などに補助検討",
       "title": "消費減税 外食業界などに補助検討",
@@ -216,15 +252,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6582942?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6582943?source=rss-朝ドラ28年前期 順番前後して発表",
-      "title": "朝ドラ28年前期 順番前後して発表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-04T09:13:47.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582943?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/04/news119.html-TSMC、AI活用拡大による成長維持に自信 株主総会、東京エレクトロンとの取引は継続",
       "title": "TSMC、AI活用拡大による成長維持に自信 株主総会、東京エレクトロンとの取引は継続",
       "source": "ITmedia NEWS",
@@ -331,15 +358,6 @@
       "publishedAt": "2026-06-04T06:00:00.000Z",
       "description": "米テキサスA&M大学に所属する研究者らがJournal of Extracellular Vesicles誌で発表した論文「Intranasal Human NSC-Derived EVs Therapy Can Restrain Inflammatory Microglial Transcriptome, and N...",
       "url": "https://www.itmedia.co.jp/news/articles/2606/02/news121.html"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6582916?source=rss-村上世彰氏長女 テレ朝HD大株主",
-      "title": "村上世彰氏長女 テレ朝HD大株主",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-04T05:42:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582916?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/04/news098.html-Key新作「anemoi」マスターデータ流出、個人情報も漏えいか ビジュアルアーツに不正アクセス 取引先のマイナンバーも",
@@ -457,24 +475,6 @@
       "publishedAt": "2026-06-04T01:07:00.000Z",
       "description": "Googleは、AI検索機能に自社ページを表示させるか選択できる「Search Console」内の新しいトグル機能のテストを開始した。拒否しても通常の検索結果には残るため、パブリッシャーは検索流入を保ちつつコンテンツ交渉力を確保できる。併せて「生成AIパフォーマンスレポート」も追加。英当局の要請を受け、英国から順次検...",
       "url": "https://www.itmedia.co.jp/news/articles/2606/04/news071.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6582878?source=rss-ザック元監督語る 日本代表への愛",
-      "title": "ザック元監督語る 日本代表への愛",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-04T00:50:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582878?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6582868?source=rss-7～8日は気圧低下 めまいなど注意",
-      "title": "7～8日は気圧低下 めまいなど注意",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-03T23:23:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6582868?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/04/news065.html-SpaceX、IPOで750億ドル（約12兆円）調達へ 時価総額は1兆7700億ドルの見通し",
