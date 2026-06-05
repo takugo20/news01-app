@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T15:14:35.251Z",
+  "updatedAt": "2026-06-05T20:00:45.548Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6583116?source=rss-賀来賢人がグッズ配る 客席は歓声",
+      "title": "賀来賢人がグッズ配る 客席は歓声",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-05T15:33:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583116?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6583112?source=rss-栃木強殺 益田容疑者を国際手配",
       "title": "栃木強殺 益田容疑者を国際手配",
@@ -439,15 +448,6 @@
       "publishedAt": "2026-06-05T02:55:00.000Z",
       "description": "本人確認（eKYC）が未完了だとポイント付与の対象外になったほか、ポイントで支払った分へのポイント還元も廃止されるなど、ユーザーに不利な変更が目立つ。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/05/news089.html"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6583016?source=rss-東野圭吾氏のガリレオ新作発売へ",
-      "title": "東野圭吾氏のガリレオ新作発売へ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-05T02:47:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583016?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/05/news085.html-Meta、「Instagram Plus」を世界展開 月額3.99ドル（日本は319円）で",

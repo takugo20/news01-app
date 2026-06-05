@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-06-05T15:14:35.852Z",
+  "updatedAt": "2026-06-05T20:00:45.716Z",
   "newsItems": 60,
   "newsErrors": [],
   "topErrors": {
-    "nikkei225": null,
-    "usdJpy": null,
+    "nikkei225": "価格データを数値として取得できませんでした",
+    "usdJpy": "価格データを数値として取得できませんでした",
     "weather": null
   }
 }
