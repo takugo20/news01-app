@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T20:00:45.548Z",
+  "updatedAt": "2026-06-05T22:18:46.780Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6583118?source=rss-飛鳥・藤原の宮都 世界遺産登録へ",
+      "title": "飛鳥・藤原の宮都 世界遺産登録へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-05T22:10:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583118?source=rss"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6583116?source=rss-賀来賢人がグッズ配る 客席は歓声",
       "title": "賀来賢人がグッズ配る 客席は歓声",
@@ -277,15 +286,6 @@
       "publishedAt": "2026-06-05T08:43:33.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6583061?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6583060?source=rss-7-8日再び災害級大雨か 警戒を",
-      "title": "7-8日再び災害級大雨か 警戒を",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-05T08:43:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583060?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6583057?source=rss-副首都法案 自民党では反対一色",
