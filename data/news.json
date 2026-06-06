@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T13:53:52.430Z",
+  "updatedAt": "2026-06-06T16:10:32.836Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6583240?source=rss-宮崎 線状降水帯発生の恐れ",
+      "title": "宮崎 線状降水帯発生の恐れ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-06T15:06:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583240?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583238?source=rss-圧勝のカシメロ 井上尚弥興味ない",
+      "title": "圧勝のカシメロ 井上尚弥興味ない",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-06T14:11:31.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583238?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6583237?source=rss-豪産小麦が収穫減へ うどん影響か",
+      "title": "豪産小麦が収穫減へ うどん影響か",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-06T14:04:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583237?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583236?source=rss-車いすテニス小田凱人 全仏4連覇",
       "title": "車いすテニス小田凱人 全仏4連覇",
@@ -198,15 +225,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6583203?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6583204?source=rss-7日西日本で滝のような雨も 警戒",
-      "title": "7日西日本で滝のような雨も 警戒",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-06T10:06:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583204?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6583200?source=rss-訪日客誘致巡り批判 廃止の動きも",
       "title": "訪日客誘致巡り批判 廃止の動きも",
       "source": "Yahoo!ニュース 国内",
@@ -304,24 +322,6 @@
       "publishedAt": "2026-06-06T06:01:32.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6583170?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583162?source=rss-朗希が熱投 7回無失点10奪三振",
-      "title": "朗希が熱投 7回無失点10奪三振",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-06T04:45:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583162?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6583160?source=rss-90回近くチケ転売 待っていた制裁",
-      "title": "90回近くチケ転売 待っていた制裁",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-06T04:16:36.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583160?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6583157?source=rss-データセンター建設 都市部で摩擦",
