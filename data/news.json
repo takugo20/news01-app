@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T14:04:03.912Z",
+  "updatedAt": "2026-06-07T16:21:00.252Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583354?source=rss-関脇陥落の安青錦 大関昇進披露宴",
+      "title": "関脇陥落の安青錦 大関昇進披露宴",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-07T14:29:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583354?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583353?source=rss-SBが延長激戦制す 飛行機乗れず",
+      "title": "SBが延長激戦制す 飛行機乗れず",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-07T14:14:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583353?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6583351?source=rss-日本産水産物規制 韓国に協議打診",
       "title": "日本産水産物規制 韓国に協議打診",
@@ -115,15 +133,6 @@
       "publishedAt": "2026-06-07T10:58:56.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6583333?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583331?source=rss-DeNA監督が遅延行為で退場 騒然",
-      "title": "DeNA監督が遅延行為で退場 騒然",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-07T10:35:24.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583331?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6583330?source=rss-トヨタ超えたい 中国勢がHV注力",
@@ -295,15 +304,6 @@
       "publishedAt": "2026-06-07T04:51:11.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6583292?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583291?source=rss-由伸6勝目 驚異の22者連続アウト",
-      "title": "由伸6勝目 驚異の22者連続アウト",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-07T04:47:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583291?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6583289?source=rss-円満演じる「仮面夫婦」 子に影響",
