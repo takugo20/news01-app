@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T16:01:57.789Z",
+  "updatedAt": "2026-06-08T20:24:33.250Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/09/news063.html-Siri、ようやく全面刷新へ Appleが「Siri AI」発表 会話能力向上、今風のAIアシスタントに",
+      "title": "Siri、ようやく全面刷新へ Appleが「Siri AI」発表 会話能力向上、今風のAIアシスタントに",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-08T19:15:00.000Z",
+      "description": "米Appleは6月8日（現地時間）、年次開発者会議「WWDC26」の基調講演でAIアシスタント「Siri AI」を発表した。次世代の「Apple Intelligence」を構成する中核機能で、会話の文脈や画面の内容を理解し、Webの情報も踏まえて回答できるという。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/09/news063.html"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6583495?source=rss-東京23区 中古でも2割が億ション",
       "title": "東京23区 中古でも2割が億ション",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-06-06T23:19:48.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6583253?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/07/news022.html-ChatGPTに「ロックダウンモード」 プロンプトインジェクションによる情報漏えい対策",
-      "title": "ChatGPTに「ロックダウンモード」 プロンプトインジェクションによる情報漏えい対策",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-06T22:22:00.000Z",
-      "description": "OpenAIは、ChatGPTに新たなセキュリティ機能「ロックダウンモード」の提供を開始した。プロンプトインジェクション攻撃によるデータ流出リスクを抑えるためのオプションで、有効にするとWebブラウジングや外部サービスへの接続機能が制限される。機密データを扱い、厳格な保護を求める個人や組織を想定している。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/07/news022.html"
     }
   ]
 }
