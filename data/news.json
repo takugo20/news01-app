@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T20:24:33.250Z",
+  "updatedAt": "2026-06-08T22:41:47.840Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,78 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6583505?source=rss-公明政党要件失う可能性 合流検討",
+      "title": "公明政党要件失う可能性 合流検討",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-08T22:38:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583505?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6583504?source=rss-相葉雅紀 主演映画で野球監督役",
+      "title": "相葉雅紀 主演映画で野球監督役",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-08T22:29:00.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583504?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583502?source=rss-巨人が夏対策 東京D空調4℃上げ",
+      "title": "巨人が夏対策 東京D空調4℃上げ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-08T22:27:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583502?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6583501?source=rss-オープンAI 非開示でIPOを申請",
+      "title": "オープンAI 非開示でIPOを申請",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-06-08T22:08:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583501?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583500?source=rss-森保Jが米到着 久保建英が神対応",
+      "title": "森保Jが米到着 久保建英が神対応",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-08T21:58:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583500?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6583498?source=rss-日韓関係「良い」59%で最高 読売",
+      "title": "日韓関係「良い」59%で最高 読売",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-08T21:46:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583498?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6583497?source=rss-Apple 次世代のSiri AI提供へ",
+      "title": "Apple 次世代のSiri AI提供へ",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-06-08T21:22:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583497?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/09/news065.html-「iOS 27」発表 「Siri AI」などAI大幅強化、アプリ起動も3割速く 26年秋提供へ",
+      "title": "「iOS 27」発表 「Siri AI」などAI大幅強化、アプリ起動も3割速く 26年秋提供へ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-08T19:46:00.000Z",
+      "description": "米Appleは6月8日（現地時間）、WWDC2026の基調講演で、iPhone向けの次期OS「iOS 27」を発表した。26年秋提供予定で、AI基盤「Apple Intelligence」をフル活用したAIアシスタント「Siri AI」に加え、写真編集の強化、動作の高速化、子どもの安全を守る機能を見直した。対応機種は「...",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/09/news065.html"
+    },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/09/news063.html-Siri、ようやく全面刷新へ Appleが「Siri AI」発表 会話能力向上、今風のAIアシスタントに",
       "title": "Siri、ようやく全面刷新へ Appleが「Siri AI」発表 会話能力向上、今風のAIアシスタントに",
@@ -315,15 +387,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6583411?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583428?source=rss-MFエリクセン 意識失い試合中止",
-      "title": "MFエリクセン 意識失い試合中止",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-08T05:40:03.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583428?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/08/news108.html-KADOKAWA、公取委の調査「事実」と認める フリーランス法違反に関する報道受け",
       "title": "KADOKAWA、公取委の調査「事実」と認める フリーランス法違反に関する報道受け",
       "source": "ITmedia NEWS",
@@ -468,24 +531,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2606/08/news078.html"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6583375?source=rss-高市内閣の支持率70.0% JNN調査",
-      "title": "高市内閣の支持率70.0% JNN調査",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-08T01:21:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583375?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583373?source=rss-フジサンケイクラシック 中止決定",
-      "title": "フジサンケイクラシック 中止決定",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-07T23:57:47.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583373?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6583372?source=rss-旧宮家養子見直し 20-30年後想定",
       "title": "旧宮家養子見直し 20-30年後想定",
       "source": "Yahoo!ニュース 国内",
@@ -493,24 +538,6 @@
       "publishedAt": "2026-06-07T23:33:45.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6583372?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6583369?source=rss-宇宙飛行士・野口氏 初の月9熱演",
-      "title": "宇宙飛行士・野口氏 初の月9熱演",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-07T23:22:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583369?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6583367?source=rss-特殊車両の重量超過 対応を強化へ",
-      "title": "特殊車両の重量超過 対応を強化へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-07T22:51:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583367?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/08/news027.html-老化を“巻き戻し”──あるタンパク質で老マウスの肝臓が若返り Nature系列誌に掲載",
@@ -547,33 +574,6 @@
       "publishedAt": "2026-06-07T07:51:20.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6583308?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6583273?source=rss-就活チョロい AI使い5社内定22歳",
-      "title": "就活チョロい AI使い5社内定22歳",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-06-07T01:41:24.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583273?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/07/news024.html-Gemini需要急増でGoogleがSpaceXと月額9億2000万ドルの大型契約",
-      "title": "Gemini需要急増でGoogleがSpaceXと月額9億2000万ドルの大型契約",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-07T00:46:00.000Z",
-      "description": "SpaceXがGoogleにAIコンピューティング能力を提供する契約を結んだことが、SECへの提出文書で明らかになった。NVIDIA製GPUなどを月額9億2000万ドルで利用する。SpaceXにとって5月のAnthropicに続く大型インフラ契約となる。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/07/news024.html"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6583253?source=rss-米俳優組合 AIから俳優守る新契約",
-      "title": "米俳優組合 AIから俳優守る新契約",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-06-06T23:19:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583253?source=rss"
     }
   ]
 }
