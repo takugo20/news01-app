@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T20:12:01.105Z",
+  "updatedAt": "2026-06-09T22:26:12.907Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,51 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6583621?source=rss-山本恵里伽アナも 事実婚の著名人",
+      "title": "山本恵里伽アナも 事実婚の著名人",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-09T22:15:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583621?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/10/news058.html-Anthropic、ミュトス級AI「Claude Fable 5」を一般公開 保護機能解除版「Mythos 5」も限定提供",
+      "title": "Anthropic、ミュトス級AI「Claude Fable 5」を一般公開 保護機能解除版「Mythos 5」も限定提供",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-09T21:40:00.000Z",
+      "description": "Anthropicは、新AIモデル「Claude Fable 5」を一般公開した。同社の最上位「Mythosクラス」に属し、これまで一般提供を見送ってきた水準の能力を、悪用を防ぐ保護機能とともに全ユーザーへ開放した。同時に、サイバー関連の保護機能を解除した上位版「Claude Mythos 5」を信頼できるパートナー向...",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/10/news058.html"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6583618?source=rss-Anthropic ミュトス級AIを提供",
+      "title": "Anthropic ミュトス級AIを提供",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-06-09T21:31:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583618?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6583617?source=rss-実写カイジ新作 7年ぶりに公開へ",
+      "title": "実写カイジ新作 7年ぶりに公開へ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-09T21:18:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583617?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583616?source=rss-最下位の楽天 三木監督の休養発表",
+      "title": "最下位の楽天 三木監督の休養発表",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-09T21:10:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583616?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6583615?source=rss-ゼルダ時のオカリナ リメーク決定",
       "title": "ゼルダ時のオカリナ リメーク決定",
       "source": "Yahoo!ニュース エンタメ",
@@ -70,15 +115,6 @@
       "publishedAt": "2026-06-09T13:50:51.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6583609?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6583606?source=rss-山本恵里伽アナ 事実婚の理由説明",
-      "title": "山本恵里伽アナ 事実婚の理由説明",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-09T13:35:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583606?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583602?source=rss-則本昂大 史上24人目の12球団勝利",
@@ -378,15 +414,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2606/09/news088.html"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6583530?source=rss-東京ダイナマイト 松田大輔が脱退",
-      "title": "東京ダイナマイト 松田大輔が脱退",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-09T02:11:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583530?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/09/news077.html-Google「AI Plus」4割値下げ、月725円に ストレージ倍増、価格攻勢でシェア拡大へ",
       "title": "Google「AI Plus」4割値下げ、月725円に ストレージ倍増、価格攻勢でシェア拡大へ",
       "source": "ITmedia NEWS",
@@ -394,15 +421,6 @@
       "publishedAt": "2026-06-09T02:07:00.000Z",
       "description": "同社は上位プランの「AI Pro」や「AI Ultra」でも値下げや特典追加を相次いで実施しており、「Plus」の改定で全3プランのてこ入れが一巡した。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/09/news077.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583527?source=rss-長友 南野に言及「僕と似てきた」",
-      "title": "長友 南野に言及「僕と似てきた」",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-09T01:35:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583527?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6583526?source=rss-官房長官秘書官 昨年不正出張疑い",
@@ -513,15 +531,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6583497?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/09/news065.html-「iOS 27」発表 「Siri AI」などAI大幅強化、アプリ起動も3割速く 26年秋提供へ",
-      "title": "「iOS 27」発表 「Siri AI」などAI大幅強化、アプリ起動も3割速く 26年秋提供へ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-08T19:46:00.000Z",
-      "description": "米Appleは6月8日（現地時間）、WWDC2026の基調講演で、iPhone向けの次期OS「iOS 27」を発表した。26年秋提供予定で、AI基盤「Apple Intelligence」をフル活用したAIアシスタント「Siri AI」に加え、写真編集の強化、動作の高速化、子どもの安全を守る機能を見直した。対応機種は「...",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/09/news065.html"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6583463?source=rss-NTT アイオンAIファンド設立方針",
       "title": "NTT アイオンAIファンド設立方針",
       "source": "Yahoo!ニュース IT",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-06-07T09:31:14.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6583325?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6583308?source=rss-エボラ陰謀論も 偽情報対策が課題",
-      "title": "エボラ陰謀論も 偽情報対策が課題",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-06-07T07:51:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583308?source=rss"
     }
   ]
 }
