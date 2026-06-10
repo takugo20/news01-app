@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T20:36:30.855Z",
+  "updatedAt": "2026-06-10T22:53:16.158Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -33,8 +33,68 @@
       "url": "https://news.yahoo.co.jp/rss/topics/entertainment.xml"
     }
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "Yahoo!ニュース IT",
+      "url": "https://news.yahoo.co.jp/rss/topics/it.xml",
+      "message": "Status code 500"
+    }
+  ],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583759?source=rss-速報ドジャース 大谷翔平が先発",
+      "title": "速報ドジャース 大谷翔平が先発",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-10T22:36:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583759?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583758?source=rss-メンター南野拓実 スピーチで檄",
+      "title": "メンター南野拓実 スピーチで檄",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-10T22:27:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583758?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6583757?source=rss-信越化学 レアアース工場を新設へ",
+      "title": "信越化学 レアアース工場を新設へ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-10T22:17:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583757?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583754?source=rss-楽天の自力V消滅 わずか59試合目",
+      "title": "楽天の自力V消滅 わずか59試合目",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-10T21:52:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583754?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6583751?source=rss-首相 G7でエネ安保3原則を提唱へ",
+      "title": "首相 G7でエネ安保3原則を提唱へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-10T21:20:51.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583751?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6583750?source=rss-オードリー若林の小説 直木賞候補",
+      "title": "オードリー若林の小説 直木賞候補",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-10T21:06:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583750?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583749?source=rss-阪神監督に退場宣告 審判が説明",
       "title": "阪神監督に退場宣告 審判が説明",
@@ -88,15 +148,6 @@
       "publishedAt": "2026-06-10T12:11:28.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6583733?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6583726?source=rss-AIで詐欺被害拡大回避 過信は禁物",
-      "title": "AIで詐欺被害拡大回避 過信は禁物",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-06-10T11:56:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583726?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/10/news128.html-ChatGPTで広告表示へ 無料・Goプランが対象 6月22日にポリシー更新",
@@ -225,15 +276,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6583715?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583710?source=rss-松井裕樹ぼう然 勝ち越しHR被弾",
-      "title": "松井裕樹ぼう然 勝ち越しHR被弾",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-10T08:56:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583710?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/10/news122.html-「Siri AI」の進化に「Geminiそのまま」の誤解――現地取材で見えた“新生Apple Intelligence”の全貌",
       "title": "「Siri AI」の進化に「Geminiそのまま」の誤解――現地取材で見えた“新生Apple Intelligence”の全貌",
       "source": "ITmedia NEWS",
@@ -241,15 +283,6 @@
       "publishedAt": "2026-06-10T08:30:00.000Z",
       "description": "「GeminiがApple Intelligenceの正体」は誤解だ。WWDC 2026の現地取材で見えてきた第3世代は、200億パラメータのAIをiPhoneで動かす革新技術、Google Cloud＋NVIDIAによるインフラ刷新、そして静かに変わる「無料」の定義まで、想像以上に深い変化を遂げていた。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/10/news122.html"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6583707?source=rss-アウトカメラで若者自撮り 理由は",
-      "title": "アウトカメラで若者自撮り 理由は",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-06-10T08:19:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583707?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6583705?source=rss-トヨタ会長の役員報酬 21億円超",
@@ -288,15 +321,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6583704?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583694?source=rss-Wソックス西田陸浮 マイナー降格",
-      "title": "Wソックス西田陸浮 マイナー降格",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-10T06:17:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583694?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6583693?source=rss-アシックス独走も 業界各社が好調",
       "title": "アシックス独走も 業界各社が好調",
       "source": "Yahoo!ニュース 経済",
@@ -313,15 +337,6 @@
       "publishedAt": "2026-06-10T05:55:00.000Z",
       "description": "電動モビリティーシェアサービス「LUUP」を手掛けるLuupが、東京・北区で6月2日に起きた死亡事故について、自社サービスのユーザーだったと公表した。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/10/news094.html"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6583688?source=rss-松屋銀座 高級な牛丼松屋オープン",
-      "title": "松屋銀座 高級な牛丼松屋オープン",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-10T05:43:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583688?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6583690?source=rss-俳優・笹本玲奈 第2子出産を発表",
@@ -369,24 +384,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6583676?source=rss"
     },
     {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6583674?source=rss-デジタル教科書巡り 改正法が成立",
-      "title": "デジタル教科書巡り 改正法が成立",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-06-10T04:20:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583674?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583673?source=rss-ラグビー代表HC 不適切発言謝罪",
-      "title": "ラグビー代表HC 不適切発言謝罪",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-10T04:14:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583673?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/10/news086.html-「妹の脚を触った」因縁つけ仲間に暴行、AI基に恐喝未遂 容疑の高校生5人逮捕",
       "title": "「妹の脚を触った」因縁つけ仲間に暴行、AI基に恐喝未遂 容疑の高校生5人逮捕",
       "source": "ITmedia NEWS",
@@ -432,15 +429,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2606/10/news068.html"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6583643?source=rss-Nintendo Direct 発表内容まとめ",
-      "title": "Nintendo Direct 発表内容まとめ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-10T01:12:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583643?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6583641?source=rss-防衛装備品の輸出 支援組織を調整",
       "title": "防衛装備品の輸出 支援組織を調整",
       "source": "Yahoo!ニュース 国内",
@@ -468,15 +456,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6583634?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6583629?source=rss-日マレーシア 海保協力覚書締結へ",
-      "title": "日マレーシア 海保協力覚書締結へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-09T23:08:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583629?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/10/news015.html-政府・著名人のInstagramアカウントが次々に乗っ取り被害 原因はMetaのAIアシスタント？",
       "title": "政府・著名人のInstagramアカウントが次々に乗っ取り被害 原因はMetaのAIアシスタント？",
       "source": "ITmedia NEWS",
@@ -493,15 +472,6 @@
       "publishedAt": "2026-06-09T21:40:00.000Z",
       "description": "Anthropicは、新AIモデル「Claude Fable 5」を一般公開した。同社の最上位「Mythosクラス」に属し、これまで一般提供を見送ってきた水準の能力を、悪用を防ぐ保護機能とともに全ユーザーへ開放した。同時に、サイバー関連の保護機能を解除した上位版「Claude Mythos 5」を信頼できるパートナー向...",
       "url": "https://www.itmedia.co.jp/news/articles/2606/10/news058.html"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6583618?source=rss-Anthropic ミュトス級AIを提供",
-      "title": "Anthropic ミュトス級AIを提供",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-06-09T21:31:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583618?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/09/news132.html-九電子会社が紛失した記憶媒体、暗号化やパスワード保護なしと判明 施錠も徹底されず",
@@ -538,42 +508,6 @@
       "publishedAt": "2026-06-09T10:22:00.000Z",
       "description": "三菱UFJ銀行がメールでパスワード付きZIPファイルを送り、パスワードを別送する“PPAP”を原則取りやめると発表した。ただ、セキュリティ上の問題から中央省庁がPPAPを廃止し、国内IT各社が続いたのは2020年末から22年ごろ。三菱UFJ銀行がいま“脱PPAP”を発表した経緯は……。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/09/news129.html"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6583512?source=rss-OpenAIがIPO申請 企業価値136兆円",
-      "title": "OpenAIがIPO申請 企業価値136兆円",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-06-08T23:38:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583512?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6583497?source=rss-Apple 次世代のSiri AI提供へ",
-      "title": "Apple 次世代のSiri AI提供へ",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-06-08T21:22:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583497?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6583463?source=rss-NTT アイオンAIファンド設立方針",
-      "title": "NTT アイオンAIファンド設立方針",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-06-08T09:15:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583463?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6583436?source=rss-ポケカ購入 マイナカード導入へ",
-      "title": "ポケカ購入 マイナカード導入へ",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-06-08T07:40:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583436?source=rss"
     }
   ]
 }

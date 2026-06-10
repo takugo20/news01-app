@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-06-10T20:36:31.206Z",
-  "newsItems": 60,
-  "newsErrors": [],
+  "updatedAt": "2026-06-10T22:53:16.159Z",
+  "newsItems": 52,
+  "newsErrors": [
+    {
+      "source": "Yahoo!ニュース IT",
+      "url": "https://news.yahoo.co.jp/rss/topics/it.xml",
+      "message": "Status code 500"
+    }
+  ],
   "topErrors": {
     "nikkei225": "HTTP 404",
     "usdJpy": "HTTP 404",
