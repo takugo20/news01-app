@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T20:27:02.860Z",
+  "updatedAt": "2026-06-11T22:51:21.853Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,49 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583836?source=rss-速報W杯開幕戦 メキシコvs.南ア",
-      "title": "速報W杯開幕戦 メキシコvs.南ア",
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6583905?source=rss-TBS伊藤隆太アナ 考査局に異動へ",
+      "title": "TBS伊藤隆太アナ 考査局に異動へ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-11T22:26:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583905?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6583902?source=rss-マンション修繕談合 排除命令へ",
+      "title": "マンション修繕談合 排除命令へ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-11T21:53:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583902?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583901?source=rss-遠藤航がW杯欠場 代表引退も表明",
+      "title": "遠藤航がW杯欠場 代表引退も表明",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-06-11T19:14:30.000Z",
+      "publishedAt": "2026-06-11T21:42:43.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583836?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6583901?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/12/news068.html-Anthropic、「Fable 5」の不可視だった蒸留の保護機能を可視化 「誤った判断」と謝罪",
+      "title": "Anthropic、「Fable 5」の不可視だった蒸留の保護機能を可視化 「誤った判断」と謝罪",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-11T21:20:00.000Z",
+      "description": "Anthropicは、AIモデル「Claude Fable 5」の特定の保護機能がユーザーに不透明な形で動作していたことを「誤った判断」と認め、謝罪した。モデルの蒸留に関する制限を検知した際、これまでは不可視のまま下位モデルへ切り替えていたが、今後は明示的な仕様に変更する。誤検知への対応と分類器の調整も進める。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/12/news068.html"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583898?source=rss-W杯開幕戦 開催国メキシコが勝利",
+      "title": "W杯開幕戦 開催国メキシコが勝利",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-11T21:13:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583898?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/11/news134.html-DJIに強力なライバル Insta360初のジンバルカメラ「Insta360 Luna Ultra」海外発表 11万9800円",
@@ -52,15 +88,6 @@
       "publishedAt": "2026-06-11T14:55:00.000Z",
       "description": "中国Insta360は、独ライカと共同開発したジンバル一体型カメラ「Insta360 Luna Ultra」を発売した。1型センサーの8Kカメラと望遠カメラのデュアルレンズ構成で、着脱式タッチスクリーンによる遠隔操作にも対応する。日本の公式ストアでは11万9800円からだが、執筆時点では「近日販売予定」と表示されている...",
       "url": "https://www.itmedia.co.jp/news/articles/2606/11/news134.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583896?source=rss-南野拓実が金言 引き締まった選手",
-      "title": "南野拓実が金言 引き締まった選手",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-11T14:47:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583896?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6583893?source=rss-Aマッソ・むらきゃみ 第1子出産",
@@ -88,15 +115,6 @@
       "publishedAt": "2026-06-11T14:04:11.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6583889?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6583888?source=rss-ガッツさん死去 芸能界悼む声続々",
-      "title": "ガッツさん死去 芸能界悼む声続々",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-11T13:49:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583888?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583854?source=rss-子連れでゴルフ観戦 マナー議論に",
@@ -306,15 +324,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6583834?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6583825?source=rss-日英 洋上風力発電で連携強化へ",
-      "title": "日英 洋上風力発電で連携強化へ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-11T08:04:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583825?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6583818?source=rss-スペースXのIPO 公募4倍購入希望",
       "title": "スペースXのIPO 公募4倍購入希望",
       "source": "Yahoo!ニュース 経済",
@@ -511,15 +520,6 @@
       "publishedAt": "2026-06-10T23:00:00.000Z",
       "description": "“日本版スターリンク”とも呼ばれる、スマートフォンと衛星を直接つなぐ衛星網実現に向けて総務省が進める低軌道衛星通信インフラ整備事業「J-LEO」。採択が迫る中、有力候補の楽天・AST陣営に動きが……。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/09/news014.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/11/news027.html-1人暮らしの在宅勤務、「丸1日、人と接触なしの日」が3割……店員とも話さず 58万人を分析、Scienceで論文発表",
-      "title": "1人暮らしの在宅勤務、「丸1日、人と接触なしの日」が3割……店員とも話さず 58万人を分析、Scienceで論文発表",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-10T23:00:00.000Z",
-      "description": "ニューヨーク連邦準備銀行などに所属する研究者らが発表した論文「Home alone: Remote work, isolation, and mental health」は、リモートワークが労働者の孤立を深め、メンタルヘルスに悪影響を及ぼしている実態を明らかにした研究報告だ。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/11/news027.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6583726?source=rss-AIで詐欺被害拡大回避 過信は禁物",
