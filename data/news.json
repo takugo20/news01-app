@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T16:11:18.698Z",
+  "updatedAt": "2026-06-11T20:27:02.860Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583836?source=rss-速報W杯開幕戦 メキシコvs.南ア",
+      "title": "速報W杯開幕戦 メキシコvs.南ア",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-11T19:14:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583836?source=rss"
+    },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/11/news134.html-DJIに強力なライバル Insta360初のジンバルカメラ「Insta360 Luna Ultra」海外発表 11万9800円",
       "title": "DJIに強力なライバル Insta360初のジンバルカメラ「Insta360 Luna Ultra」海外発表 11万9800円",
@@ -97,15 +106,6 @@
       "publishedAt": "2026-06-11T13:46:21.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6583854?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583885?source=rss-たなかあお君2歳 田中碧にエール",
-      "title": "たなかあお君2歳 田中碧にエール",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-11T13:36:27.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583885?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6583881?source=rss-企業の4割で夏のボーナス増 調査",
