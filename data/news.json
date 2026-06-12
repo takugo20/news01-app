@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T10:21:19.765Z",
+  "updatedAt": "2026-06-12T15:25:54.939Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,141 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584032?source=rss-山本有真が涙のV 田中希実を抜く",
+      "title": "山本有真が涙のV 田中希実を抜く",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-12T14:45:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584032?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584031?source=rss-スペースX 米ナスダックに上場",
+      "title": "スペースX 米ナスダックに上場",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-12T14:25:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584031?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/12/news129.html-厚労省、Teamsチャット2年10カ月分が消失 東芝が作業ミス 一部は復元困難",
+      "title": "厚労省、Teamsチャット2年10カ月分が消失 東芝が作業ミス 一部は復元困難",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-12T14:14:00.000Z",
+      "description": "厚生労働省が2023年1月4日から25年10月29日年に送信された「Microsoft Teams」のチャットが消失したと発表した。原因はシステム運用を委託していた東芝の作業ミス。消えたデータのうち、行政文書が含まれる一部チャットは復元が困難という。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/12/news129.html"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6584028?source=rss-モスが詐欺広告に注意喚起 丸亀も",
+      "title": "モスが詐欺広告に注意喚起 丸亀も",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-06-12T14:03:29.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584028?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6584029?source=rss-動画問題 首相否定も野党は追及",
+      "title": "動画問題 首相否定も野党は追及",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-12T14:02:51.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584029?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6584022?source=rss-クールジャパン機構廃止案 検討へ",
+      "title": "クールジャパン機構廃止案 検討へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-12T13:40:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584022?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584024?source=rss-福原愛さん 約3年ぶり地上波出演",
+      "title": "福原愛さん 約3年ぶり地上波出演",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-12T13:32:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584024?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584019?source=rss-ウリ信組に一部業務停止 金融庁",
+      "title": "ウリ信組に一部業務停止 金融庁",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-12T13:23:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584019?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584017?source=rss-大谷負傷は盗塁が原因か 監督推察",
+      "title": "大谷負傷は盗塁が原因か 監督推察",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-12T13:03:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584017?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584014?source=rss-中村玉緒さん死去 著名人が追悼",
+      "title": "中村玉緒さん死去 著名人が追悼",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-12T12:42:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584014?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6584015?source=rss-W杯「月980円」DAZN表示に批判",
+      "title": "W杯「月980円」DAZN表示に批判",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-06-12T12:40:51.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584015?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584011?source=rss-アギーレ氏 自国W杯16強超えるか",
+      "title": "アギーレ氏 自国W杯16強超えるか",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-12T11:50:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584011?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6584010?source=rss-秘書官出張巡る報道 木原氏認める",
+      "title": "秘書官出張巡る報道 木原氏認める",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-12T11:48:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584010?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/12/news126.html-「メタプラネット証券」誕生へ Siiibo証券を21億円で買収、ビットコイン連動型金融商品の販売視野に",
+      "title": "「メタプラネット証券」誕生へ Siiibo証券を21億円で買収、ビットコイン連動型金融商品の販売視野に",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-12T11:20:00.000Z",
+      "description": "メタプラネットは6月12日、個人向け社債のオンラインプラットフォームを運営するSiiibo証券（東京都中央区）の全株式を取得し、完全子会社化すると発表した。取得価額は21億円。取得完了後には商号を「メタプラネット証券」に変更する予定だ。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/12/news126.html"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584002?source=rss-中村玉緒さん死去 マロニーが追悼",
+      "title": "中村玉緒さん死去 マロニーが追悼",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-12T10:29:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584002?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6583993?source=rss-手紙値上げ容易に 改正郵便法成立",
       "title": "手紙値上げ容易に 改正郵便法成立",
       "source": "Yahoo!ニュース 国内",
@@ -61,24 +196,6 @@
       "publishedAt": "2026-06-12T09:33:07.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6583996?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6583991?source=rss-ウリ信用組合で多数の不正疑い",
-      "title": "ウリ信用組合で多数の不正疑い",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-12T09:19:26.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583991?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6583988?source=rss-中村玉緒さん 夫婦生活は波瀾万丈",
-      "title": "中村玉緒さん 夫婦生活は波瀾万丈",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-12T09:02:27.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583988?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6583987?source=rss-10歳が385万円無断課金 父の対応",
@@ -207,24 +324,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2606/12/news112.html"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6583962?source=rss-玉緒さん 最後の投稿は夫婦の写真",
-      "title": "玉緒さん 最後の投稿は夫婦の写真",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-12T05:38:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583962?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6583961?source=rss-東京都心周辺 川の増水などに注意",
-      "title": "東京都心周辺 川の増水などに注意",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-12T05:32:58.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583961?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/12/news061.html-ニッチなのに累計55万個のヒット 「手のひらネットワーク機器」第4弾を見てきた 今回のテーマは？",
       "title": "ニッチなのに累計55万個のヒット 「手のひらネットワーク機器」第4弾を見てきた 今回のテーマは？",
       "source": "ITmedia NEWS",
@@ -250,15 +349,6 @@
       "publishedAt": "2026-06-12T04:59:25.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6583950?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6583956?source=rss-R-1王者の佐久間一行 結婚を発表",
-      "title": "R-1王者の佐久間一行 結婚を発表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-12T04:31:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583956?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/12/news100.html-ANA、国内線リニューアルの混乱で「お詫び」 Xではオーバーブッキング巡る臆測も",
@@ -288,15 +378,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6583949?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6583944?source=rss-スペースX 日本で約3500億円調達",
-      "title": "スペースX 日本で約3500億円調達",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-12T03:17:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583944?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/12/news095.html-Starlink対抗の衛星ネット「Amazon Leo」 NTTが国内提供へ 災害時や離島でも“つながる回線”に",
       "title": "Starlink対抗の衛星ネット「Amazon Leo」 NTTが国内提供へ 災害時や離島でも“つながる回線”に",
       "source": "ITmedia NEWS",
@@ -315,15 +396,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6583939?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583938?source=rss-大谷が途中交代 左膝の炎症と発表",
-      "title": "大谷が途中交代 左膝の炎症と発表",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-12T02:26:03.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583938?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/12/news085.html-公取委、KADOKAWAに勧告 フリーランス法違反、ライターなどに取引条件示さず",
       "title": "公取委、KADOKAWAに勧告 フリーランス法違反、ライターなどに取引条件示さず",
       "source": "ITmedia NEWS",
@@ -331,15 +403,6 @@
       "publishedAt": "2026-06-12T01:46:00.000Z",
       "description": "月刊誌などの制作を委託したフリーランスのライターやイラストレーターなど113人に対し、取引条件を書面で明示しなかったことなどがフリーランス法に違反するとして、是正を求める勧告を出した。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/12/news085.html"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6583927?source=rss-「日華懇」が名称変更 台湾表記に",
-      "title": "「日華懇」が名称変更 台湾表記に",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-12T01:04:58.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583927?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/12/news081.html-DAZNに批判殺到 W杯「月980円」、実は年2万6340円……「騙された」「ダークパターン」",
@@ -378,15 +441,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2606/12/news071.html"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583913?source=rss-大谷が13号ホームラン 敵地騒然",
-      "title": "大谷が13号ホームラン 敵地騒然",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-11T23:31:13.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583913?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/12/news070.html-Waymo、月額29.99ドルの招待制サブスク「Waymo Premier」 優先配車や還元を提供",
       "title": "Waymo、月額29.99ドルの招待制サブスク「Waymo Premier」 優先配車や還元を提供",
       "source": "ITmedia NEWS",
@@ -423,15 +477,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6583902?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583901?source=rss-遠藤航がW杯欠場 代表引退も表明",
-      "title": "遠藤航がW杯欠場 代表引退も表明",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-11T21:42:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583901?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/12/news068.html-Anthropic、「Fable 5」の不可視だった蒸留の保護機能を可視化 「誤った判断」と謝罪",
       "title": "Anthropic、「Fable 5」の不可視だった蒸留の保護機能を可視化 「誤った判断」と謝罪",
       "source": "ITmedia NEWS",
@@ -448,15 +493,6 @@
       "publishedAt": "2026-06-11T14:55:00.000Z",
       "description": "中国Insta360は、独ライカと共同開発したジンバル一体型カメラ「Insta360 Luna Ultra」を発売した。1型センサーの8Kカメラと望遠カメラのデュアルレンズ構成で、着脱式タッチスクリーンによる遠隔操作にも対応する。日本の公式ストアでは11万9800円からだが、執筆時点では「近日販売予定」と表示されている...",
       "url": "https://www.itmedia.co.jp/news/articles/2606/11/news134.html"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6583889?source=rss-皇族数確保策に陛下 国民の理解を",
-      "title": "皇族数確保策に陛下 国民の理解を",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-11T14:04:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583889?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/11/news132.html-宇宙で「宇宙兄弟」を描くミッション、講談社が発表 ISS内のロボットアームを遠隔操作",
@@ -513,24 +549,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2606/11/news112.html"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/11/news113.html-Google、検索サービスのプライバシー設定を刷新 レンズ画像や音声もデフォルトで保存対象に",
-      "title": "Google、検索サービスのプライバシー設定を刷新 レンズ画像や音声もデフォルトで保存対象に",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-11T07:11:00.000Z",
-      "description": "Googleは、検索、マップ、ショッピングなどの「Google検索サービス」全体で、履歴とパーソナライズの設定を2つの独立した項目に再編する。新設定では保存対象がテキスト履歴から「Googleレンズ」の画像や音声録音などのメディアに拡大され、既存設定がオンのユーザーはメディア保存も自動的にオンで移行する。保存データはア...",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/11/news113.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/11/news110.html-JASRAC、「AI作曲・人間作詞」の曲は管理します――「人間の創作的寄与の有無」で線引き",
-      "title": "JASRAC、「AI作曲・人間作詞」の曲は管理します――「人間の創作的寄与の有無」で線引き",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-11T06:49:00.000Z",
-      "description": "歌詞・楽曲両方をAIが作った曲は管理しないが、歌詞か楽曲をAI生成し、もう片方を人間が創作した曲は、人が作った部分のみ管理するという。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/11/news110.html"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6583726?source=rss-AIで詐欺被害拡大回避 過信は禁物",
       "title": "AIで詐欺被害拡大回避 過信は禁物",
       "source": "Yahoo!ニュース IT",
@@ -538,15 +556,6 @@
       "publishedAt": "2026-06-10T11:56:37.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6583726?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6583707?source=rss-アウトカメラで若者自撮り 理由は",
-      "title": "アウトカメラで若者自撮り 理由は",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-06-10T08:19:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583707?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6583674?source=rss-デジタル教科書巡り 改正法が成立",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-06-09T21:31:43.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6583618?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6583512?source=rss-OpenAIがIPO申請 企業価値136兆円",
-      "title": "OpenAIがIPO申請 企業価値136兆円",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-06-08T23:38:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583512?source=rss"
     }
   ]
 }
