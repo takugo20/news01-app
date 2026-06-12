@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T20:16:24.841Z",
+  "updatedAt": "2026-06-12T22:27:23.876Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584033?source=rss-後藤久美子 アレジ氏と事実婚解消",
+      "title": "後藤久美子 アレジ氏と事実婚解消",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-12T22:25:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584033?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584035?source=rss-マスク氏 世界初の「兆万長者」に",
+      "title": "マスク氏 世界初の「兆万長者」に",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-12T22:21:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584035?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/13/news024.html-SpaceX、NASDAQに上場――公開価格135ドル、初日終値は約19％高で約12兆円調達",
+      "title": "SpaceX、NASDAQに上場――公開価格135ドル、初日終値は約19％高で約12兆円調達",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-12T21:34:00.000Z",
+      "description": "SpaceXは、ナスダック市場に新規株式公開した。公開価格ベースで約750億ドル（約12兆円）を調達し、初日の終値時点で時価総額は約2兆1000億ドルに達した。サウジアラムコを上回る史上最大規模の新規上場となった。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/13/news024.html"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584032?source=rss-山本有真が涙のV 田中希実を抜く",
       "title": "山本有真が涙のV 田中希実を抜く",
@@ -178,15 +205,6 @@
       "publishedAt": "2026-06-12T09:45:19.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6583993?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6583997?source=rss-岡崎体育 心身不調でイベを見送り",
-      "title": "岡崎体育 心身不調でイベを見送り",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-12T09:44:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583997?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6583996?source=rss-SB山本祐大が手術 前半戦絶望的",
@@ -468,15 +486,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6583905?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6583902?source=rss-マンション修繕談合 排除命令へ",
-      "title": "マンション修繕談合 排除命令へ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-11T21:53:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583902?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/12/news068.html-Anthropic、「Fable 5」の不可視だった蒸留の保護機能を可視化 「誤った判断」と謝罪",
       "title": "Anthropic、「Fable 5」の不可視だった蒸留の保護機能を可視化 「誤った判断」と謝罪",
       "source": "ITmedia NEWS",
@@ -538,15 +547,6 @@
       "publishedAt": "2026-06-11T09:43:14.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6583847?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/11/news112.html-サッカーW杯、テレビ放送があっても「DAZN」を選ぶ理由 ただしサッカー専用プランは「要注意」",
-      "title": "サッカーW杯、テレビ放送があっても「DAZN」を選ぶ理由 ただしサッカー専用プランは「要注意」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-11T07:15:00.000Z",
-      "description": "12日に開幕する「FIFAワールドカップ2026」。今回は地上波放送も予定されているが、有料のDAZNも注目を集めている。なぜか。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/11/news112.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6583726?source=rss-AIで詐欺被害拡大回避 過信は禁物",
