@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T19:43:03.394Z",
+  "updatedAt": "2026-06-13T22:08:37.650Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584129?source=rss-速報W杯 ブラジルvs.モロッコ",
+      "title": "速報W杯 ブラジルvs.モロッコ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-13T21:51:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584129?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584139?source=rss-新庄監督 パが強い交流戦に冗談",
       "title": "新庄監督 パが強い交流戦に冗談",
@@ -286,15 +295,6 @@
       "publishedAt": "2026-06-13T06:02:49.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6584080?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584073?source=rss-MLBで快挙 先発史上最速168キロ",
-      "title": "MLBで快挙 先発史上最速168キロ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-13T04:52:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584073?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6584074?source=rss-認められぬ同性婚 困りごと実例は",
