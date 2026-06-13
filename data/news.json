@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T09:23:13.373Z",
+  "updatedAt": "2026-06-13T14:09:47.893Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,157 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584104?source=rss-ロッテ 今季ワースト16失点の惨敗",
-      "title": "ロッテ 今季ワースト16失点の惨敗",
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584137?source=rss-ミセス MAJ最優秀アーティスト賞",
+      "title": "ミセス MAJ最優秀アーティスト賞",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-13T14:07:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584137?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584136?source=rss-中村玉緒さん死去 さんまが追悼",
+      "title": "中村玉緒さん死去 さんまが追悼",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-13T13:45:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584136?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584134?source=rss-高2がU18世界記録 400m障害男子",
+      "title": "高2がU18世界記録 400m障害男子",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-06-13T08:58:31.000Z",
+      "publishedAt": "2026-06-13T13:44:06.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584104?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6584134?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584132?source=rss-ヤクルト塩見 先制弾後に負傷交代",
+      "title": "ヤクルト塩見 先制弾後に負傷交代",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-13T13:38:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584132?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6584128?source=rss-AI企業幹部 G7サミットに集結へ",
+      "title": "AI企業幹部 G7サミットに集結へ",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-06-13T13:16:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584128?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584126?source=rss-ギャル協会会長 山あいへ移住の訳",
+      "title": "ギャル協会会長 山あいへ移住の訳",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-13T12:54:12.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584126?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584124?source=rss-波乱 J球宴でJ1勢がそろって敗退",
+      "title": "波乱 J球宴でJ1勢がそろって敗退",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-13T12:42:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584124?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/13/news031.html-DAZNが謝罪 年間契約のサッカープランに一部「月額プランと受け取れる記載」があったため 希望者は解約も",
+      "title": "DAZNが謝罪 年間契約のサッカープランに一部「月額プランと受け取れる記載」があったため 希望者は解約も",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-13T12:35:00.000Z",
+      "description": "スポーツ配信サービス「DAZN」を運営するDAZN Japan Investmentは6月13日、年間プランである「DAZN Soccer」について、一部に「月額プランと受け取れる記載」がされていた期間があったとして謝罪した。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/13/news031.html"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584120?source=rss-W杯 オランダは完全非公開で調整",
+      "title": "W杯 オランダは完全非公開で調整",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-13T11:58:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584120?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584118?source=rss-セブン「納品ルール変更」なぜ",
+      "title": "セブン「納品ルール変更」なぜ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-13T11:35:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584118?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6584119?source=rss-DAZNが謝罪「月980円」表示巡り",
+      "title": "DAZNが謝罪「月980円」表示巡り",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-06-13T11:29:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584119?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584117?source=rss-競泳・渡部香生子さん 結婚を報告",
+      "title": "競泳・渡部香生子さん 結婚を報告",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-13T11:26:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584117?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584114?source=rss-遠藤航と米津対談 NHK放送見送り",
+      "title": "遠藤航と米津対談 NHK放送見送り",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-13T10:45:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584114?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584112?source=rss-消費税1%で農家の手取り減 試算",
+      "title": "消費税1%で農家の手取り減 試算",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-13T10:31:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584112?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584111?source=rss-久保凛が涙 逆転で800m3連覇",
+      "title": "久保凛が涙 逆転で800m3連覇",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-13T10:03:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584111?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584109?source=rss-物価高 難病患者にはさらに重く",
+      "title": "物価高 難病患者にはさらに重く",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-13T09:59:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584109?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6584106?source=rss-副首都法案 官邸と自民内に温度差",
+      "title": "副首都法案 官邸と自民内に温度差",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-13T09:28:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584106?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584103?source=rss-インティライミ 当日に公演延期",
@@ -63,15 +207,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6584100?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584099?source=rss-中日 両リーグ最速で借金20到達",
-      "title": "中日 両リーグ最速で借金20到達",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-13T08:28:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584099?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6584095?source=rss-首相がG7出席のため出発 狙いは",
       "title": "首相がG7出席のため出発 狙いは",
       "source": "Yahoo!ニュース 国内",
@@ -81,15 +216,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6584095?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584098?source=rss-ぬい活業界 利益4年前から倍増",
-      "title": "ぬい活業界 利益4年前から倍増",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-13T08:16:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584098?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6584096?source=rss-店利用での苦情巡り 救命士訴え",
       "title": "店利用での苦情巡り 救命士訴え",
       "source": "Yahoo!ニュース 国内",
@@ -97,15 +223,6 @@
       "publishedAt": "2026-06-13T08:06:09.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6584096?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584097?source=rss-森下 退場処分受けた審判におじぎ",
-      "title": "森下 退場処分受けた審判におじぎ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-13T08:04:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584097?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6584091?source=rss-内閣支持率 不安要素は中東情勢か",
@@ -171,24 +288,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6584080?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584077?source=rss-岡本和真が特大弾 ゲレロ頭抱える",
-      "title": "岡本和真が特大弾 ゲレロ頭抱える",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-13T05:45:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584077?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584079?source=rss-物件高×金利高 ローンの地殻変動",
-      "title": "物件高×金利高 ローンの地殻変動",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-13T05:32:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584079?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584073?source=rss-MLBで快挙 先発史上最速168キロ",
       "title": "MLBで快挙 先発史上最速168キロ",
       "source": "Yahoo!ニュース スポーツ",
@@ -205,15 +304,6 @@
       "publishedAt": "2026-06-13T04:48:14.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6584074?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584072?source=rss-LIVE中の観客熱唱が物議 識者見解",
-      "title": "LIVE中の観客熱唱が物議 識者見解",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-13T04:05:56.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584072?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584071?source=rss-「レアハンバーグ」炎上 店の現在",
@@ -243,42 +333,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2606/13/news028.html"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584068?source=rss-香椎由宇 セリフない映画出演快諾",
-      "title": "香椎由宇 セリフない映画出演快諾",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-13T03:39:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584068?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584066?source=rss-W杯 主審がイエロー対象間違える",
-      "title": "W杯 主審がイエロー対象間違える",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-13T03:06:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584066?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584058?source=rss-アイナ ソロで咲かせた大輪の花",
-      "title": "アイナ ソロで咲かせた大輪の花",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-13T02:14:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584058?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584059?source=rss-朗希突如崩れる 7失点5回途中KO",
-      "title": "朗希突如崩れる 7失点5回途中KO",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-13T02:09:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584059?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6584060?source=rss-Anthropic ミュトス級AI提供停止",
       "title": "Anthropic ミュトス級AI提供停止",
       "source": "Yahoo!ニュース IT",
@@ -304,15 +358,6 @@
       "publishedAt": "2026-06-13T01:00:00.000Z",
       "description": "SNSも“動画隆盛”な昨今。AIを動画制作に活用する例も多いが、最新AI「Fable 5」だとどんなものができるだろうか。早速試してみた。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/12/news113.html"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584048?source=rss-スペースX 従業員がミリオネアに",
-      "title": "スペースX 従業員がミリオネアに",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-13T00:35:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584048?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6584038?source=rss-ふるさと納税863億円赤字 24年度",
@@ -376,24 +421,6 @@
       "publishedAt": "2026-06-12T14:02:51.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6584029?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6584022?source=rss-クールジャパン機構廃止案 検討へ",
-      "title": "クールジャパン機構廃止案 検討へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-12T13:40:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584022?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584024?source=rss-福原愛さん 約3年ぶり地上波出演",
-      "title": "福原愛さん 約3年ぶり地上波出演",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-12T13:32:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584024?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/12/news126.html-「メタプラネット証券」誕生へ Siiibo証券を21億円で買収、ビットコイン連動型金融商品の販売視野に",
@@ -531,15 +558,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2606/12/news068.html"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/11/news134.html-DJIに強力なライバル Insta360初のジンバルカメラ「Insta360 Luna Ultra」海外発表 11万9800円",
-      "title": "DJIに強力なライバル Insta360初のジンバルカメラ「Insta360 Luna Ultra」海外発表 11万9800円",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-11T14:55:00.000Z",
-      "description": "中国Insta360は、独ライカと共同開発したジンバル一体型カメラ「Insta360 Luna Ultra」を発売した。1型センサーの8Kカメラと望遠カメラのデュアルレンズ構成で、着脱式タッチスクリーンによる遠隔操作にも対応する。日本の公式ストアでは11万9800円からだが、執筆時点では「近日販売予定」と表示されている...",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/11/news134.html"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6583848?source=rss-スマホ見ないアプリも 若者に変化",
       "title": "スマホ見ないアプリも 若者に変化",
       "source": "Yahoo!ニュース IT",
@@ -556,24 +574,6 @@
       "publishedAt": "2026-06-11T09:43:14.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6583847?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6583726?source=rss-AIで詐欺被害拡大回避 過信は禁物",
-      "title": "AIで詐欺被害拡大回避 過信は禁物",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-06-10T11:56:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583726?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6583674?source=rss-デジタル教科書巡り 改正法が成立",
-      "title": "デジタル教科書巡り 改正法が成立",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-06-10T04:20:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583674?source=rss"
     }
   ]
 }
