@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T19:05:49.451Z",
+  "updatedAt": "2026-06-15T23:05:18.240Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,87 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6584407?source=rss-スマホのシャッター音 見直しの声",
+      "title": "スマホのシャッター音 見直しの声",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-06-15T23:04:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584407?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584409?source=rss-スペイン 初出場国とまさかドロー",
+      "title": "スペイン 初出場国とまさかドロー",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-15T23:02:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584409?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/16/news061.html-Facebookの新「AI Mode」、グループやリールの公開投稿が検索結果に",
+      "title": "Facebookの新「AI Mode」、グループやリールの公開投稿が検索結果に",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-15T22:44:00.000Z",
+      "description": "Metaは、Facebookに新機能「AI Mode」を導入すると発表した。同社のAI「Meta AI」が、Metaアプリ上で公開されている投稿に基づいてユーザーの質問に回答する。公開設定での投稿は、回答ソースとして利用される。あわせて、AIで服装を仮想的に変更できる機能など、写真や動画の編集機能も拡充する。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/16/news061.html"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584403?source=rss-VIVANT続編 新キャスト2人発表",
+      "title": "VIVANT続編 新キャスト2人発表",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-15T22:36:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584403?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584402?source=rss-NYダウ終値468ドル高 最高値更新",
+      "title": "NYダウ終値468ドル高 最高値更新",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-15T22:15:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584402?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584400?source=rss-異例 現役アナが日テレ学院長就任",
+      "title": "異例 現役アナが日テレ学院長就任",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-15T21:52:01.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584400?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/16/news060.html-SpaceXのIPO調達額、857億ドルに拡大 グリーンシューで",
+      "title": "SpaceXのIPO調達額、857億ドルに拡大 グリーンシューで",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-15T21:49:00.000Z",
+      "description": "SpaceXは、新規株式公開に伴う株式のオーバーアロットメントオプション（グリーンシュー）がすべて行使され、調達総額が857億ドル（約13兆7000億円）に達したと発表した。上場後の株価急騰を受けての権利行使によるもの。マスクCEOはSNS上で、2031年までに同社の収益が1兆ドルを超えるとの極めて強気な見通しを示した...",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/16/news060.html"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584398?source=rss-日本の次戦 チュニジアが監督解任",
+      "title": "日本の次戦 チュニジアが監督解任",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-15T21:21:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584398?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584397?source=rss-楽天監督 吉井理人氏が電撃就任へ",
+      "title": "楽天監督 吉井理人氏が電撃就任へ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-15T21:06:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584397?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584395?source=rss-平野美宇の所属「個人」に変更",
       "title": "平野美宇の所属「個人」に変更",
@@ -97,15 +178,6 @@
       "publishedAt": "2026-06-15T12:27:42.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6584385?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584384?source=rss-東京株7万円目前 AIに焦点移行か",
-      "title": "東京株7万円目前 AIに焦点移行か",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-15T12:20:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584384?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584381?source=rss-コストコで食中毒 10歳未満が重症",
@@ -225,15 +297,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6584351?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584350?source=rss-本田に神回答 NHK小宮山アナとは",
-      "title": "本田に神回答 NHK小宮山アナとは",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-15T08:44:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584350?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6584345?source=rss-「悪いタッチ」説明 幼児の性教育",
       "title": "「悪いタッチ」説明 幼児の性教育",
       "source": "Yahoo!ニュース 国内",
@@ -241,15 +304,6 @@
       "publishedAt": "2026-06-15T08:10:09.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6584345?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584343?source=rss-中村芝翫が休演 息子たちが代役",
-      "title": "中村芝翫が休演 息子たちが代役",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-15T08:00:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584343?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584339?source=rss-記念貨幣でアニメ活用 財務省検討",
@@ -306,15 +360,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6584323?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584320?source=rss-日本サポのゴミ拾い FIFAが称賛",
-      "title": "日本サポのゴミ拾い FIFAが称賛",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-15T05:08:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584320?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/15/news087.html-NEC、能動的サイバー防御で英防衛大手と協業 政府への導入を共同支援",
       "title": "NEC、能動的サイバー防御で英防衛大手と協業 政府への導入を共同支援",
       "source": "ITmedia NEWS",
@@ -322,24 +367,6 @@
       "publishedAt": "2026-06-15T05:00:00.000Z",
       "description": "英BAE SystemsとNECは6月15日、日本政府が進める能動的サイバー防御（ACD）の導入に向けて協業する覚書を結んだと発表した。2026年1月に日英両政府が合意した「日英戦略的サイバー・パートナーシップ」を推進する取り組みの一つで、ソリューションの共同開発から提供までを両社で支援する。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/15/news087.html"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584321?source=rss-サザエさん演出 森田浩光さん死去",
-      "title": "サザエさん演出 森田浩光さん死去",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-15T04:54:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584321?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584316?source=rss-鎌田の1ミリ? 終盤の同点弾話題",
-      "title": "鎌田の1ミリ? 終盤の同点弾話題",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-15T04:14:56.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584316?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6584304?source=rss-大学の理系学部が各地で苦戦 背景",
@@ -547,33 +574,6 @@
       "publishedAt": "2026-06-14T00:54:00.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6584165?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6584128?source=rss-AI企業幹部 G7サミットに集結へ",
-      "title": "AI企業幹部 G7サミットに集結へ",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-06-13T13:16:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584128?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/13/news031.html-DAZNが謝罪 年間契約のサッカープランに一部「月額プランと受け取れる記載」があったため 希望者は解約も",
-      "title": "DAZNが謝罪 年間契約のサッカープランに一部「月額プランと受け取れる記載」があったため 希望者は解約も",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-13T12:35:00.000Z",
-      "description": "スポーツ配信サービス「DAZN」を運営するDAZN Japan Investmentは6月13日、年間プランである「DAZN Soccer」について、一部に「月額プランと受け取れる記載」がされていた期間があったとして謝罪した。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/13/news031.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/13/news028.html-“最小のインスタントカメラ”はポラロイドの撮影体験をどう変えたか 「Polaroid Go Gen 3」レビュー",
-      "title": "“最小のインスタントカメラ”はポラロイドの撮影体験をどう変えたか 「Polaroid Go Gen 3」レビュー",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-13T03:50:00.000Z",
-      "description": "「Polaroid Go Gen 3」は、まさに第3世代と呼ぶにふさわしい完成度。旅先やイベントで、友人や家族と一緒にサッと自撮りをするのが、これまでにないほど実用的で楽しくなりました。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/13/news028.html"
     }
   ]
 }
