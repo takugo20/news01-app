@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T20:57:39.939Z",
+  "updatedAt": "2026-06-16T22:55:34.830Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,78 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584535?source=rss-ピザハット売却へ 米飲食大手",
+      "title": "ピザハット売却へ 米飲食大手",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-16T22:32:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584535?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584536?source=rss-W杯対戦前 サポーターが衝突",
+      "title": "W杯対戦前 サポーターが衝突",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-16T22:29:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584536?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584533?source=rss-原油先物が5%急落 3カ月ぶり安値",
+      "title": "原油先物が5%急落 3カ月ぶり安値",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-16T22:24:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584533?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/17/news026.html-学術界にも“告発系インフルエンサー”の波？ 配信者がNature掲載論文の不正指摘→研究者らは懲戒処分 中国で波乱",
+      "title": "学術界にも“告発系インフルエンサー”の波？ 配信者がNature掲載論文の不正指摘→研究者らは懲戒処分 中国で波乱",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-16T22:00:00.000Z",
+      "description": "元博士課程の学生で動画ブロガー「Student Geng」として活動する耿洪偉（Geng Hongwei）さんの配信をきっかけに、中国の学術界で研究不正スキャンダルが起きている。英科学誌Natureが6月12日に報じた。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/17/news026.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/17/news020.html-月間売上1億円超、“推しAI”アプリ「Zeta」がオタク女子わしづかみ ただし危うさも",
+      "title": "月間売上1億円超、“推しAI”アプリ「Zeta」がオタク女子わしづかみ ただし危うさも",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-16T22:00:00.000Z",
+      "description": "自分が作ったシチュエーションで“推し”と会話できるAIチャットアプリ「Zeta」（ゼタ）が人気だ。App StoreやGoogle Playのエンターテインメントランキングでも連日上位にランクインしており、各ストアページによればダウンロード数は130万回を突破。1月には月間の売り上げが1億2000万円を超えたという。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/17/news020.html"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584532?source=rss-映画「火垂るの墓」幻の脚本発見",
+      "title": "映画「火垂るの墓」幻の脚本発見",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-16T21:52:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584532?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6584531?source=rss-高市陣営巡る動画報道 訂正相次ぐ",
+      "title": "高市陣営巡る動画報道 訂正相次ぐ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-16T21:39:56.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584531?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584530?source=rss-エムバペ2G 通算でメッシら抜く",
+      "title": "エムバペ2G 通算でメッシら抜く",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-16T21:33:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584530?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584527?source=rss-森保Jロッカー「ENDO」残す方針",
       "title": "森保Jロッカー「ENDO」残す方針",
@@ -90,15 +162,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6584522?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6584518?source=rss-学祭で自衛隊出展中止 防衛省見解",
-      "title": "学祭で自衛隊出展中止 防衛省見解",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-16T13:50:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584518?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584519?source=rss-利上げ 若年層の住宅ローン負担増",
       "title": "利上げ 若年層の住宅ローン負担増",
       "source": "Yahoo!ニュース 経済",
@@ -135,15 +198,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6584514?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584515?source=rss-玉緒さんにお別れ 和田アキ子が涙",
-      "title": "玉緒さんにお別れ 和田アキ子が涙",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-16T13:14:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584515?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584511?source=rss-西武が交流戦初V 勝率は歴代最高",
       "title": "西武が交流戦初V 勝率は歴代最高",
       "source": "Yahoo!ニュース スポーツ",
@@ -160,15 +214,6 @@
       "publishedAt": "2026-06-16T12:35:53.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6584510?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584507?source=rss-奮闘GK フォロワー5万→500万超",
-      "title": "奮闘GK フォロワー5万→500万超",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-16T12:08:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584507?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/16/news124.html-デジタル相、停止中のミュトス級AIについて「今あるもので最大限」 3メガバンクなども同様",
@@ -333,15 +378,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2606/16/news105.html"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584473?source=rss-日銀利上げ決定 リスク慎重見極め",
-      "title": "日銀利上げ決定 リスク慎重見極め",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-16T07:59:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584473?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584467?source=rss-おにぎりは高級品 子育て家庭悲鳴",
       "title": "おにぎりは高級品 子育て家庭悲鳴",
       "source": "Yahoo!ニュース 経済",
@@ -432,15 +468,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6584448?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584440?source=rss-日銀1%程度に利上げ 31年ぶり水準",
-      "title": "日銀1%程度に利上げ 31年ぶり水準",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-16T03:31:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584440?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/16/news083.html-「GO」初値、公開価格21％上回る2910円 今年最大の国内IPOに",
       "title": "「GO」初値、公開価格21％上回る2910円 今年最大の国内IPOに",
       "source": "ITmedia NEWS",
@@ -448,15 +475,6 @@
       "publishedAt": "2026-06-16T03:24:00.000Z",
       "description": "国内だけでなく、海外投資家からも強い需要を集めた。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/16/news083.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584436?source=rss-負傷の久保建英 病院で検査受ける",
-      "title": "負傷の久保建英 病院で検査受ける",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-16T03:11:36.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584436?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/16/news076.html-WOWOWとドコモ、動画配信で資本提携 「Lemino」新会社に移管、「人気スポーツ」「超大作オリジナルドラマ」など強化へ",
@@ -511,24 +529,6 @@
       "publishedAt": "2026-06-15T22:44:00.000Z",
       "description": "Metaは、Facebookに新機能「AI Mode」を導入すると発表した。同社のAI「Meta AI」が、Metaアプリ上で公開されている投稿に基づいてユーザーの質問に回答する。公開設定での投稿は、回答ソースとして利用される。あわせて、AIで服装を仮想的に変更できる機能など、写真や動画の編集機能も拡充する。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/16/news061.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/16/news060.html-SpaceXのIPO調達額、857億ドルに拡大 グリーンシューで",
-      "title": "SpaceXのIPO調達額、857億ドルに拡大 グリーンシューで",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-15T21:49:00.000Z",
-      "description": "SpaceXは、新規株式公開に伴う株式のオーバーアロットメントオプション（グリーンシュー）がすべて行使され、調達総額が857億ドル（約13兆7000億円）に達したと発表した。上場後の株価急騰を受けての権利行使によるもの。マスクCEOはSNS上で、2031年までに同社の収益が1兆ドルを超えるとの極めて強気な見通しを示した...",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/16/news060.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/15/news119.html-データセンターの見回り業務をロボットに 自在に伸びるカメラでくまなく点検できる「ugo mini」",
-      "title": "データセンターの見回り業務をロボットに 自在に伸びるカメラでくまなく点検できる「ugo mini」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-15T11:40:00.000Z",
-      "description": "6月10日から12日に幕張メッセで開催したインターネット技術の総合イベント「Interop Tokyo 2026」で、ugo（東京都千代田区）は小型の点検ロボット「ugo mini」を展示した。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/15/news119.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6584351?source=rss-英首相 16歳未満SNS利用禁止方針",
