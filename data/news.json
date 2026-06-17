@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T11:05:49.554Z",
+  "updatedAt": "2026-06-17T15:45:48.082Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,150 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584653?source=rss-「ぼっち・ざ・ろっく」連載再開",
+      "title": "「ぼっち・ざ・ろっく」連載再開",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-17T15:21:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584653?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584651?source=rss-武田薬品 社長の役員報酬23億円超",
+      "title": "武田薬品 社長の役員報酬23億円超",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-17T14:56:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584651?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584649?source=rss-楽天に吉井新監督 SB監督が驚き",
+      "title": "楽天に吉井新監督 SB監督が驚き",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-17T14:37:47.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584649?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584646?source=rss-サッカー日本代表 グッズ巡り声明",
+      "title": "サッカー日本代表 グッズ巡り声明",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-17T13:57:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584646?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584647?source=rss-ダブルインパクト 決勝の8組発表",
+      "title": "ダブルインパクト 決勝の8組発表",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-17T13:53:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584647?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584643?source=rss-flumpoolドラム ライブ活動休止",
+      "title": "flumpoolドラム ライブ活動休止",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-17T13:33:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584643?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584641?source=rss-三木谷氏 新監督はダメ元オファー",
+      "title": "三木谷氏 新監督はダメ元オファー",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-17T13:32:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584641?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6584640?source=rss-条例で民泊「実質禁止」 容認へ",
+      "title": "条例で民泊「実質禁止」 容認へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-17T12:53:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584640?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6584639?source=rss-テレビにAI 始まった2つの賭け",
+      "title": "テレビにAI 始まった2つの賭け",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-06-17T12:53:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584639?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/17/news124.html-Google、Gemini専用設計の新スマスピ「Google Home スピーカー」を1万6800円で発売へ",
+      "title": "Google、Gemini専用設計の新スマスピ「Google Home スピーカー」を1万6800円で発売へ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-17T12:41:00.000Z",
+      "description": "Googleは、新型スマートスピーカー「Google Home スピーカー」の予約受付を開始した。価格は1万6800円。従来の「Googleアシスタント」に代わる音声AIアシスタント「Gemini for Home」を搭載する。高度な自然言語理解や、日本語に対応した「続けて会話」機能など、AI処理に最適化された設計が特...",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/17/news124.html"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584636?source=rss-ボンネットに男性 タクシー側謝罪",
+      "title": "ボンネットに男性 タクシー側謝罪",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-17T12:26:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584636?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584631?source=rss-GK活躍 フォロワー5万→1000万超",
+      "title": "GK活躍 フォロワー5万→1000万超",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-17T11:37:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584631?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/17/news123.html-サイバーエージェントのポイント交換サービス、不正アクセスで停止中 復旧に1カ月かかる見込み",
+      "title": "サイバーエージェントのポイント交換サービス、不正アクセスで停止中 復旧に1カ月かかる見込み",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-17T11:35:00.000Z",
+      "description": "サイバーエージェント運営のポイント交換サービス「ドットマネー」が、不正アクセスを受けて6月8日から全サービスを停止している。復旧見込みは約1カ月間。同社は6月17日の続報で、交換手続き中のポイントは保全されており、消失しないと説明している。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/17/news123.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/17/news122.html-ゆうちょ銀、ATM引き出し上限を1日200万円→50万円に引き下げ 生体認証なら最大500万円のまま",
+      "title": "ゆうちょ銀、ATM引き出し上限を1日200万円→50万円に引き下げ 生体認証なら最大500万円のまま",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-17T11:25:00.000Z",
+      "description": "ゆうちょ銀行は6月17日、暗証番号による個人客の1日あたりのATM引き出し上限額を最大50万円に引き下げると発表した。8月17日から適用する。特殊詐欺など不正な払い出しの被害防止が狙い。生体認証を併用する取引は従来通り最大500万円のまま据え置く。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/17/news122.html"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584629?source=rss-テレ朝・下平アナ 担当部長昇進へ",
+      "title": "テレ朝・下平アナ 担当部長昇進へ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-17T11:19:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584629?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584628?source=rss-のぞみなどに個室タイプ座席 公開",
+      "title": "のぞみなどに個室タイプ座席 公開",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-17T11:07:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584628?source=rss"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584627?source=rss-山田まりや離婚合意 共同親権へ",
       "title": "山田まりや離婚合意 共同親権へ",
@@ -81,15 +225,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6584624?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584623?source=rss-楽天に吉井新監督 驚くロッテ選手",
-      "title": "楽天に吉井新監督 驚くロッテ選手",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-17T10:20:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584623?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6584622?source=rss-首相 G7で中国を名指し「懸念」",
       "title": "首相 G7で中国を名指し「懸念」",
       "source": "Yahoo!ニュース 国内",
@@ -97,15 +232,6 @@
       "publishedAt": "2026-06-17T09:52:45.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6584622?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584615?source=rss-10円玉の原料価値 約10.5円に上昇",
-      "title": "10円玉の原料価値 約10.5円に上昇",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-17T09:32:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584615?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584618?source=rss-映画「銀行強盗」劇場公開を中止",
@@ -189,15 +315,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2606/17/news109.html"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584598?source=rss-書店1万店割れ 大手15社共同声明",
-      "title": "書店1万店割れ 大手15社共同声明",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-17T07:29:56.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584598?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/17/news108.html-なぜ「ダークパターン」が生まれるのか？ 誤りの“勝ちパターン”という認識",
       "title": "なぜ「ダークパターン」が生まれるのか？ 誤りの“勝ちパターン”という認識",
       "source": "ITmedia NEWS",
@@ -252,15 +369,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6584590?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584589?source=rss-18日大谷は投手専念 監督明言",
-      "title": "18日大谷は投手専念 監督明言",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-17T06:17:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584589?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/17/news101.html-「SNS投稿から情報漏えい」約50社に1社が経験 東京商工リサーチ調査",
       "title": "「SNS投稿から情報漏えい」約50社に1社が経験 東京商工リサーチ調査",
       "source": "ITmedia NEWS",
@@ -277,15 +385,6 @@
       "publishedAt": "2026-06-17T05:16:10.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6584585?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584580?source=rss-カグラバチ休載へ 再開は8月予定",
-      "title": "カグラバチ休載へ 再開は8月予定",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-17T04:36:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584580?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6584581?source=rss-デジタル遺言を新設 改正民法成立",
@@ -315,42 +414,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2606/17/news089.html"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584575?source=rss-大谷が3試合ぶり15号 本拠地熱狂",
-      "title": "大谷が3試合ぶり15号 本拠地熱狂",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-17T03:44:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584575?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584569?source=rss-Takaが始球式 由伸まさかの落球",
-      "title": "Takaが始球式 由伸まさかの落球",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-17T03:04:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584569?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584565?source=rss-メッシ 初戦でハットトリック達成",
-      "title": "メッシ 初戦でハットトリック達成",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-17T02:47:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584565?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584557?source=rss-カルテル疑い 価格相談許されぬ訳",
-      "title": "カルテル疑い 価格相談許されぬ訳",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-17T02:30:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584557?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584550?source=rss-円谷プロで退職者が続出 社員証言",
       "title": "円谷プロで退職者が続出 社員証言",
       "source": "Yahoo!ニュース 経済",
@@ -367,15 +430,6 @@
       "publishedAt": "2026-06-17T01:10:00.000Z",
       "description": "6月10日から12日まで幕張メッセで開催した技術展示会「Interop Tokyo 2026」で、ヤマハは静岡・神奈川・千葉の3拠点を結び、VTuberの音楽ライブをリアルタイムでリモート制作する実証企画を披露した。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/16/news126.html"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584546?source=rss-玉緒さん通夜にさんま 弔いの流儀",
-      "title": "玉緒さん通夜にさんま 弔いの流儀",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-17T00:17:13.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584546?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/17/news066.html-SpaceX、AIコーディングの「Cursor」を600億ドルで買収 上場直後の巨額投資",
@@ -412,24 +466,6 @@
       "publishedAt": "2026-06-16T21:39:56.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6584531?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6584522?source=rss-首相 南米EPA交渉入りを表明",
-      "title": "首相 南米EPA交渉入りを表明",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-16T14:07:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584522?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584520?source=rss-明石家さんま異例弔問 取材応じず",
-      "title": "明石家さんま異例弔問 取材応じず",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-16T13:45:36.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584520?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/16/news124.html-デジタル相、停止中のミュトス級AIについて「今あるもので最大限」 3メガバンクなども同様",
@@ -504,33 +540,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6584481?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/16/news110.html-「Google Earth」で都内上空を飛んでみた Web版にフライトシミュレータ機能 東京タワーすれすれ飛行の景色は",
-      "title": "「Google Earth」で都内上空を飛んでみた Web版にフライトシミュレータ機能 東京タワーすれすれ飛行の景色は",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-16T08:45:00.000Z",
-      "description": "米Googleは6月12日（現地時間）、Web版「Google Earth」でフライトシミュレータ機能の全世界で提供を開始したと明らかにした。キーボード操作で航空機を操縦し、3D地形や航空写真の上を自由に飛び回って探索できる。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/16/news110.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/16/news105.html-DAZNまた謝罪 今度は日本戦の“音ズレ”で",
-      "title": "DAZNまた謝罪 今度は日本戦の“音ズレ”で",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-16T08:09:00.000Z",
-      "description": "「DAZN」は15日の早朝に配信した「FIFAワールドカップ2026」の「日本vsオランダ」で、音声不良および映像との誤差が生じる状態が発生したとして視聴者に謝罪した。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/16/news105.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/16/news092.html-富士通、古田会長が辞任 「不適切な行動」発覚で",
-      "title": "富士通、古田会長が辞任 「不適切な行動」発覚で",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-16T06:12:00.000Z",
-      "description": "富士通は6月16日、古田英範会長が同日付で取締役を辞任したと発表した。29日の定時株主総会で取締役候補に挙げていたが、招集通知の公表後に不適切な行動を確認したという。同社は具体的な内容を明らかにしていない。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/16/news092.html"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6584407?source=rss-スマホのシャッター音 見直しの声",
       "title": "スマホのシャッター音 見直しの声",
       "source": "Yahoo!ニュース IT",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-06-14T10:27:48.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6584236?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6584224?source=rss-増える「ホビ垢」女子 実態は",
-      "title": "増える「ホビ垢」女子 実態は",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-06-14T09:04:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584224?source=rss"
     }
   ]
 }
