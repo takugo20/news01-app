@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T19:54:36.935Z",
+  "updatedAt": "2026-06-19T22:08:23.705Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584856?source=rss-速報 スコットランドvs.モロッコ",
+      "title": "速報 スコットランドvs.モロッコ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-19T22:01:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584856?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584895?source=rss-新幹線見合わせ受け 休憩列車実施",
       "title": "新幹線見合わせ受け 休憩列車実施",
@@ -349,15 +358,6 @@
       "publishedAt": "2026-06-19T03:15:00.000Z",
       "description": "Midjourneyは、超音波を使った全身スキャナと、それを組み込んだ温浴施設「Midjourney Spa」を展開する新事業を立ち上げ、医療分野に参入すると発表した。60秒以内で高精度な立体スキャンを行う技術を開発。当面は体組成マップの提供から始め、将来的には世界で5万台以上のスキャン能力を目指す。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/19/news090.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584815?source=rss-韓国敗北 痛恨ミスから決勝点献上",
-      "title": "韓国敗北 痛恨ミスから決勝点献上",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-19T03:04:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584815?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/19/news045.html-筋トレの健康効果、週○分で頭打ち 適正時間は？ 米ハーバード大などが14万人を調査",
