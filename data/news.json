@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T10:45:12.742Z",
+  "updatedAt": "2026-06-19T15:30:10.282Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,85 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584874?source=rss-東海道新幹線 全線で運転見合わせ",
-      "title": "東海道新幹線 全線で運転見合わせ",
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584895?source=rss-新幹線見合わせ受け 休憩列車実施",
+      "title": "新幹線見合わせ受け 休憩列車実施",
       "source": "Yahoo!ニュース 経済",
       "category": "経済",
-      "publishedAt": "2026-06-19T10:27:10.000Z",
+      "publishedAt": "2026-06-19T14:33:14.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584874?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6584895?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584888?source=rss-W杯移動制限 イランが異議の方針",
+      "title": "W杯移動制限 イランが異議の方針",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-19T13:32:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584888?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6584890?source=rss-「副首都法案」自民が修正を検討",
+      "title": "「副首都法案」自民が修正を検討",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-19T13:27:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584890?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584887?source=rss-久保負傷深刻ではない クラブSD",
+      "title": "久保負傷深刻ではない クラブSD",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-19T13:27:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584887?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584885?source=rss-稲見萌寧 スタート3分前に欠場",
+      "title": "稲見萌寧 スタート3分前に欠場",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-19T12:59:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584885?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584886?source=rss-「鎌田の1ミリ」いじられると本人",
+      "title": "「鎌田の1ミリ」いじられると本人",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-19T12:54:53.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584886?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584883?source=rss-復活の「GTO」文科省とコラボ",
+      "title": "復活の「GTO」文科省とコラボ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-19T12:34:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584883?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6584879?source=rss-外国人ビザ手数料 7月以降値上げ",
+      "title": "外国人ビザ手数料 7月以降値上げ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-19T12:29:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6584879?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/19/news137.html-moomoo証券に3カ月の一部業務停止命令、NISA対象外を「対象」と虚偽説明 金融庁",
+      "title": "moomoo証券に3カ月の一部業務停止命令、NISA対象外を「対象」と虚偽説明 金融庁",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-19T11:30:00.000Z",
+      "description": "金融庁と関東財務局は6月19日、moomoo証券に対し、6月19日から9月18日まで新規口座開設の勧誘・受付業務を停止する命令などの行政処分を出した。NISA対象外の商品を「対象」と偽って販売したほか、システム管理態勢の不備など複数の問題を認定した。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/19/news137.html"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584873?source=rss-ハナコ岡部大 第2子誕生を報告",
@@ -72,8 +144,8 @@
       "url": "https://news.yahoo.co.jp/pickup/6584871?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/19/news118.html-アクロバットで話題の人型ロボ「H1」「G1」など、GMO子会社が国内販売へ 中国Unitreeと代理店契約",
-      "title": "アクロバットで話題の人型ロボ「H1」「G1」など、GMO子会社が国内販売へ 中国Unitreeと代理店契約",
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/19/news118.html-アクロバットで話題の人型ロボ「H1」「G1」、GMO子会社が国内販売へ 中国Unitreeと代理店契約",
+      "title": "アクロバットで話題の人型ロボ「H1」「G1」、GMO子会社が国内販売へ 中国Unitreeと代理店契約",
       "source": "ITmedia NEWS",
       "category": "IT",
       "publishedAt": "2026-06-19T10:00:00.000Z",
@@ -171,15 +243,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6584843?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584841?source=rss-W杯レッド枚数 早くも前回超え",
-      "title": "W杯レッド枚数 早くも前回超え",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-19T06:59:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584841?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/19/news110.html-Photoshopなど「Adobe Creative Cloud」にAIエージェント、アドビが全面導入 ChatGPTやClaudeとも連携",
       "title": "Photoshopなど「Adobe Creative Cloud」にAIエージェント、アドビが全面導入 ChatGPTやClaudeとも連携",
       "source": "ITmedia NEWS",
@@ -205,15 +268,6 @@
       "publishedAt": "2026-06-19T05:40:51.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6584835?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584833?source=rss-痛恨失点 韓国監督「惜しまれる」",
-      "title": "痛恨失点 韓国監督「惜しまれる」",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-19T05:36:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584833?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6584834?source=rss-DAZN騒動 法的な観点で考える",
@@ -315,15 +369,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2606/19/news045.html"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584811?source=rss-中日 小笠原獲得のオファーなしか",
-      "title": "中日 小笠原獲得のオファーなしか",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-19T02:26:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584811?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/19/news082.html-Waymo、ロボタクシーの高速道路走行を制限 工事区間に進入する不具合でリコール届け出",
       "title": "Waymo、ロボタクシーの高速道路走行を制限 工事区間に進入する不具合でリコール届け出",
       "source": "ITmedia NEWS",
@@ -396,15 +441,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6584786?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6584781?source=rss-最新AIの対策 外国政府と連携強化",
-      "title": "最新AIの対策 外国政府と連携強化",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-18T22:58:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584781?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584774?source=rss-日テレ「THE W」今年は開催せず",
       "title": "日テレ「THE W」今年は開催せず",
       "source": "Yahoo!ニュース エンタメ",
@@ -441,15 +477,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2606/19/news062.html"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584769?source=rss-久保建英 チュニジア戦欠場が決定",
-      "title": "久保建英 チュニジア戦欠場が決定",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-18T21:07:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584769?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/18/news130.html-DAZN、サッカー専用プラン契約者のすべてに「解約」「Standardへ変更」「継続」の選択肢",
       "title": "DAZN、サッカー専用プラン契約者のすべてに「解約」「Standardへ変更」「継続」の選択肢",
       "source": "ITmedia NEWS",
@@ -475,24 +502,6 @@
       "publishedAt": "2026-06-18T13:39:43.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6584763?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584757?source=rss-ゆりやんが顔隠した帽子外す 歓声",
-      "title": "ゆりやんが顔隠した帽子外す 歓声",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-18T12:57:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584757?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6584747?source=rss-ドリームジャンボ 東京で1等3本",
-      "title": "ドリームジャンボ 東京で1等3本",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-18T11:42:58.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584747?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/18/news127.html-「こち亀」に全コマ検索、公式サイトに登場 まずは100巻分、ゆくゆくは全巻へ",
@@ -529,15 +538,6 @@
       "publishedAt": "2026-06-18T10:35:00.000Z",
       "description": "6月10日に発売された個人開発のかくれんぼゲーム「めっちゃカメレオン」が人気を博している。累計販売本数は発売6日で300万本に到達し、Steamストアのレビューも8000件超え。80％の好評率で「非常に好評」ステータスを獲得している。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/18/news124.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/18/news112.html-NHK、受信料の未払い数が6年ぶりに減少 支払督促は前年度の11倍に ネットでは反発の声も",
-      "title": "NHK、受信料の未払い数が6年ぶりに減少 支払督促は前年度の11倍に ネットでは反発の声も",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-18T07:45:00.000Z",
-      "description": "NHKは6月16日、2025年度の受信料の未払い数が約174万2000件となり、前年度から約3000件減ったと発表した。減少は6年ぶり。25年10月の専門組織設置で支払督促を前年度の約11倍に拡大するなど、未収対策を強めた成果としている。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/18/news112.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6584706?source=rss-「DAZN Soccer」新規受付を停止",
