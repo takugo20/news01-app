@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T14:13:36.319Z",
+  "updatedAt": "2026-06-20T16:23:26.985Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585025?source=rss-大谷も スポーツ界ベビー誕生続く",
+      "title": "大谷も スポーツ界ベビー誕生続く",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-20T14:30:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585025?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585018?source=rss-北陸・東北中心に激しい雷雨恐れ",
       "title": "北陸・東北中心に激しい雷雨恐れ",
@@ -124,15 +133,6 @@
       "publishedAt": "2026-06-20T11:15:58.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6584995?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584990?source=rss-大谷に第2子 米メディア沸き立つ",
-      "title": "大谷に第2子 米メディア沸き立つ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-20T10:24:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584990?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6584988?source=rss-新庄氏 SB監督呼び出し異例訴え",
