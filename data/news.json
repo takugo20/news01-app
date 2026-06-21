@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T14:20:50.093Z",
+  "updatedAt": "2026-06-21T16:47:34.589Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6585140?source=rss-24時間テレビランナー 変わる人選",
+      "title": "24時間テレビランナー 変わる人選",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-21T14:50:53.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585140?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585139?source=rss-森保マジック発動 大胆策で大勝",
+      "title": "森保マジック発動 大胆策で大勝",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-21T14:33:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585139?source=rss"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6585138?source=rss-ひぐらしのなく頃に 新アニメ決定",
       "title": "ひぐらしのなく頃に 新アニメ決定",
@@ -178,15 +196,6 @@
       "publishedAt": "2026-06-21T09:22:52.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6585109?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585106?source=rss-日本が快勝 長友の存在の大きさ",
-      "title": "日本が快勝 長友の存在の大きさ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-21T08:57:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585106?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6585100?source=rss-ジャングリア なぜ口コミが回復",
@@ -367,15 +376,6 @@
       "publishedAt": "2026-06-20T05:13:42.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6584944?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6584937?source=rss-沢尻エリカ 復帰理由にファンの涙",
-      "title": "沢尻エリカ 復帰理由にファンの涙",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-20T03:26:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6584937?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6584926?source=rss-課題にAIコピペの大学生36% 調査",
