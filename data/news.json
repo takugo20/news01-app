@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T19:50:07.055Z",
+  "updatedAt": "2026-06-21T22:17:24.121Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585147?source=rss-大谷「父の日」水色バットで安打",
+      "title": "大谷「父の日」水色バットで安打",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-21T22:14:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585147?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585146?source=rss-旧宮家養子案「反対」32% 毎日",
+      "title": "旧宮家養子案「反対」32% 毎日",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-21T21:59:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585146?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585141?source=rss-本田圭佑 W杯解説の予言また的中",
+      "title": "本田圭佑 W杯解説の予言また的中",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-21T21:10:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585141?source=rss"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6585140?source=rss-24時間テレビランナー 変わる人選",
       "title": "24時間テレビランナー 変わる人選",
@@ -126,15 +153,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6585128?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585126?source=rss-化学テロ対策で専門家組織創設へ",
-      "title": "化学テロ対策で専門家組織創設へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-21T12:21:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585126?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585122?source=rss-内閣支持率が発足以来最低 共同",
       "title": "内閣支持率が発足以来最低 共同",
       "source": "Yahoo!ニュース 国内",
@@ -142,15 +160,6 @@
       "publishedAt": "2026-06-21T11:48:27.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6585122?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585121?source=rss-中村敬斗 欠場久保へ「Kポーズ」",
-      "title": "中村敬斗 欠場久保へ「Kポーズ」",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-21T11:37:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585121?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585120?source=rss-チュニジア監督 日本へおめでとう",
@@ -232,15 +241,6 @@
       "publishedAt": "2026-06-21T06:43:00.000Z",
       "description": "Google DeepMindで「AlphaFold」の開発を主導し、デミス・ハサビスCEOと共にノーベル化学賞を受賞したジョン・ジャンパー氏が、Anthropicに移ると自身のXで明らかにした。直近では「Gemini」を主導したGoogleのノーム・シャジーア氏がOpenAIに移っており、AI人材の獲得競争が一段と激...",
       "url": "https://www.itmedia.co.jp/news/articles/2606/21/news017.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585089?source=rss-チュニジアW杯敗退 選手らぼう然",
-      "title": "チュニジアW杯敗退 選手らぼう然",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-21T06:41:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585089?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6585073?source=rss-海外製天気アプリ 相次ぐ誤情報",
