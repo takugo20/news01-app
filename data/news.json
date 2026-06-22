@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T18:49:56.699Z",
+  "updatedAt": "2026-06-22T22:48:57.040Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,87 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585286?source=rss-長友 熱い口調で堂安のゴール予言",
+      "title": "長友 熱い口調で堂安のゴール予言",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-22T22:40:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585286?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6585285?source=rss-円 一時39年半ぶり安値に肉薄",
+      "title": "円 一時39年半ぶり安値に肉薄",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-22T22:29:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585285?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585282?source=rss-「地域未来戦略」概要案が判明",
+      "title": "「地域未来戦略」概要案が判明",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-22T22:17:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585282?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/22/news043.html-「出世できても断りたい」 管理職を避ける若手IT人材たち……上司には言えないむき出しのホンネ",
+      "title": "「出世できても断りたい」 管理職を避ける若手IT人材たち……上司には言えないむき出しのホンネ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-22T22:00:00.000Z",
+      "description": "上司には言えない若手IT人材たちのホンネを匿名取材で暴く。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news043.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/23/news073.html-Google DeepMindと映画スタジオA24がAI研究で提携──映像制作ツールを作り手と共同開発",
+      "title": "Google DeepMindと映画スタジオA24がAI研究で提携──映像制作ツールを作り手と共同開発",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-22T21:54:00.000Z",
+      "description": "Google DeepMindは、映画スタジオのA24と映像制作分野でのAI研究を巡る提携を発表した。A24は研究成果やインフラを利用可能になり、DeepMindは映像作家からのフィードバックを開発に反映させる。映像制作へのAI活用を巡っては、Amazonなども動きを強めている。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news073.html"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585281?source=rss-沖縄慰霊の日 問われる平和学習",
+      "title": "沖縄慰霊の日 問われる平和学習",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-22T21:41:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585281?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585280?source=rss-昭恵夫人 夫を狙った理由聞きたい",
+      "title": "昭恵夫人 夫を狙った理由聞きたい",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-22T21:23:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585280?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585279?source=rss-久保建英 スウェーデン戦欠場濃厚",
+      "title": "久保建英 スウェーデン戦欠場濃厚",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-22T21:14:26.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585279?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585278?source=rss-メッシ2発 W杯歴代最多得点更新",
+      "title": "メッシ2発 W杯歴代最多得点更新",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-22T21:06:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585278?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585277?source=rss-円安協議か 日米財務相が緊急会談",
       "title": "円安協議か 日米財務相が緊急会談",
@@ -72,15 +153,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6585272?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585269?source=rss-保育士の異色ボクサー 日本王座に",
-      "title": "保育士の異色ボクサー 日本王座に",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-22T13:46:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585269?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6585266?source=rss-「夜の新幹線」8/8に運行 JR東海",
       "title": "「夜の新幹線」8/8に運行 JR東海",
       "source": "Yahoo!ニュース 経済",
@@ -106,15 +178,6 @@
       "publishedAt": "2026-06-22T12:36:15.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6585259?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585229?source=rss-台風7号が急発達 今後の警戒事項",
-      "title": "台風7号が急発達 今後の警戒事項",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-22T12:17:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585229?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585257?source=rss-森保監督 短期決戦のセオリー崩す",
@@ -279,15 +342,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6585215?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585210?source=rss-異例 FIFAスタッフ日本戦ゴミ拾い",
-      "title": "異例 FIFAスタッフ日本戦ゴミ拾い",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-22T07:11:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585210?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6585207?source=rss-伊藤忠 チャンピオン日本事業取得",
       "title": "伊藤忠 チャンピオン日本事業取得",
       "source": "Yahoo!ニュース 経済",
@@ -297,15 +351,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6585207?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6585206?source=rss-日経平均終値 初の7万2000円超え",
-      "title": "日経平均終値 初の7万2000円超え",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-22T06:48:56.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585206?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6585202?source=rss-ツッコミスターにギャラクシー賞",
       "title": "ツッコミスターにギャラクシー賞",
       "source": "Yahoo!ニュース エンタメ",
@@ -313,15 +358,6 @@
       "publishedAt": "2026-06-22T06:36:24.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6585202?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585200?source=rss-消費減税「2年期限」首相が明言",
-      "title": "消費減税「2年期限」首相が明言",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-22T06:27:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585200?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/22/news110.html-個人開発「めっちゃカメレオン」異次元のヒット、12日で700万本突破 SNSバズや実況動画で世界に拡散",
@@ -414,15 +450,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2606/22/news086.html"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585187?source=rss-森保J 次戦前に決勝T進出決定も",
-      "title": "森保J 次戦前に決勝T進出決定も",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-22T03:39:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585187?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6585184?source=rss-ハンターハンター1年半ぶり掲載へ",
       "title": "ハンターハンター1年半ぶり掲載へ",
       "source": "Yahoo!ニュース エンタメ",
@@ -457,15 +484,6 @@
       "publishedAt": "2026-06-22T01:42:00.000Z",
       "description": "前編で自民党の山田太郎参院議員は、力強い日本を作るには「成長戦略、知財戦略、国際標準戦略」の3つが欠かせないと訴えた。では、漫画、アニメ、ゲームなど日本発コンテンツを世界で稼ぐ資産に変えるには何が必要なのか。9日に開かれた一般社団法人「知財・無形資産ガバナンス協会」（菊地修理事長）の設立1周年式典での記念特別講演から、...",
       "url": "https://www.itmedia.co.jp/news/articles/2606/22/news067.html"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585166?source=rss-萩原智子氏 水泳の授業縮小に思い",
-      "title": "萩原智子氏 水泳の授業縮小に思い",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-22T01:38:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585166?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/22/news064.html-DAZN「ベースボールもだまされた」の声 月2300円と思ったら年2万7600円、途中解約不可 「オフシーズンあるのに」",
@@ -504,15 +522,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2606/19/news138.html"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/22/news041.html-AIに頼ると技術が落ちる？ 医師・エンジニアたちの懸念、検証結果は……Natureも警鐘",
-      "title": "AIに頼ると技術が落ちる？ 医師・エンジニアたちの懸念、検証結果は……Natureも警鐘",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-21T22:00:00.000Z",
-      "description": "AIツールが職場に普及するにつれて、専門家たちが長年培ってきたスキルが衰えてしまうのではないかという懸念が広がっている。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news041.html"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6585097?source=rss-大学サイトが詐欺の入口 識者解説",
       "title": "大学サイトが詐欺の入口 識者解説",
       "source": "Yahoo!ニュース IT",
@@ -520,15 +529,6 @@
       "publishedAt": "2026-06-21T07:37:45.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6585097?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/21/news017.html-ノーベル化学賞のジョン・ジャンパー氏、Google DeepMindからAnthropicへ──「AlphaFold」開発の立役者",
-      "title": "ノーベル化学賞のジョン・ジャンパー氏、Google DeepMindからAnthropicへ──「AlphaFold」開発の立役者",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-21T06:43:00.000Z",
-      "description": "Google DeepMindで「AlphaFold」の開発を主導し、デミス・ハサビスCEOと共にノーベル化学賞を受賞したジョン・ジャンパー氏が、Anthropicに移ると自身のXで明らかにした。直近では「Gemini」を主導したGoogleのノーム・シャジーア氏がOpenAIに移っており、AI人材の獲得競争が一段と激...",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/21/news017.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6585073?source=rss-海外製天気アプリ 相次ぐ誤情報",
