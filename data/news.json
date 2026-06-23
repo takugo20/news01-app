@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T20:11:34.828Z",
+  "updatedAt": "2026-06-23T22:18:01.458Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585430?source=rss-久保建英 スウェーデン戦欠場決定",
+      "title": "久保建英 スウェーデン戦欠場決定",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-23T22:11:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585430?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6585426?source=rss-のん「FNS歌謡祭」に初出演へ",
+      "title": "のん「FNS歌謡祭」に初出演へ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-23T21:23:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585426?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585425?source=rss-41歳Cロナ 史上初6大会連続得点",
+      "title": "41歳Cロナ 史上初6大会連続得点",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-23T21:14:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585425?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585424?source=rss-ダブル台風 接近前から大雨の恐れ",
       "title": "ダブル台風 接近前から大雨の恐れ",
@@ -243,15 +270,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6585381?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585379?source=rss-英のW杯優勝オッズ 日本12番人気",
-      "title": "英のW杯優勝オッズ 日本12番人気",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-23T09:11:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585379?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6585378?source=rss-AI時代の「自動応募犯罪」対策は",
       "title": "AI時代の「自動応募犯罪」対策は",
       "source": "Yahoo!ニュース IT",
@@ -369,15 +387,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6585353?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585343?source=rss-J2磐田 元代表・乾貴士の獲得発表",
-      "title": "J2磐田 元代表・乾貴士の獲得発表",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-23T06:08:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585343?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585341?source=rss-W杯 得点王争いがハイレベルに",
       "title": "W杯 得点王争いがハイレベルに",
       "source": "Yahoo!ニュース スポーツ",
@@ -439,15 +448,6 @@
       "publishedAt": "2026-06-23T03:15:00.000Z",
       "description": "IPAは6月22日、2027年度から始まる情報処理技術者試験の新試験制度で新設する「データマネジメント試験」（仮称）のサンプル問題を公開した。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/23/news092.html"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6585327?source=rss-俳優しゅはまはるみ 結婚を発表",
-      "title": "俳優しゅはまはるみ 結婚を発表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-23T03:11:35.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585327?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6585328?source=rss-特撮「ギャバン」短期終了へ 課題",
