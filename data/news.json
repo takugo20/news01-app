@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T19:52:13.332Z",
+  "updatedAt": "2026-06-24T22:21:48.404Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585494?source=rss-速報 スコットランドvs.ブラジル",
+      "title": "速報 スコットランドvs.ブラジル",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-24T21:51:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585494?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585541?source=rss-森保監督「1位通過したい」",
+      "title": "森保監督「1位通過したい」",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-24T21:41:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585541?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585540?source=rss-千賀滉大がリリーフに 指揮官明言",
+      "title": "千賀滉大がリリーフに 指揮官明言",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-24T21:28:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585540?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585538?source=rss-中国で拘束の2人は富士電機社員",
       "title": "中国で拘束の2人は富士電機社員",
@@ -144,15 +171,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6585523?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585505?source=rss-東京マラソン 超高速レースなるか",
-      "title": "東京マラソン 超高速レースなるか",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-24T12:42:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585505?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585522?source=rss-消費減税 とりまとめ案に野党反発",
       "title": "消費減税 とりまとめ案に野党反発",
       "source": "Yahoo!ニュース 国内",
@@ -160,15 +178,6 @@
       "publishedAt": "2026-06-24T12:35:41.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6585522?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585521?source=rss-マチャド 死球巡りSB監督に謝罪",
-      "title": "マチャド 死球巡りSB監督に謝罪",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-24T12:19:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585521?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6585516?source=rss-元AKB花田 何年かかってでも戦う",
@@ -502,15 +511,6 @@
       "publishedAt": "2026-06-23T23:00:00.000Z",
       "description": "女性の閉経は、単なる生殖機能の終わりではなく、脳の構造や働きに影響を及ぼす。学術雑誌「Scientific Reports」で2021年に発表された研究や、 26年にPsychological Medicine誌で発表された研究が示す詳細は。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/24/news033.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585437?source=rss-ロナウド活躍 長友「言葉出ない」",
-      "title": "ロナウド活躍 長友「言葉出ない」",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-23T22:56:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585437?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6585434?source=rss-楽天 スマホ「衛星通信網」構築へ",
