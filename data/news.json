@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T20:07:15.051Z",
+  "updatedAt": "2026-06-25T22:23:06.383Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,42 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585680?source=rss-エクアドル歓喜 ドイツに逆転勝ち",
+      "title": "エクアドル歓喜 ドイツに逆転勝ち",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-25T22:19:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585680?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585678?source=rss-森保J スウェーデン戦のスタメン",
+      "title": "森保J スウェーデン戦のスタメン",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-25T21:54:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585678?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/26/news059.html-IBM、世界初の「1nm未満」チップ技術を発表――3D構造「ナノスタック」でAIの処理を高速化",
+      "title": "IBM、世界初の「1nm未満」チップ技術を発表――3D構造「ナノスタック」でAIの処理を高速化",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-25T21:47:00.000Z",
+      "description": "IBMは、世界初となる1ナノメートル未満（sub-1nm）のチップ技術を発表した。独自の3次元トランジスタ構造「nanostack」（ナノスタック）を開発し、原子数個分の微細化を達成。2nmノード比で性能が最大50％向上、電力効率が70％改善する。生成AIの高度なデータ処理を支える基盤として、今後5年以内の量産化を目指...",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/26/news059.html"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585675?source=rss-台風7号 沖縄は暴風と大雨に警戒",
+      "title": "台風7号 沖縄は暴風と大雨に警戒",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-25T21:08:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585675?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585673?source=rss-前田健太 待望の今季初勝利に涙",
       "title": "前田健太 待望の今季初勝利に涙",
@@ -90,15 +126,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6585663?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585661?source=rss-前田健太が今季初勝利 7回無失点",
-      "title": "前田健太が今季初勝利 7回無失点",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-25T12:22:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585661?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6585657?source=rss-SBIHDとフジHD 資本業務提携へ",
       "title": "SBIHDとフジHD 資本業務提携へ",
       "source": "Yahoo!ニュース 経済",
@@ -115,15 +142,6 @@
       "publishedAt": "2026-06-25T12:05:00.000Z",
       "description": "Figmaが発表した新機能「Figma Motion」が、かつてのAdobe Flashを思わせるとSNSで話題だ。タイムラインでキーフレームを打つ操作感が懐かしさを呼んだが、実際に触ると別物との声もみられる。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/25/news132.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585656?source=rss-主力休養か 森保Jスタメン予想",
-      "title": "主力休養か 森保Jスタメン予想",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-25T11:56:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585656?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585655?source=rss-最低賃金の目標 先延ばしで調整",
@@ -178,15 +196,6 @@
       "publishedAt": "2026-06-25T09:38:59.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6585645?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585644?source=rss-台風7号 27日に九州～関東直撃か",
-      "title": "台風7号 27日に九州～関東直撃か",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-25T09:29:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585644?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6585643?source=rss-北川莉央アナ 番組デビューへ",
@@ -475,15 +484,6 @@
       "publishedAt": "2026-06-25T00:23:00.000Z",
       "description": "OpenAIは、ChatGPTで最も広く利用されているモデル「GPT-5.5 Instant」のアップデートを発表した。新機能の追加ではなく、日常的な会話の品質向上が中心。質問の意図を的確に捉えて文脈を維持する能力が向上するほか、テンプレート的な回答が減り、位置情報を活用した地域のビジネス検索などもより洗練されるとして...",
       "url": "https://www.itmedia.co.jp/news/articles/2606/25/news062.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/25/news063.html-青森で最大震度6強、各社が「災害用伝言サービス」運用 ドコモ「サービスに影響なし」",
-      "title": "青森で最大震度6強、各社が「災害用伝言サービス」運用 ドコモ「サービスに影響なし」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-25T00:19:00.000Z",
-      "description": "6月25日午前7時30分ごろ、青森県で震度6強の揺れを観測する地震が発生したことを受け、通信各社が災害用伝言サービスの運用を始めた。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/25/news063.html"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6585563?source=rss-ホンダ日産 SDV基幹部品共通化へ",
