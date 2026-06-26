@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T09:35:46.630Z",
+  "updatedAt": "2026-06-26T14:34:20.236Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,130 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585779?source=rss-関東-九州で災害級の大雨に警戒を",
-      "title": "関東-九州で災害級の大雨に警戒を",
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6585807?source=rss-新幹線 東京-静岡で運転見合わせ",
+      "title": "新幹線 東京-静岡で運転見合わせ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-26T14:00:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585807?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585805?source=rss-山梨県で震度6弱 最新情報まとめ",
+      "title": "山梨県で震度6弱 最新情報まとめ",
       "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-06-26T09:11:45.000Z",
+      "publishedAt": "2026-06-26T13:47:49.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585779?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6585805?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585804?source=rss-山梨県で震度6弱 津波心配なし",
+      "title": "山梨県で震度6弱 津波心配なし",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-26T13:39:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585804?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585553?source=rss-安全確保を 地震発生時のNG行動",
+      "title": "安全確保を 地震発生時のNG行動",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-26T13:32:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585553?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6585798?source=rss-防衛ドローン 川重とエアバス提携",
+      "title": "防衛ドローン 川重とエアバス提携",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-26T12:32:47.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585798?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585796?source=rss-日本-ブラジル 天敵はネイマール",
+      "title": "日本-ブラジル 天敵はネイマール",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-26T12:04:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585796?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585795?source=rss-森保J次戦のPVチケ9分で完売 JFA",
+      "title": "森保J次戦のPVチケ9分で完売 JFA",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-26T11:53:29.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585795?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585791?source=rss-大雨ピークは2回 災害に厳重警戒",
+      "title": "大雨ピークは2回 災害に厳重警戒",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-26T11:14:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585791?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585788?source=rss-家庭用エアコン フロン回収強化へ",
+      "title": "家庭用エアコン フロン回収強化へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-26T10:52:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585788?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/26/news136.html-「モバイルバッテリー発火」に備え、新幹線に「防火ブランケット」配備 JRグループ5社 8月までに",
+      "title": "「モバイルバッテリー発火」に備え、新幹線に「防火ブランケット」配備 JRグループ5社 8月までに",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-26T10:50:00.000Z",
+      "description": "JRグループ5社は6月26日、新幹線車内に防火補助用品としてファイヤーブランケットとバケツを配備すると発表した。車内でのモバイルバッテリーの発煙・発火事案を踏まえた措置で、8月までに配備を完了する予定だ。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/26/news136.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/26/news134.html-映画「ケロロ軍曹」、「進撃の巨人」想起させる演出などを謝罪 権利者の意向に反して制作",
+      "title": "映画「ケロロ軍曹」、「進撃の巨人」想起させる演出などを謝罪 権利者の意向に反して制作",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-26T10:30:00.000Z",
+      "description": "バンダイナムコフィルムワークスなど2社は、6月26日公開の映画「新劇場版☆ケロロ軍曹」で他作品を想起させる演出が権利者の意向に反していたと謝罪した。特に「進撃の巨人」は事前の意思表示があったが、社内の伝達不備で制作を進めていたという。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/26/news134.html"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6585787?source=rss-劇場版ケロロ軍曹の制作巡り謝罪",
+      "title": "劇場版ケロロ軍曹の制作巡り謝罪",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-26T10:22:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585787?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585786?source=rss-長友 引退考えた自分ふざけんな",
+      "title": "長友 引退考えた自分ふざけんな",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-26T10:04:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585786?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/26/news127.html-楽天の株主優待SIM、ヤフオクに出品される LINEヤフーは削除対応「悪用リスク等を鑑み」",
+      "title": "楽天の株主優待SIM、ヤフオクに出品される LINEヤフーは削除対応「悪用リスク等を鑑み」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-26T09:55:00.000Z",
+      "description": "楽天グループが株主優待として株主に配るSIMカードが、Yahoo!オークションに出品されていた。楽天は規約でSIMの転売を禁じている。LINEヤフーは6月25日、ITmedia NEWSの取材に対し、この出品物を削除する対応を進めていると明らかにした。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/26/news127.html"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6585774?source=rss-日産60万台リコール ノートなど",
@@ -81,24 +198,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6585770?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585769?source=rss-本田圭佑 ブラジル戦はBSで解説",
-      "title": "本田圭佑 ブラジル戦はBSで解説",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-26T08:30:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585769?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585768?source=rss-森保氏 ブラジルと戦えるの楽しみ",
-      "title": "森保氏 ブラジルと戦えるの楽しみ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-26T08:21:45.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585768?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6585762?source=rss-鈴木もぐら38kg減 稽古で手応え",
       "title": "鈴木もぐら38kg減 稽古で手応え",
       "source": "Yahoo!ニュース エンタメ",
@@ -106,15 +205,6 @@
       "publishedAt": "2026-06-26T08:00:26.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6585762?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585761?source=rss-答弁中に携帯電話を操作 法相謝罪",
-      "title": "答弁中に携帯電話を操作 法相謝罪",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-26T07:45:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585761?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6585760?source=rss-村上虹郎さん書類送検 事務所謝罪",
@@ -142,24 +232,6 @@
       "publishedAt": "2026-06-26T07:15:44.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6585753?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6585754?source=rss-JR東あす一部の特急や在来線運休",
-      "title": "JR東あす一部の特急や在来線運休",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-26T07:12:27.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585754?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6585755?source=rss-東証終値3005円安 下げ幅史上3位",
-      "title": "東証終値3005円安 下げ幅史上3位",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-26T07:11:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585755?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6585756?source=rss-ゴーン氏 ‌復帰求める声に言及",
@@ -270,15 +342,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2606/26/news081.html"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585727?source=rss-官房長官秘書官を交代へ 更迭か",
-      "title": "官房長官秘書官を交代へ 更迭か",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-26T02:53:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585727?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6585724?source=rss-ホンダ社長謝罪 4千億円超の赤字",
       "title": "ホンダ社長謝罪 4千億円超の赤字",
       "source": "Yahoo!ニュース 経済",
@@ -306,15 +369,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2606/26/news077.html"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585722?source=rss-名に使える漢字3千字に「勒」追加",
-      "title": "名に使える漢字3千字に「勒」追加",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-26T02:11:24.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585722?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585721?source=rss-中村敬斗のソックス問題 JFA言及",
       "title": "中村敬斗のソックス問題 JFA言及",
       "source": "Yahoo!ニュース スポーツ",
@@ -340,15 +394,6 @@
       "publishedAt": "2026-06-26T01:24:00.000Z",
       "description": "自己都合退職率は、6.9％から9.9％に上昇した。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/26/news070.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585712?source=rss-森保J 決勝T進出もいばらの道",
-      "title": "森保J 決勝T進出もいばらの道",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-26T01:23:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585712?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/26/news069.html-YouTube、「ショート動画」を2倍速で再生可能に 「低評価」ボタンは廃止",
@@ -385,15 +430,6 @@
       "publishedAt": "2026-06-25T23:27:00.000Z",
       "description": "Microsoftはひっそりサポートページを更新し、「Windows 10」の拡張セキュリティ更新（ESU）プログラムを1年間延長した。一般ユーザー向けサポートは当初2026年10月までとされていたが、自動的に1年延長される。登録済みのデバイスは2027年10月12日までセキュリティ更新を受け取れる。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/26/news061.html"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585684?source=rss-法人の実質的支配者 新法で把握へ",
-      "title": "法人の実質的支配者 新法で把握へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-25T23:01:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585684?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/26/news060.html-Notion、メールアプリ「Notion Mail」終了へ AIエージェントに全面移行",
@@ -468,33 +504,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2606/25/news136.html"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/25/news129.html-男性に美人局容疑で3人逮捕 ChatGPTの示談相場示し脅迫か 警視庁",
-      "title": "男性に美人局容疑で3人逮捕 ChatGPTの示談相場示し脅迫か 警視庁",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-25T09:11:00.000Z",
-      "description": "美人局の手口で、少女とホテルに入った男性から現金を脅し取ったとして、警視庁少年事件課は恐喝の疑いで、東京都練馬区上石神井の職業不詳、斎藤蓮容疑者（22）ら男3人を逮捕、男女2人を書類送検した。斎藤容疑者は黙秘し、4人は容疑を認めている。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/25/news129.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/25/news128.html-ネズミが電気ケーブルをかじる？ 岩手・軽米町のメガソーラーで火災、過去に5件",
-      "title": "ネズミが電気ケーブルをかじる？ 岩手・軽米町のメガソーラーで火災、過去に5件",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-25T09:09:00.000Z",
-      "description": "岩手県軽米町の大規模太陽光発電施設（メガソーラー）で6月24日、送電用の敷設ケーブルが燃える火災があった。同施設ではこれまでに少なくとも5件の火災が発生しており、過去の火災ではネズミなどの小動物がケーブルをかじったことが原因の可能性が高いという。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/25/news128.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/25/news127.html-“自作”できるカプセルトイ「手のひらPCパーツ」まもなく登場 インテル、GIGABYTEなど監修",
-      "title": "“自作”できるカプセルトイ「手のひらPCパーツ」まもなく登場 インテル、GIGABYTEなど監修",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-25T09:07:00.000Z",
-      "description": "ターリン・インターナショナルは25日、カプセルトイの新商品「メーカー監修 手のひらPCパーツ」を10月に発売すると告知した。組み立ても可能だ。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/25/news127.html"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6585638?source=rss-SPEED公式TikTokアカウント開設",
       "title": "SPEED公式TikTokアカウント開設",
       "source": "Yahoo!ニュース エンタメ",
@@ -511,15 +520,6 @@
       "publishedAt": "2026-06-25T08:42:06.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6585636?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6585633?source=rss-元フジアナ松尾翠 俳優業を本格化",
-      "title": "元フジアナ松尾翠 俳優業を本格化",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-25T08:29:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585633?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6585623?source=rss-芸能人肖像 AIで無断使用4万件超",
