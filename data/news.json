@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T13:52:40.219Z",
+  "updatedAt": "2026-06-27T16:08:53.088Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,42 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585938?source=rss-太平洋防衛へ無人潜水艇 政府検討",
+      "title": "太平洋防衛へ無人潜水艇 政府検討",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-27T14:31:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585938?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585937?source=rss-28日 雨が止んでも土砂災害に警戒",
+      "title": "28日 雨が止んでも土砂災害に警戒",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-27T14:15:17.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585937?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6585935?source=rss-北陸新幹線 延伸ルート巡り混迷",
+      "title": "北陸新幹線 延伸ルート巡り混迷",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-27T14:05:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585935?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6585936?source=rss-山寺宏一 舞台挨拶で一人5役披露",
+      "title": "山寺宏一 舞台挨拶で一人5役披露",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-27T14:01:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585936?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585933?source=rss-イチロー氏の走り 末續氏ガチ採点",
       "title": "イチロー氏の走り 末續氏ガチ採点",
       "source": "Yahoo!ニュース スポーツ",
@@ -70,15 +106,6 @@
       "publishedAt": "2026-06-27T12:47:32.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6585930?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585927?source=rss-台風接近で記録的雨 土砂崩れ警戒",
-      "title": "台風接近で記録的雨 土砂崩れ警戒",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-27T12:16:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585927?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585922?source=rss-ウルグアイGK痛恨ミス 交代直訴",
@@ -252,15 +279,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6585847?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585843?source=rss-芥川賞作家 庄司薫さん死去",
-      "title": "芥川賞作家 庄司薫さん死去",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-27T00:47:41.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585843?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6585831?source=rss-大悟 時代と逆行でも愛される理由",
       "title": "大悟 時代と逆行でも愛される理由",
       "source": "Yahoo!ニュース エンタメ",
@@ -286,15 +304,6 @@
       "publishedAt": "2026-06-26T23:15:00.000Z",
       "description": "フィッシング対策協議会は6月26日、国内ISP事業者から漏えいした認証情報を悪用したとみられるフィッシングメールに注意喚起した。23日には、KDDIがシステムを提供しているISP事業者の情報が漏えいした可能性があると発表しており、関連している可能性がある。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/26/news138.html"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6584504?source=rss-全国の鉄道・フライト 最新情報",
-      "title": "全国の鉄道・フライト 最新情報",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-26T15:44:19.000Z",
-      "description": "最新の鉄道運行情報、フライト情報。災害による交通機関への影響を確認。",
-      "url": "https://news.yahoo.co.jp/pickup/6584504?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6585798?source=rss-防衛ドローン 川重とエアバス提携",
@@ -367,15 +376,6 @@
       "publishedAt": "2026-06-26T08:00:26.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6585762?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6585760?source=rss-村上虹郎さん書類送検 事務所謝罪",
-      "title": "村上虹郎さん書類送検 事務所謝罪",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-26T07:40:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585760?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/26/news097.html-ビックカメラ、BTO対応ゲーミングPC参入 DDR4で低価格化、21万6800円から",
