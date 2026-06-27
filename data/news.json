@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T19:27:46.673Z",
+  "updatedAt": "2026-06-27T22:06:31.003Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585939?source=rss-青森・岩手で震度5弱 津波なし",
+      "title": "青森・岩手で震度5弱 津波なし",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-27T20:30:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585939?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585938?source=rss-太平洋防衛へ無人潜水艇 政府検討",
       "title": "太平洋防衛へ無人潜水艇 政府検討",
@@ -169,15 +178,6 @@
       "publishedAt": "2026-06-27T09:48:39.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6585907?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585903?source=rss-異例のダブル台風 列島各地で被害",
-      "title": "異例のダブル台風 列島各地で被害",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-27T09:27:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585903?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6585901?source=rss-次世代通信IOWN 活用の将来像",
