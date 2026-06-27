@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T10:59:44.275Z",
+  "updatedAt": "2026-06-27T13:52:40.219Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,85 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585916?source=rss-大坂なおみ無念 途中棄権で準V",
-      "title": "大坂なおみ無念 途中棄権で準V",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585933?source=rss-イチロー氏の走り 末續氏ガチ採点",
+      "title": "イチロー氏の走り 末續氏ガチ採点",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-06-27T10:50:22.000Z",
+      "publishedAt": "2026-06-27T13:41:45.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585916?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6585933?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585932?source=rss-新庄氏が前夜DM 奈良間が決勝打",
+      "title": "新庄氏が前夜DM 奈良間が決勝打",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-27T13:32:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585932?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585931?source=rss-実況小宮山アナ解説本田圭佑 再び",
+      "title": "実況小宮山アナ解説本田圭佑 再び",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-27T13:08:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585931?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6585930?source=rss-一ノ瀬ワタル 昔は悪役極めようと",
+      "title": "一ノ瀬ワタル 昔は悪役極めようと",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-27T12:47:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585930?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585927?source=rss-台風接近で記録的雨 土砂崩れ警戒",
+      "title": "台風接近で記録的雨 土砂崩れ警戒",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-27T12:16:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585927?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585922?source=rss-ウルグアイGK痛恨ミス 交代直訴",
+      "title": "ウルグアイGK痛恨ミス 交代直訴",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-27T11:36:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585922?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6585923?source=rss-香取慎吾 SNSのコメント全部見る",
+      "title": "香取慎吾 SNSのコメント全部見る",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-27T11:36:56.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585923?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585917?source=rss-韓国崖っぷち 難解な決勝Tの条件",
+      "title": "韓国崖っぷち 難解な決勝Tの条件",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-27T11:12:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585917?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585920?source=rss-大坂なおみ棄権で準V 観客に謝罪",
+      "title": "大坂なおみ棄権で準V 観客に謝罪",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-27T11:08:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585920?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585913?source=rss-政府「骨太方針」で日銀けん制へ",
@@ -61,24 +133,6 @@
       "publishedAt": "2026-06-27T10:22:00.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6585911?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585908?source=rss-馬場咲希 予選通過に涙あふれる",
-      "title": "馬場咲希 予選通過に涙あふれる",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-27T10:06:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585908?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585909?source=rss-3試合連続中止の巨人 単独首位に",
-      "title": "3試合連続中止の巨人 単独首位に",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-27T10:04:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585909?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585907?source=rss-「多目的トイレ」誤解 障害者切実",
@@ -126,15 +180,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6585892?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585887?source=rss-台風7号は今夜関東に最接近 警戒",
-      "title": "台風7号は今夜関東に最接近 警戒",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-27T07:40:27.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585887?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6585884?source=rss-倉持明日香 結婚をサプライズ発表",
       "title": "倉持明日香 結婚をサプライズ発表",
       "source": "Yahoo!ニュース エンタメ",
@@ -151,15 +196,6 @@
       "publishedAt": "2026-06-27T07:10:44.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6585879?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585877?source=rss-ABCアナから野球部監督に 充実感",
-      "title": "ABCアナから野球部監督に 充実感",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-27T06:43:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585877?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6585876?source=rss-ソニー明言「aiboはやめません」",
@@ -187,24 +223,6 @@
       "publishedAt": "2026-06-27T06:24:21.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6585874?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585870?source=rss-韓国窮地 決勝T進出順位が8位に",
-      "title": "韓国窮地 決勝T進出順位が8位に",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-27T06:08:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585870?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585872?source=rss-JFA 森保氏の監督続投を検討へ",
-      "title": "JFA 森保氏の監督続投を検討へ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-27T05:51:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585872?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585849?source=rss-自民の見通しなき強硬路線 背景は",
@@ -396,15 +414,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2606/26/news100.html"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6585746?source=rss-虹郎さん出演巡りテレ東 対応検討",
-      "title": "虹郎さん出演巡りテレ東 対応検討",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-26T05:02:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585746?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/26/news091.html-防衛省は“認知戦”にどう挑む ウクライナ脅かすAIフェイク、偽アカウントへの対応は 分析資料を公開",
       "title": "防衛省は“認知戦”にどう挑む ウクライナ脅かすAIフェイク、偽アカウントへの対応は 分析資料を公開",
       "source": "ITmedia NEWS",
@@ -448,15 +457,6 @@
       "publishedAt": "2026-06-26T02:41:43.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6585724?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6585726?source=rss-Howzit結成 ジュニア新グループ",
-      "title": "Howzit結成 ジュニア新グループ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-26T02:39:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585726?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/26/news077.html-「NURO光」に行政指導 契約書交付に不備 見守りGPSでは5年超",
