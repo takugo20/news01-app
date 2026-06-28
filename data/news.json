@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T09:17:36.054Z",
+  "updatedAt": "2026-06-28T13:58:11.176Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,103 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586018?source=rss-美輪さん死去 3カ月前に体調崩す",
-      "title": "美輪さん死去 3カ月前に体調崩す",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586044?source=rss-ソックス問題に中村 集中そがれた",
+      "title": "ソックス問題に中村 集中そがれた",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-28T13:33:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586044?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586039?source=rss-虹郎巡りテレ東 初回は「第2話」",
+      "title": "虹郎巡りテレ東 初回は「第2話」",
       "source": "Yahoo!ニュース エンタメ",
       "category": "エンタメ",
-      "publishedAt": "2026-06-28T08:56:14.000Z",
+      "publishedAt": "2026-06-28T12:54:34.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586018?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6586039?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586036?source=rss-美輪さん死去 レジェンド訃報続く",
+      "title": "美輪さん死去 レジェンド訃報続く",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-28T12:02:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586036?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6586034?source=rss-日韓防衛相会談 AIなど連携強化へ",
+      "title": "日韓防衛相会談 AIなど連携強化へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-28T11:52:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586034?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6586035?source=rss-結婚式のムービー事情 進む二極化",
+      "title": "結婚式のムービー事情 進む二極化",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-28T11:36:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586035?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586032?source=rss-韓国敗退 大統領が異例の失望表明",
+      "title": "韓国敗退 大統領が異例の失望表明",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-28T11:26:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586032?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586030?source=rss-強豪まさか敗退 W杯H組で大波乱",
+      "title": "強豪まさか敗退 W杯H組で大波乱",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-28T11:02:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586030?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586031?source=rss-ぼる塾・酒寄 第2子出産を報告",
+      "title": "ぼる塾・酒寄 第2子出産を報告",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-28T10:50:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586031?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586028?source=rss-美輪さん死去 愛される名セリフ",
+      "title": "美輪さん死去 愛される名セリフ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-28T10:11:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586028?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586022?source=rss-イラン代表 W杯での待遇に不満",
+      "title": "イラン代表 W杯での待遇に不満",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-28T09:21:23.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586022?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6586019?source=rss-賃金の地域間格差15万円超に 25年",
+      "title": "賃金の地域間格差15万円超に 25年",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-06-28T09:19:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586019?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6586017?source=rss-運動の胸の悩み 元選手が商品開発",
@@ -81,15 +171,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6586011?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586012?source=rss-ドラマにも テレビ業界でAI広がる",
-      "title": "ドラマにも テレビ業界でAI広がる",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-28T08:02:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586012?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6586008?source=rss-与野党対立 国会会期末にらみ激化",
       "title": "与野党対立 国会会期末にらみ激化",
       "source": "Yahoo!ニュース 国内",
@@ -106,24 +187,6 @@
       "publishedAt": "2026-06-28T07:31:09.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6586009?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586007?source=rss-美輪明宏さん死去 木村拓哉ら追悼",
-      "title": "美輪明宏さん死去 木村拓哉ら追悼",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-28T07:23:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586007?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586002?source=rss-韓国代表敗退 異例の帰国式典なし",
-      "title": "韓国代表敗退 異例の帰国式典なし",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-28T06:48:15.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586002?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585999?source=rss-沖北相 抗議船で平和学習に違和感",
@@ -162,15 +225,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6585997?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585996?source=rss-ド軍15得点大勝 山本由伸は8勝目",
-      "title": "ド軍15得点大勝 山本由伸は8勝目",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-28T05:36:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585996?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6585994?source=rss-書類送検 村上虹郎さんSNSで謝罪",
       "title": "書類送検 村上虹郎さんSNSで謝罪",
       "source": "Yahoo!ニュース エンタメ",
@@ -196,15 +250,6 @@
       "publishedAt": "2026-06-28T04:30:41.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6585989?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585988?source=rss-W杯 決勝T進出の32チーム出揃う",
-      "title": "W杯 決勝T進出の32チーム出揃う",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-28T04:20:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585988?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585986?source=rss-衝撃 メッシがW杯7戦連続ゴール",
@@ -270,24 +315,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6585968?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6585969?source=rss-美輪明宏さん死去 91歳",
-      "title": "美輪明宏さん死去 91歳",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-28T01:15:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585969?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585965?source=rss-日本vsブラジル 伊の審判団が担当",
-      "title": "日本vsブラジル 伊の審判団が担当",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-28T00:53:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585965?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6585963?source=rss-いいね購入?「スマホ農場」とは",
       "title": "いいね購入?「スマホ農場」とは",
       "source": "Yahoo!ニュース IT",
@@ -295,15 +322,6 @@
       "publishedAt": "2026-06-28T00:36:21.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6585963?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6585958?source=rss-ファッションの流行 なぜ20年周期",
-      "title": "ファッションの流行 なぜ20年周期",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-28T00:04:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585958?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585953?source=rss-奥様は失礼? 配偶者呼び方に悩み",
@@ -358,24 +376,6 @@
       "publishedAt": "2026-06-27T22:14:00.000Z",
       "description": "かくれんぼを題材にしたインディゲーム「めっちゃカメレオン」が人気です。隠れる側がペイントツールで自分の体に絵を描くことで、周囲の景色と同化できるのがポイント。でもプロのマンガ家なのに最初からつまづいてしましました。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/28/news012.html"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585938?source=rss-太平洋防衛へ無人潜水艇 政府検討",
-      "title": "太平洋防衛へ無人潜水艇 政府検討",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-27T14:31:15.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585938?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6585935?source=rss-北陸新幹線 延伸ルート巡り混迷",
-      "title": "北陸新幹線 延伸ルート巡り混迷",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-06-27T14:05:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585935?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6585901?source=rss-次世代通信IOWN 活用の将来像",
