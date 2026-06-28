@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T13:58:11.176Z",
+  "updatedAt": "2026-06-28T16:15:45.392Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586045?source=rss-DeNA 屈辱の9カード連続負け越し",
+      "title": "DeNA 屈辱の9カード連続負け越し",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-28T13:57:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586045?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586044?source=rss-ソックス問題に中村 集中そがれた",
       "title": "ソックス問題に中村 集中そがれた",
@@ -115,15 +124,6 @@
       "publishedAt": "2026-06-28T10:11:52.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6586028?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586022?source=rss-イラン代表 W杯での待遇に不満",
-      "title": "イラン代表 W杯での待遇に不満",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-28T09:21:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586022?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6586019?source=rss-賃金の地域間格差15万円超に 25年",
@@ -313,15 +313,6 @@
       "publishedAt": "2026-06-28T01:25:48.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6585968?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6585963?source=rss-いいね購入?「スマホ農場」とは",
-      "title": "いいね購入?「スマホ農場」とは",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-06-28T00:36:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585963?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585953?source=rss-奥様は失礼? 配偶者呼び方に悩み",
