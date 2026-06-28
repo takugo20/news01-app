@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T19:36:34.557Z",
+  "updatedAt": "2026-06-28T22:04:39.425Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586051?source=rss-松嶋菜々子「GTO」で夫婦共演へ",
+      "title": "松嶋菜々子「GTO」で夫婦共演へ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-28T21:22:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586051?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586050?source=rss-久保建英 ブラジル戦の欠場が決定",
+      "title": "久保建英 ブラジル戦の欠場が決定",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-28T21:11:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586050?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586045?source=rss-DeNA 屈辱の9カード連続負け越し",
       "title": "DeNA 屈辱の9カード連続負け越し",
@@ -115,15 +133,6 @@
       "publishedAt": "2026-06-28T10:50:28.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6586031?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586028?source=rss-美輪さん死去 愛される名セリフ",
-      "title": "美輪さん死去 愛される名セリフ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-28T10:11:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586028?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6586019?source=rss-賃金の地域間格差15万円超に 25年",
@@ -250,15 +259,6 @@
       "publishedAt": "2026-06-28T04:30:41.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6585989?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585986?source=rss-衝撃 メッシがW杯7戦連続ゴール",
-      "title": "衝撃 メッシがW杯7戦連続ゴール",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-28T04:10:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585986?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6585982?source=rss-W杯敗退 韓国紙「歴史上最悪」",
