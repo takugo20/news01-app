@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T15:54:48.040Z",
+  "updatedAt": "2026-06-29T20:05:00.337Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586170?source=rss-悲劇 森保J残り1分で逆転弾浴びる",
+      "title": "悲劇 森保J残り1分で逆転弾浴びる",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-29T19:30:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586170?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586169?source=rss-W杯 日本がブラジルに1-2で敗北",
+      "title": "W杯 日本がブラジルに1-2で敗北",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-29T19:06:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586169?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6586160?source=rss-NY円 一時39年半ぶりの円安水準",
       "title": "NY円 一時39年半ぶりの円安水準",
@@ -360,15 +378,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6586093?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586089?source=rss-李大統領がW杯韓国敗退批判 背景",
-      "title": "李大統領がW杯韓国敗退批判 背景",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-29T03:45:58.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586089?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/29/news088.html-集英社「ナツコミ」開始前から混乱 メルカリやEbayに“フライング出品”、「200枚155万円」など……書店も対応に追われる",
       "title": "集英社「ナツコミ」開始前から混乱 メルカリやEbayに“フライング出品”、「200枚155万円」など……書店も対応に追われる",
       "source": "ITmedia NEWS",
@@ -430,15 +439,6 @@
       "publishedAt": "2026-06-29T01:00:00.000Z",
       "description": "カインズが画像生成AIを活用し、部屋のインテリアを疑似的に置き換えられる店頭サイネージ「CAINZ Fitting Room」を開発。その効果や利便性を検証している。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/26/news114.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586067?source=rss-ブラジル戦欠場の久保 状態はグー",
-      "title": "ブラジル戦欠場の久保 状態はグー",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-29T00:24:47.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586067?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586065?source=rss-「踊る」映画 新キャスト9人発表",
