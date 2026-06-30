@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T14:28:20.255Z",
+  "updatedAt": "2026-06-30T17:07:59.005Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586284?source=rss-ミセス大森 初の音楽番組司会に",
+      "title": "ミセス大森 初の音楽番組司会に",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-06-30T14:48:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586284?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586283?source=rss-スコア惜敗も 堂安「差があった」",
+      "title": "スコア惜敗も 堂安「差があった」",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-30T14:33:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586283?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586282?source=rss-珍事 セ全試合で守護神が敗戦投手",
       "title": "珍事 セ全試合で守護神が敗戦投手",
@@ -250,15 +268,6 @@
       "publishedAt": "2026-06-30T08:02:21.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6586240?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586239?source=rss-久保建英間に合わず 申し訳ない",
-      "title": "久保建英間に合わず 申し訳ない",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-30T07:36:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586239?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6586236?source=rss-iPhone18Proの機密情報流出 報道",
@@ -538,15 +547,6 @@
       "publishedAt": "2026-06-29T11:37:26.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6586144?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586137?source=rss-篠田麻里子 再婚発表後初の公の場",
-      "title": "篠田麻里子 再婚発表後初の公の場",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-06-29T10:42:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586137?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6586125?source=rss-サムスンなど 半導体に大規模投資",
