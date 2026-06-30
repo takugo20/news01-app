@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T20:04:23.518Z",
+  "updatedAt": "2026-06-30T22:17:32.724Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,42 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6586290?source=rss-印にバイオガス施設 日印合意へ",
+      "title": "印にバイオガス施設 日印合意へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-06-30T22:16:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586290?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586288?source=rss-速報W杯 フランス・エムバペ先制",
+      "title": "速報W杯 フランス・エムバペ先制",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-30T21:52:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586288?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586287?source=rss-ハーランド決勝弾 サポーター熱狂",
+      "title": "ハーランド決勝弾 サポーター熱狂",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-06-30T21:43:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586287?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/01/news057.html-Anthropic、「Claude Sonnet 5」公開──停止中のミュトスとは別にOpus級の性能を低価格で",
+      "title": "Anthropic、「Claude Sonnet 5」公開──停止中のミュトスとは別にOpus級の性能を低価格で",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-06-30T21:12:00.000Z",
+      "description": "Anthropicは、最新AIモデル「Claude Sonnet 5」を発表した。全プランで利用可能になっている。日常業務やコーディングのエージェント機能が大幅に強化され、最上位クラスのOpus 4.8に迫る性能を低価格で実現している。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/01/news057.html"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586284?source=rss-ミセス大森 初の音楽番組司会に",
       "title": "ミセス大森 初の音楽番組司会に",
@@ -115,15 +151,6 @@
       "publishedAt": "2026-06-30T12:23:59.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6586270?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586266?source=rss-前田大然 78回のスプリント記録",
-      "title": "前田大然 78回のスプリント記録",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-30T11:34:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586266?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6586264?source=rss-大丸下関店 来年8月末で営業終了",
@@ -223,15 +250,6 @@
       "publishedAt": "2026-06-30T09:31:50.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6586255?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586249?source=rss-敗退の韓国監督 なぜ日本では擁護",
-      "title": "敗退の韓国監督 なぜ日本では擁護",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-06-30T08:59:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586249?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6586250?source=rss-「丸刈り」変化 なぜ懲罰の手段に",
@@ -358,15 +376,6 @@
       "publishedAt": "2026-06-30T04:30:07.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6586223?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6586218?source=rss-副首都法案が審議入り 野党は欠席",
-      "title": "副首都法案が審議入り 野党は欠席",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-06-30T03:58:27.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586218?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/30/news123.html-OpenAI、Codex向けデバイスを予告 7月15日に発表か キーボードメーカーと協業",
@@ -511,15 +520,6 @@
       "publishedAt": "2026-06-30T01:33:00.000Z",
       "description": "サム・アルトマン氏らが共同発明した人間認証技術「World ID」を活用する。",
       "url": "https://www.itmedia.co.jp/news/articles/2606/30/news095.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2606/30/news094.html-モバイルバッテリーの危険な扱い、4割が経験 ChargeSPOTが調査 事故件数は8月ピーク",
-      "title": "モバイルバッテリーの危険な扱い、4割が経験 ChargeSPOTが調査 事故件数は8月ピーク",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-06-30T01:23:00.000Z",
-      "description": "INFORICHは6月29日、モバイルバッテリー保有者1406人を対象にしたNITE監修の実態調査を発表した。夏の車内放置や落下、水濡れなど、発火・故障につながる危険な扱いを多くのユーザーが無意識に経験している実態が浮かんだ。",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/30/news094.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6586188?source=rss-マイクロソフト株下落 AI巡り逆風",
