@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T19:38:12.763Z",
+  "updatedAt": "2026-07-02T22:11:14.949Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,60 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6586538?source=rss-NY株が最高値 利上げ観測後退で",
+      "title": "NY株が最高値 利上げ観測後退で",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-02T21:51:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586538?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/03/news050.html-“開かずの基幹システム”、450人月→実質2カ月で解読 創業100年のカクヤス、生成AIで挑む「転生」",
+      "title": "“開かずの基幹システム”、450人月→実質2カ月で解読 創業100年のカクヤス、生成AIで挑む「転生」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-02T21:45:00.000Z",
+      "description": "設計書はなく、ソースコードの一部も紛失。30年動き続けた基幹システムは、誰も中身の分からないブラックボックスと化していた。創業100年の酒類卸カクヤスは、これを生成AIでどう解き明かしたのか。親会社ひとまいるの担当者が「AWS Summit Japan 2026」で語った。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/03/news050.html"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586537?source=rss-佐藤二朗「踊る」派生ドラマ降板",
+      "title": "佐藤二朗「踊る」派生ドラマ降板",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-02T21:38:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586537?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/03/news067.html-Microsoft、AI導入支援組織「Microsoft Frontier Company」設立 6000人体制で顧客企業を支援",
+      "title": "Microsoft、AI導入支援組織「Microsoft Frontier Company」設立 6000人体制で顧客企業を支援",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-02T21:37:00.000Z",
+      "description": "Microsoftは、顧客企業にAIエンジニアを常駐させて導入を支援する新組織「Microsoft Frontier Company」の設立を発表した。投資額は25億ドルで、約6000人規模の体制とする。同様のAI導入支援を巡っては、OpenAIやAmazon傘下のAWSも専門組織の新設を発表しており、顧客獲得競争が激...",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/03/news067.html"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6586536?source=rss-村上春樹氏の新刊発売 深夜に行列",
+      "title": "村上春樹氏の新刊発売 深夜に行列",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-02T21:22:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586536?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586535?source=rss-スペイン3-0圧勝でラウンド32突破",
+      "title": "スペイン3-0圧勝でラウンド32突破",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-02T21:13:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586535?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586533?source=rss-日本代表 11月ブラジル再戦決定的",
       "title": "日本代表 11月ブラジル再戦決定的",
@@ -106,15 +160,6 @@
       "publishedAt": "2026-07-02T12:27:50.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6586512?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586510?source=rss-19歳GK 「7部」からJ1町田に移籍",
-      "title": "19歳GK 「7部」からJ1町田に移籍",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-02T11:45:35.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586510?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/02/news110.html-LINEに「プレミアムブロック」登場 相手の友だち一覧から自分を“そっと消せる” 今秋から有料提供へ",
@@ -214,15 +259,6 @@
       "publishedAt": "2026-07-02T08:53:57.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6586484?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6586487?source=rss-電通総研の株式非公開化を検討",
-      "title": "電通総研の株式非公開化を検討",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-02T08:51:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586487?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6586483?source=rss-DAZNで話題 ダークパターンの罠",
@@ -351,15 +387,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6586450?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6586447?source=rss-ラーメン店倒産が最多 26年上半期",
-      "title": "ラーメン店倒産が最多 26年上半期",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-02T03:29:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586447?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/02/news074.html-「端末からSuicaが消えた」対処法は JR東「モバイルSuica」2日朝もアクセスしづらく",
       "title": "「端末からSuicaが消えた」対処法は JR東「モバイルSuica」2日朝もアクセスしづらく",
       "source": "ITmedia NEWS",
@@ -412,15 +439,6 @@
       "publishedAt": "2026-07-02T00:13:00.000Z",
       "description": "Googleは、自律型AIエージェント「Gemini Spark」のアップデートを発表した。macOS版アプリへの対応に加え、CanvaやDropboxなど外部アプリとの連携を拡充。独自のMCPサーバの接続もサポートする。さらに、ニュースや天気、プロスポーツなどの情報をリアルタイムで検知して通知する機能を追加した。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/02/news058.html"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586419?source=rss-米俳優ダニー・グローバー 病公表",
-      "title": "米俳優ダニー・グローバー 病公表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-01T23:50:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586419?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/02/news057.html-「インターネットの父」ヴィント・サーフ氏、Googleを退任へ",
@@ -538,24 +556,6 @@
       "publishedAt": "2026-07-01T09:04:00.000Z",
       "description": "日本野球機構（NPB）は7月1日、SNS上で審判員に向けられる誹謗（ひぼう）中傷などの投稿を監視するシステムを導入した。悪質な投稿には通報や削除要請で対応し、内容によっては警察への届け出や法的措置もとる。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/01/news142.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/01/news140.html-NECソリューションイノベータ消滅へ NECが吸収合併",
-      "title": "NECソリューションイノベータ消滅へ NECが吸収合併",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-01T08:55:00.000Z",
-      "description": "NECが完全子会社のNECソリューションイノベータを10月1日付で吸収合併すると発表した。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/01/news140.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/01/news134.html-役員報酬額トップ3はソフトバンク、キオクシア、ソニー 最高61億円、1億円以上も最多",
-      "title": "役員報酬額トップ3はソフトバンク、キオクシア、ソニー 最高61億円、1億円以上も最多",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-01T08:12:00.000Z",
-      "description": "民間調査会社の東京商工リサーチは、2026年3月期決算で開示された上場企業の役員報酬額ランキングを発表した。トップ3はソフトバンクグループ、キオクシアホールディングス、ソニーグループの3社の役員で、最高額は約61億円だった。また、調査した1995社中で1億円以上の報酬を出した企業は387社で、受け取った役員数は過去最多...",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/01/news134.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6586308?source=rss-米 AnthropicのAI輸出規制を解除",
