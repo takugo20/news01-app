@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T14:19:08.753Z",
+  "updatedAt": "2026-07-03T16:38:16.954Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586640?source=rss-橋本愛の所属事務所 声明を発表",
+      "title": "橋本愛の所属事務所 声明を発表",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-03T14:56:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586640?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586638?source=rss-バスケ男子 W杯の最終予選進出",
+      "title": "バスケ男子 W杯の最終予選進出",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-03T14:27:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586638?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586634?source=rss-森保監督の発言 韓国側は一斉速報",
       "title": "森保監督の発言 韓国側は一斉速報",
@@ -225,15 +243,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6586601?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586603?source=rss-公開日に謝罪 映画ケロロなぜ炎上",
-      "title": "公開日に謝罪 映画ケロロなぜ炎上",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-03T08:33:47.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586603?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6586598?source=rss-異例 自衛隊・制服組トップX開設",
       "title": "異例 自衛隊・制服組トップX開設",
       "source": "Yahoo!ニュース IT",
@@ -349,15 +358,6 @@
       "publishedAt": "2026-07-03T03:34:10.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6586573?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586566?source=rss-クロアチア「幻の劇的弾」が波紋",
-      "title": "クロアチア「幻の劇的弾」が波紋",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-03T03:08:36.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586566?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6586562?source=rss-厚労相の事務所数 公選法違反疑い",
