@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T19:36:06.703Z",
+  "updatedAt": "2026-07-03T22:08:42.198Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586632?source=rss-速報 アルゼンチンvsカーボベルデ",
+      "title": "速報 アルゼンチンvsカーボベルデ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-03T22:02:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586632?source=rss"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586640?source=rss-橋本愛の所属事務所 声明を発表",
       "title": "橋本愛の所属事務所 声明を発表",
@@ -142,15 +151,6 @@
       "publishedAt": "2026-07-03T11:38:06.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6586622?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586621?source=rss-球界初 育成同士のトレード成立",
-      "title": "球界初 育成同士のトレード成立",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-03T11:30:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586621?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586616?source=rss-中日のブラックドアラ 初お披露目",
