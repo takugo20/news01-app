@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T10:56:22.857Z",
+  "updatedAt": "2026-07-04T13:43:32.585Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,42 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586739?source=rss-W杯16強 ほぼFIFAランク通りに",
+      "title": "W杯16強 ほぼFIFAランク通りに",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-04T12:52:51.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586739?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6586737?source=rss-台風9号「猛烈な」勢力に発達",
+      "title": "台風9号「猛烈な」勢力に発達",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-04T12:33:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586737?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586734?source=rss-本間朋晃 プロレスラー引退を表明",
+      "title": "本間朋晃 プロレスラー引退を表明",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-04T12:03:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586734?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586732?source=rss-神セーブ連発GK フォロワー2千万",
+      "title": "神セーブ連発GK フォロワー2千万",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-04T11:49:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586732?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6586723?source=rss-「仮面夫婦」会話ほぼゼロの男性",
       "title": "「仮面夫婦」会話ほぼゼロの男性",
@@ -108,15 +144,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6586709?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586702?source=rss-大谷の交代 上腕二頭筋に違和感",
-      "title": "大谷の交代 上腕二頭筋に違和感",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-04T06:20:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586702?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6586695?source=rss-伝説のラーメン店復活 玄孫の奮闘",
       "title": "伝説のラーメン店復活 玄孫の奮闘",
       "source": "Yahoo!ニュース 経済",
@@ -153,15 +180,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6586700?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6586697?source=rss-6日にかけ断続的雨 土砂災害警戒",
-      "title": "6日にかけ断続的雨 土砂災害警戒",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-04T05:33:26.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586697?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586691?source=rss-ド軍勝利 満塁弾で大谷の黒星消す",
       "title": "ド軍勝利 満塁弾で大谷の黒星消す",
       "source": "Yahoo!ニュース スポーツ",
@@ -196,15 +214,6 @@
       "publishedAt": "2026-07-04T02:58:37.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6586682?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586677?source=rss-FIFA会長 敗退の日本代表に賛辞",
-      "title": "FIFA会長 敗退の日本代表に賛辞",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-04T02:37:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586677?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586676?source=rss-Tスウィフト結婚 アメフト選手と",
@@ -286,15 +295,6 @@
       "publishedAt": "2026-07-03T22:14:00.000Z",
       "description": "アクションカメラのシネマカメラ化が進む中に登場した「GoPro MISSION 1」ここ数年、競争激化によるシェア減やリコール、リストラなど暗い話題が続いていたGoPro社だが、新シリーズは復活ののろしとなるのか。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/04/news019.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586634?source=rss-森保監督の発言 韓国側は一斉速報",
-      "title": "森保監督の発言 韓国側は一斉速報",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-03T13:46:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586634?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6586633?source=rss-サーティワン×どう森 品切れ謝罪",
