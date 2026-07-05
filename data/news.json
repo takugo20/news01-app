@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T19:24:47.407Z",
+  "updatedAt": "2026-07-05T22:05:41.505Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586873?source=rss-FIFA 米・バログンの出場停止保留",
+      "title": "FIFA 米・バログンの出場停止保留",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-05T21:25:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586873?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586872?source=rss-速報W杯 ブラジルvs.ノルウェー",
+      "title": "速報W杯 ブラジルvs.ノルウェー",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-05T21:09:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6586872?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586870?source=rss-中日ベンチ内のつり革 名鉄が提供",
       "title": "中日ベンチ内のつり革 名鉄が提供",
@@ -324,15 +342,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6586801?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586798?source=rss-MLBオールスター ゲレロは辞退",
-      "title": "MLBオールスター ゲレロは辞退",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-05T05:28:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586798?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586791?source=rss-misono 41歳で第1子男の子出産",
       "title": "misono 41歳で第1子男の子出産",
       "source": "Yahoo!ニュース エンタメ",
@@ -340,15 +349,6 @@
       "publishedAt": "2026-07-05T04:04:07.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6586791?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586789?source=rss-菅野智之 MLB2年目で初のIL入り",
-      "title": "菅野智之 MLB2年目で初のIL入り",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-05T03:31:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586789?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586780?source=rss-田中みな実 サンジャポに手紙",
