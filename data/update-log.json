@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-05T13:50:01.691Z",
+  "updatedAt": "2026-07-05T16:13:04.699Z",
   "newsItems": 60,
   "newsErrors": [],
   "topErrors": {
     "nikkei225": "HTTP 404",
     "usdJpy": "HTTP 404",
-    "weather": "HTTP 503"
+    "weather": null
   }
 }
