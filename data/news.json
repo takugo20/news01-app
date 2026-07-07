@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T03:51:32.761Z",
+  "updatedAt": "2026-07-07T09:50:29.406Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,22 +36,274 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587031?source=rss-W杯開催国は全滅 米バログン不発",
-      "title": "W杯開催国は全滅 米バログン不発",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-07T03:39:05.000Z",
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587081?source=rss-「伯方の塩」が1位 JOYSOUND",
+      "title": "「伯方の塩」が1位 JOYSOUND",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-07T09:48:40.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587031?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6587081?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587034?source=rss-大谷が19号 メジャー300号に王手",
-      "title": "大谷が19号 メジャー300号に王手",
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587079?source=rss-西日本豪雨8年 亡き義母への思い",
+      "title": "西日本豪雨8年 亡き義母への思い",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-07T09:45:00.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587079?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587080?source=rss-佐藤龍之介19歳 バレンシアに移籍",
+      "title": "佐藤龍之介19歳 バレンシアに移籍",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-07-07T03:27:51.000Z",
+      "publishedAt": "2026-07-07T09:41:45.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587034?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6587080?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/07/news149.html-三菱UFJ半沢淳一社長「企業の資金ニーズに対応」 個人向け「エムット」でAI活用も",
+      "title": "三菱UFJ半沢淳一社長「企業の資金ニーズに対応」 個人向け「エムット」でAI活用も",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-07T08:58:00.000Z",
+      "description": "三菱UFJフィナンシャル・グループ（MUFG）の半沢淳一社長が産経新聞のインタビューに応じ、日銀の利上げで「金利のある世界」が本格化する中、企業の資金需要を取り込むため、事業戦略の提案力を高める考えを示した。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/07/news149.html"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587070?source=rss-はま寿司強い憤り 相次ぐ迷惑行為",
+      "title": "はま寿司強い憤り 相次ぐ迷惑行為",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-07T08:45:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587070?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/07/news148.html-「AIが引用するドメイン」不動の首位は……",
+      "title": "「AIが引用するドメイン」不動の首位は……",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-07T08:32:00.000Z",
+      "description": "2位には前回5位のnote.comが浮上した。前回2位のWikipedia（ja.wikipedia.org）は3位に後退した。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/07/news148.html"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587068?source=rss-FWバログン 決定受け入れただけ",
+      "title": "FWバログン 決定受け入れただけ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-07T08:26:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587068?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587066?source=rss-鈴木あきえ 第3子で「いい諦め」",
+      "title": "鈴木あきえ 第3子で「いい諦め」",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-07T08:12:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587066?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/07/news138.html-JCBが「推し活キャンセル保険」の販売開始 遠征のキャンセル料を補償 損保ジャパン系",
+      "title": "JCBが「推し活キャンセル保険」の販売開始 遠征のキャンセル料を補償 損保ジャパン系",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-07T07:45:00.000Z",
+      "description": "ジェーシービー（JCB）は7月7日、損害保険ジャパン子会社で少額短期保険業を手掛けるMysuranceが企画開発した「推し活キャンセル保険」の販売を開始したと発表した。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/07/news138.html"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587061?source=rss-佐藤二朗ドラマ巡る経緯 フジ公表",
+      "title": "佐藤二朗ドラマ巡る経緯 フジ公表",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-07T07:43:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587061?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587060?source=rss-広島知事 首相は原爆資料館視察を",
+      "title": "広島知事 首相は原爆資料館視察を",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-07T07:39:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587060?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587059?source=rss-球宴ファン投票の最終結果を発表",
+      "title": "球宴ファン投票の最終結果を発表",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-07T07:37:23.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587059?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587057?source=rss-FWルカク「トランプダンス」披露",
+      "title": "FWルカク「トランプダンス」披露",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-07T07:22:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587057?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587056?source=rss-静岡リニア着工容認も 完成に10年",
+      "title": "静岡リニア着工容認も 完成に10年",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-07T07:18:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587056?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587055?source=rss-元SMAPマネ飯島氏 HYBE日本参画",
+      "title": "元SMAPマネ飯島氏 HYBE日本参画",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-07T07:14:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587055?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587053?source=rss-自維国 皇室典範改正の実現を優先",
+      "title": "自維国 皇室典範改正の実現を優先",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-07T07:13:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587053?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587051?source=rss-天の川 東北を中心に観測チャンス",
+      "title": "天の川 東北を中心に観測チャンス",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-07T07:09:17.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587051?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/07/news135.html-破産の全東信、加盟店向けに競合・STORESが特別窓口 決済端末を無償提供 7月末まで",
+      "title": "破産の全東信、加盟店向けに競合・STORESが特別窓口 決済端末を無償提供 7月末まで",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-07T06:57:00.000Z",
+      "description": "STORESは7月7日、クレジットカード決済代行業の全東信が破産手続き開始決定を受けたことを踏まえ、同社の加盟店を対象とした「キャッシュレス決済導入 特別相談窓口」を開設したと発表した。決済サービスへの切り替え相談を受け付けるほか、通常有償の決済端末を無償で提供する。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/07/news135.html"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587044?source=rss-ド軍が劇的サヨナラ 大谷は19号",
+      "title": "ド軍が劇的サヨナラ 大谷は19号",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-07T06:30:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587044?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/07/news131.html-観測史上最古の巨大ブラックホール発見 宇宙誕生から6億7000万年ごろの天体 日本のすばる望遠鏡も貢献",
+      "title": "観測史上最古の巨大ブラックホール発見 宇宙誕生から6億7000万年ごろの天体 日本のすばる望遠鏡も貢献",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-07T06:30:00.000Z",
+      "description": "2023年に打ち上げられた「ユークリッド宇宙望遠鏡」を運用する国際チームが、31個のクエーサー（周囲の物質を飲み込み輝く巨大ブラックホール）を新たに発見した。うち2つは、宇宙が誕生してから6億7000万年ごろの天体で、これまでに知られる最古のクエーサーの記録を更新。初期の宇宙においても成熟したクエーサーが存在することを...",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/07/news131.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/07/news127.html-全東信、破産を招いた「2つの事件」 カード決済の”駆け込み寺”消滅が飲食店に与える影響とは",
+      "title": "全東信、破産を招いた「2つの事件」 カード決済の”駆け込み寺”消滅が飲食店に与える影響とは",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-07T06:30:00.000Z",
+      "description": "夜の街のカード決済を長年支えてきた「全東信」が、負債1259億円を抱え突然の破産。審査が通りにくい飲食店の“最後の駆け込み寺”は、なぜ倒れたのか。飲食店業界に与える影響とともに考える。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/07/news127.html"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587042?source=rss-ナフサの備蓄検討を表明 経産相",
+      "title": "ナフサの備蓄検討を表明 経産相",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-07T05:34:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587042?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/07/news124.html-スターバックス、12～24歳限定の新サービス開始 公式アプリ経由で毎月100円オフの「U24パス」配布",
+      "title": "スターバックス、12～24歳限定の新サービス開始 公式アプリ経由で毎月100円オフの「U24パス」配布",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-07T05:27:00.000Z",
+      "description": "スターバックス コーヒー ジャパンは7月7日、12～24歳向けの新サービス「マイスターバックスストアU24」を開始した。お気に入り店舗を登録すると、毎月100円オフの「U24パス」が届く。同社によるU24世代向けサービスは初。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/07/news124.html"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587041?source=rss-岡本和真8試合ぶり20号 敵地騒然",
+      "title": "岡本和真8試合ぶり20号 敵地騒然",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-07T05:20:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587041?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/07/news118.html-「全東信の端末使用を即時停止して」――食団連が飲食店へ注意喚起 全東信の破産受け",
+      "title": "「全東信の端末使用を即時停止して」――食団連が飲食店へ注意喚起 全東信の破産受け",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-07T05:20:00.000Z",
+      "description": "一般社団法人日本飲食団体連合会は7月6日、会員飲食店に向けた注意喚起と支援策を示した。クレジットカード決済代行の全東信の破産手続開始決定を受けたもので、該当する会員に端末使用の即時停止など対応を求めた。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/07/news118.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/07/news120.html-「クリスタ」好調、セルシスが増配 35周年記念、業績は過去最高",
+      "title": "「クリスタ」好調、セルシスが増配 35周年記念、業績は過去最高",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-07T05:10:00.000Z",
+      "description": "「クリスタ」好調で過去最高業績が続いている。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/07/news120.html"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587038?source=rss-米国敗退 出場停止免れたFW不発",
+      "title": "米国敗退 出場停止免れたFW不発",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-07T04:46:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587038?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587036?source=rss-八村塁の移籍 クリッパーズが発表",
+      "title": "八村塁の移籍 クリッパーズが発表",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-07T03:54:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587036?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587035?source=rss-植田まさし氏 3つの漫画連載終了",
+      "title": "植田まさし氏 3つの漫画連載終了",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-07T03:52:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587035?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/07/news112.html-「iPhone Air」が2万円引き 「プライムデー先行セール」開始、Apple製品が安い",
+      "title": "「iPhone Air」が2万円引き 「プライムデー先行セール」開始、Apple製品が安い",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-07T03:26:00.000Z",
+      "description": "日本のプライムデーに初めて登場した「iPhone Air」（256GB／SIMフリー版）は、参考価格の15万9800円から2万円引き（13％オフ）の13万9800円で販売している。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/07/news112.html"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587030?source=rss-ブルーカラー 就活市場で活気づく",
@@ -63,8 +315,8 @@
       "url": "https://news.yahoo.co.jp/pickup/6587030?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/07/news106.html-欧州のSwitch 2、バッテリー交換式へ EU新バッテリー規制に対応 初代Switchファミリーは販売終了",
-      "title": "欧州のSwitch 2、バッテリー交換式へ EU新バッテリー規制に対応 初代Switchファミリーは販売終了",
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/07/news106.html-欧州のSwitch 2、バッテリー交換式へ EU新規制に対応 初代Switchファミリーは販売終了",
+      "title": "欧州のSwitch 2、バッテリー交換式へ EU新規制に対応 初代Switchファミリーは販売終了",
       "source": "ITmedia NEWS",
       "category": "IT",
       "publishedAt": "2026-07-07T03:07:00.000Z",
@@ -90,15 +342,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6587029?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587020?source=rss-ベルギー8強入り 米国に4発快勝",
-      "title": "ベルギー8強入り 米国に4発快勝",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-07T02:08:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587020?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/07/news084.html-SpaceX、xAIの正式名称を「SpaceXAI」に 新ロゴも公開",
       "title": "SpaceX、xAIの正式名称を「SpaceXAI」に 新ロゴも公開",
       "source": "ITmedia NEWS",
@@ -115,15 +358,6 @@
       "publishedAt": "2026-07-07T01:32:30.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6587018?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587014?source=rss-スペイン 国際Aマッチで35戦無敗",
-      "title": "スペイン 国際Aマッチで35戦無敗",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-07T01:12:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587014?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/07/news079.html-月初襲ったPASMO障害「定期買えず払った運賃」補償へ 申請→個別調査で「時間かかる」",
@@ -162,15 +396,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6587010?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587009?source=rss-八村塁がクリッパーズ移籍 米報道",
-      "title": "八村塁がクリッパーズ移籍 米報道",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-07T00:15:27.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587009?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587006?source=rss-米マイクロソフト 約4800人削減へ",
       "title": "米マイクロソフト 約4800人削減へ",
       "source": "Yahoo!ニュース IT",
@@ -189,15 +414,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6587002?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587000?source=rss-西日本 激しい雨や雷雨に注意",
-      "title": "西日本 激しい雨や雷雨に注意",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-06T22:47:56.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587000?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/07/news078.html-Broadcom、Appleとの半導体契約を2031年まで延長 複数世代のApple製品にカスタムASICを供給へ",
       "title": "Broadcom、Appleとの半導体契約を2031年まで延長 複数世代のApple製品にカスタムASICを供給へ",
       "source": "ITmedia NEWS",
@@ -205,15 +421,6 @@
       "publishedAt": "2026-07-06T22:46:00.000Z",
       "description": "Broadcomは、Appleとの技術協業を2031年まで延長・拡大すると発表した。新たな複数年契約に基づき、複数世代のApple製品向けにカスタムASICを供給する。協業はAppleが開発中のAIサーバ向けチップにも広がっているとみられ、Apple Intelligenceを支えるクラウド基盤での利用が想定されている...",
       "url": "https://www.itmedia.co.jp/news/articles/2607/07/news078.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586998?source=rss-Cロナが涙「最後」のW杯終える",
-      "title": "Cロナが涙「最後」のW杯終える",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-06T22:35:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586998?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/07/news077.html-Microsoft、Xboxで約3200人を削減し4スタジオを分離――「われわれの事業は健全でない」とCEO",
@@ -243,24 +450,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6586994?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586993?source=rss-米FWの処分猶予 FIFA会長が反論",
-      "title": "米FWの処分猶予 FIFA会長が反論",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-06T21:29:35.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586993?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6586992?source=rss-スペイン劇的弾 ポルトガルに勝利",
-      "title": "スペイン劇的弾 ポルトガルに勝利",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-06T21:13:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586992?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6586991?source=rss-小林製薬 今年3回目の価格改定へ",
       "title": "小林製薬 今年3回目の価格改定へ",
       "source": "Yahoo!ニュース 経済",
@@ -279,15 +468,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6586983?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6586977?source=rss-関空送迎レーン有料化へ 5分300円",
-      "title": "関空送迎レーン有料化へ 5分300円",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-06T12:25:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586977?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6586976?source=rss-年金運用が好調 年金財政どうなる",
       "title": "年金運用が好調 年金財政どうなる",
       "source": "Yahoo!ニュース 経済",
@@ -297,15 +477,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6586976?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6586973?source=rss-日本政府 中国の軍事動向を注視",
-      "title": "日本政府 中国の軍事動向を注視",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-06T12:02:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586973?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/06/news133.html-これが「はやぶさ2」が撮った小惑星「トリフネ」だ 秒速5キロメートルで爆速撮影",
       "title": "これが「はやぶさ2」が撮った小惑星「トリフネ」だ 秒速5キロメートルで爆速撮影",
       "source": "ITmedia NEWS",
@@ -313,15 +484,6 @@
       "publishedAt": "2026-07-06T12:00:00.000Z",
       "description": "JAXAの小惑星探査機「はやぶさ2」が、7月5日18時30分ごろ、直径約500m程度の細長い形状をした小惑星「トリフネ」のフライバイ（探査機が天体の近くを通過すること）に成功した。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/06/news133.html"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586972?source=rss-桑子アナ クロ現で産休入りを報告",
-      "title": "桑子アナ クロ現で産休入りを報告",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-06T11:50:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586972?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/06/news130.html-会話できる探査機、JAXAが開発へ SF映画のような「人と対話しながらミッションに挑む」実現",
@@ -369,78 +531,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6586968?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/06/news128.html-スマホゲーのKLab、防衛産業に参入 アラブで対ドローン防衛システム導入推進へ 提携先は「非開示」",
-      "title": "スマホゲーのKLab、防衛産業に参入 アラブで対ドローン防衛システム導入推進へ 提携先は「非開示」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-06T10:42:00.000Z",
-      "description": "KLabは7月6日、RF（無線周波数）技術を持つ海外の防衛企業と、アラブ首長国連邦における対ドローン防衛システムの導入推進に向けた覚書を締結したと発表した。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/06/news128.html"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586955?source=rss-トイ・ストーリー5なぜ「賛」多数",
-      "title": "トイ・ストーリー5なぜ「賛」多数",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-06T10:34:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586955?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/06/news127.html-クレカ決済代行の全東信が破産、端末が使用不可に 負債は1259億円で今年最大──帝国データバンク",
-      "title": "クレカ決済代行の全東信が破産、端末が使用不可に 負債は1259億円で今年最大──帝国データバンク",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-06T10:20:00.000Z",
-      "description": "クレジットカード決済代行の全東信（大阪市中央区）は7月6日、大阪地方裁判所に自己破産を申請し、同日破産手続き開始決定を受けた。帝国データバンクによると負債は約1259億2900万円（2025年3月期末時点）で、今年最大の負債額という。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/06/news127.html"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6586963?source=rss-物価高 20代会社員のリアルな弁当",
-      "title": "物価高 20代会社員のリアルな弁当",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-06T10:08:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586963?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586962?source=rss-地面師出演「人生540度変わった」",
-      "title": "地面師出演「人生540度変わった」",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-06T10:06:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586962?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/06/news121.html-BIGLOBE、メルアド漏えいは約502万人分と判明 ニフティも約225万人分 KDDI基盤への不正アクセス続報",
-      "title": "BIGLOBE、メルアド漏えいは約502万人分と判明 ニフティも約225万人分 KDDI基盤への不正アクセス続報",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-06T09:02:00.000Z",
-      "description": "ビッグローブは7月6日、「BIGLOBEメール」への不正アクセスについて、メールアドレスとBIGLOBE ID計501万6432人分の漏えいを確認したと発表した。同じ基盤を使うニフティも同日、224万8708人分の漏えいを公表した。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/06/news121.html"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586949?source=rss-ジャンプ 発売前から異例の争奪戦",
-      "title": "ジャンプ 発売前から異例の争奪戦",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-06T08:34:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586949?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6586950?source=rss-全東信が破産 負債は約1259億円",
-      "title": "全東信が破産 負債は約1259億円",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-06T08:18:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586950?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6586944?source=rss-KDDI パスワード760万人分漏えい",
       "title": "KDDI パスワード760万人分漏えい",
       "source": "Yahoo!ニュース IT",
@@ -450,42 +540,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6586944?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/06/news109.html-KDDI、パスワード760万人分漏えい メアドも1220万人分 ISP事業者向けシステムへの不正アクセスで",
-      "title": "KDDI、パスワード760万人分漏えい メアドも1220万人分 ISP事業者向けシステムへの不正アクセスで",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-06T07:14:00.000Z",
-      "description": "KDDIがISP事業者向けに提供しているメールシステムが不正アクセスを受けた件を巡り、メールアドレス1223万3087万人分、パスワード761万6173万人分の漏えいを確認したと発表した。発表当初は最大1422万件に漏えいの可能性があると発表していた。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/06/news109.html"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6586939?source=rss-中国ミサイル発射 日本が懸念伝達",
-      "title": "中国ミサイル発射 日本が懸念伝達",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-06T07:08:41.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586939?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/06/news103.html-アクションカムは「コンデジの夢」を見るか 見えてきたスナップカメラとしての可能性",
-      "title": "アクションカムは「コンデジの夢」を見るか 見えてきたスナップカメラとしての可能性",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-06T06:25:00.000Z",
-      "description": "アクションカメラはもはや、“アクションからの卒業”がテーマになりつつあるのではないか。そう感じるような変化が周辺機器市場を中心に起こりつつある。そして登場したのが「GoPro Mission 1」だった。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/06/news103.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/06/news080.html-テスラ車の現オーナーが日本法人へ「喝！」 相次ぐ納車トラブルに募る国内体制への不安",
-      "title": "テスラ車の現オーナーが日本法人へ「喝！」 相次ぐ納車トラブルに募る国内体制への不安",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-06T05:30:00.000Z",
-      "description": "日本での販売数がBMWを抜くなどオーナーが急増中のTesla。歓迎すべき人気の裏で、4年半乗る筆者のような既存オーナーの胸には、じわりと不安が兆し始めている。整備も車検も代車も追いつかない体制のまま台数だけが膨らめば、しわ寄せはどこへ向かうのか。6月末に発生した納車トラブルをきっかけに足元を見つめ直す。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/06/news080.html"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6586931?source=rss-中古ゲーム市場 ネット接続で変化",
       "title": "中古ゲーム市場 ネット接続で変化",
       "source": "Yahoo!ニュース IT",
@@ -493,60 +547,6 @@
       "publishedAt": "2026-07-06T05:02:26.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6586931?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/06/news089.html-Sakana AI、敬語もネットスラングも“温度感そのまま”で訳す無料翻訳機能「Sakana Translate」 日英中に対応",
-      "title": "Sakana AI、敬語もネットスラングも“温度感そのまま”で訳す無料翻訳機能「Sakana Translate」 日英中に対応",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-06T04:59:00.000Z",
-      "description": "Sakana AIは7月6日、チャットサービス「Sakana Chat」で翻訳機能「Sakana Translate」の提供を始めた。日本語・英語・中国語の相互翻訳に対応し、翻訳・添削・質疑の3モードをアカウント登録だけで無料で使える。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/06/news089.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/06/news075.html-「ChatGPTで不正プログラム自作」 バンダイチャンネル4万6800人を勝手に退会させた疑い、15歳を再逮捕 報道",
-      "title": "「ChatGPTで不正プログラム自作」 バンダイチャンネル4万6800人を勝手に退会させた疑い、15歳を再逮捕 報道",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-06T03:18:00.000Z",
-      "description": "動画配信サービス「バンダイチャンネル」の会員約4万6800人を無断で退会させ、運営会社の業務を妨害したとして、警視庁は埼玉県所沢市の男子高校生（15）を偽計業務妨害の疑いで再逮捕した。生成AIの「ChatGPT」を使って不正なプログラムを自作したと供述しているという。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/06/news075.html"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6586913?source=rss-子が万引きと連絡 親のNG対応は",
-      "title": "子が万引きと連絡 親のNG対応は",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-06T02:55:35.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586913?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6586908?source=rss-はたらく細胞作者が告発 業界波紋",
-      "title": "はたらく細胞作者が告発 業界波紋",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-06T02:25:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6586908?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/06/news062.html-ブロードコムによるVMware製品抱き合わせ販売疑惑、独占禁止法違反と認定されず 公取委の調査終了",
-      "title": "ブロードコムによるVMware製品抱き合わせ販売疑惑、独占禁止法違反と認定されず 公取委の調査終了",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-06T01:50:00.000Z",
-      "description": "公正取引委員会は、ブロードコムに対する独占禁止法違反の調査を、違反に認定するに足る事実が認められなかったとして終了すると発表しました。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/06/news062.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/06/news060.html-AIサーバで稼ぐシャープ 2030年度の新規事業売上高の8割強目指す 鴻海と連携",
-      "title": "AIサーバで稼ぐシャープ 2030年度の新規事業売上高の8割強目指す 鴻海と連携",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-06T01:35:00.000Z",
-      "description": "シャープの河村哲治社長は7月3日、大阪市内で報道陣の取材に応じ、目標とする2030年度の新規事業の年間売上高2000億～3000億円のうち、8割強はAI向けサーバ関連を想定していると明らかにした。親会社の鴻海（ホンハイ）精密工業の調達・製造力を活用し、シャープが国内販売や保守を担う方向で調整を進める。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/06/news060.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6586864?source=rss-競売に著名人ドメイン GMO見解",
