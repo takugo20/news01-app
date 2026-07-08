@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T14:25:23.816Z",
+  "updatedAt": "2026-07-08T16:42:50.227Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587232?source=rss-全東信が破産 2万店超に未入金か",
+      "title": "全東信が破産 2万店超に未入金か",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-08T14:26:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587232?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587229?source=rss-MF鎌田大地 クラブと契約延長",
       "title": "MF鎌田大地 クラブと契約延長",
@@ -304,15 +313,6 @@
       "publishedAt": "2026-07-08T06:45:00.000Z",
       "description": "NTTドコモ、KDDI、ソフトバンク、楽天モバイルの4社は7月8日、「060」から始まる携帯電話番号の提供延期を発表した。当初は7月以降に順次始める予定だった。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/08/news146.html"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587168?source=rss-全東信破産 負債額は1000億円超",
-      "title": "全東信破産 負債額は1000億円超",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-08T06:27:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587168?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587169?source=rss-喜多方ラーメンの閉店相次ぐ 背景",
