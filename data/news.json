@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T19:38:56.372Z",
+  "updatedAt": "2026-07-10T22:09:15.255Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,22 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587478?source=rss-速報 スペインがベルギーに先制",
-      "title": "速報 スペインがベルギーに先制",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587486?source=rss-大谷が先発登板を回避 球宴も欠場",
+      "title": "大谷が先発登板を回避 球宴も欠場",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-07-10T19:36:52.000Z",
+      "publishedAt": "2026-07-10T22:05:40.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587478?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6587486?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587483?source=rss-W杯 スペインがベルギーに勝利",
+      "title": "W杯 スペインがベルギーに勝利",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-10T21:02:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587483?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587477?source=rss-DOMOTO STARTO社と契約終了へ",
@@ -259,15 +268,6 @@
       "publishedAt": "2026-07-10T09:17:00.000Z",
       "description": "安いエアコンが売り場から消えるのではないかと話題になっている、いわゆる「エアコン2027年問題」。最近はテレビのニュースなどにもなっているが、メーカーはどう考えているのか。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/10/news130.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587445?source=rss-西武 投手のボー・タカハシが退団",
-      "title": "西武 投手のボー・タカハシが退団",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-10T09:10:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587445?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/10/news129.html-NTTドコモ、「準固体モバイルバッテリー」発売 不要なモバイルバッテリーの無料回収も",
