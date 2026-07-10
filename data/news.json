@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T16:59:37.847Z",
+  "updatedAt": "2026-07-10T19:38:56.372Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587478?source=rss-速報 スペインがベルギーに先制",
+      "title": "速報 スペインがベルギーに先制",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-10T19:36:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587478?source=rss"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587477?source=rss-DOMOTO STARTO社と契約終了へ",
       "title": "DOMOTO STARTO社と契約終了へ",
@@ -331,15 +340,6 @@
       "publishedAt": "2026-07-10T06:56:55.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6587430?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587422?source=rss-DeNA デュプランティエが退団へ",
-      "title": "DeNA デュプランティエが退団へ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-10T05:01:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587422?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587419?source=rss-全東信破産 店側の資金繰り支援へ",
