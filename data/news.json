@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T14:38:00.014Z",
+  "updatedAt": "2026-07-10T16:59:37.847Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587477?source=rss-DOMOTO STARTO社と契約終了へ",
+      "title": "DOMOTO STARTO社と契約終了へ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-10T15:02:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587477?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587476?source=rss-台風 石垣島など丸1日暴風域恐れ",
       "title": "台風 石垣島など丸1日暴風域恐れ",
@@ -313,15 +322,6 @@
       "publishedAt": "2026-07-10T07:22:00.000Z",
       "description": "エンタケア研究所は9日、セガの国民的パズルゲーム「ぷよぷよ」のゲーム性を生かした介護施設向けの脳トレーニングゲーム「ぷよぷよトレーナー」を発表した。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/10/news123.html"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587431?source=rss-MBS ありがとう浜村淳です終了へ",
-      "title": "MBS ありがとう浜村淳です終了へ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-10T07:17:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587431?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587430?source=rss-反町隆史 28年ぶり「GTO」に感慨",
