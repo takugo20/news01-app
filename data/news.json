@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T13:36:52.352Z",
+  "updatedAt": "2026-07-11T15:59:39.623Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,42 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587609?source=rss-加藤浩次 クレー射撃協会の理事に",
+      "title": "加藤浩次 クレー射撃協会の理事に",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-11T14:10:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587609?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587608?source=rss-J1浦和に激震 MF柴戸と契約解除",
+      "title": "J1浦和に激震 MF柴戸と契約解除",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-11T14:08:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587608?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587606?source=rss-亀田和毅 次戦でWBA王者に挑戦",
+      "title": "亀田和毅 次戦でWBA王者に挑戦",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-11T13:50:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587606?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587605?source=rss-特別国会ヤマ場 重要法案積み残し",
+      "title": "特別国会ヤマ場 重要法案積み残し",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-11T13:42:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587605?source=rss"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587603?source=rss-柄本時生の妻 さとうほなみが妊娠",
       "title": "柄本時生の妻 さとうほなみが妊娠",
@@ -117,15 +153,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6587586?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587587?source=rss-台風は油断禁物 暴風や高波に警戒",
-      "title": "台風は油断禁物 暴風や高波に警戒",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-11T10:21:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587587?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587580?source=rss-インスタのAI画像生成 3日で廃止",
       "title": "インスタのAI画像生成 3日で廃止",
       "source": "Yahoo!ニュース IT",
@@ -142,15 +169,6 @@
       "publishedAt": "2026-07-11T09:24:28.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6587579?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587575?source=rss-最速156km 高岡第一の左腕が14K",
-      "title": "最速156km 高岡第一の左腕が14K",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-11T08:51:41.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587575?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587574?source=rss-大谷 左膝は繰り返し炎症があった",
@@ -196,24 +214,6 @@
       "publishedAt": "2026-07-11T07:47:07.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6587567?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587562?source=rss-村上「うれしい」球宴選出に笑顔",
-      "title": "村上「うれしい」球宴選出に笑顔",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-11T07:01:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587562?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587564?source=rss-趣里と水谷豊 親子で舞台あいさつ",
-      "title": "趣里と水谷豊 親子で舞台あいさつ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-11T06:59:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587564?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587559?source=rss-球場前にヘリ着陸 高校野球が中断",
