@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T19:10:34.338Z",
+  "updatedAt": "2026-07-11T21:54:45.114Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587604?source=rss-速報 ノルウェーvs.イングランド",
+      "title": "速報 ノルウェーvs.イングランド",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-11T20:57:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587604?source=rss"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587609?source=rss-加藤浩次 クレー射撃協会の理事に",
       "title": "加藤浩次 クレー射撃協会の理事に",
@@ -232,15 +241,6 @@
       "publishedAt": "2026-07-11T06:18:31.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6587556?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587555?source=rss-球宴辞退に大谷「申し訳ない」",
-      "title": "球宴辞退に大谷「申し訳ない」",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-11T06:01:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587555?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587550?source=rss-近藤真彦「まさか」韓国で人気に",
