@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T21:54:45.114Z",
+  "updatedAt": "2026-07-12T03:24:21.998Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,175 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587604?source=rss-速報 ノルウェーvs.イングランド",
-      "title": "速報 ノルウェーvs.イングランド",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587652?source=rss-速報 アルゼンチンvsスイス延長戦",
+      "title": "速報 アルゼンチンvsスイス延長戦",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-07-11T20:57:44.000Z",
+      "publishedAt": "2026-07-12T03:08:30.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587604?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6587652?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587649?source=rss-トイ・ストーリー5 一時全編流出",
+      "title": "トイ・ストーリー5 一時全編流出",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-12T02:53:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587649?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587648?source=rss-デジタル教育先進国 日本への助言",
+      "title": "デジタル教育先進国 日本への助言",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-12T02:28:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587648?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587644?source=rss-内閣支持率65%超を維持 JNN分析",
+      "title": "内閣支持率65%超を維持 JNN分析",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-12T02:09:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587644?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587641?source=rss-大河 小栗旬が塗り替えた信長像",
+      "title": "大河 小栗旬が塗り替えた信長像",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-12T01:58:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587641?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587639?source=rss-MLBドラフト初日 麟太郎呼ばれず",
+      "title": "MLBドラフト初日 麟太郎呼ばれず",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-12T01:36:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587639?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587638?source=rss-給食でO157集団食中毒 女性後悔",
+      "title": "給食でO157集団食中毒 女性後悔",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-12T01:24:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587638?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587637?source=rss-イングランド同点弾巡り FIFA声明",
+      "title": "イングランド同点弾巡り FIFA声明",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-12T01:18:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587637?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587632?source=rss-怪物ハーランド 延長で無念の交代",
+      "title": "怪物ハーランド 延長で無念の交代",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-12T00:28:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587632?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587630?source=rss-サッカーW杯 イングランドが4強",
+      "title": "サッカーW杯 イングランドが4強",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-12T00:05:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587630?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587625?source=rss-勤務医の残業 年960時間超が15%",
+      "title": "勤務医の残業 年960時間超が15%",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-11T23:53:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587625?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587627?source=rss-ダンカン 47歳で死去の妻への後悔",
+      "title": "ダンカン 47歳で死去の妻への後悔",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-11T23:45:23.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587627?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587623?source=rss-南ア25歳選手急逝 試合前に黙とう",
+      "title": "南ア25歳選手急逝 試合前に黙とう",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-11T23:25:47.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587623?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587618?source=rss-特別国会 与野党が最終盤の攻防へ",
+      "title": "特別国会 与野党が最終盤の攻防へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-11T23:05:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587618?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587616?source=rss-九州 40℃に迫る危険な暑さ予想",
+      "title": "九州 40℃に迫る危険な暑さ予想",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-11T22:38:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587616?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587614?source=rss-山本由伸 オールスターは登板せず",
+      "title": "山本由伸 オールスターは登板せず",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-11T22:32:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587614?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587613?source=rss-misonoの出産番組 共感呼ぶ訳",
+      "title": "misonoの出産番組 共感呼ぶ訳",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-11T22:27:00.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587613?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587612?source=rss-W杯出場の南ア選手が急死 25歳",
+      "title": "W杯出場の南ア選手が急死 25歳",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-11T22:19:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587612?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/12/news013.html-なんでPSのディスク版ゲームがなくなるの？ 不満たらたらのゲーム好きマンガ家を黙らせた担当の一言とは",
+      "title": "なんでPSのディスク版ゲームがなくなるの？ 不満たらたらのゲーム好きマンガ家を黙らせた担当の一言とは",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-11T22:14:00.000Z",
+      "description": "ソニーが2028年の1月にPlayStationのゲームタイトルにおける物理ディスクの生産を終了すると発表しました。ボク個人もディスク版を残してほしいと思う1人ですが、実はあまり行動は伴っていないのでした。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/12/news013.html"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587609?source=rss-加藤浩次 クレー射撃協会の理事に",
@@ -52,33 +214,6 @@
       "publishedAt": "2026-07-11T14:10:54.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6587609?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587608?source=rss-J1浦和に激震 MF柴戸と契約解除",
-      "title": "J1浦和に激震 MF柴戸と契約解除",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-11T14:08:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587608?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587606?source=rss-亀田和毅 次戦でWBA王者に挑戦",
-      "title": "亀田和毅 次戦でWBA王者に挑戦",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-11T13:50:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587606?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587605?source=rss-特別国会ヤマ場 重要法案積み残し",
-      "title": "特別国会ヤマ場 重要法案積み残し",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-11T13:42:24.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587605?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587603?source=rss-柄本時生の妻 さとうほなみが妊娠",
@@ -97,15 +232,6 @@
       "publishedAt": "2026-07-11T13:10:00.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6587602?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587601?source=rss-上原氏 藤浪の3連続四球はない",
-      "title": "上原氏 藤浪の3連続四球はない",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-11T13:08:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587601?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587597?source=rss-モンストを欧州展開 MIXIが検討",
@@ -135,24 +261,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6587590?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587589?source=rss-藤浪うつむく 3回94球を投げ降板",
-      "title": "藤浪うつむく 3回94球を投げ降板",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-11T11:16:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587589?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587591?source=rss-上地結衣 生涯ゴールデンスラム",
-      "title": "上地結衣 生涯ゴールデンスラム",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-11T11:09:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587591?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587586?source=rss-唐沢寿明 老いは「しょうがない」",
       "title": "唐沢寿明 老いは「しょうがない」",
       "source": "Yahoo!ニュース エンタメ",
@@ -169,24 +277,6 @@
       "publishedAt": "2026-07-11T09:53:40.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6587580?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587579?source=rss-防災士EXILE・MAKIDAI 子と訓練",
-      "title": "防災士EXILE・MAKIDAI 子と訓練",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-11T09:24:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587579?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587574?source=rss-大谷 左膝は繰り返し炎症があった",
-      "title": "大谷 左膝は繰り返し炎症があった",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-11T08:41:45.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587574?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587570?source=rss-皇室典範巡り 中道立憲賛否割れる",
@@ -225,15 +315,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6587567?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587559?source=rss-球場前にヘリ着陸 高校野球が中断",
-      "title": "球場前にヘリ着陸 高校野球が中断",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-11T06:30:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587559?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587556?source=rss-全東信が破産 契約店から憤りの声",
       "title": "全東信が破産 契約店から憤りの声",
       "source": "Yahoo!ニュース 経済",
@@ -241,24 +322,6 @@
       "publishedAt": "2026-07-11T06:18:31.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6587556?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587550?source=rss-近藤真彦「まさか」韓国で人気に",
-      "title": "近藤真彦「まさか」韓国で人気に",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-11T05:33:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587550?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587547?source=rss-105歳のピアニスト 室井さん死去",
-      "title": "105歳のピアニスト 室井さん死去",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-11T05:02:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587547?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587544?source=rss-新幹線に「弱冷房車」JR東海見解",
@@ -288,15 +351,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6587529?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587524?source=rss-ロッキード事件 裏金運搬者が会見",
-      "title": "ロッキード事件 裏金運搬者が会見",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-11T02:21:47.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587524?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/10/news127.html-“防爆シェルター”を3Dプリントする技術 日本のスタートアップが開発 海外イベントの防衛装備庁ブースで展示へ",
       "title": "“防爆シェルター”を3Dプリントする技術 日本のスタートアップが開発 海外イベントの防衛装備庁ブースで展示へ",
       "source": "ITmedia NEWS",
@@ -315,15 +369,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6587501?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587499?source=rss-幸福の科学製作番組 BPO審議入り",
-      "title": "幸福の科学製作番組 BPO審議入り",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-10T23:25:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587499?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/11/news038.html-Apple、OpenAIと元従業員2人を提訴 「iPhoneの機密を盗んだ」と主張",
       "title": "Apple、OpenAIと元従業員2人を提訴 「iPhoneの機密を盗んだ」と主張",
       "source": "ITmedia NEWS",
@@ -333,15 +378,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/11/news038.html"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587493?source=rss-渡部建のライブ告知巡る波紋 背景",
-      "title": "渡部建のライブ告知巡る波紋 背景",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-10T22:44:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587493?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587490?source=rss-EU インスタ中毒性に設計変更を",
       "title": "EU インスタ中毒性に設計変更を",
       "source": "Yahoo!ニュース IT",
@@ -349,24 +385,6 @@
       "publishedAt": "2026-07-10T22:25:47.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6587490?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587459?source=rss-無罪決め手の証拠 検察5人は把握",
-      "title": "無罪決め手の証拠 検察5人は把握",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-10T13:32:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587459?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587472?source=rss-退職自衛官支援へ「庁」新設検討",
-      "title": "退職自衛官支援へ「庁」新設検討",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-10T13:17:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587472?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/10/news157.html-テスラ車内で「Grok」と会話、日本でも展開へ ナビ設定やルート確認を音声で",
@@ -540,15 +558,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6587351?source=rss"
     },
     {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587337?source=rss-国産人型ロボ 三菱自動車が量産へ",
-      "title": "国産人型ロボ 三菱自動車が量産へ",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-09T11:18:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587337?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/09/news167.html-ヒト型ロボットがアキバの地下リングで殴り合い 米国発メカ格闘技「REK」日本上陸",
       "title": "ヒト型ロボットがアキバの地下リングで殴り合い 米国発メカ格闘技「REK」日本上陸",
       "source": "ITmedia NEWS",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-07-09T09:10:00.000Z",
       "description": "米NVIDIAの日本法人が、セガとの歴史を祝う招待制イベントを開催する。ジェンスン・フアンCEOが来日するほか、セガ経営陣も参加する予定だ。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/09/news138.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/09/news132.html-「ドコモの銀行」誕生へ 住信SBIネット銀行の社名変更で 法人向けは「NEOBANK」維持",
-      "title": "「ドコモの銀行」誕生へ 住信SBIネット銀行の社名変更で 法人向けは「NEOBANK」維持",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-09T08:58:00.000Z",
-      "description": "住信SBIネット銀行は7月9日、個人向け銀行サービスの新ブランド「ドコモの銀行」を8月3日から展開すると発表した。同日予定する「ドコモSMTBネット銀行」への商号変更にあわせ、アプリの名称やアイコンも順次切り替える。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/09/news132.html"
     }
   ]
 }
