@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T03:24:21.998Z",
+  "updatedAt": "2026-07-12T08:23:58.071Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,148 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587652?source=rss-速報 アルゼンチンvsスイス延長戦",
-      "title": "速報 アルゼンチンvsスイス延長戦",
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587691?source=rss-政府 AI分野で同志国との協力加速",
+      "title": "政府 AI分野で同志国との協力加速",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-12T08:22:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587691?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587687?source=rss-まさか マクレガー69秒TKO負け",
+      "title": "まさか マクレガー69秒TKO負け",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-07-12T03:08:30.000Z",
+      "publishedAt": "2026-07-12T08:05:28.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587652?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6587687?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587686?source=rss-戸田奈津子氏 AIに映画字幕は無理",
+      "title": "戸田奈津子氏 AIに映画字幕は無理",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-12T07:49:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587686?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587684?source=rss-テレ朝は中継なし 三谷アナのW杯",
+      "title": "テレ朝は中継なし 三谷アナのW杯",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-12T07:44:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587684?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587683?source=rss-検察6人誤り把握 前川さんが怒り",
+      "title": "検察6人誤り把握 前川さんが怒り",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-12T07:24:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587683?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587682?source=rss-メッシ 主審に向かい不満あらわ",
+      "title": "メッシ 主審に向かい不満あらわ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-12T07:12:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587682?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587676?source=rss-西川貴教 ハリーホークと筋肉比べ",
+      "title": "西川貴教 ハリーホークと筋肉比べ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-12T06:44:01.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587676?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587673?source=rss-自民 会期内の全法案成立目指す",
+      "title": "自民 会期内の全法案成立目指す",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-12T06:24:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587673?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587672?source=rss-ryuchellさん命日 pecoが思うこと",
+      "title": "ryuchellさん命日 pecoが思うこと",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-12T06:21:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587672?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587670?source=rss-富士山頂の郵便局 初勤務の舞台裏",
+      "title": "富士山頂の郵便局 初勤務の舞台裏",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-12T05:47:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587670?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587668?source=rss-東北で大雨 九州-関東も雷雨注意",
+      "title": "東北で大雨 九州-関東も雷雨注意",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-12T05:34:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587668?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587666?source=rss-スイスぼう然 初の4強入りならず",
+      "title": "スイスぼう然 初の4強入りならず",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-12T05:07:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587666?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587664?source=rss-武豊57歳 通算5000勝を達成",
+      "title": "武豊57歳 通算5000勝を達成",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-12T04:43:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587664?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587661?source=rss-男系男子養子案 対象の旧宮家とは",
+      "title": "男系男子養子案 対象の旧宮家とは",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-12T04:21:17.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587661?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587660?source=rss-カメ止め・ヒロイン役 第1子出産",
+      "title": "カメ止め・ヒロイン役 第1子出産",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-12T04:13:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587660?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587658?source=rss-サッカーW杯 4強が出そろう",
+      "title": "サッカーW杯 4強が出そろう",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-12T03:52:00.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587658?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587649?source=rss-トイ・ストーリー5 一時全編流出",
@@ -117,15 +252,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6587632?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587630?source=rss-サッカーW杯 イングランドが4強",
-      "title": "サッカーW杯 イングランドが4強",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-12T00:05:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587630?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587625?source=rss-勤務医の残業 年960時間超が15%",
       "title": "勤務医の残業 年960時間超が15%",
       "source": "Yahoo!ニュース 国内",
@@ -144,60 +270,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6587627?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587623?source=rss-南ア25歳選手急逝 試合前に黙とう",
-      "title": "南ア25歳選手急逝 試合前に黙とう",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-11T23:25:47.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587623?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587618?source=rss-特別国会 与野党が最終盤の攻防へ",
-      "title": "特別国会 与野党が最終盤の攻防へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-11T23:05:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587618?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587616?source=rss-九州 40℃に迫る危険な暑さ予想",
-      "title": "九州 40℃に迫る危険な暑さ予想",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-11T22:38:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587616?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587614?source=rss-山本由伸 オールスターは登板せず",
-      "title": "山本由伸 オールスターは登板せず",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-11T22:32:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587614?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587613?source=rss-misonoの出産番組 共感呼ぶ訳",
-      "title": "misonoの出産番組 共感呼ぶ訳",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-11T22:27:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587613?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587612?source=rss-W杯出場の南ア選手が急死 25歳",
-      "title": "W杯出場の南ア選手が急死 25歳",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-11T22:19:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587612?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/12/news013.html-なんでPSのディスク版ゲームがなくなるの？ 不満たらたらのゲーム好きマンガ家を黙らせた担当の一言とは",
       "title": "なんでPSのディスク版ゲームがなくなるの？ 不満たらたらのゲーム好きマンガ家を黙らせた担当の一言とは",
       "source": "ITmedia NEWS",
@@ -205,15 +277,6 @@
       "publishedAt": "2026-07-11T22:14:00.000Z",
       "description": "ソニーが2028年の1月にPlayStationのゲームタイトルにおける物理ディスクの生産を終了すると発表しました。ボク個人もディスク版を残してほしいと思う1人ですが、実はあまり行動は伴っていないのでした。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/12/news013.html"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587609?source=rss-加藤浩次 クレー射撃協会の理事に",
-      "title": "加藤浩次 クレー射撃協会の理事に",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-11T14:10:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587609?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587603?source=rss-柄本時生の妻 さとうほなみが妊娠",
@@ -243,15 +306,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6587597?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587593?source=rss-首相 安倍氏の追悼集会で決意語る",
-      "title": "首相 安倍氏の追悼集会で決意語る",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-11T11:58:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587593?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587590?source=rss-玩具店ハローマック なぜ消えた",
       "title": "玩具店ハローマック なぜ消えた",
       "source": "Yahoo!ニュース 経済",
@@ -259,15 +313,6 @@
       "publishedAt": "2026-07-11T11:20:24.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6587590?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587586?source=rss-唐沢寿明 老いは「しょうがない」",
-      "title": "唐沢寿明 老いは「しょうがない」",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-11T10:22:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587586?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587580?source=rss-インスタのAI画像生成 3日で廃止",
@@ -297,15 +342,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6587573?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587571?source=rss-事故後引退 声優古谷静佳なぜ復帰",
-      "title": "事故後引退 声優古谷静佳なぜ復帰",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-11T08:09:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587571?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587567?source=rss-V字回復した大戸屋 社長交代の訳",
       "title": "V字回復した大戸屋 社長交代の訳",
       "source": "Yahoo!ニュース 経済",
@@ -331,24 +367,6 @@
       "publishedAt": "2026-07-11T04:47:20.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6587544?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587532?source=rss-原爆の惨状伝える「異形の遺骨」",
-      "title": "原爆の惨状伝える「異形の遺骨」",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-11T03:20:45.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587532?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587529?source=rss-洗顔20回すすぐ 美容目覚めた男性",
-      "title": "洗顔20回すすぐ 美容目覚めた男性",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-11T03:00:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587529?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/10/news127.html-“防爆シェルター”を3Dプリントする技術 日本のスタートアップが開発 海外イベントの防衛装備庁ブースで展示へ",
@@ -468,15 +486,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/10/news107.html"
     },
     {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587403?source=rss-飲食店にAIが何度も予約電話 なぜ",
-      "title": "飲食店にAIが何度も予約電話 なぜ",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-10T03:33:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587403?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/10/news090.html-ソニー、光学25倍ズーム搭載の「RX10 V」発売 1型センサーの高倍率機に9年ぶり新製品",
       "title": "ソニー、光学25倍ズーム搭載の「RX10 V」発売 1型センサーの高倍率機に9年ぶり新製品",
       "source": "ITmedia NEWS",
@@ -547,15 +556,6 @@
       "publishedAt": "2026-07-09T22:00:00.000Z",
       "description": "ドイツ航空宇宙センターとハインリッヒ・ハイネ大学に所属する研究者らが物理学の学術誌Physical Review Lettersで発表した論文「Quantum Mechanics Based on Real Numbers: A Consistent Description」は、複素数を使わずに実数だけで量子力学を記述...",
       "url": "https://www.itmedia.co.jp/news/articles/2607/10/news032.html"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587351?source=rss-東京都の婚活アプリ 265組が結婚",
-      "title": "東京都の婚活アプリ 265組が結婚",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-09T13:42:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587351?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/09/news167.html-ヒト型ロボットがアキバの地下リングで殴り合い 米国発メカ格闘技「REK」日本上陸",
