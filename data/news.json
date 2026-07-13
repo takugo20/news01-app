@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T09:35:48.456Z",
+  "updatedAt": "2026-07-13T14:44:45.390Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,159 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587834?source=rss-福澤監督 VIVANT現場一時離れる",
+      "title": "福澤監督 VIVANT現場一時離れる",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-13T14:36:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587834?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587833?source=rss-全東信破産 465億円超焦げ付きか",
+      "title": "全東信破産 465億円超焦げ付きか",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-13T14:18:23.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587833?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587832?source=rss-EUも子のSNS制限へ 13歳未満対象",
+      "title": "EUも子のSNS制限へ 13歳未満対象",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-13T14:09:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587832?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587827?source=rss-辺野古訴訟 一部に原告適格認める",
+      "title": "辺野古訴訟 一部に原告適格認める",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-13T13:49:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587827?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587826?source=rss-母天国へ 球児が帽子に刻んだ言葉",
+      "title": "母天国へ 球児が帽子に刻んだ言葉",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-13T13:48:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587826?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587828?source=rss-イエモングッズ巡り謝罪 販売中止",
+      "title": "イエモングッズ巡り謝罪 販売中止",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-13T13:46:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587828?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587824?source=rss-LINE ゲーム利用者識別情報が流出",
+      "title": "LINE ゲーム利用者識別情報が流出",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-13T12:51:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587824?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587822?source=rss-14日 東日本も熱中症リスク高まる",
+      "title": "14日 東日本も熱中症リスク高まる",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-13T12:14:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587822?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587818?source=rss-ジェニーハイ復活 再びステージへ",
+      "title": "ジェニーハイ復活 再びステージへ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-13T11:53:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587818?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587817?source=rss-息子が「5番三塁」村田修一氏観戦",
+      "title": "息子が「5番三塁」村田修一氏観戦",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-13T11:25:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587817?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/13/news129.html-リチウムイオン電池の出火、都内で過去最多382件 26年は1.5倍ペースで急増 東京消防庁",
+      "title": "リチウムイオン電池の出火、都内で過去最多382件 26年は1.5倍ペースで急増 東京消防庁",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-13T11:23:00.000Z",
+      "description": "東京消防庁管内でリチウムイオン電池を搭載した製品から出火する火災が急増している。同庁は7月13日、2026年5月末までの発生件数が179件に上り、前年同期の117件から1.5倍に増えたと発表した。25年は年間382件と過去最多だったが、26年はそれを上回るペースとなる。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/13/news129.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/13/news128.html-ニチレイに不正アクセス、冷凍食品の出荷に支障 システムに障害",
+      "title": "ニチレイに不正アクセス、冷凍食品の出荷に支障 システムに障害",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-13T10:36:00.000Z",
+      "description": "ニチレイは7月13日、不正アクセスによるシステム障害が発生したと発表した。冷蔵倉庫の入出庫や冷凍食品の出荷業務に影響が出ている。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/13/news128.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/13/news126.html-LINEヤフー、710万件の識別情報を誤送信 「LINEポコポコ」などゲームユーザー対象",
+      "title": "LINEヤフー、710万件の識別情報を誤送信 「LINEポコポコ」などゲームユーザー対象",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-13T10:19:00.000Z",
+      "description": "LINEヤフーが、ゲーム「LINE ポコポコ」「LINE ポコパンタウン」「LINE ポコパン」ユーザーの識別情報710万件近くを外部の広告ツールに誤送信していたと発表した。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/13/news126.html"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587811?source=rss-スマホ盗聴し広告掲出? 説を整理",
+      "title": "スマホ盗聴し広告掲出? 説を整理",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-13T10:17:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587811?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/13/news125.html-中国ロボット企業が“ヒト型ロボ格闘大会”開催へ さながら「リアルスティール」なプロモ映像公開",
+      "title": "中国ロボット企業が“ヒト型ロボ格闘大会”開催へ さながら「リアルスティール」なプロモ映像公開",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-13T10:10:00.000Z",
+      "description": "ロボット開発を手掛ける中国Unitree Roboticsが、ヒト型ロボットによる格闘大会「CMG 2026 Humanoid Robot Combat Competition」の開催を発表した。ロボット格闘技を描く映画「リアルスティール」さながらのバトルシーンを含んだプロモーション映像も公開。イベントの詳細は後日発表...",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/13/news125.html"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587810?source=rss-フォルラン氏 ウルグアイ新監督に",
+      "title": "フォルラン氏 ウルグアイ新監督に",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-13T10:08:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587810?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587808?source=rss-検察 不祥事相次いでも会見なし",
+      "title": "検察 不祥事相次いでも会見なし",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-13T09:47:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587808?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587803?source=rss-社会保険料 負担減巡る議論の流れ",
       "title": "社会保険料 負担減巡る議論の流れ",
@@ -90,15 +243,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6587799?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587797?source=rss-W杯出場 64カ国拡大論浮上の経緯",
-      "title": "W杯出場 64カ国拡大論浮上の経緯",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-13T08:31:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587797?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587793?source=rss-SNS規制法成立 選挙の偽情報対策",
       "title": "SNS規制法成立 選挙の偽情報対策",
       "source": "Yahoo!ニュース 国内",
@@ -106,42 +250,6 @@
       "publishedAt": "2026-07-13T08:26:51.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6587793?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587795?source=rss-俳優サム・ニールさん死去 78歳",
-      "title": "俳優サム・ニールさん死去 78歳",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-13T08:25:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587795?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587794?source=rss-暴言や性暴力 検察で不祥事相次ぐ",
-      "title": "暴言や性暴力 検察で不祥事相次ぐ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-13T08:20:01.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587794?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587790?source=rss-ハム北山 球宴で魔球マイカを予告",
-      "title": "ハム北山 球宴で魔球マイカを予告",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-13T07:54:45.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587790?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587791?source=rss-東北-北海道 15日から大雨恐れ",
-      "title": "東北-北海道 15日から大雨恐れ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-13T07:50:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587791?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587787?source=rss-ジャンプ付録カード 買取停止続出",
@@ -297,15 +405,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/13/news068.html"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587765?source=rss-MUFG時価総額 一時日本企業1位",
-      "title": "MUFG時価総額 一時日本企業1位",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-13T02:54:36.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587765?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587754?source=rss-日本なぜAIで遅れ 巻き返しの鍵は",
       "title": "日本なぜAIで遅れ 巻き返しの鍵は",
       "source": "Yahoo!ニュース IT",
@@ -342,15 +441,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/13/news065.html"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587750?source=rss-貴島明日香 第1子妊娠を報告",
-      "title": "貴島明日香 第1子妊娠を報告",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-13T01:27:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587750?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587748?source=rss-原油先物が急上昇 海峡の懸念再燃",
       "title": "原油先物が急上昇 海峡の懸念再燃",
       "source": "Yahoo!ニュース 経済",
@@ -367,15 +457,6 @@
       "publishedAt": "2026-07-13T00:38:15.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6587746?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587744?source=rss-ジャンプ異例の完売続出 行列も",
-      "title": "ジャンプ異例の完売続出 行列も",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-13T00:05:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587744?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/13/news059.html-Instagram、他人の公開写真からAI動画を自動生成する機能を無効化 フィードバック受け",
@@ -403,24 +484,6 @@
       "publishedAt": "2026-07-12T22:00:00.000Z",
       "description": "ドイツのアーヘン工科大学に所属する研究者らが発表した論文「Hidden Secrets in the arXiv: Discovering, Analyzing, and Preventing Unintentional Information Disclosure in Source Files of Scienti...",
       "url": "https://www.itmedia.co.jp/news/articles/2607/13/news021.html"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587732?source=rss-公益通報体制 8道府県が見直し",
-      "title": "公益通報体制 8道府県が見直し",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-12T21:59:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587732?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587728?source=rss-大谷 特大アーチで日米通算350号",
-      "title": "大谷 特大アーチで日米通算350号",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-12T21:07:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587728?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587711?source=rss-ナフサ不足続く シンナー再利用も",
@@ -511,69 +574,6 @@
       "publishedAt": "2026-07-11T02:00:00.000Z",
       "description": "3Dプリント住宅を手掛けるセレンディクス（兵庫県西宮市）が、3Dプリンタで建築した防爆シェルターやドローン基地を英国の防衛産業展示会で展示する。既存の建築手法に対して形状や建設立地の自由度で勝るといい、防衛装備庁が出展するブース内で実物を展示する予定だ。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/10/news127.html"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587501?source=rss-Apple 営業秘密流用でOpenAI提訴",
-      "title": "Apple 営業秘密流用でOpenAI提訴",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-10T23:26:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587501?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/11/news038.html-Apple、OpenAIと元従業員2人を提訴 「iPhoneの機密を盗んだ」と主張",
-      "title": "Apple、OpenAIと元従業員2人を提訴 「iPhoneの機密を盗んだ」と主張",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-10T23:12:00.000Z",
-      "description": "Appleは、自社の営業秘密を不正に取得したとして、元従業員2人とOpenAIおよびその傘下企業を提訴した。iPhoneなどの開発情報がハードウェア参入を進めるOpenAIに流出したと主張。面接での機密情報の聞き出しや組織的な引き抜きを指摘し、損害賠償などを求めている。なお、AI機能での提携とは無関係としている。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/11/news038.html"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587490?source=rss-EU インスタ中毒性に設計変更を",
-      "title": "EU インスタ中毒性に設計変更を",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-10T22:25:47.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587490?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/10/news157.html-テスラ車内で「Grok」と会話、日本でも展開へ ナビ設定やルート確認を音声で",
-      "title": "テスラ車内で「Grok」と会話、日本でも展開へ ナビ設定やルート確認を音声で",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-10T12:15:00.000Z",
-      "description": "対話型AI「Grok」を日本のテスラ車で利用できるようになった。Tesla Japanが7月10日、X公式アカウントで発表した。利用には、ソフトウェアバージョン2026.20以降、「プレミアムコネクティビティ」（有料の車内通信プラン）の契約が必要になる。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news157.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/10/news149.html-2日連続の「モバイルSuica」障害、JR東が原因を公表 別途負担の運賃は払い戻しへ",
-      "title": "2日連続の「モバイルSuica」障害、JR東が原因を公表 別途負担の運賃は払い戻しへ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-10T11:05:00.000Z",
-      "description": "JR東日本は7月10日、6月30日と7月1日に発生した「モバイルSuica」のシステム障害について、原因と対策を発表した。また、その影響で定期券やSuicaグリーン券などを利用できなかったユーザーに対し、別途負担した運賃等の補償を実施する。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news149.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/10/news130.html-安いエアコンが消える？ 「エアコン2027年問題」でメーカーは来年どう動くのか、ダイキンに聞いた",
-      "title": "安いエアコンが消える？ 「エアコン2027年問題」でメーカーは来年どう動くのか、ダイキンに聞いた",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-10T09:17:00.000Z",
-      "description": "安いエアコンが売り場から消えるのではないかと話題になっている、いわゆる「エアコン2027年問題」。最近はテレビのニュースなどにもなっているが、メーカーはどう考えているのか。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news130.html"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587436?source=rss-GPT5.6提供開始 Anthropicに対抗",
-      "title": "GPT5.6提供開始 Anthropicに対抗",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-10T08:32:09.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587436?source=rss"
     }
   ]
 }
