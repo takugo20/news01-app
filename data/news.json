@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T19:34:39.621Z",
+  "updatedAt": "2026-07-13T22:00:10.958Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587839?source=rss-由伸の会見にVIVANTドラム 驚き",
+      "title": "由伸の会見にVIVANTドラム 驚き",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-13T21:53:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587839?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587837?source=rss-何でもやる 森保氏半年延長受諾へ",
+      "title": "何でもやる 森保氏半年延長受諾へ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-13T21:19:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587837?source=rss"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587834?source=rss-福澤監督 VIVANT現場一時離れる",
       "title": "福澤監督 VIVANT現場一時離れる",
@@ -270,15 +288,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6587785?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587786?source=rss-佐々木麟太郎に「3つの選択肢」",
-      "title": "佐々木麟太郎に「3つの選択肢」",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-13T07:04:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587786?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/13/news107.html-「今ネットで販売されているグッズは全て非公式品」 人気ゲーム「めっちゃカメレオン」開発者が注意喚起",
       "title": "「今ネットで販売されているグッズは全て非公式品」 人気ゲーム「めっちゃカメレオン」開発者が注意喚起",
       "source": "ITmedia NEWS",
@@ -367,15 +376,6 @@
       "publishedAt": "2026-07-13T04:01:00.000Z",
       "description": "電話によるタクシー配車やハイヤーのWeb予約が停止しているが、アプリ「GO」経由の配車は影響なく利用できる。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/13/news088.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587760?source=rss-W杯4強決定 それぞれの「強さ」",
-      "title": "W杯4強決定 それぞれの「強さ」",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-13T03:44:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587760?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587768?source=rss-中村ゆり 腸閉塞でNHKドラマ降板",
