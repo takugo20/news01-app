@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T19:25:55.580Z",
+  "updatedAt": "2026-07-14T22:02:04.688Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,22 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587913?source=rss-速報W杯 フランスvs.スペイン",
-      "title": "速報W杯 フランスvs.スペイン",
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587968?source=rss-ダイアン津田 まさかの連ドラ主演",
+      "title": "ダイアン津田 まさかの連ドラ主演",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-14T21:25:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587968?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587967?source=rss-スペイン決勝進出 フランスに快勝",
+      "title": "スペイン決勝進出 フランスに快勝",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-07-14T18:52:28.000Z",
+      "publishedAt": "2026-07-14T21:06:40.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587913?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6587967?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587965?source=rss-阪神森下「勘違い」で三塁打許す",
@@ -403,15 +412,6 @@
       "publishedAt": "2026-07-14T04:24:58.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6587882?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587881?source=rss-マリオ新幹線ラストラン中止 謝罪",
-      "title": "マリオ新幹線ラストラン中止 謝罪",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-14T04:02:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587881?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/14/news075.html-ATM出金上限を200万円→50万円に auじぶん銀 初期設定も30万円に引き下げ",
