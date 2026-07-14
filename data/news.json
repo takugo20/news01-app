@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T13:54:30.903Z",
+  "updatedAt": "2026-07-14T16:19:12.302Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587965?source=rss-阪神森下「勘違い」で三塁打許す",
+      "title": "阪神森下「勘違い」で三塁打許す",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-14T14:39:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587965?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587960?source=rss-とんがりコーン 中身を約1割減へ",
       "title": "とんがりコーン 中身を約1割減へ",
@@ -133,15 +142,6 @@
       "publishedAt": "2026-07-14T11:00:00.000Z",
       "description": "「人間が頂点の生命体の時代は終わるんです」──孫正義氏が7月14日の「SoftBank World 2026」特別講演で語った。AIエージェントが100兆個に達する2040年、人類に残された道は「スーパーヒューマン」になることだという。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/14/news115.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587939?source=rss-元ヤクルト投手 西井哲夫さん死去",
-      "title": "元ヤクルト投手 西井哲夫さん死去",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-14T10:43:01.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587939?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587937?source=rss-東日本中心に危険な暑さ続く 注意",
