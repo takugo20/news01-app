@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T02:50:08.733Z",
+  "updatedAt": "2026-07-14T05:35:26.260Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,96 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587886?source=rss-引退した菅義偉元首相 事務所開設",
+      "title": "引退した菅義偉元首相 事務所開設",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-14T04:59:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587886?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587867?source=rss-渡部・鬼越騒動 中傷の法的リスク",
+      "title": "渡部・鬼越騒動 中傷の法的リスク",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-14T04:53:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587867?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587882?source=rss-TBS 福澤監督の言動パワハラ該当",
+      "title": "TBS 福澤監督の言動パワハラ該当",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-14T04:24:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587882?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587881?source=rss-マリオ新幹線ラストラン中止 謝罪",
+      "title": "マリオ新幹線ラストラン中止 謝罪",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-14T04:02:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587881?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/14/news075.html-ATM出金上限を200万円→50万円に auじぶん銀 初期設定も30万円に引き下げ",
+      "title": "ATM出金上限を200万円→50万円に auじぶん銀 初期設定も30万円に引き下げ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-14T03:25:00.000Z",
+      "description": "auじぶん銀行は7月13日、ATM出金限度額の上限を現在の200万円から50万円に引き下げると発表した。適用は9月13日からで、口座開設時の初期設定額も50万円から30万円に引き下げる。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/14/news075.html"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587878?source=rss-ジャンプ付録巡り 転売ヤーの目的",
+      "title": "ジャンプ付録巡り 転売ヤーの目的",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-14T03:24:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587878?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587877?source=rss-セブンの冷蔵設備巡り3社談合疑い",
+      "title": "セブンの冷蔵設備巡り3社談合疑い",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-14T03:16:51.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587877?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587874?source=rss-危険な暑さ 猛暑日150地点迫るか",
+      "title": "危険な暑さ 猛暑日150地点迫るか",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-14T03:10:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587874?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587872?source=rss-村上 HR競争参加で2400万円獲得",
+      "title": "村上 HR競争参加で2400万円獲得",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-14T02:52:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587872?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/14/news074.html-GMO、在宅勤務を完全廃止 コロナ禍以降続けてきた週1日の「推奨」も終了",
+      "title": "GMO、在宅勤務を完全廃止 コロナ禍以降続けてきた週1日の「推奨」も終了",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-14T02:50:00.000Z",
+      "description": "GMOインターネットグループの熊谷正寿代表は7月14日、グループとして推奨してきた在宅勤務を13日付で完全廃止したとXで明らかにした。コロナ禍を機に始めた在宅勤務は約6年半で区切りを迎える。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/14/news074.html"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587866?source=rss-W杯 準決勝で「因縁の一戦」経緯",
       "title": "W杯 準決勝で「因縁の一戦」経緯",
@@ -216,15 +306,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6587844?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587842?source=rss-猛暑日100地点超えか 熱中症警戒",
-      "title": "猛暑日100地点超えか 熱中症警戒",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-13T22:23:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587842?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587841?source=rss-フィジカルAI 日米欧14機関が連携",
       "title": "フィジカルAI 日米欧14機関が連携",
       "source": "Yahoo!ニュース IT",
@@ -306,15 +387,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6587827?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587828?source=rss-イエモングッズ巡り謝罪 販売中止",
-      "title": "イエモングッズ巡り謝罪 販売中止",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-13T13:46:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587828?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587824?source=rss-LINE ゲーム利用者識別情報が流出",
       "title": "LINE ゲーム利用者識別情報が流出",
       "source": "Yahoo!ニュース IT",
@@ -322,24 +394,6 @@
       "publishedAt": "2026-07-13T12:51:48.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6587824?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587818?source=rss-ジェニーハイ復活 再びステージへ",
-      "title": "ジェニーハイ復活 再びステージへ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-13T11:53:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587818?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587817?source=rss-息子が「5番三塁」村田修一氏観戦",
-      "title": "息子が「5番三塁」村田修一氏観戦",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-13T11:25:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587817?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/13/news129.html-リチウムイオン電池の出火、都内で過去最多382件 26年は1.5倍ペースで急増 東京消防庁",
@@ -414,15 +468,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6587804?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587802?source=rss-「THE W」終了 役割を果たした",
-      "title": "「THE W」終了 役割を果たした",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-13T09:02:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587802?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/13/news119.html-今後17年間アホのまま？──数を数え続ける「世界のナベアツbot」が30万に到達 本家「いっけー！の気持ち」",
       "title": "今後17年間アホのまま？──数を数え続ける「世界のナベアツbot」が30万に到達 本家「いっけー！の気持ち」",
       "source": "ITmedia NEWS",
@@ -448,15 +493,6 @@
       "publishedAt": "2026-07-13T08:47:53.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6587799?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587793?source=rss-SNS規制法成立 選挙の偽情報対策",
-      "title": "SNS規制法成立 選挙の偽情報対策",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-13T08:26:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587793?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587787?source=rss-ジャンプ付録カード 買取停止続出",
@@ -504,24 +540,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/13/news090.html"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/13/news093.html-GMOグループ、AI時代に「エンジニア含む組織体制見直し」 熊谷代表が「AI変革最高責任者」に",
-      "title": "GMOグループ、AI時代に「エンジニア含む組織体制見直し」 熊谷代表が「AI変革最高責任者」に",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-13T05:02:00.000Z",
-      "description": "熊谷正寿代表が「グループCAIO」に。「エンジニアを含む組織体制を見直し、AIナイズされた組織へと変革する」",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/13/news093.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/13/news088.html-日本交通に不正アクセス、電話でタクシー配車不能に 「GO」経由は無事",
-      "title": "日本交通に不正アクセス、電話でタクシー配車不能に 「GO」経由は無事",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-13T04:01:00.000Z",
-      "description": "電話によるタクシー配車やハイヤーのWeb予約が停止しているが、アプリ「GO」経由の配車は影響なく利用できる。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/13/news088.html"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587754?source=rss-日本なぜAIで遅れ 巻き返しの鍵は",
       "title": "日本なぜAIで遅れ 巻き返しの鍵は",
       "source": "Yahoo!ニュース IT",
@@ -529,15 +547,6 @@
       "publishedAt": "2026-07-13T02:15:36.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6587754?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587748?source=rss-原油先物が急上昇 海峡の懸念再燃",
-      "title": "原油先物が急上昇 海峡の懸念再燃",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-13T00:56:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587748?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587740?source=rss-東証上場の昭和HD消失? 異常事態",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-07-12T07:49:25.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6587686?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587648?source=rss-デジタル教育先進国 日本への助言",
-      "title": "デジタル教育先進国 日本への助言",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-12T02:28:35.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587648?source=rss"
     }
   ]
 }
