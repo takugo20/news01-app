@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T16:19:12.302Z",
+  "updatedAt": "2026-07-14T19:25:55.580Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,15 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587913?source=rss-速報W杯 フランスvs.スペイン",
+      "title": "速報W杯 フランスvs.スペイン",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-14T18:52:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6587913?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587965?source=rss-阪神森下「勘違い」で三塁打許す",
       "title": "阪神森下「勘違い」で三塁打許す",
       "source": "Yahoo!ニュース スポーツ",
@@ -52,15 +61,6 @@
       "publishedAt": "2026-07-14T13:16:24.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6587960?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587958?source=rss-巨人・浦田「熱中症」で途中交代",
-      "title": "巨人・浦田「熱中症」で途中交代",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-14T13:15:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587958?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587957?source=rss-KFC全店 品切れや臨時休業の恐れ",
