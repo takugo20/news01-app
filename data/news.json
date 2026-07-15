@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T16:26:41.580Z",
+  "updatedAt": "2026-07-15T19:18:04.343Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588050?source=rss-速報イングランドvs.アルゼンチン",
+      "title": "速報イングランドvs.アルゼンチン",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-15T18:51:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588050?source=rss"
+    },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news131.html-セガのゲーム、NVIDIA「RTX Spark」で遊べるように 秋葉原で協業30周年を祝う",
       "title": "セガのゲーム、NVIDIA「RTX Spark」で遊べるように 秋葉原で協業30周年を祝う",
@@ -403,15 +412,6 @@
       "publishedAt": "2026-07-15T02:45:00.000Z",
       "description": "対象商品と一緒に保証サービスの購入を確定するだけで申し込みが完了。保証書はメールで届き、注文履歴からもいつでも確認できる。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/15/news077.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588005?source=rss-MLB球宴でまさか 死球で緊急交代",
-      "title": "MLB球宴でまさか 死球で緊急交代",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-15T02:18:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588005?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588002?source=rss-イオンでも一部欠品 ニチレイ障害",
