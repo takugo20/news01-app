@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T05:36:22.584Z",
+  "updatedAt": "2026-07-15T08:21:51.477Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,103 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588029?source=rss-嵐 5人それぞれ個性光る個人FC名",
-      "title": "嵐 5人それぞれ個性光る個人FC名",
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588046?source=rss-皇室典範改正案 成立急ぐ背景",
+      "title": "皇室典範改正案 成立急ぐ背景",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-15T08:11:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588046?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588047?source=rss-明るい安村 茂木外相の前でスーツ",
+      "title": "明るい安村 茂木外相の前でスーツ",
       "source": "Yahoo!ニュース エンタメ",
       "category": "エンタメ",
-      "publishedAt": "2026-07-15T05:18:58.000Z",
+      "publishedAt": "2026-07-15T08:01:02.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588029?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6588047?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588044?source=rss-DJツバサさん死去 各チーム追悼",
+      "title": "DJツバサさん死去 各チーム追悼",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-15T07:53:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588044?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588045?source=rss-通話アプリPOPOPO 半年で終了へ",
+      "title": "通話アプリPOPOPO 半年で終了へ",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-15T07:50:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588045?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588043?source=rss-GACKTが渋谷に 通行人どよめき",
+      "title": "GACKTが渋谷に 通行人どよめき",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-15T07:32:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588043?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588038?source=rss-新宿コパボウル 9月末に閉店へ",
+      "title": "新宿コパボウル 9月末に閉店へ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-15T07:11:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588038?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588037?source=rss-パンサー尾形 ソロ歌手デビュー",
+      "title": "パンサー尾形 ソロ歌手デビュー",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-15T07:09:51.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588037?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588036?source=rss-W杯決勝ハーフタイム30分か 報道",
+      "title": "W杯決勝ハーフタイム30分か 報道",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-15T06:45:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588036?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news104.html-「POPOPO」サービス終了へ 提供開始から半年で",
+      "title": "「POPOPO」サービス終了へ 提供開始から半年で",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-15T06:11:00.000Z",
+      "description": "川上量生氏が全額出資するPOPOPOが、コミュニケーションサービス「POPOPO」の提供を9月17日に終了すると発表した。「今後の事業環境やサービスの最適化を総合的に検討した結果」という。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/15/news104.html"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588032?source=rss-子育て世帯 子1人が初の5割超え",
+      "title": "子育て世帯 子1人が初の5割超え",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-15T06:02:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588032?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588033?source=rss-狙われる従業員 次の詐欺手口は?",
+      "title": "狙われる従業員 次の詐欺手口は?",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-15T05:46:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588033?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news088.html-アイオーデータ、SSDやBDドライブ計10製品を値上げへ 改定率は最大87％",
@@ -79,15 +169,6 @@
       "publishedAt": "2026-07-15T04:26:53.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588023?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588013?source=rss-従業員狙う詐欺の罠 次の手口は?",
-      "title": "従業員狙う詐欺の罠 次の手口は?",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-15T04:18:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588013?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588022?source=rss-「顔パス」の改札 都内で初運用",
@@ -151,15 +232,6 @@
       "publishedAt": "2026-07-15T03:16:19.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588014?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588011?source=rss-芸人ナダル 家で「魚200匹」飼育",
-      "title": "芸人ナダル 家で「魚200匹」飼育",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-15T02:57:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588011?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news076.html-イオンも一部欠品 ニチレイへの不正アクセスが影響",
@@ -250,15 +322,6 @@
       "publishedAt": "2026-07-15T01:10:45.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6587993?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587991?source=rss-スペイン 公式戦37試合無敗の偉業",
-      "title": "スペイン 公式戦37試合無敗の偉業",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-15T01:07:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587991?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587992?source=rss-仏監督が主審に苦言 日本戦も担当",
@@ -396,24 +459,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/14/news097.html"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6587968?source=rss-ダイアン津田 まさかの連ドラ主演",
-      "title": "ダイアン津田 まさかの連ドラ主演",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-14T21:25:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587968?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587967?source=rss-スペイン決勝進出 フランスに快勝",
-      "title": "スペイン決勝進出 フランスに快勝",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-14T21:06:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587967?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587957?source=rss-KFC全店 品切れや臨時休業の恐れ",
       "title": "KFC全店 品切れや臨時休業の恐れ",
       "source": "Yahoo!ニュース 経済",
@@ -421,15 +466,6 @@
       "publishedAt": "2026-07-14T13:12:08.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6587957?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587951?source=rss-国旗損壊罪 参考人2人は違憲主張",
-      "title": "国旗損壊罪 参考人2人は違憲主張",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-14T12:25:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587951?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587945?source=rss-クロマグロ会議 メキシコ突然反発",
@@ -441,15 +477,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6587945?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587943?source=rss-イケアジャパンに初の日本人社長",
-      "title": "イケアジャパンに初の日本人社長",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-14T11:21:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587943?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/14/news115.html-AIで「人間が頂点の時代終わる」――孫正義氏が考える2040年 人類が生きる道は“スーパーヒューマン化”",
       "title": "AIで「人間が頂点の時代終わる」――孫正義氏が考える2040年 人類が生きる道は“スーパーヒューマン化”",
       "source": "ITmedia NEWS",
@@ -457,15 +484,6 @@
       "publishedAt": "2026-07-14T11:00:00.000Z",
       "description": "「人間が頂点の生命体の時代は終わるんです」──孫正義氏が7月14日の「SoftBank World 2026」特別講演で語った。AIエージェントが100兆個に達する2040年、人類に残された道は「スーパーヒューマン」になることだという。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/14/news115.html"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6587932?source=rss-小泉氏 防衛省の体制「限界超え」",
-      "title": "小泉氏 防衛省の体制「限界超え」",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-14T09:56:56.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587932?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/14/news113.html-KFC、全店舗で品切れや臨時休業のおそれ ネット注文も停止 原因はニチレイへの不正アクセス",
@@ -522,15 +540,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/14/news101.html"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/14/news098.html-富士急ハイランド、“分身”が代わりに並んでくれる 新チケット「分身くん」 通常料金＋2000円で",
-      "title": "富士急ハイランド、“分身”が代わりに並んでくれる 新チケット「分身くん」 通常料金＋2000円で",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-14T07:45:00.000Z",
-      "description": "富士急ハイランドは、アトラクションの列に並ばずアプリ上で順番待ちができる仮想待機列（バーチャルキュー）機能付きワンデイパス「分身くん」を発売する。7月21日に販売を始め、22日から利用できる。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/14/news098.html"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587906?source=rss-GMO 在宅勤務を完全に廃止",
       "title": "GMO 在宅勤務を完全に廃止",
       "source": "Yahoo!ニュース IT",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-07-13T14:09:06.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6587832?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587824?source=rss-LINE ゲーム利用者識別情報が流出",
-      "title": "LINE ゲーム利用者識別情報が流出",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-13T12:51:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587824?source=rss"
     }
   ]
 }
