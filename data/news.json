@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T19:18:04.343Z",
+  "updatedAt": "2026-07-15T22:05:48.019Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,31 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588050?source=rss-速報イングランドvs.アルゼンチン",
-      "title": "速報イングランドvs.アルゼンチン",
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/16/news054.html-マスク氏「Xの全コードを例外なくオープンソース化」 本番環境との一致も第三者が検証へ",
+      "title": "マスク氏「Xの全コードを例外なくオープンソース化」 本番環境との一致も第三者が検証へ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-15T21:35:00.000Z",
+      "description": "「完全な透明性を通じた信頼こそが、信じるに値する唯一のものだ」",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/16/news054.html"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588095?source=rss-あいみょん 約束の大合唱果たし涙",
+      "title": "あいみょん 約束の大合唱果たし涙",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-15T21:27:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588095?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588094?source=rss-アルゼンチン決勝へ 後半AT逆転",
+      "title": "アルゼンチン決勝へ 後半AT逆転",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-07-15T18:51:24.000Z",
+      "publishedAt": "2026-07-15T21:07:28.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588050?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6588094?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news131.html-セガのゲーム、NVIDIA「RTX Spark」で遊べるように 秋葉原で協業30周年を祝う",
@@ -277,15 +295,6 @@
       "publishedAt": "2026-07-15T08:07:00.000Z",
       "description": "プレナスは7月15日、ニチレイへの不正アクセスに伴うシステム障害の影響で、「ほっともっと」と「やよい軒」の一部店舗で当面の間、食材の納品が遅れる見込みだとITmedia NEWSの取材に明らかにした。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/15/news111.html"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588047?source=rss-明るい安村 茂木外相の前でスーツ",
-      "title": "明るい安村 茂木外相の前でスーツ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-15T08:01:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588047?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news110.html-LINE VOOM、サービス終了へ 投稿の閲覧・復元も不可に 跡地には「ショッピングタブ」",
@@ -547,15 +556,6 @@
       "publishedAt": "2026-07-14T22:00:00.000Z",
       "description": "IT系企業で平均年収が高いのは、勢いのあるネットベンチャー系企業なのか、それとも伝統的なSIerなのでしょうか。毎年恒例の記事を今年も公開します。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/14/news103.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/14/news097.html-IT系上場企業の平均年収を業種別にみてみた：2026年版 ネットベンチャー、ゲーム、メディア編",
-      "title": "IT系上場企業の平均年収を業種別にみてみた：2026年版 ネットベンチャー、ゲーム、メディア編",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-14T22:00:00.000Z",
-      "description": "IT系企業で平均年収が高いのは、勢いのあるネットベンチャー系企業なのか、それとも伝統的なSIerなのでしょうか。毎年恒例の記事を今年も公開します。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/14/news097.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587906?source=rss-GMO 在宅勤務を完全に廃止",
