@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T10:54:39.696Z",
+  "updatedAt": "2026-07-15T13:52:03.546Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,69 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588085?source=rss-佐々木麟太郎 マーリンズ入り決断",
+      "title": "佐々木麟太郎 マーリンズ入り決断",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-15T13:30:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588085?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588083?source=rss-土俵入り中に警報誤作動か 騒然",
+      "title": "土俵入り中に警報誤作動か 騒然",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-15T13:05:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588083?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588081?source=rss-若林さん 選考評価も直木賞ならず",
+      "title": "若林さん 選考評価も直木賞ならず",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-15T12:33:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588081?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news121.html-フィッシング被害で休講5日間 札幌国際大 ウイルス感染リスク解消せず",
+      "title": "フィッシング被害で休講5日間 札幌国際大 ウイルス感染リスク解消せず",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-15T11:40:00.000Z",
+      "description": "札幌国際大学は7月14日、フィッシング被害に起因する不審メールの大量送信を受け、全科目を15日から17日まで休講すると発表した。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/15/news121.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news127.html-ケンタッキー、くら寿司、やよい軒も……ニチレイ不正アクセス、外食・小売に影響拡大 解消のめどは",
+      "title": "ケンタッキー、くら寿司、やよい軒も……ニチレイ不正アクセス、外食・小売に影響拡大 解消のめどは",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-15T11:25:00.000Z",
+      "description": "ニチレイグループが受けた不正アクセス被害の影響が食品業界全体に及んでいる。傘下のニチレイロジグループ本社による冷蔵倉庫の入出庫業務と、ニチレイフーズの冷凍食品出荷業務に支障が出ているといい、外食・小売各社が相次いで欠品や営業時間の短縮などを発表している。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/15/news127.html"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588076?source=rss-「LINE VOOM」サービス終了へ",
+      "title": "「LINE VOOM」サービス終了へ",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-15T11:23:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588076?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588074?source=rss-「副首都」法案 衆議院を通過",
+      "title": "「副首都」法案 衆議院を通過",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-15T10:56:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588074?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588069?source=rss-速水もこみち レストラン開業発表",
       "title": "速水もこみち レストラン開業発表",
       "source": "Yahoo!ニュース エンタメ",
@@ -54,6 +117,15 @@
       "url": "https://news.yahoo.co.jp/pickup/6588075?source=rss"
     },
     {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news122.html-「bokete」アプリ、サービス終了へ システム老朽化やサーバ費高騰で 18年で1億超のボケ",
+      "title": "「bokete」アプリ、サービス終了へ システム老朽化やサーバ費高騰で 18年で1億超のボケ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-15T10:36:00.000Z",
+      "description": "bokete運営事務局は7月15日、大喜利サービス「写真で一言 ボケて」のアプリを9月30日に終了すると発表した。Webサイト版も投稿機能を終え、殿堂入りボケの閲覧専用サイトに切り替える予定。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/15/news122.html"
+    },
+    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588071?source=rss-国民民主9月に代表選 代表続投か",
       "title": "国民民主9月に代表選 代表続投か",
       "source": "Yahoo!ニュース 国内",
@@ -70,6 +142,15 @@
       "publishedAt": "2026-07-15T10:21:17.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588072?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news120.html-ニチレイ、システム障害はサイバー攻撃によるものと公表 17日から出荷業務など順次再開へ",
+      "title": "ニチレイ、システム障害はサイバー攻撃によるものと公表 17日から出荷業務など順次再開へ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-15T10:20:00.000Z",
+      "description": "ニチレイで発生したシステム障害について、同社はサーバがサイバー攻撃を受けたことを確認したと発表した。影響が出ている冷蔵倉庫の入出庫や冷凍食品の出荷といった業務は、外部のセキュリティ専門会社と安全対策を講じた上で、17日から順次再開する予定だ。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/15/news120.html"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588070?source=rss-ニチレイ障害 サイバー攻撃が原因",
@@ -135,15 +216,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588061?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588058?source=rss-「副首都」法案 衆院特別委で可決",
-      "title": "「副首都」法案 衆院特別委で可決",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-15T08:56:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588058?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588053?source=rss-村上宗隆「うるせえ」直訳されず",
       "title": "村上宗隆「うるせえ」直訳されず",
       "source": "Yahoo!ニュース スポーツ",
@@ -151,15 +223,6 @@
       "publishedAt": "2026-07-15T08:36:08.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588053?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588046?source=rss-皇室典範改正案 成立急ぐ背景",
-      "title": "皇室典範改正案 成立急ぐ背景",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-15T08:11:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588046?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news111.html-ほっともっと・やよい軒も「食材納品に遅れ」 一部店舗で当面続く見込み ニチレイへの不正アクセスで",
@@ -369,15 +432,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/15/news070.html"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587992?source=rss-仏監督が主審に苦言 日本戦も担当",
-      "title": "仏監督が主審に苦言 日本戦も担当",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-15T01:00:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587992?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587989?source=rss-英 16・17歳のSNS深夜利用制限へ",
       "title": "英 16・17歳のSNS深夜利用制限へ",
       "source": "Yahoo!ニュース IT",
@@ -459,15 +513,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6587972?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6587971?source=rss-森保監督の後任 大岩剛氏に一本化",
-      "title": "森保監督の後任 大岩剛氏に一本化",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-14T22:16:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587971?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news039.html-「査読前論文は信用できない」はどこまで本当か？ 査読前後での内容の変化、7万件の分析結果は",
       "title": "「査読前論文は信用できない」はどこまで本当か？ 査読前後での内容の変化、7万件の分析結果は",
       "source": "ITmedia NEWS",
@@ -513,42 +558,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/14/news115.html"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/14/news113.html-KFC、全店舗で品切れや臨時休業のおそれ ネット注文も停止 原因はニチレイへの不正アクセス",
-      "title": "KFC、全店舗で品切れや臨時休業のおそれ ネット注文も停止 原因はニチレイへの不正アクセス",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-14T09:52:00.000Z",
-      "description": "日本ケンタッキー・フライド・チキンは7月14日、食材配送の委託先で不正アクセスによるシステム障害が発生し、KFC全店舗で商品の一部品切れや販売メニューの制限、営業時間の短縮、臨時休業が生じる可能性があると発表した。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/14/news113.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/14/news112.html-Google Play手数料引き下げ、日本導入を前倒し 12月→9月中に 公取委との協議踏まえ",
-      "title": "Google Play手数料引き下げ、日本導入を前倒し 12月→9月中に 公取委との協議踏まえ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-14T09:45:00.000Z",
-      "description": "米Googleは7月14日、Google Playの手数料引き下げと課金オプション拡大の日本での展開時期を、当初予定の2026年12月31日から9月30日までに前倒しすると発表した。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/14/news112.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/14/news111.html-赤沢経産相、決済代行業の実態調査実施へ 「全東信」破産受け 規制導入は慎重姿勢",
-      "title": "赤沢経産相、決済代行業の実態調査実施へ 「全東信」破産受け 規制導入は慎重姿勢",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-14T09:42:00.000Z",
-      "description": "赤沢亮正経済産業相は7月14日の閣議後記者会見で、クレジットカード決済代行会社「全東信」の破産開始決定に関連し、決済代行業の監督官庁が明確でないことを踏まえ、関係省庁と連携して再発防止策の検討に向けた実態調査を行う方針であることを明らかにした。規制導入については「資金繰りへの支障などが生じる恐れがある」として、現時点で...",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/14/news111.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/14/news105.html-ピカピカの一円玉流通へ、11年ぶり量産 キャッシュレス化で減少も、“アレ”でまさかの需要増",
-      "title": "ピカピカの一円玉流通へ、11年ぶり量産 キャッシュレス化で減少も、“アレ”でまさかの需要増",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-14T08:14:00.000Z",
-      "description": "造幣局（大阪市）がXやYouTubeで「平成27年度以来、11年ぶりに1円の量産を行っています」として、一円硬貨の製造工程の動画を配信した。2026年度、1億3200万枚が製造される。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/14/news105.html"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587906?source=rss-GMO 在宅勤務を完全に廃止",
       "title": "GMO 在宅勤務を完全に廃止",
       "source": "Yahoo!ニュース IT",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-07-14T04:53:03.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6587867?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587841?source=rss-フィジカルAI 日米欧14機関が連携",
-      "title": "フィジカルAI 日米欧14機関が連携",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-13T22:18:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587841?source=rss"
     }
   ]
 }
