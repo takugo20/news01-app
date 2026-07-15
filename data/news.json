@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T13:52:03.546Z",
+  "updatedAt": "2026-07-15T16:26:41.580Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,51 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news131.html-セガのゲーム、NVIDIA「RTX Spark」で遊べるように 秋葉原で協業30周年を祝う",
+      "title": "セガのゲーム、NVIDIA「RTX Spark」で遊べるように 秋葉原で協業30周年を祝う",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-15T14:50:00.000Z",
+      "description": "米NVIDIAとセガは7月15日、対戦格闘ゲーム「バーチャファイター」シリーズの新作を含む今後のセガタイトルを、NVIDIAの新型チップ「RTX Spark」を搭載するPCに対応させると発表した。両社の協業30周年を記念した都内のイベントで明らかにした。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/15/news131.html"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588093?source=rss-JT 10月に加熱式たばこ値上げへ",
+      "title": "JT 10月に加熱式たばこ値上げへ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-15T14:46:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588093?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588092?source=rss-ミヤネ屋を後継 黒木千晶アナとは",
+      "title": "ミヤネ屋を後継 黒木千晶アナとは",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-15T14:22:23.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588092?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588091?source=rss-「生活苦しい」半数超 厚労省調査",
+      "title": "「生活苦しい」半数超 厚労省調査",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-15T14:12:23.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588091?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588089?source=rss-バレー男子 イタリア撃破でNL8強",
+      "title": "バレー男子 イタリア撃破でNL8強",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-15T13:54:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588089?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588085?source=rss-佐々木麟太郎 マーリンズ入り決断",
       "title": "佐々木麟太郎 マーリンズ入り決断",
@@ -187,15 +232,6 @@
       "publishedAt": "2026-07-15T09:46:54.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588067?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588065?source=rss-バンド「シャイトープ」解散発表",
-      "title": "バンド「シャイトープ」解散発表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-15T09:32:36.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588065?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588062?source=rss-16日も危険な暑さ 熱中症に警戒",
@@ -351,15 +387,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588018?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588009?source=rss-村上宗隆 賞金2400万円は裏方に",
-      "title": "村上宗隆 賞金2400万円は裏方に",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-15T03:19:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588009?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news076.html-イオンも一部欠品 ニチレイへの不正アクセスが影響",
       "title": "イオンも一部欠品 ニチレイへの不正アクセスが影響",
       "source": "ITmedia NEWS",
@@ -486,15 +513,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/15/news060.html"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587975?source=rss-KFC なぜ品切れや臨時休業の恐れ",
-      "title": "KFC なぜ品切れや臨時休業の恐れ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-14T22:49:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587975?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587973?source=rss-GMO在宅勤務を完全廃止 狙いは",
       "title": "GMO在宅勤務を完全廃止 狙いは",
       "source": "Yahoo!ニュース IT",
@@ -538,24 +556,6 @@
       "publishedAt": "2026-07-14T22:00:00.000Z",
       "description": "IT系企業で平均年収が高いのは、勢いのあるネットベンチャー系企業なのか、それとも伝統的なSIerなのでしょうか。毎年恒例の記事を今年も公開します。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/14/news097.html"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587957?source=rss-KFC全店 品切れや臨時休業の恐れ",
-      "title": "KFC全店 品切れや臨時休業の恐れ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-14T13:12:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587957?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/14/news115.html-AIで「人間が頂点の時代終わる」――孫正義氏が考える2040年 人類が生きる道は“スーパーヒューマン化”",
-      "title": "AIで「人間が頂点の時代終わる」――孫正義氏が考える2040年 人類が生きる道は“スーパーヒューマン化”",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-14T11:00:00.000Z",
-      "description": "「人間が頂点の生命体の時代は終わるんです」──孫正義氏が7月14日の「SoftBank World 2026」特別講演で語った。AIエージェントが100兆個に達する2040年、人類に残された道は「スーパーヒューマン」になることだという。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/14/news115.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587906?source=rss-GMO 在宅勤務を完全に廃止",
