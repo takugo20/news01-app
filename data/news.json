@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T02:55:06.540Z",
+  "updatedAt": "2026-07-16T05:44:10.811Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,96 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588149?source=rss-給食当番エプロン アイロン必要?",
+      "title": "給食当番エプロン アイロン必要?",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-16T05:41:31.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588149?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588147?source=rss-ニチレイの障害 給食にも影響拡大",
+      "title": "ニチレイの障害 給食にも影響拡大",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-16T05:14:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588147?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588143?source=rss-本人が経営 芸能人飲食店の変化",
+      "title": "本人が経営 芸能人飲食店の変化",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-16T04:50:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588143?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588137?source=rss-命を守る服へ 夏用制服の緩和加速",
+      "title": "命を守る服へ 夏用制服の緩和加速",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-16T04:25:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588137?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588140?source=rss-異例 平日朝の高校野球に1万人",
+      "title": "異例 平日朝の高校野球に1万人",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-16T04:13:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588140?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/16/news073.html-フアンCEO「次の産業革命はメイド・イン・ジャパン」 富士通など4社、NVIDIA技術でフィジカルAIの事業検討",
+      "title": "フアンCEO「次の産業革命はメイド・イン・ジャパン」 富士通など4社、NVIDIA技術でフィジカルAIの事業検討",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-16T03:56:00.000Z",
+      "description": "富士通は7月16日、ファナック、安川電機、川崎重工業と共に、米NVIDIAの技術を取り入れた「フィジカルAI」の社会実装に向けた事業検討を始めたと発表した。各社のロボットを連携させる制御基盤を共通化し、工場や物流、医療などの現場で自動化を進める。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/16/news073.html"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588139?source=rss-采配が裏目 イングランド監督弁明",
+      "title": "采配が裏目 イングランド監督弁明",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-16T03:47:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588139?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588134?source=rss-公用車のNHK受信料 免除要請へ",
+      "title": "公用車のNHK受信料 免除要請へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-16T03:19:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588134?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588132?source=rss-暑さを避けてレジャー プラン続々",
+      "title": "暑さを避けてレジャー プラン続々",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-16T03:04:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588132?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588131?source=rss-各地猛烈な暑さ 午前に37℃観測も",
+      "title": "各地猛烈な暑さ 午前に37℃観測も",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-16T03:02:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588131?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588130?source=rss-W杯得点王争い大詰め 最多は8G",
       "title": "W杯得点王争い大詰め 最多は8G",
       "source": "Yahoo!ニュース スポーツ",
@@ -52,6 +142,15 @@
       "publishedAt": "2026-07-16T02:42:28.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588129?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/16/news071.html-朝のクレカ障害、復旧か 日本カードネットワーク「原因はうちじゃない」",
+      "title": "朝のクレカ障害、復旧か 日本カードネットワーク「原因はうちじゃない」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-16T02:42:00.000Z",
+      "description": "「障害の原因はCARDNETでは」との憶測も流れたが、日本カードネットワークの担当者によると「原因は当社ではない」という。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/16/news071.html"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588128?source=rss-ジャンプ買い占め騒動 なぜ起きた",
@@ -99,8 +198,8 @@
       "url": "https://news.yahoo.co.jp/pickup/6588123?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/16/news064.html-クレカ障害、全国で発生か 「カード払いできない」報告多数",
-      "title": "クレカ障害、全国で発生か 「カード払いできない」報告多数",
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/16/news064.html-クレカ障害、全国で発生か 「カード払いできない」報告多数【復旧】",
+      "title": "クレカ障害、全国で発生か 「カード払いできない」報告多数【復旧】",
       "source": "ITmedia NEWS",
       "category": "IT",
       "publishedAt": "2026-07-16T01:29:00.000Z",
@@ -153,15 +252,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588114?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588109?source=rss-東海大相模vs横浜 17h超並ぶ人も",
-      "title": "東海大相模vs横浜 17h超並ぶ人も",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-15T23:28:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588109?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588107?source=rss-消費減税8月頭までに結論を 首相",
       "title": "消費減税8月頭までに結論を 首相",
       "source": "Yahoo!ニュース 国内",
@@ -207,15 +297,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/16/news055.html"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588099?source=rss-皇室典範改正 あす成立の公算大",
-      "title": "皇室典範改正 あす成立の公算大",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-15T22:20:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588099?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news124.html-防衛装備庁、テラドローンなど4社の迎撃ドローン検証へ 国産機の早期調達プログラムで採択",
       "title": "防衛装備庁、テラドローンなど4社の迎撃ドローン検証へ 国産機の早期調達プログラムで採択",
       "source": "ITmedia NEWS",
@@ -241,15 +322,6 @@
       "publishedAt": "2026-07-15T21:27:02.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588095?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588094?source=rss-アルゼンチン決勝へ 後半AT逆転",
-      "title": "アルゼンチン決勝へ 後半AT逆転",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-15T21:07:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588094?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news131.html-セガのゲーム、NVIDIA「RTX Spark」で遊べるように 秋葉原で協業30周年を祝う",
@@ -324,15 +396,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588076?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588074?source=rss-「副首都」法案 衆議院を通過",
-      "title": "「副首都」法案 衆議院を通過",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-15T10:56:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588074?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588069?source=rss-速水もこみち レストラン開業発表",
       "title": "速水もこみち レストラン開業発表",
       "source": "Yahoo!ニュース エンタメ",
@@ -340,15 +403,6 @@
       "publishedAt": "2026-07-15T10:47:51.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588069?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588075?source=rss-芥川賞と直木賞 受賞作が決定",
-      "title": "芥川賞と直木賞 受賞作が決定",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-15T10:45:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588075?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news122.html-「bokete」アプリ、サービス終了へ システム老朽化やサーバ費高騰で 18年で1億超のボケ",
@@ -376,15 +430,6 @@
       "publishedAt": "2026-07-15T10:20:00.000Z",
       "description": "ニチレイで発生したシステム障害について、同社はサーバがサイバー攻撃を受けたことを確認したと発表した。影響が出ている冷蔵倉庫の入出庫や冷凍食品の出荷といった業務は、外部のセキュリティ専門会社と安全対策を講じた上で、17日から順次再開する予定だ。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/15/news120.html"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588070?source=rss-ニチレイ障害 サイバー攻撃が原因",
-      "title": "ニチレイ障害 サイバー攻撃が原因",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-15T10:15:56.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588070?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588067?source=rss-友達でも敵?「フレネミー」流行",
@@ -450,15 +495,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/15/news104.html"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588032?source=rss-子育て世帯 子1人が初の5割超え",
-      "title": "子育て世帯 子1人が初の5割超え",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-15T06:02:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588032?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news088.html-アイオーデータ、SSDやBDドライブ計10製品を値上げへ 改定率は最大87％",
       "title": "アイオーデータ、SSDやBDドライブ計10製品を値上げへ 改定率は最大87％",
       "source": "ITmedia NEWS",
@@ -513,33 +549,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/15/news077.html"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news071.html-民泊仲介Airbnb、国内利用者比率5割へ 非観光地への分散や地方創生策活用",
-      "title": "民泊仲介Airbnb、国内利用者比率5割へ 非観光地への分散や地方創生策活用",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-15T01:37:00.000Z",
-      "description": "民泊仲介大手のAirbnb（エアビーアンドビー）が国内利用者を拡大する事業戦略を打ち出し、若年層を中心に認知度向上に注力している。国内旅行者には非観光地への分散や政府の地方創生施策の活用など、訪日客と異なる手法で需要の開拓につなげる考え。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/15/news071.html"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587997?source=rss-新幹線新駅の候補 桂川どんな場所",
-      "title": "新幹線新駅の候補 桂川どんな場所",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-15T01:35:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587997?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news070.html-Google画像検索、25周年で“Pinterest風”新ホーム画面 「AI Overviews」での画像生成も",
-      "title": "Google画像検索、25周年で“Pinterest風”新ホーム画面 「AI Overviews」での画像生成も",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-15T01:34:00.000Z",
-      "description": "「Google画像検索」が提供開始から25周年を迎え、2つの新機能が追加された。トップページをパーソナライズされた画像ギャラリーにする新しいホーム画面と、AIによる検索要約機能「AI Overviews」内への画像生成AI「Nano Banana」の統合だ。まずは米国向けに英語で数週間かけて順次展開する。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/15/news070.html"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587989?source=rss-英 16・17歳のSNS深夜利用制限へ",
       "title": "英 16・17歳のSNS深夜利用制限へ",
       "source": "Yahoo!ニュース IT",
@@ -547,15 +556,6 @@
       "publishedAt": "2026-07-15T00:49:37.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6587989?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6587990?source=rss-FRB議長「インフレ容認しない」",
-      "title": "FRB議長「インフレ容認しない」",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-15T00:40:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6587990?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587973?source=rss-GMO在宅勤務を完全廃止 狙いは",
