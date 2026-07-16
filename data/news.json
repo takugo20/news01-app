@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T11:03:20.753Z",
+  "updatedAt": "2026-07-16T14:03:12.170Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,69 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588197?source=rss-楽天 浅村が復活の逆転満塁HR",
+      "title": "楽天 浅村が復活の逆転満塁HR",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-16T14:01:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588197?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588196?source=rss-バレー男子 0-2から逆転で10連勝",
+      "title": "バレー男子 0-2から逆転で10連勝",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-16T13:47:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588196?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588195?source=rss-書籍に差別的表現 双葉社が回収",
+      "title": "書籍に差別的表現 双葉社が回収",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-16T13:32:12.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588195?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588189?source=rss-アエラホーム 民事再生法を申請",
+      "title": "アエラホーム 民事再生法を申請",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-16T13:08:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588189?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588185?source=rss-ダイハツ 軽トラ約29万台リコール",
+      "title": "ダイハツ 軽トラ約29万台リコール",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-16T12:16:01.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588185?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588182?source=rss-映画「開戦前夜」上映会を中止",
+      "title": "映画「開戦前夜」上映会を中止",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-16T11:42:56.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588182?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588179?source=rss-授賞式でタイソン氏 翔平って誰?",
+      "title": "授賞式でタイソン氏 翔平って誰?",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-16T11:18:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588179?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588176?source=rss-皇室典範改正案 17日成立の見通し",
       "title": "皇室典範改正案 17日成立の見通し",
@@ -108,8 +171,8 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/16/news099.html"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/16/news096.html-AWSで障害 「CloudFront」世界規模で不調 PayPayに影響、noteやニコニコ生放送もつながりにくく",
-      "title": "AWSで障害 「CloudFront」世界規模で不調 PayPayに影響、noteやニコニコ生放送もつながりにくく",
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/16/news096.html-AWSで障害 「CloudFront」世界規模で不調 PayPayに影響、noteやニコニコ生放送もつながりにくく【復旧】",
+      "title": "AWSで障害 「CloudFront」世界規模で不調 PayPayに影響、noteやニコニコ生放送もつながりにくく【復旧】",
       "source": "ITmedia NEWS",
       "category": "IT",
       "publishedAt": "2026-07-16T08:55:00.000Z",
@@ -142,15 +205,6 @@
       "publishedAt": "2026-07-16T08:28:00.000Z",
       "description": "慶応義塾大学大学院メディアデザイン研究科などの研究チームが、ヘリウムの浮力で空中を漂う柔らかいロボット「ソフト浮遊ロボット」の設計空間を提案する論文を、米国計算機学会（ACM）主催の国際会議「DIS 2026」で発表した。補足資料の実機映像がXで拡散し、注目を浴びている。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/16/news095.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588163?source=rss-巨人オーナー 来季監督人事は白紙",
-      "title": "巨人オーナー 来季監督人事は白紙",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-16T07:58:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588163?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588161?source=rss-全東信はなぜ突然破綻したか 解説",
@@ -297,15 +351,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588134?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588132?source=rss-暑さを避けてレジャー プラン続々",
-      "title": "暑さを避けてレジャー プラン続々",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-16T03:04:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588132?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/16/news071.html-朝のクレカ障害、復旧か 「国際ブランドネットワーク」でトラブル【更新】",
       "title": "朝のクレカ障害、復旧か 「国際ブランドネットワーク」でトラブル【更新】",
       "source": "ITmedia NEWS",
@@ -322,15 +367,6 @@
       "publishedAt": "2026-07-16T02:34:46.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588128?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588125?source=rss-JR西日本 5年以内に運賃値上げへ",
-      "title": "JR西日本 5年以内に運賃値上げへ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-16T02:27:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588125?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588126?source=rss-ガス人間 竹野内豊のメイク話題",
@@ -396,15 +432,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/16/news042.html"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588103?source=rss-マツダスタジアム異変 空席目立つ",
-      "title": "マツダスタジアム異変 空席目立つ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-15T22:42:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588103?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/16/news055.html-OpenAI、初のハードウェア「Codex Micro」を230ドルで発売 Apple提訴の渦中にある端末とは別物",
       "title": "OpenAI、初のハードウェア「Codex Micro」を230ドルで発売 Apple提訴の渦中にある端末とは別物",
       "source": "ITmedia NEWS",
@@ -450,15 +477,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/15/news131.html"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588093?source=rss-JT 10月に加熱式たばこ値上げへ",
-      "title": "JT 10月に加熱式たばこ値上げへ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-15T14:46:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588093?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588091?source=rss-「生活苦しい」半数超 厚労省調査",
       "title": "「生活苦しい」半数超 厚労省調査",
       "source": "Yahoo!ニュース 経済",
@@ -466,15 +484,6 @@
       "publishedAt": "2026-07-15T14:12:23.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588091?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588085?source=rss-佐々木麟太郎 マーリンズ入り決断",
-      "title": "佐々木麟太郎 マーリンズ入り決断",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-15T13:30:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588085?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news121.html-フィッシング被害で休講5日間 札幌国際大 ウイルス感染リスク解消せず",
@@ -520,15 +529,6 @@
       "publishedAt": "2026-07-15T10:36:00.000Z",
       "description": "bokete運営事務局は7月15日、大喜利サービス「写真で一言 ボケて」のアプリを9月30日に終了すると発表した。Webサイト版も投稿機能を終え、殿堂入りボケの閲覧専用サイトに切り替える予定。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/15/news122.html"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588072?source=rss-有吉の壁 レギュラー放送終了発表",
-      "title": "有吉の壁 レギュラー放送終了発表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-15T10:21:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588072?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588067?source=rss-友達でも敵?「フレネミー」流行",
