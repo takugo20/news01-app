@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T14:03:12.170Z",
+  "updatedAt": "2026-07-16T16:19:54.128Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,33 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588203?source=rss-大阪メトロ会長引責辞任 相談役に",
+      "title": "大阪メトロ会長引責辞任 相談役に",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-16T15:00:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588203?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588202?source=rss-人権NGOでパワハラ 告発した心境",
+      "title": "人権NGOでパワハラ 告発した心境",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-16T14:48:29.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588202?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588199?source=rss-OpenAI 初のハードウェアを販売",
+      "title": "OpenAI 初のハードウェアを販売",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-16T14:20:31.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588199?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588197?source=rss-楽天 浅村が復活の逆転満塁HR",
       "title": "楽天 浅村が復活の逆転満塁HR",
       "source": "Yahoo!ニュース スポーツ",
@@ -43,6 +70,15 @@
       "publishedAt": "2026-07-16T14:01:32.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588197?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/16/news107.html-フアンCEO「ジャパンAI構築はマストだ」 経産省、国産フィジカルAIで新プロジェクト 赤沢大臣も“革ジャン”羽織る",
+      "title": "フアンCEO「ジャパンAI構築はマストだ」 経産省、国産フィジカルAIで新プロジェクト 赤沢大臣も“革ジャン”羽織る",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-16T14:00:00.000Z",
+      "description": "経済産業省が、国産フィジカルAI向け基盤モデルを構築する「FRONTia Project」をスタートさせた。国内44社が共同出資するAI開発企業Noetraと産総研を中心とし、2030年での「実世界ネイティブAI」実現を目指す。16日に開催されたキックオフイベントでは、NVIDIAのジェンスン・フアンCEOのほか、革ジ...",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/16/news107.html"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588196?source=rss-バレー男子 0-2から逆転で10連勝",
@@ -108,15 +144,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588176?source=rss"
     },
     {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588177?source=rss-AWSで障害 PayPayなどに影響",
-      "title": "AWSで障害 PayPayなどに影響",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-16T10:34:56.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588177?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/16/news101.html-大手共同出資の“国産AI開発企業”が本格始動 NVIDIAも協力、「Rubin」2万7500基搭載の計算基盤を構築へ",
       "title": "大手共同出資の“国産AI開発企業”が本格始動 NVIDIAも協力、「Rubin」2万7500基搭載の計算基盤を構築へ",
       "source": "ITmedia NEWS",
@@ -124,15 +151,6 @@
       "publishedAt": "2026-07-16T10:07:00.000Z",
       "description": "国内大手が共同出資するAI開発企業Noetraが、国産のAIモデルの開発に向けて本格始動する。米NVIDIAの協力のもと、新たな計算基盤も構築する。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/16/news101.html"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588173?source=rss-大阪メトロ会長 引責辞任し相談役",
-      "title": "大阪メトロ会長 引責辞任し相談役",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-16T10:00:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588173?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/16/news100.html-モバイルSuicaアプリのAndroid版で障害 ログインしにくく",
@@ -477,15 +495,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/15/news131.html"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588091?source=rss-「生活苦しい」半数超 厚労省調査",
-      "title": "「生活苦しい」半数超 厚労省調査",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-15T14:12:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588091?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news121.html-フィッシング被害で休講5日間 札幌国際大 ウイルス感染リスク解消せず",
       "title": "フィッシング被害で休講5日間 札幌国際大 ウイルス感染リスク解消せず",
       "source": "ITmedia NEWS",
@@ -520,15 +529,6 @@
       "publishedAt": "2026-07-15T10:47:51.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588069?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news122.html-「bokete」アプリ、サービス終了へ システム老朽化やサーバ費高騰で 18年で1億超のボケ",
-      "title": "「bokete」アプリ、サービス終了へ システム老朽化やサーバ費高騰で 18年で1億超のボケ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-15T10:36:00.000Z",
-      "description": "bokete運営事務局は7月15日、大喜利サービス「写真で一言 ボケて」のアプリを9月30日に終了すると発表した。Webサイト版も投稿機能を終え、殿堂入りボケの閲覧専用サイトに切り替える予定。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/15/news122.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588067?source=rss-友達でも敵?「フレネミー」流行",
