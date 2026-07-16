@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T05:44:10.811Z",
+  "updatedAt": "2026-07-16T08:20:37.395Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,112 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588149?source=rss-給食当番エプロン アイロン必要?",
-      "title": "給食当番エプロン アイロン必要?",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588163?source=rss-巨人オーナー 来季監督人事は白紙",
+      "title": "巨人オーナー 来季監督人事は白紙",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-16T07:58:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588163?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588161?source=rss-全東信はなぜ突然破綻したか 解説",
+      "title": "全東信はなぜ突然破綻したか 解説",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-16T07:52:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588161?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588159?source=rss-やす子「炎上は小さな村の祭り」",
+      "title": "やす子「炎上は小さな村の祭り」",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-16T07:42:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588159?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/16/news091.html-シャープが飲料を開発した事情 “飲める氷”を作る「アイスラリー冷蔵庫」の弱点と2つの解決策",
+      "title": "シャープが飲料を開発した事情 “飲める氷”を作る「アイスラリー冷蔵庫」の弱点と2つの解決策",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-16T07:39:00.000Z",
+      "description": "シャープは現在、ある薬品会社と共同で飲料を開発している。それは法人向けにレンタルサービスを展開している「アイスラリー冷蔵庫」の弱点を補完するためだった。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/16/news091.html"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588157?source=rss-首相 食料品の消費減税にこだわり",
+      "title": "首相 食料品の消費減税にこだわり",
       "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-07-16T05:41:31.000Z",
+      "publishedAt": "2026-07-16T07:38:29.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588149?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6588157?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588160?source=rss-内閣支持49%で発足後最低 時事",
+      "title": "内閣支持49%で発足後最低 時事",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-16T07:34:47.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588160?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588154?source=rss-しゅはまはるみ 約10日で結婚決意",
+      "title": "しゅはまはるみ 約10日で結婚決意",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-16T07:05:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588154?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588153?source=rss-国旗損壊罪法案 参院内閣委で可決",
+      "title": "国旗損壊罪法案 参院内閣委で可決",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-16T06:53:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588153?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/16/news084.html-朝の大規模クレカ障害、Visa傘下の決済基盤「CyberSource」で「タイムアウト発生」",
+      "title": "朝の大規模クレカ障害、Visa傘下の決済基盤「CyberSource」で「タイムアウト発生」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-16T06:32:00.000Z",
+      "description": "米Visa傘下の決済プラットフォーム「CyberSource」で、「取引処理のタイムアウト事象が発生していた」という。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/16/news084.html"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588151?source=rss-給食着アイロンがけ必要? 母本音",
+      "title": "給食着アイロンがけ必要? 母本音",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-16T06:10:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588151?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/16/news082.html-NVIDIAとトヨタ、提携拡大 車両ソフトウェア開発や「ウーブン・シティ」での開発支援など",
+      "title": "NVIDIAとトヨタ、提携拡大 車両ソフトウェア開発や「ウーブン・シティ」での開発支援など",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-16T06:10:00.000Z",
+      "description": "米NVIDIAがトヨタ自動車との提携を拡大する。車載ソフトの開発、工場のシミュレーション、都市交通向けAIの開発のほか、実証都市「ウーブン・シティ」の一部開発をNVIDIAが支援するとの報道も出ている。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/16/news082.html"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588150?source=rss-クレカ全国で一時使用できず 障害",
+      "title": "クレカ全国で一時使用できず 障害",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-16T05:45:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588150?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588147?source=rss-ニチレイの障害 給食にも影響拡大",
@@ -117,15 +216,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588132?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588131?source=rss-各地猛烈な暑さ 午前に37℃観測も",
-      "title": "各地猛烈な暑さ 午前に37℃観測も",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-16T03:02:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588131?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588130?source=rss-W杯得点王争い大詰め 最多は8G",
       "title": "W杯得点王争い大詰め 最多は8G",
       "source": "Yahoo!ニュース スポーツ",
@@ -135,17 +225,8 @@
       "url": "https://news.yahoo.co.jp/pickup/6588130?source=rss"
     },
     {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588129?source=rss-一部クレカで決済できず 障害か",
-      "title": "一部クレカで決済できず 障害か",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-16T02:42:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588129?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/16/news071.html-朝のクレカ障害、復旧か 日本カードネットワーク「原因はうちじゃない」",
-      "title": "朝のクレカ障害、復旧か 日本カードネットワーク「原因はうちじゃない」",
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/16/news071.html-朝のクレカ障害、復旧か 「国際ブランドネットワーク」でトラブル【更新】",
+      "title": "朝のクレカ障害、復旧か 「国際ブランドネットワーク」でトラブル【更新】",
       "source": "ITmedia NEWS",
       "category": "IT",
       "publishedAt": "2026-07-16T02:42:00.000Z",
@@ -207,15 +288,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/16/news064.html"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588122?source=rss-国会の会期延長あす議決で調整",
-      "title": "国会の会期延長あす議決で調整",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-16T01:25:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588122?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588121?source=rss-日経平均 一時2000円超の値下がり",
       "title": "日経平均 一時2000円超の値下がり",
       "source": "Yahoo!ニュース 経済",
@@ -252,15 +324,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588114?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588107?source=rss-消費減税8月頭までに結論を 首相",
-      "title": "消費減税8月頭までに結論を 首相",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-15T23:18:36.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588107?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/16/news042.html-服に響かない「下着扱いできる水冷服」をシャープが開発中 “涼しい顔”でおめかしできる？",
       "title": "服に響かない「下着扱いできる水冷服」をシャープが開発中 “涼しい顔”でおめかしできる？",
       "source": "ITmedia NEWS",
@@ -277,15 +340,6 @@
       "publishedAt": "2026-07-15T22:42:12.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588103?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588102?source=rss-7分間の逆転劇演出 メッシ圧巻2A",
-      "title": "7分間の逆転劇演出 メッシ圧巻2A",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-15T22:34:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588102?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/16/news055.html-OpenAI、初のハードウェア「Codex Micro」を230ドルで発売 Apple提訴の渦中にある端末とは別物",
@@ -441,15 +495,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588067?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588061?source=rss-中西アルノ 公演当日に休演発表",
-      "title": "中西アルノ 公演当日に休演発表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-15T09:13:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588061?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news111.html-ほっともっと・やよい軒も「食材納品に遅れ」 一部店舗で当面続く見込み ニチレイへの不正アクセスで",
       "title": "ほっともっと・やよい軒も「食材納品に遅れ」 一部店舗で当面続く見込み ニチレイへの不正アクセスで",
       "source": "ITmedia NEWS",
@@ -477,15 +522,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588045?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588038?source=rss-新宿コパボウル 9月末に閉店へ",
-      "title": "新宿コパボウル 9月末に閉店へ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-15T07:11:41.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588038?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news104.html-「POPOPO」サービス終了へ 提供開始から半年で",
       "title": "「POPOPO」サービス終了へ 提供開始から半年で",
       "source": "ITmedia NEWS",
@@ -511,42 +547,6 @@
       "publishedAt": "2026-07-15T04:10:15.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588022?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news080.html-くら寿司、一部食材で未着などの配送トラブル ニチレイへの不正アクセスで",
-      "title": "くら寿司、一部食材で未着などの配送トラブル ニチレイへの不正アクセスで",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-15T03:25:00.000Z",
-      "description": "くら寿司は7月15日、取引先への不正アクセスの影響でシステム障害が発生し、寿司ネタや冷凍食品、一部食材の配送に遅れや未着が生じていると発表した。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/15/news080.html"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588018?source=rss-大野智 サロン「さと島」オープン",
-      "title": "大野智 サロン「さと島」オープン",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-15T03:20:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588018?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news076.html-イオンも一部欠品 ニチレイへの不正アクセスが影響",
-      "title": "イオンも一部欠品 ニチレイへの不正アクセスが影響",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-15T02:50:00.000Z",
-      "description": "イオンは7月15日、ニチレイへの不正アクセスに伴うシステム障害の影響で、一部店舗で商品の欠品が生じているとITmedia NEWSの取材で明らかにした。欠品している商品や店舗などの詳細は調査中という。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/15/news076.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/15/news077.html-「Amazon製品保証」開始 購入額の5％～、最長5年 「ほとんどの家電をカバー」",
-      "title": "「Amazon製品保証」開始 購入額の5％～、最長5年 「ほとんどの家電をカバー」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-15T02:45:00.000Z",
-      "description": "対象商品と一緒に保証サービスの購入を確定するだけで申し込みが完了。保証書はメールで届き、注文履歴からもいつでも確認できる。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/15/news077.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6587989?source=rss-英 16・17歳のSNS深夜利用制限へ",
