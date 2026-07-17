@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T16:18:37.012Z",
+  "updatedAt": "2026-07-17T19:16:44.189Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/18/news014.html-アップル、iPhoneを一斉値上げ Watch・AirPodsも",
+      "title": "アップル、iPhoneを一斉値上げ Watch・AirPodsも",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-17T16:50:00.000Z",
+      "description": "米Appleは7月18日、国内のApple Storeにおいて、iPhone／Apple Watch／AirPodsを値上げした。同社は6月にもMac製品の値上げを行っていたが、iPhoneなどは対象外となっていた。ただ、海外のApple Storeでは価格改定されておらず、今回の値上げは為替修正によるものと見られる。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/18/news014.html"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588344?source=rss-万博EVバス問題 大阪メトロ謝罪",
       "title": "万博EVバス問題 大阪メトロ謝罪",
@@ -529,15 +538,6 @@
       "publishedAt": "2026-07-16T23:21:00.000Z",
       "description": "Googleは、AI搭載リサーチツール「NotebookLM」の名称を「Gemini Notebook」に変更すると発表した。機能は単体製品として維持しつつ、エコシステム全体で広く機能するようになる。安全なクラウドコンピュータの割り当てによるデータ分析機能などの大型アップデートも展開中で、この機能は今後全Proユーザー...",
       "url": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/17/news061.html-Google検索の「AIモード」、検索結果からそのままアプリで作業可能に CanvaやYouTube Musicなど",
-      "title": "Google検索の「AIモード」、検索結果からそのままアプリで作業可能に CanvaやYouTube Musicなど",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-16T21:51:00.000Z",
-      "description": "Googleは、検索の「AIモード」で外部アプリと直接連携できる機能の提供を開始した。まずは米国で順次展開し、Canva、YouTube Music、Instacartに対応する。検索結果から離れずにデザイン作成やカート追加などのタスクを完了できる。「Personal Intelligence」と組み合わせ、パーソナラ...",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/17/news061.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588199?source=rss-OpenAI 初のハードウェアを販売",
