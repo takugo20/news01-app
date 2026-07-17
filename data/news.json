@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T13:47:42.576Z",
+  "updatedAt": "2026-07-17T16:18:37.012Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,42 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588344?source=rss-万博EVバス問題 大阪メトロ謝罪",
+      "title": "万博EVバス問題 大阪メトロ謝罪",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-17T14:43:17.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588344?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588343?source=rss-3連休 関東以西は急な雷雨に注意",
+      "title": "3連休 関東以西は急な雷雨に注意",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-17T14:23:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588343?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588342?source=rss-花火大会チケット 不正転売相次ぐ",
+      "title": "花火大会チケット 不正転売相次ぐ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-17T14:04:47.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588342?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588338?source=rss-オルツ粉飾 元CFOが関与認める",
+      "title": "オルツ粉飾 元CFOが関与認める",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-17T13:54:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588338?source=rss"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588337?source=rss-フット後藤の息子 ライブVTR出演",
       "title": "フット後藤の息子 ライブVTR出演",
@@ -135,15 +171,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588319?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588320?source=rss-暑さで線路ゆがむ「異常な揺れ」",
-      "title": "暑さで線路ゆがむ「異常な揺れ」",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-17T11:02:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588320?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588318?source=rss-児童のSNS通じた被害増 どう防ぐ",
       "title": "児童のSNS通じた被害増 どう防ぐ",
       "source": "Yahoo!ニュース IT",
@@ -169,15 +196,6 @@
       "publishedAt": "2026-07-17T10:30:27.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588313?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588312?source=rss-ジャズピアニスト渋谷毅さん死去",
-      "title": "ジャズピアニスト渋谷毅さん死去",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-17T10:29:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588312?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/17/news112.html-「1.5兆ドルの請求が来た」？ AWSでまたトラブル、誤ったコスト見積が表示される状態に",
@@ -250,15 +268,6 @@
       "publishedAt": "2026-07-17T09:00:57.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588302?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588301?source=rss-トラック出火 郵便物4600通が焼損",
-      "title": "トラック出火 郵便物4600通が焼損",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-17T08:58:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588301?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588298?source=rss-若ノ勝立ち上がれず 車椅子で退場",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-07-15T09:46:54.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588067?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588045?source=rss-通話アプリPOPOPO 半年で終了へ",
-      "title": "通話アプリPOPOPO 半年で終了へ",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-15T07:50:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588045?source=rss"
     }
   ]
 }
