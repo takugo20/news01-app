@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T02:50:07.105Z",
+  "updatedAt": "2026-07-18T05:31:22.459Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,87 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588387?source=rss-JR東海と静岡県 リニア巡り協定",
+      "title": "JR東海と静岡県 リニア巡り協定",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-18T05:20:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588387?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588385?source=rss-防衛産業 生産能力の増強が課題",
+      "title": "防衛産業 生産能力の増強が課題",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-18T05:13:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588385?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588383?source=rss-iPhone値上げは日本だけ?解説",
+      "title": "iPhone値上げは日本だけ?解説",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-18T04:35:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588383?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/18/news019.html-「Claude Fable 5」サブスクに統合 Max・Team Premiumプラン対象",
+      "title": "「Claude Fable 5」サブスクに統合 Max・Team Premiumプラン対象",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-18T03:50:00.000Z",
+      "description": "米Anthropicは、最上位AIモデル「Claude Fable 5」を7月20日から有料プラン「Max」「Team Premium」の標準機能にする。利用上限の50%まで追加費用なしで利用でき、「Pro」「Team Standard」は「使用クレジット」での利用となり、100ドル分のクレジットを1回限り付与する。無...",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588378?source=rss-青森山田 インハイ辞退しない方針",
+      "title": "青森山田 インハイ辞退しない方針",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-18T03:35:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588378?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588377?source=rss-子の夏休み 体験格差どう埋める",
+      "title": "子の夏休み 体験格差どう埋める",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-18T03:27:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588377?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588376?source=rss-安住アナ「教頭先生」的な存在に",
+      "title": "安住アナ「教頭先生」的な存在に",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-18T03:16:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588376?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588374?source=rss-サイゼ 原価率42%で儲かる仕組み",
+      "title": "サイゼ 原価率42%で儲かる仕組み",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-18T03:10:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588374?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588371?source=rss-メッシ ヤマルとの過去写真に言及",
+      "title": "メッシ ヤマルとの過去写真に言及",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-18T02:49:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588371?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588373?source=rss-W杯決勝ハーフタイムは17分 報道",
       "title": "W杯決勝ハーフタイムは17分 報道",
@@ -171,15 +252,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/18/news014.html"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588344?source=rss-万博EVバス問題 大阪メトロ謝罪",
-      "title": "万博EVバス問題 大阪メトロ謝罪",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-17T14:43:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588344?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588338?source=rss-オルツ粉飾 元CFOが関与認める",
       "title": "オルツ粉飾 元CFOが関与認める",
       "source": "Yahoo!ニュース IT",
@@ -187,15 +259,6 @@
       "publishedAt": "2026-07-17T13:54:06.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588338?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588337?source=rss-フット後藤の息子 ライブVTR出演",
-      "title": "フット後藤の息子 ライブVTR出演",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-17T13:27:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588337?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588335?source=rss-報道受けカープ矢野抹消 監督謝罪",
@@ -252,15 +315,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588322?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588319?source=rss-青春18きっぷ 利用者離れ止まらず",
-      "title": "青春18きっぷ 利用者離れ止まらず",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-17T11:02:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588319?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588318?source=rss-児童のSNS通じた被害増 どう防ぐ",
       "title": "児童のSNS通じた被害増 どう防ぐ",
       "source": "Yahoo!ニュース IT",
@@ -295,15 +349,6 @@
       "publishedAt": "2026-07-17T10:29:00.000Z",
       "description": "AWSのコスト管理画面で7月17日午後5時半ごろから世界規模の障害が発生している。コストの見積やその請求情報が誤って表示される状態といい、SNSでは「1.5兆ドルの請求が来た」「心臓発作を起こすかと思った」などの投稿が海外のアカウントを中心に散見される。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/17/news112.html"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588314?source=rss-日銀 政策金利1.0%維持する方針",
-      "title": "日銀 政策金利1.0%維持する方針",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-17T10:28:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588314?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588310?source=rss-れいわの代表選告示 3氏が立候補",
@@ -369,15 +414,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/17/news104.html"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588292?source=rss-カープ矢野抹消 週刊誌報道受けて",
-      "title": "カープ矢野抹消 週刊誌報道受けて",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-17T08:15:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588292?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588288?source=rss-初代・峰不二子役の声優 死去",
       "title": "初代・峰不二子役の声優 死去",
       "source": "Yahoo!ニュース エンタメ",
@@ -385,15 +421,6 @@
       "publishedAt": "2026-07-17T07:47:51.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588288?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588286?source=rss-J1 24年ぶり全国地上波ゴールデン",
-      "title": "J1 24年ぶり全国地上波ゴールデン",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-17T07:41:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588286?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588280?source=rss-ビッグダディ 取材中に離婚届破る",
@@ -522,15 +549,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/17/news069.html"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588239?source=rss-キオクシア 上場来高値から半値に",
-      "title": "キオクシア 上場来高値から半値に",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-17T02:12:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588239?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/17/news068.html-キオクシア株、一時ストップ安 上場来高値から半値以下に",
       "title": "キオクシア株、一時ストップ安 上場来高値から半値以下に",
       "source": "ITmedia NEWS",
@@ -549,15 +567,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/17/news065.html"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/17/news063.html-欧州委員会、GoogleにAIアシスタントの相互運用と検索データ共有を命令──Googleは「安全性を損なう」と反発",
-      "title": "欧州委員会、GoogleにAIアシスタントの相互運用と検索データ共有を命令──Googleは「安全性を損なう」と反発",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-16T23:57:00.000Z",
-      "description": "欧州委員会は、DMA（デジタル市場法）に基づき、Googleに対し2件の法的拘束力のある決定を下した。Android上で競合AIアシスタントにGemini同等のアクセスを認めることと、匿名化した検索データを第三者の検索エンジンに提供することを義務付ける。Googleは「欧州市民のプライバシーとセキュリティを損なうリスク...",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/17/news063.html"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588199?source=rss-OpenAI 初のハードウェアを販売",
       "title": "OpenAI 初のハードウェアを販売",
       "source": "Yahoo!ニュース IT",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-07-16T14:20:31.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588199?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588172?source=rss-韓国 14歳未満のSNS制限を検討",
-      "title": "韓国 14歳未満のSNS制限を検討",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-16T09:27:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588172?source=rss"
     }
   ]
 }
