@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T19:11:06.564Z",
+  "updatedAt": "2026-07-18T21:55:24.400Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588452?source=rss-速報フランス-イングランド後半へ",
+      "title": "速報フランス-イングランド後半へ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-18T21:51:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588452?source=rss"
+    },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588446?source=rss-ポケモンGOが10周年 遊び方変化",
       "title": "ポケモンGOが10周年 遊び方変化",
@@ -358,15 +367,6 @@
       "publishedAt": "2026-07-17T22:44:40.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588354?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588347?source=rss-青森山田サッカー部 十数人を停学",
-      "title": "青森山田サッカー部 十数人を停学",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-17T22:21:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588347?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/18/news017.html-「Apple Music」と「Apple One」、日本を含む世界で値上げ",
