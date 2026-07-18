@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T05:31:22.459Z",
+  "updatedAt": "2026-07-18T07:59:05.035Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,78 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588403?source=rss-広島・矢野 週刊誌報道に初の言及",
+      "title": "広島・矢野 週刊誌報道に初の言及",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-18T07:22:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588403?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588402?source=rss-東南アジア要衝海図 外務省整備へ",
+      "title": "東南アジア要衝海図 外務省整備へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-18T07:22:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588402?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588396?source=rss-佐川急便 7万人分の情報漏えいか",
+      "title": "佐川急便 7万人分の情報漏えいか",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-18T06:26:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588396?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588393?source=rss-孤独死不可避 のんがセリフに共感",
+      "title": "孤独死不可避 のんがセリフに共感",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-18T06:10:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588393?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588392?source=rss-高岡第一・前田ノーノー達成 20K",
+      "title": "高岡第一・前田ノーノー達成 20K",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-18T06:03:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588392?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588389?source=rss-朗希 冗談連発で報道陣の笑い誘う",
+      "title": "朗希 冗談連発で報道陣の笑い誘う",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-18T05:56:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588389?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/18/news021.html-佐川急便、約7万人分の個人情報漏えいか 「スマートクラブ」通知メールに別人の氏名など表示",
+      "title": "佐川急便、約7万人分の個人情報漏えいか 「スマートクラブ」通知メールに別人の氏名など表示",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-18T05:50:00.000Z",
+      "description": "佐川急便は7月18日、会員制Webサービス「スマートクラブ」のシステム不具合により、配達予定通知メールの一部に別の利用者の氏名やメールアドレスなどが表示される事象が起き、約7万人の個人情報に影響が及んだ可能性があると発表した。原因は不具合の復旧作業時の設定ミスで、不正アクセスやサイバー攻撃ではないという。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/18/news021.html"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588388?source=rss-阪神・前川右京が肩甲骨骨折 離脱",
+      "title": "阪神・前川右京が肩甲骨骨折 離脱",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-18T05:47:31.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588388?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588387?source=rss-JR東海と静岡県 リニア巡り協定",
       "title": "JR東海と静岡県 リニア巡り協定",
@@ -135,15 +207,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588369?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588367?source=rss-ビジョンに松井秀喜氏 NY大歓声",
-      "title": "ビジョンに松井秀喜氏 NY大歓声",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-18T01:19:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588367?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588364?source=rss-日本でiPhone値上げ 円安反映か",
       "title": "日本でiPhone値上げ 円安反映か",
       "source": "Yahoo!ニュース IT",
@@ -153,15 +216,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588364?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588360?source=rss-朗希が163.8km/h MLBで自己最速",
-      "title": "朗希が163.8km/h MLBで自己最速",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-18T00:09:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588360?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588361?source=rss-自転車の子乗せ 範囲拡大への警鐘",
       "title": "自転車の子乗せ 範囲拡大への警鐘",
       "source": "Yahoo!ニュース 国内",
@@ -169,15 +223,6 @@
       "publishedAt": "2026-07-18T00:04:32.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588361?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588358?source=rss-W杯 スペインは1万7000km大移動",
-      "title": "W杯 スペインは1万7000km大移動",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-17T23:55:41.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588358?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588356?source=rss-連休 関東～九州は雷雨と暑さ注意",
@@ -261,15 +306,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588338?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588335?source=rss-報道受けカープ矢野抹消 監督謝罪",
-      "title": "報道受けカープ矢野抹消 監督謝罪",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-17T13:14:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588335?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588334?source=rss-CAの飲酒問題 JALが再発防止策",
       "title": "CAの飲酒問題 JALが再発防止策",
       "source": "Yahoo!ニュース 経済",
@@ -322,15 +358,6 @@
       "publishedAt": "2026-07-17T10:48:03.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588318?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588315?source=rss-国会会期を8日間延長 25日まで",
-      "title": "国会会期を8日間延長 25日まで",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-17T10:32:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588315?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588313?source=rss-松本人志 大腸腫瘍を手術と告白",
@@ -450,15 +477,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/17/news097.html"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588270?source=rss-みちょぱ出産 大倉士門が心境語る",
-      "title": "みちょぱ出産 大倉士門が心境語る",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-17T06:29:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588270?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/17/news088.html-1Password、Claudeに「パスワードを見せず」目的のサイトにログインする新機能 生体認証→アクセス権限付与",
       "title": "1Password、Claudeに「パスワードを見せず」目的のサイトにログインする新機能 生体認証→アクセス権限付与",
       "source": "ITmedia NEWS",
@@ -556,24 +574,6 @@
       "publishedAt": "2026-07-17T01:14:00.000Z",
       "description": "",
       "url": "https://www.itmedia.co.jp/news/articles/2607/17/news068.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/17/news065.html-Netflix「今年配信の約300作品で生成AI活用」 制作は2倍速で制作費は半額の実例も",
-      "title": "Netflix「今年配信の約300作品で生成AI活用」 制作は2倍速で制作費は半額の実例も",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-17T01:06:00.000Z",
-      "description": "Netflixは4～6月期決算発表で、コンテンツ制作におけるパートナーの生成AI活用が急速に拡大していると明らかにした。2026年には約300本で生成AIワークフローが使用される見込み。ポストプロダクション工程での活用が中心で、従来手法の2倍の速さ、半分のコストで制作できた事例もあり、制作への再投資に回す考えを示した。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/17/news065.html"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588199?source=rss-OpenAI 初のハードウェアを販売",
-      "title": "OpenAI 初のハードウェアを販売",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-16T14:20:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588199?source=rss"
     }
   ]
 }
