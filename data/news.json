@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T03:20:40.655Z",
+  "updatedAt": "2026-07-19T08:25:32.524Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,22 +36,121 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588493?source=rss-北海道で大雨 土砂災害に注意",
-      "title": "北海道で大雨 土砂災害に注意",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-19T03:05:45.000Z",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588525?source=rss-大阪桐蔭の監督 涙の主将かばう",
+      "title": "大阪桐蔭の監督 涙の主将かばう",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-19T08:04:24.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588493?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6588525?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588490?source=rss-俳優・前原瑞樹が結婚を発表",
-      "title": "俳優・前原瑞樹が結婚を発表",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588523?source=rss-麟太郎の父 SBに「申し訳ない」",
+      "title": "麟太郎の父 SBに「申し訳ない」",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-19T08:03:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588523?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588522?source=rss-参院自民と官邸 13日間の攻防",
+      "title": "参院自民と官邸 13日間の攻防",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-19T07:38:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588522?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588519?source=rss-解説滑らか 87歳の男性バスガイド",
+      "title": "解説滑らか 87歳の男性バスガイド",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-19T07:30:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588519?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588517?source=rss-広島・坂倉将吾 国内FA権利取得",
+      "title": "広島・坂倉将吾 国内FA権利取得",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-19T07:26:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588517?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588516?source=rss-ニチレイの障害 物流復旧へ正念場",
+      "title": "ニチレイの障害 物流復旧へ正念場",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-19T07:12:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588516?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588513?source=rss-俳優・前原瑞樹が結婚 朝ドラ常連",
+      "title": "俳優・前原瑞樹が結婚 朝ドラ常連",
       "source": "Yahoo!ニュース エンタメ",
       "category": "エンタメ",
-      "publishedAt": "2026-07-19T03:04:29.000Z",
+      "publishedAt": "2026-07-19T06:48:13.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588490?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6588513?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588510?source=rss-大阪桐蔭に勝利 大阪立命館とは",
+      "title": "大阪桐蔭に勝利 大阪立命館とは",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-19T06:24:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588510?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588511?source=rss-麟太郎が涙 ソフトバンクへの思い",
+      "title": "麟太郎が涙 ソフトバンクへの思い",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-19T06:20:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588511?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588506?source=rss-冷やし甘酒が特産品に 海外輸出も",
+      "title": "冷やし甘酒が特産品に 海外輸出も",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-19T05:41:17.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588506?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588502?source=rss-21日から災害級暑さ 名古屋40℃か",
+      "title": "21日から災害級暑さ 名古屋40℃か",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-19T05:22:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588502?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588504?source=rss-大阪桐蔭が敗退 ナイン泣き崩れる",
+      "title": "大阪桐蔭が敗退 ナイン泣き崩れる",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-19T05:15:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588504?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588497?source=rss-センバツVの大阪桐蔭 まさか敗退",
+      "title": "センバツVの大阪桐蔭 まさか敗退",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-19T04:15:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588497?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588488?source=rss-声優内田雄馬&日高里菜 第1子誕生",
@@ -108,24 +207,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588478?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588474?source=rss-仏監督 前半4失点に激怒していた",
-      "title": "仏監督 前半4失点に激怒していた",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-19T00:57:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588474?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588473?source=rss-サカがハット 両軍計10発の乱打戦",
-      "title": "サカがハット 両軍計10発の乱打戦",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-19T00:40:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588473?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588472?source=rss-延長国会も綱渡り 審議実質3日間",
       "title": "延長国会も綱渡り 審議実質3日間",
       "source": "Yahoo!ニュース 国内",
@@ -144,15 +225,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588467?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588464?source=rss-麟太郎きょう公式会見 進路公表か",
-      "title": "麟太郎きょう公式会見 進路公表か",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-18T23:37:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588464?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588460?source=rss-海保向け無人船開発へ 中国に対処",
       "title": "海保向け無人船開発へ 中国に対処",
       "source": "Yahoo!ニュース 国内",
@@ -160,24 +232,6 @@
       "publishedAt": "2026-07-18T23:16:15.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588460?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588463?source=rss-イングランドがフランス破り3位",
-      "title": "イングランドがフランス破り3位",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-18T23:07:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588463?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588458?source=rss-エムバペ W杯歴代単独最多22得点",
-      "title": "エムバペ W杯歴代単独最多22得点",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-18T22:41:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588458?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/19/news010.html-AWS“兆ドル”誤見積は「ちょっとした計算ミス」 ジョークのつもり？ で大炎上→日本のAWS社員「あり得ない」と批判→対応",
@@ -234,15 +288,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588441?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588439?source=rss-佐藤輝明 広島投手の抜け球に怒り",
-      "title": "佐藤輝明 広島投手の抜け球に怒り",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-18T12:49:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588439?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588438?source=rss-トレカ人気 ブックオフG株が高値",
       "title": "トレカ人気 ブックオフG株が高値",
       "source": "Yahoo!ニュース 経済",
@@ -277,15 +322,6 @@
       "publishedAt": "2026-07-18T10:50:52.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588425?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588424?source=rss-広島・矢野 違法な付き合いはない",
-      "title": "広島・矢野 違法な付き合いはない",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-18T10:29:13.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588424?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588420?source=rss-iPhone値上げ 廉価版も10万円台",
@@ -324,15 +360,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588408?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588402?source=rss-東南アジア要衝海図 外務省整備へ",
-      "title": "東南アジア要衝海図 外務省整備へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-18T07:22:13.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588402?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588396?source=rss-佐川急便 7万人分の情報漏えいか",
       "title": "佐川急便 7万人分の情報漏えいか",
       "source": "Yahoo!ニュース IT",
@@ -349,15 +376,6 @@
       "publishedAt": "2026-07-18T05:50:00.000Z",
       "description": "佐川急便は7月18日、会員制Webサービス「スマートクラブ」のシステム不具合により、配達予定通知メールの一部に別の利用者の氏名やメールアドレスなどが表示される事象が起き、約7万人の個人情報に影響が及んだ可能性があると発表した。原因は不具合の復旧作業時の設定ミスで、不正アクセスやサイバー攻撃ではないという。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/18/news021.html"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588387?source=rss-JR東海と静岡県 リニア巡り協定",
-      "title": "JR東海と静岡県 リニア巡り協定",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-18T05:20:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588387?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588383?source=rss-iPhone値上げは日本だけ?解説",
@@ -387,15 +405,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588377?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588374?source=rss-サイゼ 原価率42%で儲かる仕組み",
-      "title": "サイゼ 原価率42%で儲かる仕組み",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-18T03:10:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588374?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588369?source=rss-京大の総長選考が波紋 教員ら反発",
       "title": "京大の総長選考が波紋 教員ら反発",
       "source": "Yahoo!ニュース 国内",
@@ -412,15 +421,6 @@
       "publishedAt": "2026-07-18T00:56:30.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588364?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588357?source=rss-お盆渋滞予測 中央道で最大45km",
-      "title": "お盆渋滞予測 中央道で最大45km",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-17T23:18:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588357?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/18/news017.html-「Apple Music」と「Apple One」、日本を含む世界で値上げ",
