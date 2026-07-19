@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T13:26:51.160Z",
+  "updatedAt": "2026-07-19T16:00:32.218Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,31 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588561?source=rss-広島監督 大山への死球申し訳ない",
-      "title": "広島監督 大山への死球申し訳ない",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588571?source=rss-伏見俊昭さん訃報 選手ら悲しみ",
+      "title": "伏見俊昭さん訃報 選手ら悲しみ",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-07-19T13:06:16.000Z",
+      "publishedAt": "2026-07-19T14:29:56.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588561?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6588571?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588570?source=rss-広島・ハーン 大山への死球に言及",
+      "title": "広島・ハーン 大山への死球に言及",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-19T14:03:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588570?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588568?source=rss-換気扇24h使う?浴室売る2社見解",
+      "title": "換気扇24h使う?浴室売る2社見解",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-19T13:41:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588568?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588560?source=rss-闇バイト投稿に警告7万件超 25年",
@@ -79,15 +97,6 @@
       "publishedAt": "2026-07-19T12:29:54.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588556?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588551?source=rss-新庄氏 オリ応援コールに異例言及",
-      "title": "新庄氏 オリ応援コールに異例言及",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-19T11:55:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588551?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588550?source=rss-内閣支持率が41%に大幅下落 毎日",
@@ -376,15 +385,6 @@
       "publishedAt": "2026-07-18T10:06:35.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588420?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588408?source=rss-米イランが攻撃応酬 原油は大幅高",
-      "title": "米イランが攻撃応酬 原油は大幅高",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-18T07:59:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588408?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588396?source=rss-佐川急便 7万人分の情報漏えいか",
