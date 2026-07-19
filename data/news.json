@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T16:00:32.218Z",
+  "updatedAt": "2026-07-19T19:11:48.519Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588564?source=rss-速報W杯 スペイン対アルゼンチン",
+      "title": "速報W杯 スペイン対アルゼンチン",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-19T18:57:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588564?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588571?source=rss-伏見俊昭さん訃報 選手ら悲しみ",
       "title": "伏見俊昭さん訃報 選手ら悲しみ",
@@ -205,15 +214,6 @@
       "publishedAt": "2026-07-19T06:48:13.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588513?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588511?source=rss-麟太郎が涙 ソフトバンクへの思い",
-      "title": "麟太郎が涙 ソフトバンクへの思い",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-19T06:20:45.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588511?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588506?source=rss-冷やし甘酒が特産品に 海外輸出も",
