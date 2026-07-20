@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T14:16:05.686Z",
+  "updatedAt": "2026-07-20T16:26:46.628Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588692?source=rss-FIFAランキング W杯終え大幅変更",
+      "title": "FIFAランキング W杯終え大幅変更",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-20T15:23:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588692?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588691?source=rss-「カグラバチ」来週連載再開へ",
+      "title": "「カグラバチ」来週連載再開へ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-20T15:11:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588691?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588689?source=rss-W杯巡り中傷が表面化 審判批判も",
+      "title": "W杯巡り中傷が表面化 審判批判も",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-20T14:38:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588689?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588686?source=rss-中露 日本のEEZ内で実弾演習",
       "title": "中露 日本のEEZ内で実弾演習",
@@ -178,24 +205,6 @@
       "publishedAt": "2026-07-20T08:41:36.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588650?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588645?source=rss-ワールドカップ 最終順位と賞金額",
-      "title": "ワールドカップ 最終順位と賞金額",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-20T07:36:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588645?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588642?source=rss-元A.R.B・白浜久さん死去 69歳",
-      "title": "元A.R.B・白浜久さん死去 69歳",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-20T07:23:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588642?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588638?source=rss-労災認定に7年 過酷だったと遺族",
@@ -439,15 +448,6 @@
       "publishedAt": "2026-07-18T05:50:00.000Z",
       "description": "佐川急便は7月18日、会員制Webサービス「スマートクラブ」のシステム不具合により、配達予定通知メールの一部に別の利用者の氏名やメールアドレスなどが表示される事象が起き、約7万人の個人情報に影響が及んだ可能性があると発表した。原因は不具合の復旧作業時の設定ミスで、不正アクセスやサイバー攻撃ではないという。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/18/news021.html"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588383?source=rss-iPhone値上げは日本だけ?解説",
-      "title": "iPhone値上げは日本だけ?解説",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-18T04:35:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588383?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/18/news019.html-「Claude Fable 5」サブスクに統合 Max・Team Premiumプラン対象",
