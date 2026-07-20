@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T19:48:04.006Z",
+  "updatedAt": "2026-07-20T22:03:36.096Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588696?source=rss-監督 大谷復帰登板「わからない」",
+      "title": "監督 大谷復帰登板「わからない」",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-20T22:00:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588696?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588695?source=rss-東海などで危険な暑さ 酷暑日予想",
+      "title": "東海などで危険な暑さ 酷暑日予想",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-20T21:36:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588695?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588693?source=rss-亀梨「カイジ」で宿敵・和也役に",
+      "title": "亀梨「カイジ」で宿敵・和也役に",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-20T21:10:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588693?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588692?source=rss-FIFAランキング W杯終え大幅変更",
       "title": "FIFAランキング W杯終え大幅変更",
@@ -90,15 +117,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588681?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588679?source=rss-42都府県に熱中症警戒アラート",
-      "title": "42都府県に熱中症警戒アラート",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-20T12:43:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588679?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588677?source=rss-消費減税 自民要職経験者が慎重論",
       "title": "消費減税 自民要職経験者が慎重論",
       "source": "Yahoo!ニュース 国内",
@@ -124,15 +142,6 @@
       "publishedAt": "2026-07-20T12:19:32.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588676?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588673?source=rss-ロッテ・西川を搬送 フェンス激突",
-      "title": "ロッテ・西川を搬送 フェンス激突",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-20T11:58:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588673?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588668?source=rss-VTuberが始球式 105kmストライク",
@@ -259,15 +268,6 @@
       "publishedAt": "2026-07-20T03:30:38.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588617?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588615?source=rss-青山テルマ 第1子となる男児出産",
-      "title": "青山テルマ 第1子となる男児出産",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-20T03:21:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588615?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588612?source=rss-高市内閣支持率「過去最低」ANN",
