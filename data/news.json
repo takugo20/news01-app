@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T21:57:28.998Z",
+  "updatedAt": "2026-07-20T03:34:29.899Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,202 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588576?source=rss-速報W杯決勝 スペインが先制",
-      "title": "速報W杯決勝 スペインが先制",
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588617?source=rss-運営もう無理 酷暑で海水浴離れ",
+      "title": "運営もう無理 酷暑で海水浴離れ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-20T03:30:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588617?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588615?source=rss-青山テルマ 第1子となる男児出産",
+      "title": "青山テルマ 第1子となる男児出産",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-20T03:21:17.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588615?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588612?source=rss-高市内閣支持率「過去最低」ANN",
+      "title": "高市内閣支持率「過去最低」ANN",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-20T02:42:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588612?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588610?source=rss-W杯決勝 HTショーで中断27分",
+      "title": "W杯決勝 HTショーで中断27分",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-07-19T21:45:39.000Z",
+      "publishedAt": "2026-07-20T02:37:48.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588576?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6588610?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588609?source=rss-東京都心で今年初の猛暑日 警戒を",
+      "title": "東京都心で今年初の猛暑日 警戒を",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-20T02:31:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588609?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588608?source=rss-不法残留の外国人摘発 職員増員へ",
+      "title": "不法残留の外国人摘発 職員増員へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-20T02:15:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588608?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588606?source=rss-日米合意1年 関税の負担依然重く",
+      "title": "日米合意1年 関税の負担依然重く",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-20T01:54:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588606?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588604?source=rss-山本由伸 シーズン初完投で10勝目",
+      "title": "山本由伸 シーズン初完投で10勝目",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-20T01:50:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588604?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588601?source=rss-ヘルプマークに戸惑い 誤解の背景",
+      "title": "ヘルプマークに戸惑い 誤解の背景",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-20T01:15:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588601?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588603?source=rss-俳優・松下洸平 第1子誕生を発表",
+      "title": "俳優・松下洸平 第1子誕生を発表",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-20T01:14:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588603?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/20/news010.html-Hugging FaceにAI主導のサイバー攻撃 防御もAIで対抗するも、商用モデルは解析拒否で「GLM」採用",
+      "title": "Hugging FaceにAI主導のサイバー攻撃 防御もAIで対抗するも、商用モデルは解析拒否で「GLM」採用",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-20T01:08:00.000Z",
+      "description": "Hugging Faceは、自律型AIエージェントによる本番インフラへの侵入を検知、対処したと発表した。一部の内部データセットと複数の資格情報への不正アクセスを確認した。ログ解析には当初商用AIを使ったが、安全ガードレールに阻まれたため、最終的にオープンウェイトモデル「GLM 5.2」を自社インフラで実行して解析した。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/20/news010.html"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588600?source=rss-契約書や許可なし ヤミ小作の実態",
+      "title": "契約書や許可なし ヤミ小作の実態",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-20T00:49:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588600?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588598?source=rss-マンジャロの違法転売 取り巻く闇",
+      "title": "マンジャロの違法転売 取り巻く闇",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-20T00:32:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588598?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588594?source=rss-メッシ涙 表彰式後にメッシコール",
+      "title": "メッシ涙 表彰式後にメッシコール",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-20T00:02:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588594?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588596?source=rss-半年以上認定未決の労災判断 倍増",
+      "title": "半年以上認定未決の労災判断 倍増",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-20T00:00:51.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588596?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588595?source=rss-W杯表彰 トランプ氏にブーイング",
+      "title": "W杯表彰 トランプ氏にブーイング",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-19T23:57:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588595?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588591?source=rss-W杯決勝後 暴力行為で一発退場",
+      "title": "W杯決勝後 暴力行為で一発退場",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-19T23:27:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588591?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588583?source=rss-皇室典範 国民の理解得られぬ60%",
+      "title": "皇室典範 国民の理解得られぬ60%",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-19T23:04:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588583?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/17/news082.html-「仕事を辞めるとボケる」は本当なのか？ ベトナム高齢者2000人超を早大などが分析",
+      "title": "「仕事を辞めるとボケる」は本当なのか？ ベトナム高齢者2000人超を早大などが分析",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-19T23:00:00.000Z",
+      "description": "早稲田大学とベトナムの国民経済大学に所属する研究者らが2025年に発表した論文「Does Retirement Improve Cognitive Functioning？ Causal Evidence From Vietnam」は、ベトナムのデータを用いて、退職と認知機能の因果関係を調査した研究報告だ。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/17/news082.html"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588580?source=rss-山田涼介 大河ドラマ初出演が決定",
+      "title": "山田涼介 大河ドラマ初出演が決定",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-19T22:19:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588580?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588577?source=rss-スペインがW杯優勝 延長戦制す",
+      "title": "スペインがW杯優勝 延長戦制す",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-19T22:05:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588577?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/19/news004.html-サウナ週4回で認知症リスク66%減？ 中年男性2000人以上を20年追跡したフィンランドの研究",
+      "title": "サウナ週4回で認知症リスク66%減？ 中年男性2000人以上を20年追跡したフィンランドの研究",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-19T22:00:00.000Z",
+      "description": "東フィンランド大学などに所属する研究者らが2016年に発表した論文「Sauna bathing is inversely associated with dementia and Alzheimer’s disease in middle-aged Finnish men」は、フィンランドで行われた約20年間にわたる調...",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/19/news004.html"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588571?source=rss-伏見俊昭さん訃報 選手ら悲しみ",
@@ -52,15 +241,6 @@
       "publishedAt": "2026-07-19T14:29:56.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588571?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588570?source=rss-広島・ハーン 大山への死球に言及",
-      "title": "広島・ハーン 大山への死球に言及",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-19T14:03:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588570?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588568?source=rss-換気扇24h使う?浴室売る2社見解",
@@ -79,42 +259,6 @@
       "publishedAt": "2026-07-19T12:59:38.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588560?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588559?source=rss-連休最終日は猛暑日エリア拡大か",
-      "title": "連休最終日は猛暑日エリア拡大か",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-19T12:57:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588559?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588557?source=rss-バレー男子快挙 史上初の予選全勝",
-      "title": "バレー男子快挙 史上初の予選全勝",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-19T12:42:03.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588557?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588556?source=rss-阪神・大山に死球 広島戦警告試合",
-      "title": "阪神・大山に死球 広島戦警告試合",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-19T12:29:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588556?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588550?source=rss-内閣支持率が41%に大幅下落 毎日",
-      "title": "内閣支持率が41%に大幅下落 毎日",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-19T11:15:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588550?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588549?source=rss-競輪・伏見俊昭氏死去 レース事故",
@@ -162,24 +306,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588531?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588529?source=rss-大阪桐蔭敗退 命運分けた反則打球",
-      "title": "大阪桐蔭敗退 命運分けた反則打球",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-19T08:35:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588529?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588523?source=rss-麟太郎の父 SBに「申し訳ない」",
-      "title": "麟太郎の父 SBに「申し訳ない」",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-19T08:03:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588523?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588522?source=rss-参院自民と官邸 13日間の攻防",
       "title": "参院自民と官邸 13日間の攻防",
       "source": "Yahoo!ニュース 国内",
@@ -187,15 +313,6 @@
       "publishedAt": "2026-07-19T07:38:19.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588522?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588519?source=rss-解説滑らか 87歳の男性バスガイド",
-      "title": "解説滑らか 87歳の男性バスガイド",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-19T07:30:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588519?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588516?source=rss-ニチレイの障害 物流復旧へ正念場",
@@ -243,24 +360,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588487?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588484?source=rss-夏休み中の「学校開放」現場困惑",
-      "title": "夏休み中の「学校開放」現場困惑",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-19T02:10:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588484?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588483?source=rss-1円玉1億3200万枚量産 背景",
-      "title": "1円玉1億3200万枚量産 背景",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-19T01:59:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588483?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588478?source=rss-阿部祐二の娘桃子 大手退所の訳",
       "title": "阿部祐二の娘桃子 大手退所の訳",
       "source": "Yahoo!ニュース エンタメ",
@@ -268,33 +367,6 @@
       "publishedAt": "2026-07-19T01:12:41.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588478?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588472?source=rss-延長国会も綱渡り 審議実質3日間",
-      "title": "延長国会も綱渡り 審議実質3日間",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-19T00:34:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588472?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588467?source=rss-ウルトラクイズ 参加に必要な覚悟",
-      "title": "ウルトラクイズ 参加に必要な覚悟",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-18T23:53:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588467?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588460?source=rss-海保向け無人船開発へ 中国に対処",
-      "title": "海保向け無人船開発へ 中国に対処",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-18T23:16:15.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588460?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/19/news010.html-AWS“兆ドル”誤見積は「ちょっとした計算ミス」 ジョークのつもり？ で大炎上→日本のAWS社員「あり得ない」と批判→対応",
@@ -331,51 +403,6 @@
       "publishedAt": "2026-07-18T14:03:34.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588448?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588443?source=rss-ウルトラクイズ 誕生50周年で復活",
-      "title": "ウルトラクイズ 誕生50周年で復活",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-18T13:26:41.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588443?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588441?source=rss-高速鉄道巡る牧原元法相X 印反発",
-      "title": "高速鉄道巡る牧原元法相X 印反発",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-18T13:08:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588441?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588438?source=rss-トレカ人気 ブックオフG株が高値",
-      "title": "トレカ人気 ブックオフG株が高値",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-18T12:45:26.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588438?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588433?source=rss-医学部卒 芸人になると決めた瞬間",
-      "title": "医学部卒 芸人になると決めた瞬間",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-18T12:10:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588433?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588426?source=rss-食品消費税1% 効果に不透明感も",
-      "title": "食品消費税1% 効果に不透明感も",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-18T11:13:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588426?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588420?source=rss-iPhone値上げ 廉価版も10万円台",
@@ -547,33 +574,6 @@
       "publishedAt": "2026-07-17T05:41:00.000Z",
       "description": "",
       "url": "https://www.itmedia.co.jp/news/articles/2607/17/news092.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/17/news086.html-“ダブル革ジャン”大ウケ NVIDIAフアンCEO「赤沢大臣とセンス似てる」、赤沢大臣「私の格好マネた？」",
-      "title": "“ダブル革ジャン”大ウケ NVIDIAフアンCEO「赤沢大臣とセンス似てる」、赤沢大臣「私の格好マネた？」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-17T04:53:00.000Z",
-      "description": "革ジャンを着たと赤沢大臣にフアンCEOは「私達のファッションセンスが似ていてうれしい」と反応し、会場を沸かせた。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/17/news086.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/17/news079.html-中国AIも“ミュトス級”に到達か Moonshot AIが「Kimi K3」発表、一部ベンチでFable 5抜き首位",
-      "title": "中国AIも“ミュトス級”に到達か Moonshot AIが「Kimi K3」発表、一部ベンチでFable 5抜き首位",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-17T03:59:00.000Z",
-      "description": "中国Moonshot AIは7月16日（現地時間）、大規模言語モデル「Kimi K3」を発表した。パラメータ数2.8兆の“世界初のオープン3T級モデル”とうたい、一部のベンチマークでは米Anthropicの「Claude Fable 5」を上回る成績も示した。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/17/news079.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/17/news073.html-かわんご氏「POPOPOに私財30億円突っ込んだ」が、それでも「ケチってしまった」と反省",
-      "title": "かわんご氏「POPOPOに私財30億円突っ込んだ」が、それでも「ケチってしまった」と反省",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-17T02:44:00.000Z",
-      "description": "会社の資金ではなく個人の資金だったために「だいぶケチってしまった」。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/17/news073.html"
     }
   ]
 }
