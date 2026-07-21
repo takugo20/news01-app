@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T19:37:21.467Z",
+  "updatedAt": "2026-07-21T22:06:20.939Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588835?source=rss-緊急降板したDeNA・伊勢 熱中症",
+      "title": "緊急降板したDeNA・伊勢 熱中症",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-21T21:36:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588835?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588834?source=rss-ニチレイ障害 ハッカー集団が声明",
+      "title": "ニチレイ障害 ハッカー集団が声明",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-21T21:23:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588834?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588833?source=rss-一時1ドル163円台 約39年半ぶり",
+      "title": "一時1ドル163円台 約39年半ぶり",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-21T21:13:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588833?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588831?source=rss-佐藤輝明の弟 目指す「背番号1」",
       "title": "佐藤輝明の弟 目指す「背番号1」",
@@ -171,15 +198,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588807?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588806?source=rss-カンロ 健康のど飴など値上げへ",
-      "title": "カンロ 健康のど飴など値上げへ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-21T11:36:09.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588806?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588804?source=rss-自民有志 トレカ振興の議連設立へ",
       "title": "自民有志 トレカ振興の議連設立へ",
       "source": "Yahoo!ニュース 国内",
@@ -196,15 +214,6 @@
       "publishedAt": "2026-07-21T10:31:15.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588801?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588799?source=rss-阪神の新外国人 年俸破格972万円",
-      "title": "阪神の新外国人 年俸破格972万円",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-21T09:56:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588799?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588798?source=rss-今春センバツ4強 すでに3校が敗退",
@@ -232,15 +241,6 @@
       "publishedAt": "2026-07-21T09:44:00.000Z",
       "description": "慶応大の岡野栄之教授らの研究チームは7月21日、人工多能性幹細胞（iPS細胞）から作った神経のもとになる細胞を脊髄損傷患者4人に移植した臨床研究で、移植後最長4年間観察しても腫瘍や重い有害事象はみられず、長期的な安全性を確認したと発表した。神経機能の悪化例もなかった。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/21/news098.html"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588796?source=rss-赤字だった純喫茶 今は人気有名店",
-      "title": "赤字だった純喫茶 今は人気有名店",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-21T09:40:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588796?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588795?source=rss-景品「仕分け」? 吉野家は否定",
