@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T08:35:40.449Z",
+  "updatedAt": "2026-07-21T11:11:25.470Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,105 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588804?source=rss-自民有志 トレカ振興の議連設立へ",
+      "title": "自民有志 トレカ振興の議連設立へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-21T11:00:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588804?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588801?source=rss-Dragon Ash櫻井誠 活動再開発表",
+      "title": "Dragon Ash櫻井誠 活動再開発表",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-21T10:31:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588801?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588799?source=rss-阪神の新外国人 年俸破格972万円",
+      "title": "阪神の新外国人 年俸破格972万円",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-21T09:56:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588799?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588798?source=rss-今春センバツ4強 すでに3校が敗退",
+      "title": "今春センバツ4強 すでに3校が敗退",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-21T09:55:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588798?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/21/news099.html-中国Moonshot AI、「Kimi K3」人気でGPUひっ迫 新規サブスク受け付けを一時停止",
+      "title": "中国Moonshot AI、「Kimi K3」人気でGPUひっ迫 新規サブスク受け付けを一時停止",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-21T09:53:00.000Z",
+      "description": "中国Moonshot AIは7月19日（現地時間）、AIチャットサービス「Kimi」の新規有料契約の受け付けを一時停止すると発表した。16日に公開した大規模言語モデル「Kimi K3」への需要が想定を大きく上回り、GPUなどの計算資源が限界に近づいたためという。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/21/news099.html"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/21/news098.html-慶大のiPS脊髄損傷治療、最長4年追跡で長期的な安全性確認 来年度中にも治験届提出へ",
+      "title": "慶大のiPS脊髄損傷治療、最長4年追跡で長期的な安全性確認 来年度中にも治験届提出へ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-21T09:44:00.000Z",
+      "description": "慶応大の岡野栄之教授らの研究チームは7月21日、人工多能性幹細胞（iPS細胞）から作った神経のもとになる細胞を脊髄損傷患者4人に移植した臨床研究で、移植後最長4年間観察しても腫瘍や重い有害事象はみられず、長期的な安全性を確認したと発表した。神経機能の悪化例もなかった。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/21/news098.html"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588796?source=rss-赤字だった純喫茶 今は人気有名店",
+      "title": "赤字だった純喫茶 今は人気有名店",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-21T09:40:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588796?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588795?source=rss-景品「仕分け」? 吉野家は否定",
+      "title": "景品「仕分け」? 吉野家は否定",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-21T09:33:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588795?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588792?source=rss-日テレお笑い「競技」感が希薄?",
+      "title": "日テレお笑い「競技」感が希薄?",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-21T09:31:01.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588792?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588783?source=rss-子どもだけで飲食店利用 賛否の声",
+      "title": "子どもだけで飲食店利用 賛否の声",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-21T08:59:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588783?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588780?source=rss-コメ価格下落基調続く 今後の鍵は",
+      "title": "コメ価格下落基調続く 今後の鍵は",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-21T08:48:29.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588780?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588778?source=rss-マイナ取得義務化を見送り 政府",
       "title": "マイナ取得義務化を見送り 政府",
       "source": "Yahoo!ニュース 国内",
@@ -52,24 +151,6 @@
       "publishedAt": "2026-07-21T08:26:26.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588776?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588773?source=rss-鹿島に痛手 DF安西&MF樋口が負傷",
-      "title": "鹿島に痛手 DF安西&MF樋口が負傷",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-21T08:13:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588773?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588771?source=rss-JO1 ソウル公演のチケ販売延期",
-      "title": "JO1 ソウル公演のチケ販売延期",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-21T08:03:56.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588771?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588770?source=rss-首相の「0～3時間睡眠」投稿 波紋",
@@ -135,15 +216,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588760?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588758?source=rss-9回に逆転 人生初HRと日大三選手",
-      "title": "9回に逆転 人生初HRと日大三選手",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-21T06:30:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588758?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/21/news081.html-XのAndroidアプリ、1年かけ“過去最大級の刷新”も賛否 「UI変わりすぎ」「スペース使えない」の声も",
       "title": "XのAndroidアプリ、1年かけ“過去最大級の刷新”も賛否 「UI変わりすぎ」「スペース使えない」の声も",
       "source": "ITmedia NEWS",
@@ -160,15 +232,6 @@
       "publishedAt": "2026-07-21T06:09:14.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588756?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588755?source=rss-関経連でハラスメント 処分を発表",
-      "title": "関経連でハラスメント 処分を発表",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-21T05:52:09.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588755?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588753?source=rss-日大三 9回2死から劇的逆転3ラン",
@@ -196,15 +259,6 @@
       "publishedAt": "2026-07-21T05:04:01.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588751?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588749?source=rss-企業統治指針 5年ぶりに改訂",
-      "title": "企業統治指針 5年ぶりに改訂",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-21T05:00:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588749?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588748?source=rss-27年朝ドラ バカリ作品常連ずらり",
@@ -243,15 +297,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588742?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588741?source=rss-全東信元幹部「破産予兆あった」",
-      "title": "全東信元幹部「破産予兆あった」",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-21T03:32:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588741?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/21/news076.html-GMO熊谷代表、原則出社の投稿について謝罪 「タイピングという説明が一人歩き」",
       "title": "GMO熊谷代表、原則出社の投稿について謝罪 「タイピングという説明が一人歩き」",
       "source": "ITmedia NEWS",
@@ -279,15 +324,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588737?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588731?source=rss-北陸新幹線桂川ルート 抱える難題",
-      "title": "北陸新幹線桂川ルート 抱える難題",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-21T03:00:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588731?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588727?source=rss-国会延長で外遊中止 会談機会失う",
       "title": "国会延長で外遊中止 会談機会失う",
       "source": "Yahoo!ニュース 国内",
@@ -304,15 +340,6 @@
       "publishedAt": "2026-07-21T02:33:24.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588725?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588726?source=rss-ラヴ上等シーズン2 主題歌SPEED",
-      "title": "ラヴ上等シーズン2 主題歌SPEED",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-21T02:31:36.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588726?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588721?source=rss-飲酒・喫煙 青森山田校長コメント",
@@ -358,15 +385,6 @@
       "publishedAt": "2026-07-21T01:17:57.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588716?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588708?source=rss-延長国会 副首都など4法案綱渡り",
-      "title": "延長国会 副首都など4法案綱渡り",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-21T00:07:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588708?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/21/news052.html-パルマー・ラッキー氏のAnduril、軍用自律飛行VTOL機「Thunder」を公開",
@@ -556,24 +574,6 @@
       "publishedAt": "2026-07-17T12:03:00.000Z",
       "description": "GMOペイメントゲートウェイが、無断で別会社を設立し日本ゲームカードと不正に契約していた元従業員を懲戒解雇した。発端は“神田うの氏の夫の恫喝音声”とする週刊誌報道。GMOグループの熊谷正寿氏はXで「神田うのさんは、本件に一切関係していない」との見解を示した。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/17/news116.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/17/news112.html-「1.5兆ドルの請求が来た」？ AWSでまたトラブル、誤ったコスト見積が表示される状態に",
-      "title": "「1.5兆ドルの請求が来た」？ AWSでまたトラブル、誤ったコスト見積が表示される状態に",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-17T10:29:00.000Z",
-      "description": "AWSのコスト管理画面で7月17日午後5時半ごろから世界規模の障害が発生している。コストの見積やその請求情報が誤って表示される状態といい、SNSでは「1.5兆ドルの請求が来た」「心臓発作を起こすかと思った」などの投稿が海外のアカウントを中心に散見される。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/17/news112.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/17/news109.html-「エロ広告規制法案」国民民主党が提出 「表現規制では」との懸念も",
-      "title": "「エロ広告規制法案」国民民主党が提出 「表現規制では」との懸念も",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-17T09:41:00.000Z",
-      "description": "",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/17/news109.html"
     }
   ]
 }
