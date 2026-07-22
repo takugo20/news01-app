@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T14:06:24.673Z",
+  "updatedAt": "2026-07-22T16:22:16.464Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588961?source=rss-柳田が球宴に 家族旅行キャンセル",
+      "title": "柳田が球宴に 家族旅行キャンセル",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-22T14:55:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588961?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588960?source=rss-離島専門に引っ越し業 年商8億円",
+      "title": "離島専門に引っ越し業 年商8億円",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-22T14:34:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588960?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588958?source=rss-バレー女子 準々決勝で逆転負け",
       "title": "バレー女子 準々決勝で逆転負け",
@@ -115,15 +133,6 @@
       "publishedAt": "2026-07-22T11:44:07.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588941?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588942?source=rss-燕・中村悠平 自打球直撃で搬送",
-      "title": "燕・中村悠平 自打球直撃で搬送",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-22T11:28:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588942?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588940?source=rss-三山凌輝と花乃まりあ 不適切行動",
@@ -439,15 +448,6 @@
       "publishedAt": "2026-07-22T01:53:00.000Z",
       "description": "日本ケンタッキー・フライド・チキンは7月22日、KFC全店舗で通常営業を再開したと発表した。委託先のニチレイへの不正アクセスの影響で品切れや営業時間の短縮などが発生していたが、食材納品体制が整ったという。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/22/news069.html"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588865?source=rss-花火大会 席「プレミアム化」加速",
-      "title": "花火大会 席「プレミアム化」加速",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-22T01:27:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588865?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/22/news066.html-MicrosoftとMistralが戦略的提携を拡大 欧州でのAIインフラ拡張とモデル展開を加速",
