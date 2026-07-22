@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T08:35:08.307Z",
+  "updatedAt": "2026-07-22T11:12:13.475Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,132 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588937?source=rss-高木美帆さんに国民栄誉賞授与へ",
+      "title": "高木美帆さんに国民栄誉賞授与へ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-22T10:53:00.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588937?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588936?source=rss-中傷動画 首相が秘書の陳述書提出",
+      "title": "中傷動画 首相が秘書の陳述書提出",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-22T10:52:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588936?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588935?source=rss-DeNA藤浪 佐藤輝と大山連続三振",
+      "title": "DeNA藤浪 佐藤輝と大山連続三振",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-22T10:03:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588935?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/22/news109.html-電工二種試験で「監督員が問題を漏らした」？ Xで告発も、運営元は否定 「投稿に不自然な点」",
+      "title": "電工二種試験で「監督員が問題を漏らした」？ Xで告発も、運営元は否定 「投稿に不自然な点」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-22T09:50:00.000Z",
+      "description": "電気技術者試験センターは7月21日、18日に実施した第二種電気工事士上期技能試験を巡り、試験監督員が受験者に出題情報を伝えていたとするXの投稿について、「そうした事実は確認できない」との見解を示した。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/22/news109.html"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588927?source=rss-マイナとAIエージェント連携 論点",
+      "title": "マイナとAIエージェント連携 論点",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-22T09:49:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588927?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588933?source=rss-山田五郎氏 訃報5日前に動画出演",
+      "title": "山田五郎氏 訃報5日前に動画出演",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-22T09:43:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588933?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588932?source=rss-ルフトハンザ機 羽田に緊急着陸",
+      "title": "ルフトハンザ機 羽田に緊急着陸",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-22T09:38:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588932?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588930?source=rss-巨人激震 吉川と門脇が負傷で抹消",
+      "title": "巨人激震 吉川と門脇が負傷で抹消",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-22T09:25:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588930?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/22/news108.html-韓国外交官「ほぼ全員」の情報流出か 国立外交院への不正アクセスで最大1万件 現地報道",
+      "title": "韓国外交官「ほぼ全員」の情報流出か 国立外交院への不正アクセスで最大1万件 現地報道",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-22T09:19:00.000Z",
+      "description": "韓国外務省傘下の国立外交院がサイバー攻撃を受け、韓国の外交官ほぼ全員に当たる最大1万件の個人情報が流出した恐れがあると、東亜日報や聯合ニュースなど韓国メディアが相次いで報じた。攻撃者は約10カ月にわたりサーバに不正接続していたという。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/22/news108.html"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588924?source=rss-ロコソラーレ姉妹チーム 全員退団",
+      "title": "ロコソラーレ姉妹チーム 全員退団",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-22T09:17:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588924?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588928?source=rss-中谷潤人と結婚発表 田村亜矢とは",
+      "title": "中谷潤人と結婚発表 田村亜矢とは",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-22T09:15:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588928?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588920?source=rss-公立教員 精神疾患理由の退職最多",
+      "title": "公立教員 精神疾患理由の退職最多",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-22T09:05:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588920?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588923?source=rss-23日は関東内陸でも酷暑日か 危険",
+      "title": "23日は関東内陸でも酷暑日か 危険",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-22T09:03:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588923?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/22/news103.html-1年前に騒がれたFeliCaの脆弱性、JVNがようやく公表 深刻度は「高」",
+      "title": "1年前に騒がれたFeliCaの脆弱性、JVNがようやく公表 深刻度は「高」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-22T08:34:00.000Z",
+      "description": "当時は正式公開前に報道が先行したことが問題視され、経産省などが脆弱性情報の取り扱いに関する異例の要請を出す事態になっていた。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/22/news103.html"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588918?source=rss-エスカレーター 立ち止まりの是非",
       "title": "エスカレーター 立ち止まりの是非",
@@ -117,15 +243,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588902?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588901?source=rss-猛暑 2軍戦で異例のノーゲーム",
-      "title": "猛暑 2軍戦で異例のノーゲーム",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-22T06:52:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588901?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588899?source=rss-ウエストランド井口 鼻など手術",
       "title": "ウエストランド井口 鼻など手術",
       "source": "Yahoo!ニュース エンタメ",
@@ -180,24 +297,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588896?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588893?source=rss-今井達也 6回1失点8K好投で6勝目",
-      "title": "今井達也 6回1失点8K好投で6勝目",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-22T05:14:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588893?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588891?source=rss-東京都内でも38℃超 熱中症に警戒",
-      "title": "東京都内でも38℃超 熱中症に警戒",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-22T05:10:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588891?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/22/news081.html-中高生に人気の「setlog」を40代が使ってみた 撮るものがなくて天井を撮る日々でも……",
       "title": "中高生に人気の「setlog」を40代が使ってみた 撮るものがなくて天井を撮る日々でも……",
       "source": "ITmedia NEWS",
@@ -205,15 +304,6 @@
       "publishedAt": "2026-07-22T05:00:00.000Z",
       "description": "筆者は最近「setlog」というアプリを使い始めた。5月ごろからApp Storeの無料アプリランキングで1位を維持し、中高生を中心に大ブームになっているという。友人から招待を受け、まず2人でやってみた。しかし、在宅ワーカーの40代の日常には特に撮るものがない。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/22/news081.html"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588886?source=rss-運転手不足 自動運転実用化の課題",
-      "title": "運転手不足 自動運転実用化の課題",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-22T04:21:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588886?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/22/news079.html-「イヤフォンじゃなくて補聴器です」誤認心配のユーザー 自転車“青切符”制度の不安と対策",
@@ -241,15 +331,6 @@
       "publishedAt": "2026-07-22T03:36:00.000Z",
       "description": "東京ビッグサイトで開催された「猛暑対策展」。工場や倉庫の熱中症対策に用いられる巨大な送風機や空調設備が多く出品されていたが、中でも異彩を放っていたのが、朝日機器ブースの「FOLLOAS（フォロアス）」だ。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/22/news076.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588881?source=rss-ボクシング中谷潤人 結婚を発表",
-      "title": "ボクシング中谷潤人 結婚を発表",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-22T03:32:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588881?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/22/news074.html-タイガー、電気ケトルの一部を自主回収 ふたの不具合で転倒時に基準量以上のお湯が漏れ出すおそれ",
@@ -286,15 +367,6 @@
       "publishedAt": "2026-07-22T02:30:00.000Z",
       "description": "浅田真央さんの旧公式サイトのドメイン「mao-asada.jp」を「アフィリエイトサイトに」などとうたってオークションで販売し、批判を受けたGMOインターネットが、ITmedia NEWSの取材に経緯と見解を答えた。著名ドメインの販売を拒める立場にはないとする一方、宣伝文言は改修したとしている。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/22/news073.html"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588869?source=rss-大谷は打者優先の方針 ド軍監督",
-      "title": "大谷は打者優先の方針 ド軍監督",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-22T02:27:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588869?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588870?source=rss-星稜 まさかの7回コールド負け",
@@ -369,15 +441,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/22/news066.html"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6588864?source=rss-中井卓大がFC今治に加入 J初挑戦",
-      "title": "中井卓大がFC今治に加入 J初挑戦",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-22T01:20:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588864?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588863?source=rss-骨太の方針「高市カラー」鮮明",
       "title": "骨太の方針「高市カラー」鮮明",
       "source": "Yahoo!ニュース 国内",
@@ -405,15 +468,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588857?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588858?source=rss-「送金犯罪」疑い初摘発 罰則解説",
-      "title": "「送金犯罪」疑い初摘発 罰則解説",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-22T00:48:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588858?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/22/news058.html-ジャック・ドーシー氏率いるBlock、AI協働プラットフォーム「Buzz」公開 SlackやGitHub依存からの脱却目指し",
       "title": "ジャック・ドーシー氏率いるBlock、AI協働プラットフォーム「Buzz」公開 SlackやGitHub依存からの脱却目指し",
       "source": "ITmedia NEWS",
@@ -421,15 +475,6 @@
       "publishedAt": "2026-07-22T00:32:00.000Z",
       "description": "ジャック・ドーシー氏率いるBlockは、人間とAIエージェントが同じワークスペースで協働するオープンソースプラットフォーム「Buzz」を公開した。分散型プロトコル「Nostr」上に構築され、任意のLLMやエージェントを組み込める。各参加者が独立した暗号鍵ペアを持つことで識別と権限を管理し、オープンな協働環境の提供を目指...",
       "url": "https://www.itmedia.co.jp/news/articles/2607/22/news058.html"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588855?source=rss-鬼越が騒動巡り動画公開 物議背景",
-      "title": "鬼越が騒動巡り動画公開 物議背景",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-22T00:12:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588855?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588851?source=rss-グーグル ジェ‌ミニ低価格版発表",
@@ -477,15 +522,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588842?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588841?source=rss-骨太方針 経済成長へ国内投資強化",
-      "title": "骨太方針 経済成長へ国内投資強化",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-21T22:38:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588841?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588839?source=rss-吉岡秀隆が千利休役 大河に初出演",
       "title": "吉岡秀隆が千利休役 大河に初出演",
       "source": "Yahoo!ニュース エンタメ",
@@ -502,15 +538,6 @@
       "publishedAt": "2026-07-21T22:14:00.000Z",
       "description": "LINEヤフーは21日、「Yahoo!天気」アプリおよび「Agent i」で、「天気コーデ」機能の提供を始めた。その日の天気や気温にあったコーディネートを画像で確認できる。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/22/news052.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/21/news078.html-痛いの痛いの、なぜ“飛んでいく”？ 「さすると痛みが引く」仕組み、九州大が解明",
-      "title": "痛いの痛いの、なぜ“飛んでいく”？ 「さすると痛みが引く」仕組み、九州大が解明",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-21T22:00:00.000Z",
-      "description": "九州大学に所属する研究者らがPNASで発表した論文「A population of primary afferent sensory neurons mediates pain relief through nocifensive coping behavior in mice」は、痛いところをさすると痛みが和らぐとい...",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/21/news078.html"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6588834?source=rss-ニチレイ障害 ハッカー集団が声明",
@@ -540,24 +567,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588823?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/21/news118.html-最も暑い時期の冷房時間、東京は世界12都市で最も“長い” 就寝時「つけっぱなし」も増加 ダイキン調べ",
-      "title": "最も暑い時期の冷房時間、東京は世界12都市で最も“長い” 就寝時「つけっぱなし」も増加 ダイキン調べ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-21T12:29:00.000Z",
-      "description": "ダイキンは21日、東京を含む世界12都市に住む1200人のエアコンユーザーを対象に実施したアンケート調査の結果を発表した。エアコン稼働時間が最も長い都市は東京だった。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/21/news118.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/21/news099.html-中国Moonshot AI、「Kimi K3」人気でGPUひっ迫 新規サブスク受け付けを一時停止",
-      "title": "中国Moonshot AI、「Kimi K3」人気でGPUひっ迫 新規サブスク受け付けを一時停止",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-21T09:53:00.000Z",
-      "description": "中国Moonshot AIは7月19日（現地時間）、AIチャットサービス「Kimi」の新規有料契約の受け付けを一時停止すると発表した。16日に公開した大規模言語モデル「Kimi K3」への需要が想定を大きく上回り、GPUなどの計算資源が限界に近づいたためという。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/21/news099.html"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588720?source=rss-GMO代表 在宅勤務巡る投稿謝罪",
       "title": "GMO代表 在宅勤務巡る投稿謝罪",
       "source": "Yahoo!ニュース IT",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-07-21T02:13:47.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588720?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6588689?source=rss-W杯巡り中傷が表面化 審判批判も",
-      "title": "W杯巡り中傷が表面化 審判批判も",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-20T14:38:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588689?source=rss"
     }
   ]
 }
