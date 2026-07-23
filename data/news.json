@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T19:24:46.148Z",
+  "updatedAt": "2026-07-23T22:07:49.888Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,60 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589089?source=rss-ガンダム新作発表 2027年に展開",
+      "title": "ガンダム新作発表 2027年に展開",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-23T21:55:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589089?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589088?source=rss-8月初旬 関東甲信など40℃以上か",
+      "title": "8月初旬 関東甲信など40℃以上か",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-23T21:45:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589088?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589087?source=rss-トランプ氏 スピーチで大谷を絶賛",
+      "title": "トランプ氏 スピーチで大谷を絶賛",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-23T21:30:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589087?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/24/news017.html-「生成AIで仕事が楽に」のはずが……IT現場を蝕む“AI疲れ・AIうつ”の正体",
+      "title": "「生成AIで仕事が楽に」のはずが……IT現場を蝕む“AI疲れ・AIうつ”の正体",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-23T21:30:00.000Z",
+      "description": "耳にする機会が増えた「AI疲れ」「AI鬱（うつ）」。本稿では、“疲れの正体”を整理し、個人が何を考え、どう変わればよいのかという判断軸を整理します。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/24/news017.html"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589086?source=rss-麟太郎 スペイン語の勉強始めたい",
+      "title": "麟太郎 スペイン語の勉強始めたい",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-23T21:17:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589086?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589085?source=rss-元日本赤軍 岡本公三容疑者が死亡",
+      "title": "元日本赤軍 岡本公三容疑者が死亡",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-23T21:09:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589085?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589084?source=rss-入国警備官に退職自衛官を活用へ",
       "title": "入国警備官に退職自衛官を活用へ",
@@ -189,15 +243,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589053?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589052?source=rss-橋木太希は1年間の騎乗停止 JRA",
-      "title": "橋木太希は1年間の騎乗停止 JRA",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-23T09:44:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589052?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/23/news116.html-「人間洗濯機」が高齢者施設に 福祉の現場に万博技術導入 人手不足解消や産業成長に期待",
       "title": "「人間洗濯機」が高齢者施設に 福祉の現場に万博技術導入 人手不足解消や産業成長に期待",
       "source": "ITmedia NEWS",
@@ -342,15 +387,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/23/news088.html"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589006?source=rss-無敵軍団・聖光学院 まさかの敗退",
-      "title": "無敵軍団・聖光学院 まさかの敗退",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-23T03:13:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589006?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/23/news086.html-ビックリマン風キャラを“自分の顔”からAI生成→Tシャツや缶バッジに ロッテが新サービス公開へ",
       "title": "ビックリマン風キャラを“自分の顔”からAI生成→Tシャツや缶バッジに ロッテが新サービス公開へ",
       "source": "ITmedia NEWS",
@@ -378,15 +414,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6588992?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588988?source=rss-内閣支持率が下落 与党に危機感",
-      "title": "内閣支持率が下落 与党に危機感",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-23T01:39:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588988?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/23/news076.html-企業向けAIツールの成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365 Okta調査",
       "title": "企業向けAIツールの成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365 Okta調査",
       "source": "ITmedia NEWS",
@@ -394,15 +421,6 @@
       "publishedAt": "2026-07-23T01:19:00.000Z",
       "description": "アイデンティティ管理サービスを提供する米Oktaは、同社のサービスを用いている2万社以上の匿名化されたアクセスデータに基づく、企業でのAIツール利用実態について調査結果を発表しました。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/23/news076.html"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6588985?source=rss-日本で露スパイ活動 報道直後出国",
-      "title": "日本で露スパイ活動 報道直後出国",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-23T01:14:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588985?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/23/news074.html-「POPOPO」サ終前にMac対応、未公開のWindows版技術はオープンソース化 「最後まで盛り上がっていこう！」",
@@ -504,15 +522,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/22/news038.html"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588952?source=rss-山田五郎氏 死去6日前アド街収録",
-      "title": "山田五郎氏 死去6日前アド街収録",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-22T12:58:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588952?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6588940?source=rss-三山凌輝と花乃まりあ 不適切行動",
       "title": "三山凌輝と花乃まりあ 不適切行動",
       "source": "Yahoo!ニュース エンタメ",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-07-22T07:30:55.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6588907?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/22/news098.html-人気SNS「setlog」、デザイン変更に大ブーイング 2日で旧デザインに戻す",
-      "title": "人気SNS「setlog」、デザイン変更に大ブーイング 2日で旧デザインに戻す",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-22T07:07:00.000Z",
-      "description": "素早い対応は、ユーザーに歓迎されているようだ。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/22/news098.html"
     }
   ]
 }
