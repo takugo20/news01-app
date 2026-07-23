@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T14:11:22.317Z",
+  "updatedAt": "2026-07-23T16:39:40.104Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,42 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589084?source=rss-入国警備官に退職自衛官を活用へ",
+      "title": "入国警備官に退職自衛官を活用へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-23T14:49:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589084?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589083?source=rss-中国の「Kimi K3」AI覇権に新局面",
+      "title": "中国の「Kimi K3」AI覇権に新局面",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-23T14:30:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589083?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589081?source=rss-セブン従業員が不正転売 法的には",
+      "title": "セブン従業員が不正転売 法的には",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-23T14:12:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589081?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589080?source=rss-愛媛2行 経営統合に向け最終調整",
+      "title": "愛媛2行 経営統合に向け最終調整",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-23T14:10:00.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589080?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589075?source=rss-永谷園「モコモコ」12年ぶり復活",
       "title": "永谷園「モコモコ」12年ぶり復活",
@@ -162,24 +198,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589052?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589051?source=rss-寝てください 首相に自民幹部進言",
-      "title": "寝てください 首相に自民幹部進言",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-23T09:33:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589051?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589041?source=rss-中国AI「Kimi K3」立ちはだかる壁",
-      "title": "中国AI「Kimi K3」立ちはだかる壁",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-23T09:27:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589041?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/23/news116.html-「人間洗濯機」が高齢者施設に 福祉の現場に万博技術導入 人手不足解消や産業成長に期待",
       "title": "「人間洗濯機」が高齢者施設に 福祉の現場に万博技術導入 人手不足解消や産業成長に期待",
       "source": "ITmedia NEWS",
@@ -187,15 +205,6 @@
       "publishedAt": "2026-07-23T09:19:00.000Z",
       "description": "2025年の大阪・関西万博で紹介された最先端の製品や技術が、福祉分野で実用化され始めた。大阪ヘルスケアパビリオンで話題を呼んだ「ミライ人間洗濯機」を介護施設用に応用した入浴装置が、大阪市内の高齢者施設で導入されたほか、介護ロボットやAIによる見守りも注目される。介護の人手不足対策やヘルスケア産業の成長につながりそうだ。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/23/news116.html"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589049?source=rss-ダスキン 上海子会社を解散",
-      "title": "ダスキン 上海子会社を解散",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-23T09:14:01.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589049?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589047?source=rss-森保監督の続投決定 後任は大岩氏",
@@ -223,15 +232,6 @@
       "publishedAt": "2026-07-23T08:44:00.000Z",
       "description": "高市早苗首相（自民党総裁）の陣営による党総裁選などでの中傷動画作成疑惑や名前を冠した暗号資産「サナエトークン」を巡り、首相は7月22日、週刊誌などが関与を伝えていた秘書の陳述書を衆院予算委員会に提出した。秘書は、陳述書で関与を全否定した。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/23/news115.html"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589034?source=rss-日本郵便「指定日営業」導入検討",
-      "title": "日本郵便「指定日営業」導入検討",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-23T08:06:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589034?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589032?source=rss-日中外相 首相答弁以来初めて接触",
