@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T19:14:07.119Z",
+  "updatedAt": "2026-07-25T21:59:39.059Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/26/news014.html-MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず",
+      "title": "MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-25T21:51:00.000Z",
+      "description": "MicrosoftやNVIDIA、Metaなど30社以上の米国の企業や団体が、オープンウェイトAIモデルへの過度な規制回避を求める共同書簡を公開した。オープンモデルをAIエコシステムの基盤と位置付け、開発や評価におけるメリットとイノベーション促進を強調。中国企業の急速な台頭や技術流出を懸念する政権の規制動向に対し牽制を...",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/26/news014.html"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589323?source=rss-内閣支持率下落 市民求める政策は",
       "title": "内閣支持率下落 市民求める政策は",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-07-23T06:35:00.000Z",
       "description": "ホワイトハウス科学技術政策局のクラツィオス局長が、中国のMoonshot AIがAnthropicのAIモデル「Fable」を蒸留して自社モデル「Kimi K3」を開発したとする情報があると投稿した。米国の技術を狙った大規模で隠密な蒸留は容認できないと批判している。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/23/news105.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/23/news104.html-PayPayとセブン-イレブン、顧客ID統合か 1億超のID基盤誕生へ 複数報道",
-      "title": "PayPayとセブン-イレブン、顧客ID統合か 1億超のID基盤誕生へ 複数報道",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-23T06:10:00.000Z",
-      "description": "スマートフォン決済大手のPayPayとセブン＆アイ・ホールディングスが、顧客データを統合する方向で最終調整に入ったと、複数メディアが7月23日に報じた。実現すればID数1億超の国内最大級のポイント経済圏が生まれることになる。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/23/news104.html"
     }
   ]
 }
