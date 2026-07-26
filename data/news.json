@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T13:38:54.018Z",
+  "updatedAt": "2026-07-26T16:04:33.546Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589429?source=rss-消費減税の可否 自民で意見集約案",
+      "title": "消費減税の可否 自民で意見集約案",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-26T14:25:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589429?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589428?source=rss-VIVANT事前公表ないキャスト次々",
+      "title": "VIVANT事前公表ないキャスト次々",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-26T14:17:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589428?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589426?source=rss-大谷翔平 危機的なPS二刀流",
+      "title": "大谷翔平 危機的なPS二刀流",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-26T13:39:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589426?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589423?source=rss-天心 宿敵・井上拓真にどう雪辱",
       "title": "天心 宿敵・井上拓真にどう雪辱",
@@ -180,24 +207,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589397?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589398?source=rss-週明け 九州で初の「酷暑日」か",
-      "title": "週明け 九州で初の「酷暑日」か",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-26T09:20:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589398?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589393?source=rss-映画「ちいかわ」初日興収9.9億円",
-      "title": "映画「ちいかわ」初日興収9.9億円",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-26T08:41:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589393?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589390?source=rss-夏休み宿題 猛暑で植物観察に異変",
       "title": "夏休み宿題 猛暑で植物観察に異変",
       "source": "Yahoo!ニュース 国内",
@@ -205,15 +214,6 @@
       "publishedAt": "2026-07-26T08:15:20.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589390?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589391?source=rss-横浜 県史上初の4季連続甲子園へ",
-      "title": "横浜 県史上初の4季連続甲子園へ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-26T07:58:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589391?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589385?source=rss-結婚相談所「お見合い」実態は",
