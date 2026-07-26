@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T19:17:46.264Z",
+  "updatedAt": "2026-07-26T22:02:08.357Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589433?source=rss-高市内閣支持率が急落57% 読売",
+      "title": "高市内閣支持率が急落57% 読売",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-26T21:46:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589433?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589431?source=rss-ウルフ絞め落とされる 会場騒然",
+      "title": "ウルフ絞め落とされる 会場騒然",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-26T21:25:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589431?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589430?source=rss-村上宗隆が大暴れ 1試合で2本塁打",
+      "title": "村上宗隆が大暴れ 1試合で2本塁打",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-26T21:08:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589430?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589429?source=rss-消費減税の可否 自民で意見集約案",
       "title": "消費減税の可否 自民で意見集約案",
@@ -189,24 +216,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589403?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589402?source=rss-佐野日大がサヨナラ弾で優勝 栃木",
-      "title": "佐野日大がサヨナラ弾で優勝 栃木",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-26T09:53:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589402?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589397?source=rss-副首都法の議論不十分66% 共同",
-      "title": "副首都法の議論不十分66% 共同",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-26T09:26:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589397?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589390?source=rss-夏休み宿題 猛暑で植物観察に異変",
       "title": "夏休み宿題 猛暑で植物観察に異変",
       "source": "Yahoo!ニュース 国内",
@@ -268,15 +277,6 @@
       "publishedAt": "2026-07-26T03:53:49.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589365?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589355?source=rss-山本由伸 日米通算100勝を達成",
-      "title": "山本由伸 日米通算100勝を達成",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-26T02:08:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589355?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/26/news015.html-Meta、Facebookに無料の認証バッジ「Facebook Verified」 自撮り動画で登録、「Meta Verified」とは別",
