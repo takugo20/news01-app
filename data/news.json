@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T19:40:59.069Z",
+  "updatedAt": "2026-07-27T22:11:00.627Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589563?source=rss-落合博満氏 球団のあり方に提言",
+      "title": "落合博満氏 球団のあり方に提言",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-27T21:20:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589563?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589562?source=rss-東野圭吾さん死去 41年で106冊",
+      "title": "東野圭吾さん死去 41年で106冊",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-27T21:10:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589562?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589561?source=rss-赤星憲広氏50歳でパパに 妻に感謝",
       "title": "赤星憲広氏50歳でパパに 妻に感謝",
@@ -270,15 +288,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/27/news090.html"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589526?source=rss-東野圭吾さんが死去 SNSの反応",
-      "title": "東野圭吾さんが死去 SNSの反応",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-27T09:14:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589526?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589519?source=rss-東野圭吾さん 大腸がんのため死去",
       "title": "東野圭吾さん 大腸がんのため死去",
       "source": "Yahoo!ニュース 国内",
@@ -412,15 +421,6 @@
       "publishedAt": "2026-07-27T02:16:37.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589465?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589463?source=rss-やったよー 両親の前で村上が2発",
-      "title": "やったよー 両親の前で村上が2発",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-27T01:56:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589463?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589461?source=rss-首相 支持率下落の原因分からない",
