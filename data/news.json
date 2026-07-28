@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T11:21:46.465Z",
+  "updatedAt": "2026-07-28T14:19:56.279Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,150 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589702?source=rss-九州の交通網やライフライン 影響",
+      "title": "九州の交通網やライフライン 影響",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-28T13:31:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589702?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589699?source=rss-鉄道各社見合わせ 帰宅困難者続出",
+      "title": "鉄道各社見合わせ 帰宅困難者続出",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-28T13:15:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589699?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000250/-NHKのネットサービスが受信契約なしで閲覧可能に 熊本地震受け緊急対応",
+      "title": "NHKのネットサービスが受信契約なしで閲覧可能に 熊本地震受け緊急対応",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T13:13:12.000Z",
+      "description": "7月28日午後4時27分ごろに発生した「令和8年熊本地震」を受け、NHKのインターネットサービス「NHK ONE」が、誰でも閲覧できるようになっている。通常は受信契約者のみアクセス可能だが、緊急対応として防災情報などを公開している。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000250/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000247/-携帯各社、熊本の一部で通信障害 震度7の地震で 他社回線につながる「JAPANローミング」開始",
+      "title": "携帯各社、熊本の一部で通信障害 震度7の地震で 他社回線につながる「JAPANローミング」開始",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T13:12:50.000Z",
+      "description": "NTTドコモやKDDIなどの携帯各社は7月28日、熊本県で最大震度7を観測した地震の影響で、一部地域の携帯電話サービスが利用できない、または利用しづらい状況が発生していると発表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000247/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000246/-熊本で非常時Wi-Fi「00000JAPAN」発動中 KDDIが無料開放、他社ユーザーも利用可",
+      "title": "熊本で非常時Wi-Fi「00000JAPAN」発動中 KDDIが無料開放、他社ユーザーも利用可",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T13:03:11.000Z",
+      "description": "熊本県で7月28日午後4時27分ごろ、最大震度7の地震が発生した。KDDIと傘下のワイヤ・アンド・ワイヤレスは同日午後8時以降、災害用統一SSID「00000JAPAN」で公衆無線LANの無料開放を始めた。IDやパスワードは不要で利用できる。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000246/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000249/-「Xが情報収集に役立たない……」熊本地震で不満の声続出 「Twitterを返して」",
+      "title": "「Xが情報収集に役立たない……」熊本地震で不満の声続出 「Twitterを返して」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T13:00:17.000Z",
+      "description": "",
+      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000249/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000248/-CAMPFIRE、令和8年熊本地震の義援金をクラウドファンディングで募集",
+      "title": "CAMPFIRE、令和8年熊本地震の義援金をクラウドファンディングで募集",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T12:49:02.000Z",
+      "description": "CAMPFIREは、7月28日に発生した令和8年熊本地震を受け、クラウドファンディングの仕組みを使って緊急災害支援金の募集を始めた。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000248/"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589696?source=rss-地震 デマや真偽不明の情報拡散",
+      "title": "地震 デマや真偽不明の情報拡散",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-28T12:41:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589696?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589694?source=rss-熊本県で震度7 最新情報まとめ",
+      "title": "熊本県で震度7 最新情報まとめ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-28T12:08:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589694?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000242/-CHARGESPOT、熊本県84カ所でバッテリー無料開放 震度7の地震受け Ankerも支援表明",
+      "title": "CHARGESPOT、熊本県84カ所でバッテリー無料開放 震度7の地震受け Ankerも支援表明",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T12:06:14.000Z",
+      "description": "7月28日に熊本県で最大震度7を観測する地震が発生したことを受け、モバイルバッテリーを手掛ける複数の企業が被災地への支援を表明している。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000242/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000230/-GMO、浅田真央さん旧ドメイン問題後に表記修正 優良中古ドメインは「AIが選定」",
+      "title": "GMO、浅田真央さん旧ドメイン問題後に表記修正 優良中古ドメインは「AIが選定」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T11:59:54.000Z",
+      "description": "「SEO対策に最適」「アフィリエイトサイトに」「新規サービス・商品サイトに」としていたランキング項目はそれぞれ、「外部リンク数上位」「ドメインオーソリティ上位」「短い文字数」に変更した。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000230/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000240/-X Money、米国で提供開始 送金・預金がXアプリ内で 年最大6％の利回りやメタル製カードも",
+      "title": "X Money、米国で提供開始 送金・預金がXアプリ内で 年最大6％の利回りやメタル製カードも",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T11:57:45.000Z",
+      "description": "米Xは7月27日（現地時間）、金融サービス「X Money」の提供を米国のX PremiumとPremium+の加入者向けに始めた。招待制のβ版を経た本格展開で、預金残高には最大で年6.00％の利息が付く。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000240/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000245/-「子供の目に触れぬよう」……国民・玉木氏、エロ広告規制の意義強調も「表現の自由は党是」",
+      "title": "「子供の目に触れぬよう」……国民・玉木氏、エロ広告規制の意義強調も「表現の自由は党是」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T11:44:59.000Z",
+      "description": "国民民主党の玉木雄一郎代表は先の特別国会に提出した通称「エロ広告規制法案」について、党内で勉強会を開き、内容を見直す可能性に言及した。「同じ内容で再提出していいのかどうか。見直すところ、アップデートできるところはないのか。謙虚に真摯に議論を行いたい」と語った。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000245/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000238/-はてな、11億円流出の調査報告書を公開 偽警察、口外禁止、残業・休出200時間超、孤立……ほころびが連鎖",
+      "title": "はてな、11億円流出の調査報告書を公開 偽警察、口外禁止、残業・休出200時間超、孤立……ほころびが連鎖",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T11:37:14.000Z",
+      "description": "はてなは2026年7月24日、約11億円の資金流出事案に関する特別調査委員会の調査報告書を公開した。経理部長が警察関係者を名乗る詐欺グループの指示でリモート操作アプリを実行し、業務用PCを乗っ取られていたほか、社内体制の不備も明らかになった。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000238/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000244/-堀場製作所、熊本県西原村の工場「大きな人的、物的被害ない」 半導体製品でシェア首位",
+      "title": "堀場製作所、熊本県西原村の工場「大きな人的、物的被害ない」 半導体製品でシェア首位",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T11:32:48.000Z",
+      "description": "堀場製作所は28日、震度6弱を観測した熊本県西原村にある半導体製造装置関連の機器を生産する阿蘇工場について、「大きな人的、物的被害は今のところない」と明らかにした。29日以降の操業は未定という。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000244/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000243/-台湾半導体大手TSMC、熊本工場の状況確認中、従業員は屋外避難 所在エリアは震度5強",
+      "title": "台湾半導体大手TSMC、熊本工場の状況確認中、従業員は屋外避難 所在エリアは震度5強",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T11:29:00.000Z",
+      "description": "半導体大手、台湾積体電路製造（TSMC）日本法人の担当者によると、熊本県で最大震度7を観測した地震を受け、同県内にあるTSMCの工場について状況を確認している。従業員も屋外に避難し、安全が確認されるまで待機しているという。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000243/"
+    },
+    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6583459?source=rss-電気ガス停止 安全優先でどう対応",
       "title": "電気ガス停止 安全優先でどう対応",
       "source": "Yahoo!ニュース 経済",
@@ -43,15 +187,6 @@
       "publishedAt": "2026-07-28T11:09:00.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6583459?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000240/-X Money、米国で提供開始 送金・預金がXアプリ内で 年最大6％の利回りやメタル製カードも",
-      "title": "X Money、米国で提供開始 送金・預金がXアプリ内で 年最大6％の利回りやメタル製カードも",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-28T10:35:57.000Z",
-      "description": "米Xは7月27日（現地時間）、金融サービス「X Money」の提供を米国のX PremiumとPremium+の加入者向けに始めた。招待制のβ版を経た本格展開で、預金残高には最大で年6.00％の利息が付く。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000240/"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589678?source=rss-気象庁「令和8年熊本地震」と命名",
@@ -99,15 +234,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589664?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000238/-はてな、11億円流出の調査報告書を公開 偽警察、口外禁止、残業・休出200時間超、孤立……ほころびが連鎖",
-      "title": "はてな、11億円流出の調査報告書を公開 偽警察、口外禁止、残業・休出200時間超、孤立……ほころびが連鎖",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-28T09:23:07.000Z",
-      "description": "はてなは2026年7月24日、約11億円の資金流出事案に関する特別調査委員会の調査報告書を公開した。経理部長が警察関係者を名乗る詐欺グループの指示でリモート操作アプリを実行し、業務用PCを乗っ取られていたほか、社内体制の不備も明らかになった。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000238/"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589662?source=rss-1週間程度は震度7程度の地震注意",
       "title": "1週間程度は震度7程度の地震注意",
       "source": "Yahoo!ニュース 国内",
@@ -115,15 +241,6 @@
       "publishedAt": "2026-07-28T09:11:31.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589662?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589656?source=rss-熊本県で震度7 最新情報まとめ",
-      "title": "熊本県で震度7 最新情報まとめ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-28T09:08:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589656?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589651?source=rss-震度7の40分後に5弱 地震が相次ぐ",
@@ -187,15 +304,6 @@
       "publishedAt": "2026-07-28T07:52:46.000Z",
       "description": "第三者による不正利用を防ぐため、スマートフォンにPINや顔認証、指紋認証などによるロックが必須で、未設定の場合は利用できない。",
       "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000228/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000230/-GMO、浅田真央さん旧ドメイン問題後に表記修正 優良中古ドメインは「AIが選定」",
-      "title": "GMO、浅田真央さん旧ドメイン問題後に表記修正 優良中古ドメインは「AIが選定」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-28T07:52:13.000Z",
-      "description": "「SEO対策に最適」「アフィリエイトサイトに」「新規サービス・商品サイトに」としていたランキング項目はそれぞれ、「外部リンク数上位」「ドメインオーソリティ上位」「短い文字数」に変更した。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000230/"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000234/-Duolingo、マンガ・アニメ化へ編集者募集 年収最大2576万円、「ちいかわ」のような朝の番組枠目標",
@@ -297,15 +405,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589623?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589620?source=rss-東海でもマンション修繕談合疑い",
-      "title": "東海でもマンション修繕談合疑い",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-28T04:46:35.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589620?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589619?source=rss-板東英二さん死去 86歳",
       "title": "板東英二さん死去 86歳",
       "source": "Yahoo!ニュース スポーツ",
@@ -369,15 +468,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589596?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589595?source=rss-国産米需要が過去最低 輸入が急増",
-      "title": "国産米需要が過去最低 輸入が急増",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-28T01:51:55.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589595?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589593?source=rss-4玉まで同一価格 うどん店の戦略",
       "title": "4玉まで同一価格 うどん店の戦略",
       "source": "Yahoo!ニュース 経済",
@@ -432,15 +522,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589577?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/28/news061.html-Amazon Leo、スマホと直接つながる衛星5105基をFCCに申請 2028年配備へ",
-      "title": "Amazon Leo、スマホと直接つながる衛星5105基をFCCに申請 2028年配備へ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-27T22:51:00.000Z",
-      "description": "Amazonは、低軌道衛星通信「Amazon Leo」でスマホ等と直接通信する「Direct-to-Device System」をFCCに申請した。買収したGlobalstarの周波数等を活用し、最大5105基の新規衛星網を構築。2028年から配備を開始し、圏外エリアでの音声やデータ通信、緊急通報等を提供する。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/28/news061.html"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589570?source=rss-映画ちいかわ「怖さ」演出に磨き",
       "title": "映画ちいかわ「怖さ」演出に磨き",
       "source": "Yahoo!ニュース エンタメ",
@@ -448,15 +529,6 @@
       "publishedAt": "2026-07-27T22:33:24.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589570?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/28/news059.html-NVIDIAやMicrosoftなど30社超、オープンAIの防御ツール共同開発の「Open Secure AI Alliance」設立",
-      "title": "NVIDIAやMicrosoftなど30社超、オープンAIの防御ツール共同開発の「Open Secure AI Alliance」設立",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-27T22:16:00.000Z",
-      "description": "NVIDIAやMicrosoft、SpaceXAIなどは、AIオープンモデルの安全性向上とサイバーセキュリティツール開発を目指すイニシアチブ「Open Secure AI Alliance」を設立した。オープンな技術を活用してソフトウェアの脆弱性修正や防御ツールの共同開発を推進し、過度な規制に対する防御資産としての重要...",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/28/news059.html"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589558?source=rss-NiziU・RIO 当面活動休止を発表",
@@ -486,15 +558,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589550?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/27/news099.html-「こんなのに追われたら……」急斜面もやすやす爆走、中国製の車輪付き四足ロボのデモ動画が話題 最高時速20km超",
-      "title": "「こんなのに追われたら……」急斜面もやすやす爆走、中国製の車輪付き四足ロボのデモ動画が話題 最高時速20km超",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-27T11:50:00.000Z",
-      "description": "中国のロボットメーカーUnitree Roboticsは7月24日（現地時間）、車輪付きの四足ロボット「Unitree Super Athlete AS2-W」が岩場を走るデモ映像を公開した。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/27/news099.html"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589523?source=rss-「生成AIは友人」増 活用か依存か",
       "title": "「生成AIは友人」増 活用か依存か",
       "source": "Yahoo!ニュース IT",
@@ -504,33 +567,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589523?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/27/news097.html-東野圭吾さん死去、Xなどで追悼相次ぐ 「ガリレオ」など数々の人気作、エンジニアから転身",
-      "title": "東野圭吾さん死去、Xなどで追悼相次ぐ 「ガリレオ」など数々の人気作、エンジニアから転身",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-27T11:20:00.000Z",
-      "description": "「ガリレオ」シリーズや「白夜行」などで知られる作家の東野圭吾さんが7月23日未明、大腸がんのため死去したと、講談社が27日に発表した。68歳だった。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/27/news097.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/27/news096.html-警視庁がミストファンを導入 機動隊員の熱中症対策で",
-      "title": "警視庁がミストファンを導入 機動隊員の熱中症対策で",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-27T10:09:00.000Z",
-      "description": "40度以上を超える酷暑日が相次いで観測される中、警視庁が屋外で重要防護施設警備に当たる機動隊員の熱中症対策として、霧状の水を送風機で拡散する「ミストファン」を導入すると発表した。警備1課の高橋大作課長は「隊員が勤務に集中できる環境を整えつつ、積極的な警戒活動に努めていく」と話した。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/27/news096.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/27/news095.html-有識者はGoogleやX、Meta、ドワンゴを名指しで批判……総務省、偽広告や誹謗中傷に発信・拡散前の対策求める",
-      "title": "有識者はGoogleやX、Meta、ドワンゴを名指しで批判……総務省、偽広告や誹謗中傷に発信・拡散前の対策求める",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-27T10:05:00.000Z",
-      "description": "総務省は7月27日、偽広告や誹謗（ひぼう）中傷、青少年保護といったインターネット上の課題を議論する有識者会議を開き、SNS事業者に求める対応について論点をまとめた。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/27/news095.html"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589532?source=rss-声の権利を検討会明記 AIに歯止め",
       "title": "声の権利を検討会明記 AIに歯止め",
       "source": "Yahoo!ニュース IT",
@@ -538,42 +574,6 @@
       "publishedAt": "2026-07-27T10:02:30.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589532?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/27/news092.html-Z世代に聞く次の流行、「AIイラスト」が1位に 「Claude Code」も上位",
-      "title": "Z世代に聞く次の流行、「AIイラスト」が1位に 「Claude Code」も上位",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-27T10:00:00.000Z",
-      "description": "2026年も下半期を迎え、「Z世代」の若者たちがこれから流行ると思うものについて、市場調査会社のアスマーク（東京都渋谷区）などがインターネットでアンケートを実施した。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/27/news092.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/27/news076.html-検索結果に「詐欺ではありません」と表示させる詐欺手口、警視庁が注意喚起 AI要約も餌食に",
-      "title": "検索結果に「詐欺ではありません」と表示させる詐欺手口、警視庁が注意喚起 AI要約も餌食に",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-27T10:00:00.000Z",
-      "description": "警視庁は、SNS型投資詐欺グループがWeb検索の仕組みを悪用し、検索結果に肯定的な情報を並べ、AI要約にも「詐欺ではありません」と表示させる手口を確認した。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/27/news076.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/27/news090.html-ポケカ直営店に顔認証導入 「同一人物が何度も整理券受け取り・入店」に対策",
-      "title": "ポケカ直営店に顔認証導入 「同一人物が何度も整理券受け取り・入店」に対策",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-27T09:19:00.000Z",
-      "description": "ポケモン社は7月24日、ポケモンカードゲームの直営店「ポケモンカードストア」に顔認証システムを導入すると発表した。小学生以上の来店客が対象で、同一人物の入店と整理券の受け取りは1日1回に制限する。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/27/news090.html"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589496?source=rss-テスト中暴走 OpenAI把握に時間",
-      "title": "テスト中暴走 OpenAI把握に時間",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-27T05:58:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589496?source=rss"
     }
   ]
 }
