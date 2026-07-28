@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T19:38:21.937Z",
+  "updatedAt": "2026-07-28T22:08:24.965Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589721?source=rss-熊本厳しい暑さ 熱中症と地震警戒",
+      "title": "熊本厳しい暑さ 熱中症と地震警戒",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-28T20:56:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589721?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589718?source=rss-地震で政府 プッシュ型支援展開へ",
+      "title": "地震で政府 プッシュ型支援展開へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-28T20:29:51.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589718?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589714?source=rss-地震影響 鉄道やフライト情報",
       "title": "地震影響 鉄道やフライト情報",
@@ -243,15 +261,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000239/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589666?source=rss-避難中の熱中症警戒 蒸し暑さ続く",
-      "title": "避難中の熱中症警戒 蒸し暑さ続く",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-28T09:51:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589666?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589634?source=rss-黒柳徹子 板東さんの声が今も耳に",
       "title": "黒柳徹子 板東さんの声が今も耳に",
       "source": "Yahoo!ニュース エンタメ",
@@ -259,15 +268,6 @@
       "publishedAt": "2026-07-28T09:44:06.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589634?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589664?source=rss-高市首相「身を守る行動を」",
-      "title": "高市首相「身を守る行動を」",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-28T09:37:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589664?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589662?source=rss-1週間程度は震度7程度の地震注意",
