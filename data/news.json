@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T05:51:25.427Z",
+  "updatedAt": "2026-07-28T08:41:38.112Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,186 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589651?source=rss-震度7の40分後に5弱 地震が相次ぐ",
+      "title": "震度7の40分後に5弱 地震が相次ぐ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-28T08:36:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589651?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589650?source=rss-川内・玄海・伊方の3原発異常なし",
+      "title": "川内・玄海・伊方の3原発異常なし",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-28T08:29:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589650?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589649?source=rss-中継・気象庁会見 熊本県で震度7",
+      "title": "中継・気象庁会見 熊本県で震度7",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-28T08:28:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589649?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589647?source=rss-災害時 SNS上でのデマなどに注意",
+      "title": "災害時 SNS上でのデマなどに注意",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-28T08:20:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589647?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589646?source=rss-熊本などで停電 最新情報を地図で",
+      "title": "熊本などで停電 最新情報を地図で",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-28T08:18:31.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589646?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589642?source=rss-熊本で震度7 鉄道などの運行情報",
+      "title": "熊本で震度7 鉄道などの運行情報",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-28T08:14:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589642?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589643?source=rss-有明・八代海に最大1mの津波予想",
+      "title": "有明・八代海に最大1mの津波予想",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-28T08:10:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589643?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000231/-Anthropic「一律禁止は提唱していない」 オープンウェイト支持書簡への不参加を説明",
+      "title": "Anthropic「一律禁止は提唱していない」 オープンウェイト支持書簡への不参加を説明",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T08:03:28.000Z",
+      "description": "米Anthropicのダリオ・アモデイCEOが、オープンウェイトモデルを巡る同社の立場を公表した。「一律禁止は求めていない」と強調する一方、安全性向上や防御側の優位性には疑問を呈した。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000231/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000229/-「痺れるほどにミスを繰り返す」Gemini 3.6 Flashは変わった？ 公開から1週間、当初のおバカ回答を今検証する",
+      "title": "「痺れるほどにミスを繰り返す」Gemini 3.6 Flashは変わった？ 公開から1週間、当初のおバカ回答を今検証する",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T07:56:51.000Z",
+      "description": "「痺れるほどにミスを繰り返す」 Xで回答の精度について話題になったGoogleの「Gemini 3.6 Flash」の公開から約1週間経過した。当初報告された数値比較の誤答や架空の魚への回答を改めて検証した。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000229/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000228/-新「マイナアプリ」8月25日提供開始 “端末ロック”必須に",
+      "title": "新「マイナアプリ」8月25日提供開始 “端末ロック”必須に",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T07:52:46.000Z",
+      "description": "第三者による不正利用を防ぐため、スマートフォンにPINや顔認証、指紋認証などによるロックが必須で、未設定の場合は利用できない。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000228/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000230/-GMO、浅田真央さん旧ドメイン問題後に表記修正 優良中古ドメインは「AIが選定」",
+      "title": "GMO、浅田真央さん旧ドメイン問題後に表記修正 優良中古ドメインは「AIが選定」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T07:52:13.000Z",
+      "description": "「SEO対策に最適」「アフィリエイトサイトに」「新規サービス・商品サイトに」としていたランキング項目はそれぞれ、「外部リンク数上位」「ドメインオーソリティ上位」「短い文字数」に変更した。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000230/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000234/-Duolingo、マンガ・アニメ化へ編集者募集 年収最大2576万円、「ちいかわ」のような朝の番組枠目標",
+      "title": "Duolingo、マンガ・アニメ化へ編集者募集 年収最大2576万円、「ちいかわ」のような朝の番組枠目標",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T07:51:42.000Z",
+      "description": "想定される年間基本給は1717万8000円?2576万7100円。加えて株式報酬を支給する。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000234/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000235/-AWSの公式オンラインワークショップ、無料のAWSサンドボックス環境を提供開始 学習用にサービスやコード実行など可能に",
+      "title": "AWSの公式オンラインワークショップ、無料のAWSサンドボックス環境を提供開始 学習用にサービスやコード実行など可能に",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T07:49:23.000Z",
+      "description": "",
+      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000235/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589637?source=rss-熊本県で最大震度7 M7.1と推定",
+      "title": "熊本県で最大震度7 M7.1と推定",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-28T07:44:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589637?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589636?source=rss-有明・八代海に津波注意報",
+      "title": "有明・八代海に津波注意報",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-28T07:40:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589636?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000233/-NVIDIA、サツケバー氏のSSIと長期提携 「Vera Rubin」提供と出資で計算資源を10倍に",
+      "title": "NVIDIA、サツケバー氏のSSIと長期提携 「Vera Rubin」提供と出資で計算資源を10倍に",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T07:37:41.000Z",
+      "description": "NVIDIAと、OpenAI共同創業者のイリヤ・サツケバー氏率いるSafe Superintelligence（SSI）が、長期的な戦略的提携を発表した。NVIDIAはSSIに出資し、次世代プラットフォーム「Vera Rubin」へのアクセスを提供する。これによりSSIは計算資源を1桁（約10倍）拡大できるという。NV...",
+      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000233/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585808?source=rss-安全確保を 地震発生時のNG行動",
+      "title": "安全確保を 地震発生時のNG行動",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-28T07:34:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585808?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589632?source=rss-Apple時価総額 世界首位返り咲き",
+      "title": "Apple時価総額 世界首位返り咲き",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-28T07:14:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589632?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589631?source=rss-東証大幅反落 終値は6万2364円",
+      "title": "東証大幅反落 終値は6万2364円",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-28T06:52:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589631?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589630?source=rss-夏の甲子園 49代表校が出そろう",
+      "title": "夏の甲子園 49代表校が出そろう",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-28T06:48:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589630?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589625?source=rss-西武が印出身投手と育成契約 なぜ",
       "title": "西武が印出身投手と育成契約 なぜ",
@@ -117,15 +297,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589612?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589611?source=rss-老後に焦り「おひとりさま」本音",
-      "title": "老後に焦り「おひとりさま」本音",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-28T03:28:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589611?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589608?source=rss-BYDが日本で軽EV 実質100万円台",
       "title": "BYDが日本で軽EV 実質100万円台",
       "source": "Yahoo!ニュース 経済",
@@ -135,24 +306,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589608?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589609?source=rss-VIVANT「別班」実在せずと小泉氏",
-      "title": "VIVANT「別班」実在せずと小泉氏",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-28T03:02:45.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589609?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589604?source=rss-日経平均 一時3000円以上値下がり",
-      "title": "日経平均 一時3000円以上値下がり",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-28T02:25:55.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589604?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589599?source=rss-相次ぐ夫の転勤 追い詰められた妻",
       "title": "相次ぐ夫の転勤 追い詰められた妻",
       "source": "Yahoo!ニュース 経済",
@@ -160,15 +313,6 @@
       "publishedAt": "2026-07-28T02:22:58.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589599?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589600?source=rss-東日本・東北 激しい雷雨のおそれ",
-      "title": "東日本・東北 激しい雷雨のおそれ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-28T02:22:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589600?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589605?source=rss-高木美帆氏に国民栄誉賞 正式決定",
@@ -207,15 +351,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589593?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589592?source=rss-引退決意の錦織 肩も腰も膝も痛い",
-      "title": "引退決意の錦織 肩も腰も膝も痛い",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-28T01:04:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589592?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589587?source=rss-W杯最優秀弾はカーボベルデDF",
       "title": "W杯最優秀弾はカーボベルデDF",
       "source": "Yahoo!ニュース スポーツ",
@@ -232,15 +367,6 @@
       "publishedAt": "2026-07-28T00:34:47.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589588?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589583?source=rss-食品消費税1% 課題の先送り目立つ",
-      "title": "食品消費税1% 課題の先送り目立つ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-27T23:45:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589583?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589580?source=rss-カラテカ矢部原作映画に櫻井翔ら",
@@ -270,15 +396,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589577?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589575?source=rss-安保目的の通信傍受 自民が提言へ",
-      "title": "安保目的の通信傍受 自民が提言へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-27T22:57:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589575?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/28/news061.html-Amazon Leo、スマホと直接つながる衛星5105基をFCCに申請 2028年配備へ",
       "title": "Amazon Leo、スマホと直接つながる衛星5105基をFCCに申請 2028年配備へ",
       "source": "ITmedia NEWS",
@@ -286,24 +403,6 @@
       "publishedAt": "2026-07-27T22:51:00.000Z",
       "description": "Amazonは、低軌道衛星通信「Amazon Leo」でスマホ等と直接通信する「Direct-to-Device System」をFCCに申請した。買収したGlobalstarの周波数等を活用し、最大5105基の新規衛星網を構築。2028年から配備を開始し、圏外エリアでの音声やデータ通信、緊急通報等を提供する。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/28/news061.html"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589569?source=rss-プルデンシャル 成果主義見直しへ",
-      "title": "プルデンシャル 成果主義見直しへ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-27T22:42:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589569?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589572?source=rss-東野圭吾さん 数年前から体調崩す",
-      "title": "東野圭吾さん 数年前から体調崩す",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-27T22:36:47.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589572?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589570?source=rss-映画ちいかわ「怖さ」演出に磨き",
@@ -340,15 +439,6 @@
       "publishedAt": "2026-07-27T13:55:42.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589557?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589556?source=rss-食品消費税1% 政府・与党が方針",
-      "title": "食品消費税1% 政府・与党が方針",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-27T13:39:24.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589556?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589552?source=rss-アニメ化物議「みいちゃん」声明",
@@ -450,15 +540,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/27/news090.html"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589519?source=rss-東野圭吾さん 大腸がんのため死去",
-      "title": "東野圭吾さん 大腸がんのため死去",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-27T08:35:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589519?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/27/news081.html-メルカリ、梨の転売疑惑に「盗品の出品は確認されず」 誹謗中傷には利用制限も",
       "title": "メルカリ、梨の転売疑惑に「盗品の出品は確認されず」 誹謗中傷には利用制限も",
       "source": "ITmedia NEWS",
@@ -477,15 +558,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589496?source=rss"
     },
     {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589486?source=rss-AIと考案 絶品バーガーで人気店に",
-      "title": "AIと考案 絶品バーガーで人気店に",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-27T05:12:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589486?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/27/news065.html-暑さ対策が熱い！ 「猛暑対策展」で感じた、転んでもただでは起き上がらない日本人のエネルギー",
       "title": "暑さ対策が熱い！ 「猛暑対策展」で感じた、転んでもただでは起き上がらない日本人のエネルギー",
       "source": "ITmedia NEWS",
@@ -502,78 +574,6 @@
       "publishedAt": "2026-07-27T03:13:00.000Z",
       "description": "「めっちゃカメレオン」の開発者レモリオン氏とはがねいろ氏は7月26日、公式Discordサーバの乗っ取り被害を報告した。MODマップのマルウェア対策を進める作業中に担当者のPCが感染し、攻撃者が管理権限を奪ったという。サーバは現在復旧している。",
       "url": "https://www.itmedia.co.jp/news/articles/2607/27/news067.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/27/news047.html-「ニューロマンサー」実写ドラマ、Apple TV+で2027年1月配信開始へ",
-      "title": "「ニューロマンサー」実写ドラマ、Apple TV+で2027年1月配信開始へ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-26T22:56:00.000Z",
-      "description": "Appleは、ウィリアム・ギブスンのSF小説をドラマ化した「ニューロマンサー」の初ティーザー動画を公開した。全10話構成で2027年1月22日から配信を開始する。主役のケイス役をカラム・ターナー、モリイ役をブリアナ・ミドルトンが演じ、原作者のギブスンも出来栄えに満足感を示している。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/27/news047.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/27/news021.html-「iPhone高騰」はこれからも続く？ 中国CXMTに近づくApple、メモリ競合へのけん制が不発に終わりそうなワケ【後編】",
-      "title": "「iPhone高騰」はこれからも続く？ 中国CXMTに近づくApple、メモリ競合へのけん制が不発に終わりそうなワケ【後編】",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-26T22:00:00.000Z",
-      "description": "前編「Appleはもう『メモリのお得意様』ではない？ NVIDIAだけでiPhone数億台分、苦境に陥った”買いたたき王者”のいま」では、米Appleによる中華メモリメーカー・CXMTへの接近と、その対応にはあまり意味がないのでは？ という疑問を述べた。後編では筆者がそう考える背景をご紹介したい。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/27/news021.html"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589372?source=rss-Joshin導入「ピース」で勤怠打刻",
-      "title": "Joshin導入「ピース」で勤怠打刻",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-26T05:03:58.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589372?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/26/news015.html-Meta、Facebookに無料の認証バッジ「Facebook Verified」 自撮り動画で登録、「Meta Verified」とは別",
-      "title": "Meta、Facebookに無料の認証バッジ「Facebook Verified」 自撮り動画で登録、「Meta Verified」とは別",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-26T00:42:00.000Z",
-      "description": "Metaは、Facebookアカウントのユーザーが実在の人間であることを示す無料バッジ「Facebook Verified」を発表した。短い自撮り動画をプロフィール写真と照合する方式で、数分程度で登録できる。バッジはMarketplaceやグループ、プロフィールに表示される。有料サブスクリプション「Meta Verif...",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/26/news015.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/26/news010.html-海外の新作バカゲー「電車アタック」にマンガ家が感心した理由 ブッ飛んだ内容と完成度の高さ、そして“日本”",
-      "title": "海外の新作バカゲー「電車アタック」にマンガ家が感心した理由 ブッ飛んだ内容と完成度の高さ、そして“日本”",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-25T22:14:00.000Z",
-      "description": "スペインのインディースタジオから発売された「電車アタック」。近未来の日本を舞台に、電車をドリフトさせたりジャンプさせたりのバカゲーですが、実は全体的にかなり完成度の高いゲームでした。しかも日本をよく研究していました。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/26/news010.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/26/news014.html-MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず",
-      "title": "MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-25T21:51:00.000Z",
-      "description": "MicrosoftやNVIDIA、Metaなど30社以上の米国の企業や団体が、オープンウェイトAIモデルへの過度な規制回避を求める共同書簡を公開した。オープンモデルをAIエコシステムの基盤と位置付け、開発や評価におけるメリットとイノベーション促進を強調。中国企業の急速な台頭や技術流出を懸念する政権の規制動向に対し牽制を...",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/26/news014.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/24/news098.html-仕事外のネット利用「平日4時間以上」は抑うつ傾向と関連 富山大が調査",
-      "title": "仕事外のネット利用「平日4時間以上」は抑うつ傾向と関連 富山大が調査",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-24T23:30:00.000Z",
-      "description": "富山大学の研究グループは、地方公務員3403人を対象とした調査で、仕事外に平日4時間以上インターネットを利用する人は、2時間未満の人に比べて抑うつ症状を有する傾向が高いと発表した。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/24/news098.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/25/news015.html-“上下2階建てカメラ”の実力は？ 「OsmoPocket 4P」は撮影の幅をぐっと広げたジンバルカメラだった",
-      "title": "“上下2階建てカメラ”の実力は？ 「OsmoPocket 4P」は撮影の幅をぐっと広げたジンバルカメラだった",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-24T23:29:00.000Z",
-      "description": "ジンバルカメラは広角仕様なので望遠も使えたらいいのに……と思ってたら、ちゃんと開発されていたのだ。広角+中望遠のデュアルカメラ構成化である。ジンバルカメラの定番であるDJIの「Osmo Pocket 4P」を使ってみた。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/25/news015.html"
     }
   ]
 }
