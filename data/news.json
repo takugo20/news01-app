@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T08:41:38.112Z",
+  "updatedAt": "2026-07-28T11:21:46.465Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,96 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6583459?source=rss-電気ガス停止 安全優先でどう対応",
+      "title": "電気ガス停止 安全優先でどう対応",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-28T11:09:00.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6583459?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000240/-X Money、米国で提供開始 送金・預金がXアプリ内で 年最大6％の利回りやメタル製カードも",
+      "title": "X Money、米国で提供開始 送金・預金がXアプリ内で 年最大6％の利回りやメタル製カードも",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T10:35:57.000Z",
+      "description": "米Xは7月27日（現地時間）、金融サービス「X Money」の提供を米国のX PremiumとPremium+の加入者向けに始めた。招待制のβ版を経た本格展開で、預金残高には最大で年6.00％の利息が付く。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000240/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589678?source=rss-気象庁「令和8年熊本地震」と命名",
+      "title": "気象庁「令和8年熊本地震」と命名",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-28T10:35:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589678?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000239/-通信各社の災害用伝言サービスやLINEの「安否確認」が稼働 熊本県で最大震度7の地震",
+      "title": "通信各社の災害用伝言サービスやLINEの「安否確認」が稼働 熊本県で最大震度7の地震",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T10:00:44.000Z",
+      "description": "28日の午後4時27分ごろに熊本県熊本地方で発生した最大震度7の地震を受け、通信各社の災害用伝言サービスやLINEの「＃LINE安否確認」が稼働している。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000239/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589666?source=rss-避難中の熱中症警戒 蒸し暑さ続く",
+      "title": "避難中の熱中症警戒 蒸し暑さ続く",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-28T09:51:12.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589666?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589634?source=rss-黒柳徹子 板東さんの声が今も耳に",
+      "title": "黒柳徹子 板東さんの声が今も耳に",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-28T09:44:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589634?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589664?source=rss-高市首相「身を守る行動を」",
+      "title": "高市首相「身を守る行動を」",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-28T09:37:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589664?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000238/-はてな、11億円流出の調査報告書を公開 偽警察、口外禁止、残業・休出200時間超、孤立……ほころびが連鎖",
+      "title": "はてな、11億円流出の調査報告書を公開 偽警察、口外禁止、残業・休出200時間超、孤立……ほころびが連鎖",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T09:23:07.000Z",
+      "description": "はてなは2026年7月24日、約11億円の資金流出事案に関する特別調査委員会の調査報告書を公開した。経理部長が警察関係者を名乗る詐欺グループの指示でリモート操作アプリを実行し、業務用PCを乗っ取られていたほか、社内体制の不備も明らかになった。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000238/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589662?source=rss-1週間程度は震度7程度の地震注意",
+      "title": "1週間程度は震度7程度の地震注意",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-28T09:11:31.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589662?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589656?source=rss-熊本県で震度7 最新情報まとめ",
+      "title": "熊本県で震度7 最新情報まとめ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-28T09:08:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589656?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589651?source=rss-震度7の40分後に5弱 地震が相次ぐ",
       "title": "震度7の40分後に5弱 地震が相次ぐ",
       "source": "Yahoo!ニュース 国内",
@@ -43,24 +133,6 @@
       "publishedAt": "2026-07-28T08:36:37.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589651?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589650?source=rss-川内・玄海・伊方の3原発異常なし",
-      "title": "川内・玄海・伊方の3原発異常なし",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-28T08:29:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589650?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589649?source=rss-中継・気象庁会見 熊本県で震度7",
-      "title": "中継・気象庁会見 熊本県で震度7",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-28T08:28:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589649?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589647?source=rss-災害時 SNS上でのデマなどに注意",
@@ -88,15 +160,6 @@
       "publishedAt": "2026-07-28T08:14:57.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589642?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589643?source=rss-有明・八代海に最大1mの津波予想",
-      "title": "有明・八代海に最大1mの津波予想",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-28T08:10:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589643?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000231/-Anthropic「一律禁止は提唱していない」 オープンウェイト支持書簡への不参加を説明",
@@ -162,15 +225,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589637?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589636?source=rss-有明・八代海に津波注意報",
-      "title": "有明・八代海に津波注意報",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-28T07:40:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589636?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000233/-NVIDIA、サツケバー氏のSSIと長期提携 「Vera Rubin」提供と出資で計算資源を10倍に",
       "title": "NVIDIA、サツケバー氏のSSIと長期提携 「Vera Rubin」提供と出資で計算資源を10倍に",
       "source": "ITmedia NEWS",
@@ -180,15 +234,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000233/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6585808?source=rss-安全確保を 地震発生時のNG行動",
-      "title": "安全確保を 地震発生時のNG行動",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-28T07:34:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585808?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589632?source=rss-Apple時価総額 世界首位返り咲き",
       "title": "Apple時価総額 世界首位返り咲き",
       "source": "Yahoo!ニュース IT",
@@ -196,15 +241,6 @@
       "publishedAt": "2026-07-28T07:14:16.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589632?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589631?source=rss-東証大幅反落 終値は6万2364円",
-      "title": "東証大幅反落 終値は6万2364円",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-28T06:52:03.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589631?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589630?source=rss-夏の甲子園 49代表校が出そろう",
@@ -441,15 +477,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589557?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589552?source=rss-アニメ化物議「みいちゃん」声明",
-      "title": "アニメ化物議「みいちゃん」声明",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-27T13:26:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589552?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589550?source=rss-静岡県の偽サイト発見 今年4件目",
       "title": "静岡県の偽サイト発見 今年4件目",
       "source": "Yahoo!ニュース IT",
@@ -540,15 +567,6 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/27/news090.html"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/27/news081.html-メルカリ、梨の転売疑惑に「盗品の出品は確認されず」 誹謗中傷には利用制限も",
-      "title": "メルカリ、梨の転売疑惑に「盗品の出品は確認されず」 誹謗中傷には利用制限も",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-27T06:15:00.000Z",
-      "description": "メルカリは7月24日、公式Xで、梨の盗難報道を受けて関連する出品状況の確認を進めていると発表した。現時点で盗品とみられる出品はないとした上で、根拠のない情報に基づく出品者への誹謗（ひぼう）中傷を控えるよう呼びかけている。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/27/news081.html"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589496?source=rss-テスト中暴走 OpenAI把握に時間",
       "title": "テスト中暴走 OpenAI把握に時間",
       "source": "Yahoo!ニュース IT",
@@ -556,24 +574,6 @@
       "publishedAt": "2026-07-27T05:58:51.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589496?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/27/news065.html-暑さ対策が熱い！ 「猛暑対策展」で感じた、転んでもただでは起き上がらない日本人のエネルギー",
-      "title": "暑さ対策が熱い！ 「猛暑対策展」で感じた、転んでもただでは起き上がらない日本人のエネルギー",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-27T03:46:00.000Z",
-      "description": "気温が40℃に近い日が当たり前になっている昨今の夏では、当然対策が求められる。そんな事態に大変参考になる展示会、「猛暑対策展」をみてきた。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/27/news065.html"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/27/news067.html-「めっちゃカメレオン」公式Discord乗っ取り 担当者PCがマルウェア感染、管理者が全員BANに 現在は復旧",
-      "title": "「めっちゃカメレオン」公式Discord乗っ取り 担当者PCがマルウェア感染、管理者が全員BANに 現在は復旧",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-27T03:13:00.000Z",
-      "description": "「めっちゃカメレオン」の開発者レモリオン氏とはがねいろ氏は7月26日、公式Discordサーバの乗っ取り被害を報告した。MODマップのマルウェア対策を進める作業中に担当者のPCが感染し、攻撃者が管理権限を奪ったという。サーバは現在復旧している。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/27/news067.html"
     }
   ]
 }
