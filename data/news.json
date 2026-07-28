@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T16:43:17.080Z",
+  "updatedAt": "2026-07-28T19:38:21.937Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589714?source=rss-地震影響 鉄道やフライト情報",
+      "title": "地震影響 鉄道やフライト情報",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-28T18:27:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589714?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589712?source=rss-村上宗隆 故郷の地震「心苦しい」",
+      "title": "村上宗隆 故郷の地震「心苦しい」",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-28T17:52:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589712?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589711?source=rss-電池や通信 スマホの災害時の対策",
+      "title": "電池や通信 スマホの災害時の対策",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-28T17:27:29.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589711?source=rss"
+    },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000253/-熊本地震の緊急支援募金、「Yahoo!ネット募金」が受付開始 PayPayやVポイント、クレカに対応",
       "title": "熊本地震の緊急支援募金、「Yahoo!ネット募金」が受付開始 PayPayやVポイント、クレカに対応",
@@ -279,15 +306,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589646?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589642?source=rss-熊本で震度7 鉄道などの運行情報",
-      "title": "熊本で震度7 鉄道などの運行情報",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-28T08:14:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589642?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000231/-Anthropic「一律禁止は提唱していない」 オープンウェイト支持書簡への不参加を説明",
       "title": "Anthropic「一律禁止は提唱していない」 オープンウェイト支持書簡への不参加を説明",
       "source": "ITmedia NEWS",
@@ -486,15 +504,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589593?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589587?source=rss-W杯最優秀弾はカーボベルデDF",
-      "title": "W杯最優秀弾はカーボベルデDF",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-28T00:47:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589587?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589588?source=rss-藤原竜也「顔レタス」担当者思い",
       "title": "藤原竜也「顔レタス」担当者思い",
       "source": "Yahoo!ニュース 経済",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-07-27T11:30:52.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589523?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589532?source=rss-声の権利を検討会明記 AIに歯止め",
-      "title": "声の権利を検討会明記 AIに歯止め",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-27T10:02:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589532?source=rss"
     }
   ]
 }
