@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T14:19:56.279Z",
+  "updatedAt": "2026-07-28T16:43:17.080Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,24 @@
   "errors": [],
   "items": [
     {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000253/-熊本地震の緊急支援募金、「Yahoo!ネット募金」が受付開始 PayPayやVポイント、クレカに対応",
+      "title": "熊本地震の緊急支援募金、「Yahoo!ネット募金」が受付開始 PayPayやVポイント、クレカに対応",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T15:05:42.000Z",
+      "description": "LINEヤフーは7月28日、同日発生した「令和8年熊本地震」の緊急支援募金の受け付けを「Yahoo!ネット募金」で始めた。ピースウィンズ・ジャパンなど7団体の募金プロジェクトを掲載し、PayPayやクレジットカード、Vポイントで寄付できる。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000253/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000247/-携帯各社、熊本の一部で通信障害 震度7の地震で 他社回線につながる「JAPANローミング」開始【追記】",
+      "title": "携帯各社、熊本の一部で通信障害 震度7の地震で 他社回線につながる「JAPANローミング」開始【追記】",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T14:37:45.000Z",
+      "description": "NTTドコモやKDDIなどの携帯各社は7月28日、熊本県で最大震度7を観測した地震の影響で、一部地域の携帯電話サービスが利用できない、または利用しづらい状況が発生していると発表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000247/"
+    },
+    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589702?source=rss-九州の交通網やライフライン 影響",
       "title": "九州の交通網やライフライン 影響",
       "source": "Yahoo!ニュース 経済",
@@ -61,15 +79,6 @@
       "publishedAt": "2026-07-28T13:13:12.000Z",
       "description": "7月28日午後4時27分ごろに発生した「令和8年熊本地震」を受け、NHKのインターネットサービス「NHK ONE」が、誰でも閲覧できるようになっている。通常は受信契約者のみアクセス可能だが、緊急対応として防災情報などを公開している。",
       "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000250/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000247/-携帯各社、熊本の一部で通信障害 震度7の地震で 他社回線につながる「JAPANローミング」開始",
-      "title": "携帯各社、熊本の一部で通信障害 震度7の地震で 他社回線につながる「JAPANローミング」開始",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-28T13:12:50.000Z",
-      "description": "NTTドコモやKDDIなどの携帯各社は7月28日、熊本県で最大震度7を観測した地震の影響で、一部地域の携帯電話サービスが利用できない、または利用しづらい状況が発生していると発表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000247/"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000246/-熊本で非常時Wi-Fi「00000JAPAN」発動中 KDDIが無料開放、他社ユーザーも利用可",
@@ -502,15 +511,6 @@
       "publishedAt": "2026-07-27T23:35:46.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589580?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/28/news033.html-「あ、その情報メモしたい！」を叶えるワイヤレスイヤフォン、Nothing「Ear (3a)」",
-      "title": "「あ、その情報メモしたい！」を叶えるワイヤレスイヤフォン、Nothing「Ear (3a)」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-27T23:29:00.000Z",
-      "description": "ロンドン発のテクノロジーブランド、Nothingから最新のワイヤレスイヤフォン「Ear (3a)」が登場しました。デザインと基本性能の高さに加え、今回の目玉といえるのが「オーディオスナップショット」という機能です。",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/28/news033.html"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589577?source=rss-「セクストーション」相談が急増",
