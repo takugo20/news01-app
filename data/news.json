@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T22:08:24.965Z",
+  "updatedAt": "2026-07-29T03:10:44.214Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,193 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589721?source=rss-熊本厳しい暑さ 熱中症と地震警戒",
-      "title": "熊本厳しい暑さ 熱中症と地震警戒",
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589754?source=rss-非常時Wi-Fi 偽00000JAPAN注意",
+      "title": "非常時Wi-Fi 偽00000JAPAN注意",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-29T02:57:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589754?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000266/-TSMC熊本工場、段階的に通常操業へ 熊本の地震で一時中断、従業員の無事確認 台湾報道",
+      "title": "TSMC熊本工場、段階的に通常操業へ 熊本の地震で一時中断、従業員の無事確認 台湾報道",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-29T02:48:13.000Z",
+      "description": "半導体大手の台湾TSMCは7月28日夜、同日午後の最大震度7の地震で操業を一時中断した子会社JASM（熊本県菊陽町）について、従業員全員の無事を確認し、段階的に通常操業に戻りつつあると回答した。台湾紙・経済日報が報じた。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000266/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589751?source=rss-大谷が23号 先頭打者ホームラン",
+      "title": "大谷が23号 先頭打者ホームラン",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-29T02:37:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589751?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589749?source=rss-熊本で地震 46の医療機関が被災",
+      "title": "熊本で地震 46の医療機関が被災",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-29T02:33:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589749?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589750?source=rss-最低賃金の目安 時給1176円に決定",
+      "title": "最低賃金の目安 時給1176円に決定",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-29T02:26:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589750?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589748?source=rss-熊本地震 半導体生産に影響恐れも",
+      "title": "熊本地震 半導体生産に影響恐れも",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-29T02:23:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589748?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000264/-熊本の地震で約84センチの地殻変動 国土地理院が観測",
+      "title": "熊本の地震で約84センチの地殻変動 国土地理院が観測",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-29T02:11:56.000Z",
+      "description": "国土地理院は、7月28日に熊本県で発生した最大震度7の地震に伴う地殻変動が観測されたと公表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000264/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000265/-Meta、エルパソのデータセンターをBlackRockと共同開発 総額140億ドル、Metaの出資比率は20％",
+      "title": "Meta、エルパソのデータセンターをBlackRockと共同開発 総額140億ドル、Metaの出資比率は20％",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-29T02:05:50.000Z",
+      "description": "Metaは、BlackRockとテキサス州エルパソのAIデータセンターキャンパスを開発・保有する合弁事業を設立すると発表した。総開発費約140億ドルのうちBlackRock側が80％を保有し、Metaは完成後にキャンパスを賃借する。外部資本を活用してバランスシートの負担を抑えつつ計算基盤を拡大する狙いだ。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000265/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589746?source=rss-YOSHIKI 地震受け1000万円を寄付",
+      "title": "YOSHIKI 地震受け1000万円を寄付",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-29T02:00:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589746?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000258/-熊本「通れた道」マップ、トヨタが公開 ホンダも「通行実績情報マップ」",
+      "title": "熊本「通れた道」マップ、トヨタが公開 ホンダも「通行実績情報マップ」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-29T01:40:07.000Z",
+      "description": "28日に熊本県で発生した最大震度7の地震を受け、トヨタ自動車とホンダがそれぞれ、被災エリアで実際に通行できた道を表示するマップを公開した。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000258/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000232/-企業が広告を「早く、安全に、大量に」作るAI アドビの新ツールが向かう先は“代理店いらず”か",
+      "title": "企業が広告を「早く、安全に、大量に」作るAI アドビの新ツールが向かう先は“代理店いらず”か",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-29T01:33:43.000Z",
+      "description": "生成AIで画像を作るのは速くなった。それでも社外に出す本番の広告には、なかなか使われない。Adobeが7月6日に発表した3つのソリューションは、この「作れるのに使えない」を埋めにきている。ノードをつないで工程そのものを再現可能にする仕組みは、企業とクリエイターのどちらを見ているのか。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000232/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589741?source=rss-地震 首相「調査中含め死者13人」",
+      "title": "地震 首相「調査中含め死者13人」",
       "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-07-28T20:56:07.000Z",
+      "publishedAt": "2026-07-29T01:26:24.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589721?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6589741?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000262/-熊本地震、ふるさと納税で支援受付スタート ふるさとチョイスや楽天で",
+      "title": "熊本地震、ふるさと納税で支援受付スタート ふるさとチョイスや楽天で",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-29T00:48:52.000Z",
+      "description": "「ふるさとチョイス」は専用の災害支援ページをいち早く開設した。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000262/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589736?source=rss-熊本で危険な暑さ予想 熱中症警戒",
+      "title": "熊本で危険な暑さ予想 熱中症警戒",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-29T00:25:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589736?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000259/-MetaのザッカーバーグCEO、WSJ寄稿で「超知能は全員のものであるべき」",
+      "title": "MetaのザッカーバーグCEO、WSJ寄稿で「超知能は全員のものであるべき」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-29T00:14:46.000Z",
+      "description": "Metaのマーク・ザッカーバーグCEOはWall Street Journalに寄稿し、「superintelligence」（超知能）は特定の機関に集中させず広く分散普及させるべきだと主張した。権力の集中によるリスクや司法の公平性、雇用拡大に触れ、オープンな普及が安全と発展につながると強調。Microsoftのナデラ...",
+      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000259/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589734?source=rss-食品消費税4月から1% 首相指示へ",
+      "title": "食品消費税4月から1% 首相指示へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-29T00:05:29.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589734?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000255/-OpenAIやAnthropicなどの従業員、米政府に「AI開発のペース調整を」と提言",
+      "title": "OpenAIやAnthropicなどの従業員、米政府に「AI開発のペース調整を」と提言",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T23:26:08.000Z",
+      "description": "OpenAIやGoogleなどの従業員1000人以上が、AI開発のペース調整に向けた国際的支援を米政府に求める公開書簡を発表した。AI自律化の急速な加速に伴う制御不能リスクを指摘し、開発速度の調整に必要なツール開発を訴える。企業主導のオープンモデル規制回避を求める動きとは対照的な提起となった。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000255/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000257/-熊本地震でTeslaのスーパーチャージャー無料開放 熊本、福岡など九州10カ所",
+      "title": "熊本地震でTeslaのスーパーチャージャー無料開放 熊本、福岡など九州10カ所",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T23:11:28.000Z",
+      "description": "対象は、熊本、宮崎、大分、鹿児島の各1カ所と、福岡県（北九州、福岡、福岡?東、福岡?博多駅南、福岡?中洲川端、福岡?西）の6カ所で、計10カ所。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000257/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000256/-Anthropicのミュトス、暗号アルゴリズムの新たな攻撃法を発見――耐量子署名「HAWK」の強度を半減",
+      "title": "Anthropicのミュトス、暗号アルゴリズムの新たな攻撃法を発見――耐量子署名「HAWK」の強度を半減",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T22:50:56.000Z",
+      "description": "Anthropicは、最上位モデル「Claude Mythos Preview」（ミュトス）を活用し、暗号アルゴリズム自体の数学的欠陥を発見したと発表した。耐量子計算機暗号の署名方式「HAWK」と「AES」の削減版に対し、従来の攻撃を上回る手法を提示した。実運用システムへの影響はないものの、AIによる暗号解読や構造解析...",
+      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000256/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000226/-“脳のゴミ”は鼻から捨てられていた？ 老化で詰まる排出路、薬を鼻から投与で改善 韓国主導チーム研究",
+      "title": "“脳のゴミ”は鼻から捨てられていた？ 老化で詰まる排出路、薬を鼻から投与で改善 韓国主導チーム研究",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T22:00:00.000Z",
+      "description": "韓国の基礎科学研究院やKAISTなどに所属する研究者らがCellで発表した論文「CSF clearance through arachnoid fenestrations to olfactory meningeal lymphatics」は、脳の老廃物を運ぶ「脳脊髄液」が、嗅球（においを感じる領域）周辺のくも膜の穴か...",
+      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000226/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000225/-海外売上3倍超！ とあるラミネーターメーカーが挑んだ日米「商慣習の壁」",
+      "title": "海外売上3倍超！ とあるラミネーターメーカーが挑んだ日米「商慣習の壁」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-28T22:00:00.000Z",
+      "description": "グローバルニッチは高い技術力を持つ一方で、知名度が実力に比べて劣り、ITを駆使して海外でのブランディングや販売に生かしていることも多い。この連載では、こうした企業のIT戦略をインタビューで深堀りする。印刷物をラミネートする機械を製造・販売するラミーコーポレーションを取り上げる。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000225/"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589718?source=rss-地震で政府 プッシュ型支援展開へ",
@@ -106,15 +286,6 @@
       "publishedAt": "2026-07-28T13:31:06.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589702?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589699?source=rss-鉄道各社見合わせ 帰宅困難者続出",
-      "title": "鉄道各社見合わせ 帰宅困難者続出",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-28T13:15:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589699?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000250/-NHKのネットサービスが受信契約なしで閲覧可能に 熊本地震受け緊急対応",
@@ -189,51 +360,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000230/"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000240/-X Money、米国で提供開始 送金・預金がXアプリ内で 年最大6％の利回りやメタル製カードも",
-      "title": "X Money、米国で提供開始 送金・預金がXアプリ内で 年最大6％の利回りやメタル製カードも",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-28T11:57:45.000Z",
-      "description": "米Xは7月27日（現地時間）、金融サービス「X Money」の提供を米国のX PremiumとPremium+の加入者向けに始めた。招待制のβ版を経た本格展開で、預金残高には最大で年6.00％の利息が付く。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000240/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000245/-「子供の目に触れぬよう」……国民・玉木氏、エロ広告規制の意義強調も「表現の自由は党是」",
-      "title": "「子供の目に触れぬよう」……国民・玉木氏、エロ広告規制の意義強調も「表現の自由は党是」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-28T11:44:59.000Z",
-      "description": "国民民主党の玉木雄一郎代表は先の特別国会に提出した通称「エロ広告規制法案」について、党内で勉強会を開き、内容を見直す可能性に言及した。「同じ内容で再提出していいのかどうか。見直すところ、アップデートできるところはないのか。謙虚に真摯に議論を行いたい」と語った。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000245/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000238/-はてな、11億円流出の調査報告書を公開 偽警察、口外禁止、残業・休出200時間超、孤立……ほころびが連鎖",
-      "title": "はてな、11億円流出の調査報告書を公開 偽警察、口外禁止、残業・休出200時間超、孤立……ほころびが連鎖",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-28T11:37:14.000Z",
-      "description": "はてなは2026年7月24日、約11億円の資金流出事案に関する特別調査委員会の調査報告書を公開した。経理部長が警察関係者を名乗る詐欺グループの指示でリモート操作アプリを実行し、業務用PCを乗っ取られていたほか、社内体制の不備も明らかになった。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000238/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000244/-堀場製作所、熊本県西原村の工場「大きな人的、物的被害ない」 半導体製品でシェア首位",
-      "title": "堀場製作所、熊本県西原村の工場「大きな人的、物的被害ない」 半導体製品でシェア首位",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-28T11:32:48.000Z",
-      "description": "堀場製作所は28日、震度6弱を観測した熊本県西原村にある半導体製造装置関連の機器を生産する阿蘇工場について、「大きな人的、物的被害は今のところない」と明らかにした。29日以降の操業は未定という。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000244/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000243/-台湾半導体大手TSMC、熊本工場の状況確認中、従業員は屋外避難 所在エリアは震度5強",
-      "title": "台湾半導体大手TSMC、熊本工場の状況確認中、従業員は屋外避難 所在エリアは震度5強",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-28T11:29:00.000Z",
-      "description": "半導体大手、台湾積体電路製造（TSMC）日本法人の担当者によると、熊本県で最大震度7を観測した地震を受け、同県内にあるTSMCの工場について状況を確認している。従業員も屋外に避難し、安全が確認されるまで待機しているという。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000243/"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6583459?source=rss-電気ガス停止 安全優先でどう対応",
       "title": "電気ガス停止 安全優先でどう対応",
       "source": "Yahoo!ニュース 経済",
@@ -241,24 +367,6 @@
       "publishedAt": "2026-07-28T11:09:00.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6583459?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589678?source=rss-気象庁「令和8年熊本地震」と命名",
-      "title": "気象庁「令和8年熊本地震」と命名",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-28T10:35:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589678?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000239/-通信各社の災害用伝言サービスやLINEの「安否確認」が稼働 熊本県で最大震度7の地震",
-      "title": "通信各社の災害用伝言サービスやLINEの「安否確認」が稼働 熊本県で最大震度7の地震",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-28T10:00:44.000Z",
-      "description": "28日の午後4時27分ごろに熊本県熊本地方で発生した最大震度7の地震を受け、通信各社の災害用伝言サービスやLINEの「＃LINE安否確認」が稼働している。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000239/"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589634?source=rss-黒柳徹子 板東さんの声が今も耳に",
@@ -279,15 +387,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589662?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589651?source=rss-震度7の40分後に5弱 地震が相次ぐ",
-      "title": "震度7の40分後に5弱 地震が相次ぐ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-28T08:36:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589651?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589647?source=rss-災害時 SNS上でのデマなどに注意",
       "title": "災害時 SNS上でのデマなどに注意",
       "source": "Yahoo!ニュース IT",
@@ -306,51 +405,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589646?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000231/-Anthropic「一律禁止は提唱していない」 オープンウェイト支持書簡への不参加を説明",
-      "title": "Anthropic「一律禁止は提唱していない」 オープンウェイト支持書簡への不参加を説明",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-28T08:03:28.000Z",
-      "description": "米Anthropicのダリオ・アモデイCEOが、オープンウェイトモデルを巡る同社の立場を公表した。「一律禁止は求めていない」と強調する一方、安全性向上や防御側の優位性には疑問を呈した。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000231/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000229/-「痺れるほどにミスを繰り返す」Gemini 3.6 Flashは変わった？ 公開から1週間、当初のおバカ回答を今検証する",
-      "title": "「痺れるほどにミスを繰り返す」Gemini 3.6 Flashは変わった？ 公開から1週間、当初のおバカ回答を今検証する",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-28T07:56:51.000Z",
-      "description": "「痺れるほどにミスを繰り返す」 Xで回答の精度について話題になったGoogleの「Gemini 3.6 Flash」の公開から約1週間経過した。当初報告された数値比較の誤答や架空の魚への回答を改めて検証した。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000229/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000228/-新「マイナアプリ」8月25日提供開始 “端末ロック”必須に",
-      "title": "新「マイナアプリ」8月25日提供開始 “端末ロック”必須に",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-28T07:52:46.000Z",
-      "description": "第三者による不正利用を防ぐため、スマートフォンにPINや顔認証、指紋認証などによるロックが必須で、未設定の場合は利用できない。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000228/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000234/-Duolingo、マンガ・アニメ化へ編集者募集 年収最大2576万円、「ちいかわ」のような朝の番組枠目標",
-      "title": "Duolingo、マンガ・アニメ化へ編集者募集 年収最大2576万円、「ちいかわ」のような朝の番組枠目標",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-28T07:51:42.000Z",
-      "description": "想定される年間基本給は1717万8000円?2576万7100円。加えて株式報酬を支給する。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000234/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000235/-AWSの公式オンラインワークショップ、無料のAWSサンドボックス環境を提供開始 学習用にサービスやコード実行など可能に",
-      "title": "AWSの公式オンラインワークショップ、無料のAWSサンドボックス環境を提供開始 学習用にサービスやコード実行など可能に",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-28T07:49:23.000Z",
-      "description": "",
-      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000235/"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589637?source=rss-熊本県で最大震度7 M7.1と推定",
       "title": "熊本県で最大震度7 M7.1と推定",
       "source": "Yahoo!ニュース 国内",
@@ -358,15 +412,6 @@
       "publishedAt": "2026-07-28T07:44:19.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589637?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000233/-NVIDIA、サツケバー氏のSSIと長期提携 「Vera Rubin」提供と出資で計算資源を10倍に",
-      "title": "NVIDIA、サツケバー氏のSSIと長期提携 「Vera Rubin」提供と出資で計算資源を10倍に",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-28T07:37:41.000Z",
-      "description": "NVIDIAと、OpenAI共同創業者のイリヤ・サツケバー氏率いるSafe Superintelligence（SSI）が、長期的な戦略的提携を発表した。NVIDIAはSSIに出資し、次世代プラットフォーム「Vera Rubin」へのアクセスを提供する。これによりSSIは計算資源を1桁（約10倍）拡大できるという。NV...",
-      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000233/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589632?source=rss-Apple時価総額 世界首位返り咲き",
@@ -477,15 +522,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589599?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589605?source=rss-高木美帆氏に国民栄誉賞 正式決定",
-      "title": "高木美帆氏に国民栄誉賞 正式決定",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-28T02:21:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589605?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589596?source=rss-NiziU・RIO活動休止 当面8人体制",
       "title": "NiziU・RIO活動休止 当面8人体制",
       "source": "Yahoo!ニュース エンタメ",
@@ -493,24 +529,6 @@
       "publishedAt": "2026-07-28T01:58:07.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589596?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589593?source=rss-4玉まで同一価格 うどん店の戦略",
-      "title": "4玉まで同一価格 うどん店の戦略",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-28T01:18:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589593?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589588?source=rss-藤原竜也「顔レタス」担当者思い",
-      "title": "藤原竜也「顔レタス」担当者思い",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-28T00:34:47.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589588?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589580?source=rss-カラテカ矢部原作映画に櫻井翔ら",
@@ -549,15 +567,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589558?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589557?source=rss-東野圭吾さん死去 主演俳優ら追悼",
-      "title": "東野圭吾さん死去 主演俳優ら追悼",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-27T13:55:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589557?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589550?source=rss-静岡県の偽サイト発見 今年4件目",
       "title": "静岡県の偽サイト発見 今年4件目",
       "source": "Yahoo!ニュース IT",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-07-27T13:14:28.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589550?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589523?source=rss-「生成AIは友人」増 活用か依存か",
-      "title": "「生成AIは友人」増 活用か依存か",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-27T11:30:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589523?source=rss"
     }
   ]
 }
