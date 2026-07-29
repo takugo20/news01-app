@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T03:10:44.214Z",
+  "updatedAt": "2026-07-29T08:47:17.826Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,220 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589754?source=rss-非常時Wi-Fi 偽00000JAPAN注意",
-      "title": "非常時Wi-Fi 偽00000JAPAN注意",
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589792?source=rss-銀座熊本館に行列 異例の入場制限",
+      "title": "銀座熊本館に行列 異例の入場制限",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-29T08:44:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589792?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589795?source=rss-爆発受けイオン社長 深くおわび",
+      "title": "爆発受けイオン社長 深くおわび",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-29T08:38:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589795?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589794?source=rss-日本人人口1.2億人割れ 42年ぶり",
+      "title": "日本人人口1.2億人割れ 42年ぶり",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-29T08:31:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589794?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589793?source=rss-イオン熊本で死亡の3人は従業員",
+      "title": "イオン熊本で死亡の3人は従業員",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-29T08:25:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589793?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589791?source=rss-12人死亡6人心肺停止 熊本県発表",
+      "title": "12人死亡6人心肺停止 熊本県発表",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-29T07:55:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589791?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000274/-ソニー、熊本の半導体工場で生産停止 令和8年熊本地震で 建屋などの被害状況を確認中",
+      "title": "ソニー、熊本の半導体工場で生産停止 令和8年熊本地震で 建屋などの被害状況を確認中",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-29T07:43:16.000Z",
+      "description": "ソニーセミコンダクタソリューションズは7月29日、28日に発生した「令和8年熊本地震」による生産拠点への影響を発表した。グループ会社の本社兼生産拠点「熊本テクノロジーセンター」（熊本県菊陽町）では、地震発生直後から生産を停止している。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000274/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589787?source=rss-熊本地震 芸能イベント相次ぎ中止",
+      "title": "熊本地震 芸能イベント相次ぎ中止",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-29T07:38:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589787?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589786?source=rss-生保協会 3万7千人分情報漏えいか",
+      "title": "生保協会 3万7千人分情報漏えいか",
       "source": "Yahoo!ニュース IT",
       "category": "IT",
-      "publishedAt": "2026-07-29T02:57:35.000Z",
+      "publishedAt": "2026-07-29T06:58:06.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589754?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6589786?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/articles/2607/27/news090.html-ポケカ直営店に顔認証導入 「同一人物が何度も整理券受け取り・入店」に対策",
+      "title": "ポケカ直営店に顔認証導入 「同一人物が何度も整理券受け取り・入店」に対策",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-29T06:48:02.000Z",
+      "description": "ポケモン社は7月24日、ポケモンカードゲームの直営店「ポケモンカードストア」に顔認証システムを導入すると発表した。小学生以上の来店客が対象で、同一人物の入店と整理券の受け取りは1日1回に制限する。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/27/news090.html"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589783?source=rss-ネトフリ 英で視聴メディア1位に",
+      "title": "ネトフリ 英で視聴メディア1位に",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-29T06:40:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589783?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589782?source=rss-阪神に打撃か 森下翔太が球宴欠場",
+      "title": "阪神に打撃か 森下翔太が球宴欠場",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-29T06:21:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589782?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000258/-熊本「通れた道」マップ、トヨタが公開 ホンダも「通行実績情報マップ」",
+      "title": "熊本「通れた道」マップ、トヨタが公開 ホンダも「通行実績情報マップ」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-29T05:47:37.000Z",
+      "description": "28日に熊本県で発生した最大震度7の地震を受け、トヨタ自動車とホンダがそれぞれ、被災エリアで実際に通行できた道を表示するマップを公開した。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000258/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000270/-BYDが作った軽EV「RACCO」発売 214万5000円から CEV補助金込みなら200万円切り",
+      "title": "BYDが作った軽EV「RACCO」発売 214万5000円から CEV補助金込みなら200万円切り",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-29T05:00:39.000Z",
+      "description": "BYD Auto Japanは、日本の軽自動車規格向けに専用設計したEV「BYD RACCO」を発売した。価格は214万5000円から。航続距離は最大320kmで、OTA更新や長期保証にも対応する。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000270/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589770?source=rss-熊本で「通れた道」トヨタが公開",
+      "title": "熊本で「通れた道」トヨタが公開",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-29T04:47:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589770?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589768?source=rss-保育施設での事故は3130件 2025年",
+      "title": "保育施設での事故は3130件 2025年",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-29T04:43:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589768?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589771?source=rss-NHK 地震報道でドラマ相次ぎ休止",
+      "title": "NHK 地震報道でドラマ相次ぎ休止",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-29T04:42:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589771?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000271/-停電中の自宅を離れる時は「ブレーカー落とす」 消費者庁などが「通電火災」の注意喚起",
+      "title": "停電中の自宅を離れる時は「ブレーカー落とす」 消費者庁などが「通電火災」の注意喚起",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-29T04:23:29.000Z",
+      "description": "「災害に伴う停電の復旧後、電気製品の損傷や意図しない作動による火災（通電火災）に注意してください」。消費者庁などが「通電火災」の注意喚起している。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000271/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589767?source=rss-村上宗隆 故郷思い「すごく心配」",
+      "title": "村上宗隆 故郷思い「すごく心配」",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-29T04:06:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589767?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589765?source=rss-G若林楽人 西武にトレード移籍",
+      "title": "G若林楽人 西武にトレード移籍",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-29T04:04:29.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589765?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589766?source=rss-九州危険な暑さ 水分や塩分補給を",
+      "title": "九州危険な暑さ 水分や塩分補給を",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-29T03:56:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589766?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000267/-OpenAIの暴走AIエージェント、別企業のシステムにも不正侵入",
+      "title": "OpenAIの暴走AIエージェント、別企業のシステムにも不正侵入",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-29T03:47:59.000Z",
+      "description": "OpenAIの隔離環境を脱出したAIエージェントが、Hugging Faceへのサイバー攻撃に加え、Modal Labsの顧客システムにも侵入していたことが分かった。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000267/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000269/-イオンモール熊本内部の様子も──自衛隊や警察庁、救助活動の動画・写真をSNSで積極発信",
+      "title": "イオンモール熊本内部の様子も──自衛隊や警察庁、救助活動の動画・写真をSNSで積極発信",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-29T03:46:38.000Z",
+      "description": "7月28日午後4時27分ごろに発生した「令和8年熊本地震」を受け、警察庁や自衛隊などが救助活動を進めている。XなどのSNSでも活動の様子を積極的に発信しており、画像や映像を通して動向を確認できる。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000269/"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589762?source=rss-災害時のSNSデマ投稿 見極め方は",
+      "title": "災害時のSNSデマ投稿 見極め方は",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-29T03:40:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589762?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589761?source=rss-00000JAPAN 利用時の注意点",
+      "title": "00000JAPAN 利用時の注意点",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-29T03:14:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589761?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000266/-TSMC熊本工場、段階的に通常操業へ 熊本の地震で一時中断、従業員の無事確認 台湾報道",
@@ -117,15 +324,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589746?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000258/-熊本「通れた道」マップ、トヨタが公開 ホンダも「通行実績情報マップ」",
-      "title": "熊本「通れた道」マップ、トヨタが公開 ホンダも「通行実績情報マップ」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-29T01:40:07.000Z",
-      "description": "28日に熊本県で発生した最大震度7の地震を受け、トヨタ自動車とホンダがそれぞれ、被災エリアで実際に通行できた道を表示するマップを公開した。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000258/"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000232/-企業が広告を「早く、安全に、大量に」作るAI アドビの新ツールが向かう先は“代理店いらず”か",
       "title": "企業が広告を「早く、安全に、大量に」作るAI アドビの新ツールが向かう先は“代理店いらず”か",
       "source": "ITmedia NEWS",
@@ -135,15 +333,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000232/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589741?source=rss-地震 首相「調査中含め死者13人」",
-      "title": "地震 首相「調査中含め死者13人」",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-29T01:26:24.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589741?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000262/-熊本地震、ふるさと納税で支援受付スタート ふるさとチョイスや楽天で",
       "title": "熊本地震、ふるさと納税で支援受付スタート ふるさとチョイスや楽天で",
       "source": "ITmedia NEWS",
@@ -151,15 +340,6 @@
       "publishedAt": "2026-07-29T00:48:52.000Z",
       "description": "「ふるさとチョイス」は専用の災害支援ページをいち早く開設した。",
       "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000262/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589736?source=rss-熊本で危険な暑さ予想 熱中症警戒",
-      "title": "熊本で危険な暑さ予想 熱中症警戒",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-29T00:25:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589736?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000259/-MetaのザッカーバーグCEO、WSJ寄稿で「超知能は全員のものであるべき」",
@@ -225,15 +405,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000225/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589718?source=rss-地震で政府 プッシュ型支援展開へ",
-      "title": "地震で政府 プッシュ型支援展開へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-28T20:29:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589718?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589714?source=rss-地震影響 鉄道やフライト情報",
       "title": "地震影響 鉄道やフライト情報",
       "source": "Yahoo!ニュース 経済",
@@ -241,15 +412,6 @@
       "publishedAt": "2026-07-28T18:27:55.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589714?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589712?source=rss-村上宗隆 故郷の地震「心苦しい」",
-      "title": "村上宗隆 故郷の地震「心苦しい」",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-28T17:52:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589712?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589711?source=rss-電池や通信 スマホの災害時の対策",
@@ -279,51 +441,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000247/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589702?source=rss-九州の交通網やライフライン 影響",
-      "title": "九州の交通網やライフライン 影響",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-28T13:31:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589702?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000250/-NHKのネットサービスが受信契約なしで閲覧可能に 熊本地震受け緊急対応",
-      "title": "NHKのネットサービスが受信契約なしで閲覧可能に 熊本地震受け緊急対応",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-28T13:13:12.000Z",
-      "description": "7月28日午後4時27分ごろに発生した「令和8年熊本地震」を受け、NHKのインターネットサービス「NHK ONE」が、誰でも閲覧できるようになっている。通常は受信契約者のみアクセス可能だが、緊急対応として防災情報などを公開している。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000250/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000246/-熊本で非常時Wi-Fi「00000JAPAN」発動中 KDDIが無料開放、他社ユーザーも利用可",
-      "title": "熊本で非常時Wi-Fi「00000JAPAN」発動中 KDDIが無料開放、他社ユーザーも利用可",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-28T13:03:11.000Z",
-      "description": "熊本県で7月28日午後4時27分ごろ、最大震度7の地震が発生した。KDDIと傘下のワイヤ・アンド・ワイヤレスは同日午後8時以降、災害用統一SSID「00000JAPAN」で公衆無線LANの無料開放を始めた。IDやパスワードは不要で利用できる。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000246/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000249/-「Xが情報収集に役立たない……」熊本地震で不満の声続出 「Twitterを返して」",
-      "title": "「Xが情報収集に役立たない……」熊本地震で不満の声続出 「Twitterを返して」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-28T13:00:17.000Z",
-      "description": "",
-      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000249/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000248/-CAMPFIRE、令和8年熊本地震の義援金をクラウドファンディングで募集",
-      "title": "CAMPFIRE、令和8年熊本地震の義援金をクラウドファンディングで募集",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-28T12:49:02.000Z",
-      "description": "CAMPFIREは、7月28日に発生した令和8年熊本地震を受け、クラウドファンディングの仕組みを使って緊急災害支援金の募集を始めた。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000248/"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589696?source=rss-地震 デマや真偽不明の情報拡散",
       "title": "地震 デマや真偽不明の情報拡散",
       "source": "Yahoo!ニュース IT",
@@ -340,33 +457,6 @@
       "publishedAt": "2026-07-28T12:08:03.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589694?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000242/-CHARGESPOT、熊本県84カ所でバッテリー無料開放 震度7の地震受け Ankerも支援表明",
-      "title": "CHARGESPOT、熊本県84カ所でバッテリー無料開放 震度7の地震受け Ankerも支援表明",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-28T12:06:14.000Z",
-      "description": "7月28日に熊本県で最大震度7を観測する地震が発生したことを受け、モバイルバッテリーを手掛ける複数の企業が被災地への支援を表明している。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000242/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/28/2000000230/-GMO、浅田真央さん旧ドメイン問題後に表記修正 優良中古ドメインは「AIが選定」",
-      "title": "GMO、浅田真央さん旧ドメイン問題後に表記修正 優良中古ドメインは「AIが選定」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-28T11:59:54.000Z",
-      "description": "「SEO対策に最適」「アフィリエイトサイトに」「新規サービス・商品サイトに」としていたランキング項目はそれぞれ、「外部リンク数上位」「ドメインオーソリティ上位」「短い文字数」に変更した。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000230/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6583459?source=rss-電気ガス停止 安全優先でどう対応",
-      "title": "電気ガス停止 安全優先でどう対応",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-28T11:09:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6583459?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589634?source=rss-黒柳徹子 板東さんの声が今も耳に",
@@ -387,15 +477,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589662?source=rss"
     },
     {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589647?source=rss-災害時 SNS上でのデマなどに注意",
-      "title": "災害時 SNS上でのデマなどに注意",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-28T08:20:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589647?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589646?source=rss-熊本などで停電 最新情報を地図で",
       "title": "熊本などで停電 最新情報を地図で",
       "source": "Yahoo!ニュース 国内",
@@ -403,15 +484,6 @@
       "publishedAt": "2026-07-28T08:18:31.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589646?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589637?source=rss-熊本県で最大震度7 M7.1と推定",
-      "title": "熊本県で最大震度7 M7.1と推定",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-28T07:44:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589637?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589632?source=rss-Apple時価総額 世界首位返り咲き",
@@ -477,24 +549,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589623?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589619?source=rss-板東英二さん死去 86歳",
-      "title": "板東英二さん死去 86歳",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-28T04:16:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589619?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589618?source=rss-履正社16得点で圧倒V 7戦66得点",
-      "title": "履正社16得点で圧倒V 7戦66得点",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-28T04:04:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589618?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589612?source=rss-舟山久美子 シンガポール移住報告",
       "title": "舟山久美子 シンガポール移住報告",
       "source": "Yahoo!ニュース エンタメ",
@@ -502,24 +556,6 @@
       "publishedAt": "2026-07-28T03:35:10.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589612?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589608?source=rss-BYDが日本で軽EV 実質100万円台",
-      "title": "BYDが日本で軽EV 実質100万円台",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-28T03:04:01.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589608?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589599?source=rss-相次ぐ夫の転勤 追い詰められた妻",
-      "title": "相次ぐ夫の転勤 追い詰められた妻",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-28T02:22:58.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589599?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589596?source=rss-NiziU・RIO活動休止 当面8人体制",
@@ -531,24 +567,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589596?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589580?source=rss-カラテカ矢部原作映画に櫻井翔ら",
-      "title": "カラテカ矢部原作映画に櫻井翔ら",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-27T23:35:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589580?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589577?source=rss-「セクストーション」相談が急増",
-      "title": "「セクストーション」相談が急増",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-27T23:20:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589577?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589570?source=rss-映画ちいかわ「怖さ」演出に磨き",
       "title": "映画ちいかわ「怖さ」演出に磨き",
       "source": "Yahoo!ニュース エンタメ",
@@ -556,24 +574,6 @@
       "publishedAt": "2026-07-27T22:33:24.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589570?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589558?source=rss-NiziU・RIO 当面活動休止を発表",
-      "title": "NiziU・RIO 当面活動休止を発表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-27T14:09:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589558?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589550?source=rss-静岡県の偽サイト発見 今年4件目",
-      "title": "静岡県の偽サイト発見 今年4件目",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-27T13:14:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589550?source=rss"
     }
   ]
 }
