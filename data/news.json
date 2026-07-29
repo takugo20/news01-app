@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T14:20:03.278Z",
+  "updatedAt": "2026-07-29T16:24:38.829Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,15 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589837?source=rss-避難所は冷房ある教室活用を 通知",
+      "title": "避難所は冷房ある教室活用を 通知",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-29T14:36:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589837?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589829?source=rss-後藤拓実が結婚 相方も知らず絶句",
       "title": "後藤拓実が結婚 相方も知らず絶句",
       "source": "Yahoo!ニュース エンタメ",
@@ -52,15 +61,6 @@
       "publishedAt": "2026-07-29T13:40:41.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589833?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589831?source=rss-熊本県で震度5弱 津波心配なし",
-      "title": "熊本県で震度5弱 津波心配なし",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-29T13:27:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589831?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589825?source=rss-イオン社長「爆発想定しきれず」",
