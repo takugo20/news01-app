@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T16:24:38.829Z",
+  "updatedAt": "2026-07-29T19:23:15.510Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589839?source=rss-米FRB 政策金利の据え置きを決定",
+      "title": "米FRB 政策金利の据え置きを決定",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-29T18:24:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589839?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589837?source=rss-避難所は冷房ある教室活用を 通知",
       "title": "避難所は冷房ある教室活用を 通知",
@@ -214,15 +223,6 @@
       "publishedAt": "2026-07-29T09:01:49.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589802?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589792?source=rss-銀座熊本館に行列 異例の入場制限",
-      "title": "銀座熊本館に行列 異例の入場制限",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-29T08:44:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589792?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589794?source=rss-日本人人口1.2億人割れ 42年ぶり",
