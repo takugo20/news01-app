@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T19:23:15.976Z",
+  "updatedAt": "2026-07-29T22:04:06.075Z",
   "generatedBy": "GitHub Actions",
   "market": {
     "nikkei225": {
@@ -27,9 +27,9 @@
     "city": "宇都宮市",
     "latitude": 36.5657,
     "longitude": 139.8836,
-    "temperature": 22.2,
-    "weatherCode": 1,
-    "windSpeed": 2.6,
+    "temperature": 24,
+    "weatherCode": 0,
+    "windSpeed": 2.4,
     "precipitationProbability": 69,
     "temperatureMax": 33.6,
     "temperatureMin": 22.1,
