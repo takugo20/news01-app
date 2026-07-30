@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T02:43:12.364Z",
+  "updatedAt": "2026-07-30T05:45:24.295Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,139 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589872?source=rss-国民会議 消費減税の課題浮き彫り",
-      "title": "国民会議 消費減税の課題浮き彫り",
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589897?source=rss-地震 データ通信など各社支援策",
+      "title": "地震 データ通信など各社支援策",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-30T05:43:17.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589897?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589896?source=rss-外相など歴任 松本剛明氏が死去",
+      "title": "外相など歴任 松本剛明氏が死去",
       "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-07-30T02:38:57.000Z",
+      "publishedAt": "2026-07-30T05:31:40.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589872?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6589896?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589894?source=rss-防災拠点で存在感 イオンに衝撃",
+      "title": "防災拠点で存在感 イオンに衝撃",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-30T05:16:56.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589894?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589895?source=rss-熊本地震 関連調査中含め30人死亡",
+      "title": "熊本地震 関連調査中含め30人死亡",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-30T05:12:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589895?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589891?source=rss-ソニーG タムロンに買収提案",
+      "title": "ソニーG タムロンに買収提案",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-30T04:35:26.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589891?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589890?source=rss-BTS グラミー賞の新設部門に反発",
+      "title": "BTS グラミー賞の新設部門に反発",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-30T04:12:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589890?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589888?source=rss-FIFA アルゼンチン懲戒手続き開始",
+      "title": "FIFA アルゼンチン懲戒手続き開始",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-30T03:54:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589888?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589884?source=rss-猛暑の熊本 水なく傷口まだ洗えず",
+      "title": "猛暑の熊本 水なく傷口まだ洗えず",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-30T03:43:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589884?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589883?source=rss-食料品の消費税率1%方針 首相表明",
+      "title": "食料品の消費税率1%方針 首相表明",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-30T03:20:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589883?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/30/2000000291/-ドコモ、ahamoを30→40GBに増量 8月1日から 料金据え置きの新キャンペーン",
+      "title": "ドコモ、ahamoを30→40GBに増量 8月1日から 料金据え置きの新キャンペーン",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-30T03:20:28.000Z",
+      "description": "NTTドコモは7月29日、料金プラン「ahamo」と「ドコモ mini」のデータ容量を増量する「データ増量おためしキャンペーン」を、8月1日から実施すると発表した。料金は据え置いたまま、月間利用可能データ量を増やす。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/30/2000000291/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589881?source=rss-ティモンディ高岸宏行 離婚を発表",
+      "title": "ティモンディ高岸宏行 離婚を発表",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-30T03:20:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589881?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589880?source=rss-27年度以降の財政収支は黒字 試算",
+      "title": "27年度以降の財政収支は黒字 試算",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-30T03:05:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589880?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/30/2000000292/-タムロン、ソニーからの買収提案認める 特別委員会を設置して検討",
+      "title": "タムロン、ソニーからの買収提案認める 特別委員会を設置して検討",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-30T02:49:41.000Z",
+      "description": "タムロンは7月30日、ソニーから完全子会社化を目的とした法的拘束力のない提案を受領していると認めた。前日に一部メディアが買収提案を報じたことを受けたもので、東京証券取引所は同日、タムロン株の売買を一時停止した。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/30/2000000292/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589875?source=rss-村上宗隆23号 起死回生の同点ソロ",
+      "title": "村上宗隆23号 起死回生の同点ソロ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-30T02:43:29.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589875?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/30/2000000290/-光学25倍ズームのソニー「RX10 V」はもう“レンズ一体型α” 1台で何でも撮れそうな万能感に浸れるぞ",
+      "title": "光学25倍ズームのソニー「RX10 V」はもう“レンズ一体型α” 1台で何でも撮れそうな万能感に浸れるぞ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-30T02:36:04.000Z",
+      "description": "ソニーの「RX10 V」を使いって、これはもう“レンズ一体型α”だ、と思った。技術の進化と最新の画像処理エンジンを得て、24-600mm相当という超高倍率ズームレンズを持つ、その気になれば何でも撮れるカメラに進化した。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/30/2000000290/"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589869?source=rss-広島GK大迫 移籍準備のため離脱",
@@ -52,15 +178,6 @@
       "publishedAt": "2026-07-30T02:30:03.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589869?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589870?source=rss-熊本地震 関連調査中含め28人死亡",
-      "title": "熊本地震 関連調査中含め28人死亡",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-30T02:16:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589870?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589868?source=rss-交通やライフライン影響続く 九州",
@@ -162,15 +279,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589846?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589844?source=rss-猛暑日続出 関東は天気急変の恐れ",
-      "title": "猛暑日続出 関東は天気急変の恐れ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-29T21:47:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589844?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589841?source=rss-岡本和真が大暴れ 1試合3安打",
       "title": "岡本和真が大暴れ 1試合3安打",
       "source": "Yahoo!ニュース スポーツ",
@@ -225,15 +333,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589825?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589826?source=rss-FIFA W杯運営担う子会社設立計画",
-      "title": "FIFA W杯運営担う子会社設立計画",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-29T12:56:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589826?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000281/-災害時、スマホの電池を少しでも長く 携帯各社のバッテリー節電策まとめ",
       "title": "災害時、スマホの電池を少しでも長く 携帯各社のバッテリー節電策まとめ",
       "source": "ITmedia NEWS",
@@ -252,15 +351,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000280/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589821?source=rss-熊本地震 問われた「企業防災」",
-      "title": "熊本地震 問われた「企業防災」",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-29T11:59:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589821?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589818?source=rss-新庄氏が伝説の「本盗」再現 歓声",
       "title": "新庄氏が伝説の「本盗」再現 歓声",
       "source": "Yahoo!ニュース スポーツ",
@@ -277,33 +367,6 @@
       "publishedAt": "2026-07-29T10:59:13.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589815?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589813?source=rss-佐藤輝明 HRダービー初優勝逃す",
-      "title": "佐藤輝明 HRダービー初優勝逃す",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-29T10:58:15.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589813?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589811?source=rss-週末の熊本は40℃迫る酷暑か 警戒",
-      "title": "週末の熊本は40℃迫る酷暑か 警戒",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-29T10:44:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589811?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589810?source=rss-NHK会長 受信料の値上げ検討せず",
-      "title": "NHK会長 受信料の値上げ検討せず",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-29T10:37:03.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589810?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589804?source=rss-アップル 米国で「リース」を開始",
@@ -414,15 +477,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000270/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589770?source=rss-熊本で「通れた道」トヨタが公開",
-      "title": "熊本で「通れた道」トヨタが公開",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-29T04:47:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589770?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589771?source=rss-NHK 地震報道でドラマ相次ぎ休止",
       "title": "NHK 地震報道でドラマ相次ぎ休止",
       "source": "Yahoo!ニュース エンタメ",
@@ -486,24 +540,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000266/"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000264/-熊本の地震で約84センチの地殻変動 国土地理院が観測",
-      "title": "熊本の地震で約84センチの地殻変動 国土地理院が観測",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-29T02:11:56.000Z",
-      "description": "国土地理院は、7月28日に熊本県で発生した最大震度7の地震に伴う地殻変動が観測されたと公表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000264/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000265/-Meta、エルパソのデータセンターをBlackRockと共同開発 総額140億ドル、Metaの出資比率は20％",
-      "title": "Meta、エルパソのデータセンターをBlackRockと共同開発 総額140億ドル、Metaの出資比率は20％",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-29T02:05:50.000Z",
-      "description": "Metaは、BlackRockとテキサス州エルパソのAIデータセンターキャンパスを開発・保有する合弁事業を設立すると発表した。総開発費約140億ドルのうちBlackRock側が80％を保有し、Metaは完成後にキャンパスを賃借する。外部資本を活用してバランスシートの負担を抑えつつ計算基盤を拡大する狙いだ。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000265/"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589746?source=rss-YOSHIKI 地震受け1000万円を寄付",
       "title": "YOSHIKI 地震受け1000万円を寄付",
       "source": "Yahoo!ニュース エンタメ",
@@ -511,15 +547,6 @@
       "publishedAt": "2026-07-29T02:00:25.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589746?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000232/-企業が広告を「早く、安全に、大量に」作るAI アドビの新ツールが向かう先は“代理店いらず”か",
-      "title": "企業が広告を「早く、安全に、大量に」作るAI アドビの新ツールが向かう先は“代理店いらず”か",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-29T01:33:43.000Z",
-      "description": "生成AIで画像を作るのは速くなった。それでも社外に出す本番の広告には、なかなか使われない。Adobeが7月6日に発表した3つのソリューションは、この「作れるのに使えない」を埋めにきている。ノードをつないで工程そのものを再現可能にする仕組みは、企業とクリエイターのどちらを見ているのか。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000232/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589711?source=rss-電池や通信 スマホの災害時の対策",
@@ -547,33 +574,6 @@
       "publishedAt": "2026-07-28T09:44:06.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589634?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589632?source=rss-Apple時価総額 世界首位返り咲き",
-      "title": "Apple時価総額 世界首位返り咲き",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-28T07:14:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589632?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589624?source=rss-板東英二さん死去 クイズ番組人気",
-      "title": "板東英二さん死去 クイズ番組人気",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-28T05:12:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589624?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589612?source=rss-舟山久美子 シンガポール移住報告",
-      "title": "舟山久美子 シンガポール移住報告",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-28T03:35:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589612?source=rss"
     }
   ]
 }
