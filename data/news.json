@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T22:04:05.956Z",
+  "updatedAt": "2026-07-30T02:43:12.364Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,132 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589872?source=rss-国民会議 消費減税の課題浮き彫り",
+      "title": "国民会議 消費減税の課題浮き彫り",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-30T02:38:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589872?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589869?source=rss-広島GK大迫 移籍準備のため離脱",
+      "title": "広島GK大迫 移籍準備のため離脱",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-30T02:30:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589869?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589870?source=rss-熊本地震 関連調査中含め28人死亡",
+      "title": "熊本地震 関連調査中含め28人死亡",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-30T02:16:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589870?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589868?source=rss-交通やライフライン影響続く 九州",
+      "title": "交通やライフライン影響続く 九州",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-30T01:50:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589868?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/30/2000000286/-Thnking Machinesの共同創業者、また1人OpenAIに復帰へ",
+      "title": "Thnking Machinesの共同創業者、また1人OpenAIに復帰へ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-30T01:21:50.000Z",
+      "description": "Thinking Machines Labの共同創業者リリアン・ウェン氏が、健康上の理由で同社を離れると発表した。同社がオープンウェイトモデル「Inkling」を発表した直後の辞任となる。同氏は古巣のOpenAIに復帰し、AIの再帰的自己改善に関する研究チームを率いる見込み。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/30/2000000286/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589859?source=rss-ハーゲンダッツ 定番商品は日本発",
+      "title": "ハーゲンダッツ 定番商品は日本発",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-30T01:19:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589859?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/30/2000000285/-Microsoftは増収増益、AzureとAI需要が牽引 Copilot有料シート数は3000万超に",
+      "title": "Microsoftは増収増益、AzureとAI需要が牽引 Copilot有料シート数は3000万超に",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-30T00:18:06.000Z",
+      "description": "Microsoftの4?6月期決算は、売上高が前年同期比18％増の900億700万ドル、純利益が31％増の357億6600万ドル。Azure等のクラウド事業やAI領域が好調を維持し、通期売上高は3318億3900万ドルを記録。設備投資を拡大しAIインフラの強化を進めている。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/30/2000000285/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589853?source=rss-結婚が人生の標準形? 単身者の今",
+      "title": "結婚が人生の標準形? 単身者の今",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-29T23:36:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589853?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/30/2000000279/-紙にもiPadにもそのまま書ける驚きのペン、ゼブラ「STYLUS 2WAY」開発秘話 “失敗”を逆手にとったアイデアとは？",
+      "title": "紙にもiPadにもそのまま書ける驚きのペン、ゼブラ「STYLUS 2WAY」開発秘話 “失敗”を逆手にとったアイデアとは？",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-29T23:31:00.000Z",
+      "description": "普通に紙に書けるボールペンが、そのままiPad上ではスタイラスペンになるという「STYLUS 2WAY（スタイラスツーウェイ）」。初めて使った時は、さすがに驚いた。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/30/2000000279/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589852?source=rss-上原氏 ピッチクロック導入に見解",
+      "title": "上原氏 ピッチクロック導入に見解",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-29T23:28:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589852?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589849?source=rss-令和8年熊本地震 最新情報まとめ",
+      "title": "令和8年熊本地震 最新情報まとめ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-29T22:43:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589849?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/30/2000000284/-Meta、売上高28％増も純利益14％減 AI投資拡大で設備投資は最大1450億ドルへ",
+      "title": "Meta、売上高28％増も純利益14％減 AI投資拡大で設備投資は最大1450億ドルへ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-29T22:36:58.000Z",
+      "description": "Metaの4?6月期決算は、売上高は前年同期比28％増の608億100万ドル、純利益は14％減の158億4800万ドルとなった。訴訟費用や人員削減に伴うコスト増が利益を押し下げたものの、広告事業は引き続き好調で、AI投資の成果も事業拡大を支えている。BlackRockとのデータセンター共同開発など、「Meta Comp...",
+      "url": "https://www.itmedia.co.jp/news/article/2607/30/2000000284/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589848?source=rss-4強入り 髙橋藍「苦しかった」",
+      "title": "4強入り 髙橋藍「苦しかった」",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-29T22:31:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589848?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589846?source=rss-イオン爆発 なぜ地震の1時間半後",
+      "title": "イオン爆発 なぜ地震の1時間半後",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-29T22:23:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589846?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589844?source=rss-猛暑日続出 関東は天気急変の恐れ",
       "title": "猛暑日続出 関東は天気急変の恐れ",
@@ -135,15 +261,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589821?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589820?source=rss-九州新幹線 被害の全容つかめず",
-      "title": "九州新幹線 被害の全容つかめず",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-29T11:59:01.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589820?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589818?source=rss-新庄氏が伝説の「本盗」再現 歓声",
       "title": "新庄氏が伝説の「本盗」再現 歓声",
       "source": "Yahoo!ニュース スポーツ",
@@ -151,15 +268,6 @@
       "publishedAt": "2026-07-29T11:32:19.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589818?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589816?source=rss-熊本県内3万戸超で停電 断水も",
-      "title": "熊本県内3万戸超で停電 断水も",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-29T11:23:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589816?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589815?source=rss-四千頭身・後藤拓実が結婚発表",
@@ -234,15 +342,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000276/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589802?source=rss-中日・大野 阪神ユニで球場入り",
-      "title": "中日・大野 阪神ユニで球場入り",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-29T09:01:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589802?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589794?source=rss-日本人人口1.2億人割れ 42年ぶり",
       "title": "日本人人口1.2億人割れ 42年ぶり",
       "source": "Yahoo!ニュース 国内",
@@ -259,15 +358,6 @@
       "publishedAt": "2026-07-29T08:27:32.000Z",
       "description": "NHKの井上樹彦会長が「現時点で受信料の値上げは検討していない」と述べた。井上氏は「受信料の水準も計画の中で示すことになっているが、あくまでも経営の合理化と、受信料外収入の確保などの努力を尽くしていく」とした。",
       "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000275/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589791?source=rss-12人死亡6人心肺停止 熊本県発表",
-      "title": "12人死亡6人心肺停止 熊本県発表",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-29T07:55:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589791?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000274/-ソニー、熊本の半導体工場で生産停止 令和8年熊本地震で 建屋などの被害状況を確認中",
@@ -304,15 +394,6 @@
       "publishedAt": "2026-07-29T06:40:15.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589783?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589782?source=rss-阪神に打撃か 森下翔太が球宴欠場",
-      "title": "阪神に打撃か 森下翔太が球宴欠場",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-29T06:21:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589782?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000258/-熊本「通れた道」マップ、トヨタが公開 ホンダも「通行実績情報マップ」",
@@ -360,15 +441,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000271/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589767?source=rss-村上宗隆 故郷思い「すごく心配」",
-      "title": "村上宗隆 故郷思い「すごく心配」",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-29T04:06:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589767?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000267/-OpenAIの暴走AIエージェント、別企業のシステムにも不正侵入",
       "title": "OpenAIの暴走AIエージェント、別企業のシステムにも不正侵入",
       "source": "ITmedia NEWS",
@@ -414,24 +486,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000266/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589749?source=rss-熊本で地震 46の医療機関が被災",
-      "title": "熊本で地震 46の医療機関が被災",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-29T02:33:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589749?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589750?source=rss-最低賃金の目安 時給1176円に決定",
-      "title": "最低賃金の目安 時給1176円に決定",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-29T02:26:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589750?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000264/-熊本の地震で約84センチの地殻変動 国土地理院が観測",
       "title": "熊本の地震で約84センチの地殻変動 国土地理院が観測",
       "source": "ITmedia NEWS",
@@ -468,51 +522,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000232/"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000262/-熊本地震、ふるさと納税で支援受付スタート ふるさとチョイスや楽天で",
-      "title": "熊本地震、ふるさと納税で支援受付スタート ふるさとチョイスや楽天で",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-29T00:48:52.000Z",
-      "description": "「ふるさとチョイス」は専用の災害支援ページをいち早く開設した。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000262/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000259/-MetaのザッカーバーグCEO、WSJ寄稿で「超知能は全員のものであるべき」",
-      "title": "MetaのザッカーバーグCEO、WSJ寄稿で「超知能は全員のものであるべき」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-29T00:14:46.000Z",
-      "description": "Metaのマーク・ザッカーバーグCEOはWall Street Journalに寄稿し、「superintelligence」（超知能）は特定の機関に集中させず広く分散普及させるべきだと主張した。権力の集中によるリスクや司法の公平性、雇用拡大に触れ、オープンな普及が安全と発展につながると強調。Microsoftのナデラ...",
-      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000259/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589734?source=rss-食品消費税4月から1% 首相指示へ",
-      "title": "食品消費税4月から1% 首相指示へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-29T00:05:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589734?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000255/-OpenAIやAnthropicなどの従業員、米政府に「AI開発のペース調整を」と提言",
-      "title": "OpenAIやAnthropicなどの従業員、米政府に「AI開発のペース調整を」と提言",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-28T23:26:08.000Z",
-      "description": "OpenAIやGoogleなどの従業員1000人以上が、AI開発のペース調整に向けた国際的支援を米政府に求める公開書簡を発表した。AI自律化の急速な加速に伴う制御不能リスクを指摘し、開発速度の調整に必要なツール開発を訴える。企業主導のオープンモデル規制回避を求める動きとは対照的な提起となった。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000255/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000257/-熊本地震でTeslaのスーパーチャージャー無料開放 熊本、福岡など九州10カ所",
-      "title": "熊本地震でTeslaのスーパーチャージャー無料開放 熊本、福岡など九州10カ所",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-28T23:11:28.000Z",
-      "description": "対象は、熊本、宮崎、大分、鹿児島の各1カ所と、福岡県（北九州、福岡、福岡?東、福岡?博多駅南、福岡?中洲川端、福岡?西）の6カ所で、計10カ所。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000257/"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589711?source=rss-電池や通信 スマホの災害時の対策",
       "title": "電池や通信 スマホの災害時の対策",
       "source": "Yahoo!ニュース IT",
@@ -529,15 +538,6 @@
       "publishedAt": "2026-07-28T12:41:35.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589696?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589694?source=rss-熊本県で震度7 最新情報まとめ",
-      "title": "熊本県で震度7 最新情報まとめ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-28T12:08:03.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589694?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589634?source=rss-黒柳徹子 板東さんの声が今も耳に",
