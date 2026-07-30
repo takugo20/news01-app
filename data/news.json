@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T19:39:19.791Z",
+  "updatedAt": "2026-07-30T22:09:22.460Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589965?source=rss-ミヤネ屋後枠 村上信五が金曜MC",
+      "title": "ミヤネ屋後枠 村上信五が金曜MC",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-30T21:12:47.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589965?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589964?source=rss-UEFAが反発 W杯ボイコット表明",
+      "title": "UEFAが反発 W杯ボイコット表明",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-30T21:03:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589964?source=rss"
+    },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/31/2000000314/-熊本地震による通信障害、携帯4社全てで復旧",
       "title": "熊本地震による通信障害、携帯4社全てで復旧",
@@ -396,15 +414,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2607/30/2000000291/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589881?source=rss-ティモンディ高岸宏行 離婚を発表",
-      "title": "ティモンディ高岸宏行 離婚を発表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-30T03:20:24.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589881?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/30/2000000292/-タムロン、ソニーからの買収提案認める 特別委員会を設置して検討",
       "title": "タムロン、ソニーからの買収提案認める 特別委員会を設置して検討",
       "source": "ITmedia NEWS",
@@ -502,15 +511,6 @@
       "publishedAt": "2026-07-29T12:16:34.000Z",
       "description": "警察庁は7月29日、令和8年熊本地震に便乗した詐欺や悪質商法に注意するようXで呼び掛けた。公的機関をかたって義援金を募り、現金や電子マネー、暗号資産をだまし取る手口を挙げている。",
       "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000280/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589818?source=rss-新庄氏が伝説の「本盗」再現 歓声",
-      "title": "新庄氏が伝説の「本盗」再現 歓声",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-29T11:32:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589818?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589804?source=rss-アップル 米国で「リース」を開始",
