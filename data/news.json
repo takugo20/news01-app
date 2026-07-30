@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T14:12:09.319Z",
+  "updatedAt": "2026-07-30T16:38:23.328Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/31/2000000314/-熊本地震による通信障害、携帯4社全てで復旧",
+      "title": "熊本地震による通信障害、携帯4社全てで復旧",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-30T15:45:27.000Z",
+      "description": "NTTドコモ、KDDI、ソフトバンク、楽天モバイルの携帯4社は7月30日、令和8年熊本地震で熊本県内に出ていた通信障害が全て復旧したと発表した。ただし被災地では応急復旧が続き、通信速度が遅くなる場合があるとしている。",
+      "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000314/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589963?source=rss-Netflix「九条の大罪」が映画化",
+      "title": "Netflix「九条の大罪」が映画化",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-30T15:04:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589963?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589962?source=rss-一時1ドル157円台 為替介入か",
+      "title": "一時1ドル157円台 為替介入か",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-30T14:33:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6589962?source=rss"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589959?source=rss-我が家「レッドカーペット」辞退",
       "title": "我が家「レッドカーペット」辞退",
@@ -189,15 +216,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6589935?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6589931?source=rss-備蓄米買い戻し 判断時期巡る課題",
-      "title": "備蓄米買い戻し 判断時期巡る課題",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-30T09:49:26.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589931?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589933?source=rss-3児の母インリン 6時起き市場通う",
       "title": "3児の母インリン 6時起き市場通う",
       "source": "Yahoo!ニュース エンタメ",
@@ -286,15 +304,6 @@
       "publishedAt": "2026-07-30T07:31:36.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589909?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6589908?source=rss-柳楽主演・九条の大罪 映画化決定",
-      "title": "柳楽主演・九条の大罪 映画化決定",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-30T07:30:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589908?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/30/2000000307/-「楽天ドライブ」アプリから「データ漏洩」「ハッキングした」通知？ 運営元「緊急調査中」「通知を開かないで」",
@@ -520,15 +529,6 @@
       "publishedAt": "2026-07-29T09:29:09.000Z",
       "description": "熊本県で震度7を観測した地震を巡り、天気アプリ「Yahoo!天気」の投稿機能を使って断水や停電などのライフライン情報を教え合う動きが、XなどのSNSで話題となっている。",
       "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000277/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/29/2000000278/-PayPayアプリで熊本地震への寄付が可能に 最短3ステップ・1円から",
-      "title": "PayPayアプリで熊本地震への寄付が可能に 最短3ステップ・1円から",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-29T09:13:24.000Z",
-      "description": "PayPay社は7月29日、決済アプリ「PayPay」に寄付機能を追加した。28日に発生した令和8年熊本地震の緊急支援募金にも寄付できる。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000278/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589786?source=rss-生保協会 3万7千人分情報漏えいか",
