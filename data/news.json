@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T11:31:40.315Z",
+  "updatedAt": "2026-07-31T14:19:00.748Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,87 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590082?source=rss-EUが生成AIの監督強化 暴走を抑止",
+      "title": "EUが生成AIの監督強化 暴走を抑止",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-07-31T13:53:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590082?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590080?source=rss-旅行でレンタカー 潜む事故の危険",
+      "title": "旅行でレンタカー 潜む事故の危険",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-31T13:23:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590080?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/31/2000000345/-セブン＆アイ、共通会員IDのPayPay統合を正式発表 ソフトバンクや三井住友カードなどが計3000億円出資",
+      "title": "セブン＆アイ、共通会員IDのPayPay統合を正式発表 ソフトバンクや三井住友カードなどが計3000億円出資",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-07-31T13:22:17.000Z",
+      "description": "セブン＆アイ・ホールディングスとセブン-イレブン・ジャパンは7月31日、ソフトバンク、PayPay、LINEヤフー、三井住友カードとの戦略的パートナーシップを発表した。セブン＆アイの共通会員ID「7iD」を「PayPay ID」に統合する。また、ソフトバンクや三井住友カードなどと資本業務提携も結び、各社から1000億円...",
+      "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000345/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590074?source=rss-お笑い・POISON GIRL BAND解散",
+      "title": "お笑い・POISON GIRL BAND解散",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-07-31T13:13:53.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590074?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590073?source=rss-熊本地震の死者36人に 県発表",
+      "title": "熊本地震の死者36人に 県発表",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-31T12:40:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590073?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590075?source=rss-れいわ新選組 新代表に山本譲司氏",
+      "title": "れいわ新選組 新代表に山本譲司氏",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-07-31T12:39:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590075?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590072?source=rss-バド志田・五十嵐がペア解消",
+      "title": "バド志田・五十嵐がペア解消",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-31T12:32:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590072?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590071?source=rss-約6～9兆円規模の為替介入か",
+      "title": "約6～9兆円規模の為替介入か",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-07-31T12:07:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590071?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590067?source=rss-熊本・有明が甲子園練習 主将誓い",
+      "title": "熊本・有明が甲子園練習 主将誓い",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-07-31T11:40:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590067?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590065?source=rss-被災自治体に支援 税繰り上げ交付",
       "title": "被災自治体に支援 税繰り上げ交付",
       "source": "Yahoo!ニュース 国内",
@@ -52,15 +133,6 @@
       "publishedAt": "2026-07-31T10:52:30.000Z",
       "description": "ソニーグループの陶琳CFOは7月31日の決算説明会で、傘下のソニーがレンズメーカーのタムロンに提案している完全子会社化について「両者が一緒になることで強みを生かせる」と狙いを語った。",
       "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000342/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590059?source=rss-虎とG同率首位も対照的 セV争い",
-      "title": "虎とG同率首位も対照的 セV争い",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-31T10:31:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590059?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590061?source=rss-LINEヤフーに行政指導 総務省",
@@ -279,15 +351,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590032?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590030?source=rss-病院も被災 医療継続の課題浮かぶ",
-      "title": "病院も被災 医療継続の課題浮かぶ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-31T07:04:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590030?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/31/2000000331/-タカラトミー、デュエマアプリで個人情報漏えいか 最大15万5000人分 氏名や住所など閲覧の恐れ",
       "title": "タカラトミー、デュエマアプリで個人情報漏えいか 最大15万5000人分 氏名や住所など閲覧の恐れ",
       "source": "ITmedia NEWS",
@@ -342,24 +405,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590016?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590015?source=rss-KOC準優勝 わらふぢなるお解散",
-      "title": "KOC準優勝 わらふぢなるお解散",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-07-31T03:43:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590015?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590011?source=rss-日銀 政策金利1.0%程度に据え置き",
-      "title": "日銀 政策金利1.0%程度に据え置き",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-31T03:23:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590011?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590006?source=rss-Chromeに13年超潜む脆弱性 AI発見",
       "title": "Chromeに13年超潜む脆弱性 AI発見",
       "source": "Yahoo!ニュース IT",
@@ -367,15 +412,6 @@
       "publishedAt": "2026-07-31T02:57:48.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590006?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590003?source=rss-村上宗隆 MLB1年目で覆した評価",
-      "title": "村上宗隆 MLB1年目で覆した評価",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-07-31T02:52:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590003?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590004?source=rss-東海汽船に事業停止命令へ 国交省",
@@ -430,15 +466,6 @@
       "publishedAt": "2026-07-31T01:10:50.000Z",
       "description": "Thinking Machines Labの共同創業者リリアン・ウェン氏が、健康上の理由で同社を離れると発表した。同社がオープンウェイトモデル「Inkling」を発表した直後の辞任となる。同氏は古巣のOpenAIに復帰し、AIの再帰的自己改善に関する研究チームを率いる見込み。",
       "url": "https://www.itmedia.co.jp/news/article/2607/30/2000000286/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589994?source=rss-熊本地震 関連調査中含め35人死亡",
-      "title": "熊本地震 関連調査中含め35人死亡",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-31T01:09:35.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589994?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6589987?source=rss-UEFAのFIFA大会ボイコット 今後",
@@ -504,15 +531,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000314/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6589958?source=rss-首相 8月3日にも熊本入りで調整",
-      "title": "首相 8月3日にも熊本入りで調整",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-30T13:33:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589958?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/30/2000000313/-防衛省の「クーラー300台」投稿動画でビックカメラのトラックが注目を集める 同社「販売用の在庫を迅速に提供」",
       "title": "防衛省の「クーラー300台」投稿動画でビックカメラのトラックが注目を集める 同社「販売用の在庫を迅速に提供」",
       "source": "ITmedia NEWS",
@@ -529,15 +547,6 @@
       "publishedAt": "2026-07-30T11:07:56.000Z",
       "description": "イオンモール熊本の内部映像を撮影した国産ドローン企業Liberaware。現場を統括したキーマンに捜索活動について聞いた。",
       "url": "https://www.itmedia.co.jp/news/article/2607/30/2000000312/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/30/2000000311/-熊本地震でSNSにデマ拡散 偽の救助要請や募金詐欺、AIを信じ本物を誤判定も",
-      "title": "熊本地震でSNSにデマ拡散 偽の救助要請や募金詐欺、AIを信じ本物を誤判定も",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-30T10:14:27.000Z",
-      "description": "防災・危機管理サービスを手掛ける「スペクティ」は7月29日、熊本県で発生した地震に関し、SNSでデマや誤情報、偽の救助要請、募金詐欺を確認したと明らかにした。生成AIの回答を根拠に、本物の可能性が高い現場の映像を過去のものと決め付けて広める動きも目立ったという。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/30/2000000311/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589922?source=rss-JAL系保険サイト 保険業法違反か",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-07-29T09:38:22.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589804?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589762?source=rss-災害時のSNSデマ投稿 見極め方は",
-      "title": "災害時のSNSデマ投稿 見極め方は",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-29T03:40:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589762?source=rss"
     }
   ]
 }
