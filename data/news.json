@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T08:26:41.072Z",
+  "updatedAt": "2026-08-01T10:43:30.095Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,67 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590159?source=rss-中継 甲子園の組み合わせ抽選会",
-      "title": "中継 甲子園の組み合わせ抽選会",
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590181?source=rss-避難者2200人規模受け入れへ 調整",
+      "title": "避難者2200人規模受け入れへ 調整",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-01T10:31:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590181?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590178?source=rss-山本舞香ら 所属巡る報告相次ぐ",
+      "title": "山本舞香ら 所属巡る報告相次ぐ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-01T10:18:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590178?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590174?source=rss-SNS時代に日記 今広がり見せる訳",
+      "title": "SNS時代に日記 今広がり見せる訳",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-01T09:44:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590174?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590173?source=rss-吉川晃司のど不調 公演途中で中止",
+      "title": "吉川晃司のど不調 公演途中で中止",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-01T09:32:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590173?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590172?source=rss-北海道エアシステム 機体トラブル",
+      "title": "北海道エアシステム 機体トラブル",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-01T09:25:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590172?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590169?source=rss-甲子園 横浜と沖縄尚学が初戦激突",
+      "title": "甲子園 横浜と沖縄尚学が初戦激突",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-08-01T07:47:56.000Z",
+      "publishedAt": "2026-08-01T08:54:07.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590159?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6590169?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590170?source=rss-夏の甲子園 組み合わせが決定",
+      "title": "夏の甲子園 組み合わせが決定",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-01T08:50:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590170?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590164?source=rss-BYDオート社長 EV補助金に見解",
@@ -153,15 +207,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590135?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590129?source=rss-モデル松島花 事務所退所を報告",
-      "title": "モデル松島花 事務所退所を報告",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-01T03:10:26.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590129?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590123?source=rss-TDR「DPA」対象10→16に拡大",
       "title": "TDR「DPA」対象10→16に拡大",
       "source": "Yahoo!ニュース 経済",
@@ -169,15 +214,6 @@
       "publishedAt": "2026-08-01T03:08:02.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590123?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590121?source=rss-陽岱鋼が引退会見 稲葉氏登場し涙",
-      "title": "陽岱鋼が引退会見 稲葉氏登場し涙",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-01T02:44:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590121?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590122?source=rss-キオクシアなぜ急成長 背景を解説",
@@ -252,24 +288,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590106?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590108?source=rss-映画ちいかわ 破った「お約束」",
-      "title": "映画ちいかわ 破った「お約束」",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-01T00:02:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590108?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590101?source=rss-円が急伸 2日連続の為替介入か",
-      "title": "円が急伸 2日連続の為替介入か",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-31T23:29:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590101?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590100?source=rss-山下泰裕さん 事故後まひ残る今",
       "title": "山下泰裕さん 事故後まひ残る今",
       "source": "Yahoo!ニュース スポーツ",
@@ -333,15 +351,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590075?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590065?source=rss-被災自治体に支援 税繰り上げ交付",
-      "title": "被災自治体に支援 税繰り上げ交付",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-07-31T11:08:03.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590065?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/31/2000000342/-ソニー、タムロン買収提案の狙いを説明 「イメージング事業の発展につながる」",
       "title": "ソニー、タムロン買収提案の狙いを説明 「イメージング事業の発展につながる」",
       "source": "ITmedia NEWS",
@@ -349,15 +358,6 @@
       "publishedAt": "2026-07-31T10:52:30.000Z",
       "description": "ソニーグループの陶琳CFOは7月31日の決算説明会で、傘下のソニーがレンズメーカーのタムロンに提案している完全子会社化について「両者が一緒になることで強みを生かせる」と狙いを語った。",
       "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000342/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590063?source=rss-新幹線 熊本-新水俣の8月再開困難",
-      "title": "新幹線 熊本-新水俣の8月再開困難",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-07-31T10:19:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590063?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/31/2000000340/-ロシアの「.ru」ドメインが実質使えなくなりそう？ 本人確認義務化でユーザー悲鳴、関連事業者は対応急ぐ",
