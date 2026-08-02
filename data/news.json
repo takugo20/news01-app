@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T19:16:38.171Z",
+  "updatedAt": "2026-08-02T21:58:36.830Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,42 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590328?source=rss-高市内閣の支持率59.2% JNN調査",
+      "title": "高市内閣の支持率59.2% JNN調査",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-02T21:54:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590328?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590326?source=rss-川口&板倉 超遠距離恋愛実らせた",
+      "title": "川口&板倉 超遠距離恋愛実らせた",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-02T21:25:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590326?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590325?source=rss-ゴルフ全英女子 桑木志帆が優勝",
+      "title": "ゴルフ全英女子 桑木志帆が優勝",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-02T21:11:17.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590325?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/03/2000000329/-引きこもりはゲーム内でも交流を好まない、奈良先端大が587人調査 「ゲームで社会復帰」に落とし穴？",
+      "title": "引きこもりはゲーム内でも交流を好まない、奈良先端大が587人調査 「ゲームで社会復帰」に落とし穴？",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-02T21:00:00.000Z",
+      "description": "奈良先端科学技術大学院大学などに所属する研究者らがPLOS ONEで発表した論文「Social marginalization risk and its negative association with socialising preferences in Japanese gamers」は、ひきこもりやニートなどは...",
+      "url": "https://www.itmedia.co.jp/news/article/2608/03/2000000329/"
+    },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590323?source=rss-地震と雲を関係付ける誤情報 注意",
       "title": "地震と雲を関係付ける誤情報 注意",
@@ -162,15 +198,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590293?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590290?source=rss-非常に強い台風 小笠原諸島接近へ",
-      "title": "非常に強い台風 小笠原諸島接近へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-02T10:12:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590290?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590291?source=rss-バレー男子 スロベニアに敗れ4位",
       "title": "バレー男子 スロベニアに敗れ4位",
       "source": "Yahoo!ニュース スポーツ",
@@ -225,15 +252,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590271?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590272?source=rss-スクバル獲得報道 山本由伸は驚き",
-      "title": "スクバル獲得報道 山本由伸は驚き",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-02T07:54:45.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590272?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590273?source=rss-給食がない夏休み 困窮世帯の実態",
       "title": "給食がない夏休み 困窮世帯の実態",
       "source": "Yahoo!ニュース 国内",
@@ -259,15 +277,6 @@
       "publishedAt": "2026-08-02T06:35:24.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590265?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590262?source=rss-熊本地震 芸能界で支援活動広がる",
-      "title": "熊本地震 芸能界で支援活動広がる",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-02T06:12:36.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590262?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590249?source=rss-吉田正尚 由伸の球「一級品」",
@@ -556,15 +565,6 @@
       "publishedAt": "2026-07-30T22:33:00.000Z",
       "description": "Appleの4?6月期決算は、売上高が前年同期比16％増の1094億1700万ドルで過去最高を記録した。iPhoneやMac、サービス部門が力強く牽引した一方、iPadは減収となった。ティム・クックCEOは今回が最後の決算会見となり、ジョン・ターナス次期CEOへの移行が順調に進んでいると語った。",
       "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000315/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/31/2000000282/-入門機だけど「これがいい」 XREALの「xbx a01+」は62gしかない大画面だった",
-      "title": "入門機だけど「これがいい」 XREALの「xbx a01+」は62gしかない大画面だった",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-07-30T22:31:00.000Z",
-      "description": "XREALから登場した「xbx a01+」は、日常のさまざまなシーンで自分だけの大画面を得られるARグラス。実際に使い倒してみると、そこにはスペックからは分かりにくい使い勝手の良さがありました。",
-      "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000282/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589968?source=rss-Apple純利益が27%増 iPhone好調",
