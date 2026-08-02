@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T16:03:07.214Z",
+  "updatedAt": "2026-08-02T19:16:38.171Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590323?source=rss-地震と雲を関係付ける誤情報 注意",
+      "title": "地震と雲を関係付ける誤情報 注意",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-02T16:40:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590323?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590322?source=rss-阪神監督 2失策の前川に奮起促す",
       "title": "阪神監督 2失策の前川に奮起促す",
@@ -385,15 +394,6 @@
       "publishedAt": "2026-08-01T01:57:19.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590116?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590082?source=rss-EUが生成AIの監督強化 暴走を抑止",
-      "title": "EUが生成AIの監督強化 暴走を抑止",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-31T13:53:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590082?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/31/2000000345/-セブン＆アイ、共通会員IDのPayPay統合を正式発表 ソフトバンクや三井住友カードなどが計3000億円出資",
