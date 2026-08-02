@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T13:37:27.096Z",
+  "updatedAt": "2026-08-02T16:03:07.214Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,31 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590314?source=rss-川口春奈&板倉結婚 代表祝福続く",
-      "title": "川口春奈&板倉結婚 代表祝福続く",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590322?source=rss-阪神監督 2失策の前川に奮起促す",
+      "title": "阪神監督 2失策の前川に奮起促す",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-08-02T13:33:17.000Z",
+      "publishedAt": "2026-08-02T14:45:27.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590314?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6590322?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590320?source=rss-板倉結婚 代表から個性溢れる祝福",
+      "title": "板倉結婚 代表から個性溢れる祝福",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-02T14:15:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590320?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590319?source=rss-EU AI規制法で透明性確保を義務化",
+      "title": "EU AI規制法で透明性確保を義務化",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-02T13:58:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590319?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590315?source=rss-爆発前戻るよう指示 店舗運営謝罪",
@@ -241,15 +259,6 @@
       "publishedAt": "2026-08-02T06:12:36.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590262?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590252?source=rss-高校野球地方大会で正午開始 なぜ",
-      "title": "高校野球地方大会で正午開始 なぜ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-02T04:59:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590252?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590249?source=rss-吉田正尚 由伸の球「一級品」",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-07-30T22:14:44.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6589968?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6589922?source=rss-JAL系保険サイト 保険業法違反か",
-      "title": "JAL系保険サイト 保険業法違反か",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-07-30T08:46:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6589922?source=rss"
     }
   ]
 }
