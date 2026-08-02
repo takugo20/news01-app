@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T08:29:27.943Z",
+  "updatedAt": "2026-08-02T10:43:17.603Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,69 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590294?source=rss-3日 熊本の複数地点40℃以上予想",
+      "title": "3日 熊本の複数地点40℃以上予想",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-02T10:39:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590294?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590293?source=rss-てんちむ 第2子妊娠を発表",
+      "title": "てんちむ 第2子妊娠を発表",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-02T10:33:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590293?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590290?source=rss-非常に強い台風 小笠原諸島接近へ",
+      "title": "非常に強い台風 小笠原諸島接近へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-02T10:12:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590290?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590291?source=rss-バレー男子 スロベニアに敗れ4位",
+      "title": "バレー男子 スロベニアに敗れ4位",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-02T09:58:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590291?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590286?source=rss-川口春奈と板倉滉 結婚&妊娠発表",
+      "title": "川口春奈と板倉滉 結婚&妊娠発表",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-02T09:11:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590286?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590283?source=rss-地震で商品落下 コストコの回答",
+      "title": "地震で商品落下 コストコの回答",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-02T08:54:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590283?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590277?source=rss-VIVANT第11話 TVer最高記録更新",
+      "title": "VIVANT第11話 TVer最高記録更新",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-02T08:36:01.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590277?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590275?source=rss-「見せる延長コード」開発の情熱",
       "title": "「見せる延長コード」開発の情熱",
@@ -72,15 +135,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590273?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590269?source=rss-速報バレー男子 日本vsスロベニア",
-      "title": "速報バレー男子 日本vsスロベニア",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-02T07:44:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590269?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590266?source=rss-久保田智子氏 特別養子縁組を語る",
       "title": "久保田智子氏 特別養子縁組を語る",
       "source": "Yahoo!ニュース 国内",
@@ -115,15 +169,6 @@
       "publishedAt": "2026-08-02T05:52:49.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590258?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590254?source=rss-近畿で初の酷暑日 和歌山県で40℃",
-      "title": "近畿で初の酷暑日 和歌山県で40℃",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-02T05:17:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590254?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590252?source=rss-高校野球地方大会で正午開始 なぜ",
@@ -243,15 +288,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590224?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590221?source=rss-秋元氏P男性アイドル 期待と課題",
-      "title": "秋元氏P男性アイドル 期待と課題",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-02T00:19:09.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590221?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590215?source=rss-踊る大捜査線シリーズ9作一挙放送",
       "title": "踊る大捜査線シリーズ9作一挙放送",
       "source": "Yahoo!ニュース エンタメ",
@@ -268,15 +304,6 @@
       "publishedAt": "2026-08-01T22:40:03.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590206?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590207?source=rss-災害後のエンタメ 一律対応の是非",
-      "title": "災害後のエンタメ 一律対応の是非",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-01T22:36:27.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590207?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590202?source=rss-日米が協調為替介入 15年ぶり",
@@ -306,15 +333,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/02/2000000343/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590199?source=rss-後藤真希40歳 アイドルオーラ健在",
-      "title": "後藤真希40歳 アイドルオーラ健在",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-01T14:38:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590199?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/31/2000000341/-ソニーの熊本工場、8月中旬には「地震前の稼働水準」に 早期復旧の理由を決算会見で明かす",
       "title": "ソニーの熊本工場、8月中旬には「地震前の稼働水準」に 早期復旧の理由を決算会見で明かす",
       "source": "ITmedia NEWS",
@@ -322,15 +340,6 @@
       "publishedAt": "2026-08-01T11:53:17.000Z",
       "description": "ソニーグループの陶琳CFOは7月31日の決算説明会で、令和8年熊本地震で生産を止めた熊本の半導体工場が8月中旬に地震発生前の稼働水準へ戻る見通しを示した。2016年の熊本地震では回復まで3カ月余りかかっており、早期復旧の理由を「被害の程度が違う」と説明し",
       "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000341/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590181?source=rss-避難者2200人規模受け入れへ 調整",
-      "title": "避難者2200人規模受け入れへ 調整",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-01T10:31:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590181?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590174?source=rss-SNS時代に日記 今広がり見せる訳",
@@ -358,15 +367,6 @@
       "publishedAt": "2026-08-01T03:58:01.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590135?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590123?source=rss-TDR「DPA」対象10→16に拡大",
-      "title": "TDR「DPA」対象10→16に拡大",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-01T03:08:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590123?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590116?source=rss-11歳プロゲーマー 平日は練習1h",
