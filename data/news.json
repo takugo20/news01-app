@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T03:23:43.884Z",
+  "updatedAt": "2026-08-02T08:29:27.943Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,141 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590275?source=rss-「見せる延長コード」開発の情熱",
+      "title": "「見せる延長コード」開発の情熱",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-02T08:20:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590275?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590271?source=rss-高額療養費見直し パブコメ5300件",
+      "title": "高額療養費見直し パブコメ5300件",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-02T07:57:00.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590271?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590272?source=rss-スクバル獲得報道 山本由伸は驚き",
+      "title": "スクバル獲得報道 山本由伸は驚き",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-02T07:54:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590272?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590273?source=rss-給食がない夏休み 困窮世帯の実態",
+      "title": "給食がない夏休み 困窮世帯の実態",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-02T07:54:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590273?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590269?source=rss-速報バレー男子 日本vsスロベニア",
+      "title": "速報バレー男子 日本vsスロベニア",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-02T07:44:29.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590269?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590266?source=rss-久保田智子氏 特別養子縁組を語る",
+      "title": "久保田智子氏 特別養子縁組を語る",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-02T07:18:12.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590266?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590265?source=rss-日本製紙の工場被災 経営に打撃",
+      "title": "日本製紙の工場被災 経営に打撃",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-02T06:35:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590265?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590262?source=rss-熊本地震 芸能界で支援活動広がる",
+      "title": "熊本地震 芸能界で支援活動広がる",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-02T06:12:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590262?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590258?source=rss-虎前川1軍に 骨折からわずか16日",
+      "title": "虎前川1軍に 骨折からわずか16日",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-02T05:52:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590258?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590254?source=rss-近畿で初の酷暑日 和歌山県で40℃",
+      "title": "近畿で初の酷暑日 和歌山県で40℃",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-02T05:17:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590254?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590252?source=rss-高校野球地方大会で正午開始 なぜ",
+      "title": "高校野球地方大会で正午開始 なぜ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-02T04:59:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590252?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590249?source=rss-吉田正尚 由伸の球「一級品」",
+      "title": "吉田正尚 由伸の球「一級品」",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-02T04:41:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590249?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590248?source=rss-井上芳雄 継父としての葛藤と喜び",
+      "title": "井上芳雄 継父としての葛藤と喜び",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-02T04:19:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590248?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590243?source=rss-VIVANTハッカー役引き継ぎ 心境",
+      "title": "VIVANTハッカー役引き継ぎ 心境",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-02T03:37:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590243?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590244?source=rss-山本由伸 8回3失点の好投も7敗目",
+      "title": "山本由伸 8回3失点の好投も7敗目",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-02T03:29:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590244?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590241?source=rss-FIFAの計画中止 UEFAが追及姿勢",
       "title": "FIFAの計画中止 UEFAが追及姿勢",
       "source": "Yahoo!ニュース スポーツ",
@@ -61,24 +196,6 @@
       "publishedAt": "2026-08-02T02:35:06.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590235?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590232?source=rss-大谷に申告敬遠 本拠地ブーイング",
-      "title": "大谷に申告敬遠 本拠地ブーイング",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-02T02:06:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590232?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590227?source=rss-台風13号 沖縄のあと九州接近か",
-      "title": "台風13号 沖縄のあと九州接近か",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-02T01:45:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590227?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590228?source=rss-ジェリーシューズ なぜ大人が支持",
@@ -126,15 +243,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590224?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590223?source=rss-速報 ドジャースvsレッドソックス",
-      "title": "速報 ドジャースvsレッドソックス",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-02T00:51:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590223?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590221?source=rss-秋元氏P男性アイドル 期待と課題",
       "title": "秋元氏P男性アイドル 期待と課題",
       "source": "Yahoo!ニュース エンタメ",
@@ -151,15 +259,6 @@
       "publishedAt": "2026-08-01T23:49:04.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590215?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590211?source=rss-広島選手巡る問題 ドラフト影響か",
-      "title": "広島選手巡る問題 ドラフト影響か",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-01T22:59:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590211?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590206?source=rss-大谷が24号ボール返却希望 背景は",
@@ -207,15 +306,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/02/2000000343/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590201?source=rss-DeNA牧 死去の祖母に捧げるHR",
-      "title": "DeNA牧 死去の祖母に捧げるHR",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-01T14:55:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590201?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590199?source=rss-後藤真希40歳 アイドルオーラ健在",
       "title": "後藤真希40歳 アイドルオーラ健在",
       "source": "Yahoo!ニュース エンタメ",
@@ -223,33 +313,6 @@
       "publishedAt": "2026-08-01T14:38:07.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590199?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590197?source=rss-バレー男子 フルセットで米に惜敗",
-      "title": "バレー男子 フルセットで米に惜敗",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-01T14:13:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590197?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590195?source=rss-り災証明の申請 片付け前に撮影を",
-      "title": "り災証明の申請 片付け前に撮影を",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-01T14:03:13.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590195?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590189?source=rss-石破氏 財源示さない減税は無責任",
-      "title": "石破氏 財源示さない減税は無責任",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-01T12:22:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590189?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2607/31/2000000341/-ソニーの熊本工場、8月中旬には「地震前の稼働水準」に 早期復旧の理由を決算会見で明かす",
@@ -270,15 +333,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590181?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590178?source=rss-山本舞香ら 所属巡る報告相次ぐ",
-      "title": "山本舞香ら 所属巡る報告相次ぐ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-01T10:18:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590178?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590174?source=rss-SNS時代に日記 今広がり見せる訳",
       "title": "SNS時代に日記 今広がり見せる訳",
       "source": "Yahoo!ニュース 経済",
@@ -295,33 +349,6 @@
       "publishedAt": "2026-08-01T07:46:05.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590164?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590160?source=rss-杉本彩 闘病で命の危機すら感じた",
-      "title": "杉本彩 闘病で命の危機すら感じた",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-01T07:12:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590160?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590150?source=rss-八村塁 日本代表への復帰を明言",
-      "title": "八村塁 日本代表への復帰を明言",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-01T05:54:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590150?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590145?source=rss-片岡鶴太郎 普段は夜11時に起床",
-      "title": "片岡鶴太郎 普段は夜11時に起床",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-01T05:33:27.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590145?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590135?source=rss-日銀の金融政策 利上げ加速が焦点",
@@ -342,15 +369,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590123?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590122?source=rss-キオクシアなぜ急成長 背景を解説",
-      "title": "キオクシアなぜ急成長 背景を解説",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-01T02:41:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590122?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590116?source=rss-11歳プロゲーマー 平日は練習1h",
       "title": "11歳プロゲーマー 平日は練習1h",
       "source": "Yahoo!ニュース IT",
@@ -358,24 +376,6 @@
       "publishedAt": "2026-08-01T01:57:19.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590116?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590118?source=rss-首相 3日に熊本の被災地訪問へ",
-      "title": "首相 3日に熊本の被災地訪問へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-01T01:53:01.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590118?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590113?source=rss-各社投入「夏の福袋」定着する?",
-      "title": "各社投入「夏の福袋」定着する?",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-01T00:53:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590113?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590082?source=rss-EUが生成AIの監督強化 暴走を抑止",
