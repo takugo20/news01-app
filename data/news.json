@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T19:43:01.514Z",
+  "updatedAt": "2026-08-03T22:11:00.903Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590444?source=rss-NYダウ終値693ドル高 最高値更新",
+      "title": "NYダウ終値693ドル高 最高値更新",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-03T21:49:53.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590444?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590443?source=rss-榮倉奈々 12年ぶりTVドラマ主演",
+      "title": "榮倉奈々 12年ぶりTVドラマ主演",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-03T21:33:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590443?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590441?source=rss-水川かたまり 第2子誕生を生報告",
+      "title": "水川かたまり 第2子誕生を生報告",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-03T21:12:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590441?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590434?source=rss-角田夏実氏 VIVANT出演経緯語る",
       "title": "角田夏実氏 VIVANT出演経緯語る",
@@ -106,15 +133,6 @@
       "publishedAt": "2026-08-03T12:20:08.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590420?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590418?source=rss-中村鶴松 10月に謹慎処分から復帰",
-      "title": "中村鶴松 10月に謹慎処分から復帰",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-03T11:49:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590418?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590413?source=rss-車両集中 地震の復旧阻む大渋滞",
@@ -423,15 +441,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590359?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590362?source=rss-スマホ契約できない人々 困窮実態",
-      "title": "スマホ契約できない人々 困窮実態",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-03T02:49:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590362?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590353?source=rss-イオン爆発前 戻る指示の法的責任",
       "title": "イオン爆発前 戻る指示の法的責任",
       "source": "Yahoo!ニュース 経済",
@@ -448,15 +457,6 @@
       "publishedAt": "2026-08-03T02:30:10.000Z",
       "description": "NTT東日本が漫画「進撃の巨人」とコラボしたセキュリティリスク診断の広告が、Xで注目を集めている。作品の切迫感あふれる場面を、企業の情報システム担当者が直面しがちな「あるある」に重ねた内容で、「コマの使い方がうますぎる」「本職これすぎて笑った」などの声が上がっている。",
       "url": "https://www.itmedia.co.jp/news/article/2608/03/2000000344/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590349?source=rss-檜山沙耶 第1子妊娠を発表",
-      "title": "檜山沙耶 第1子妊娠を発表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-03T01:36:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590349?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590340?source=rss-GTOでカジサック長女が好演 話題",
