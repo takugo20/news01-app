@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T14:25:49.113Z",
+  "updatedAt": "2026-08-04T16:55:35.529Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590550?source=rss-巨人痛恨 延長12回にサヨナラ被弾",
+      "title": "巨人痛恨 延長12回にサヨナラ被弾",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-04T14:26:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590550?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590549?source=rss-防衛白書 中国への警戒感が色濃く",
       "title": "防衛白書 中国への警戒感が色濃く",
@@ -403,15 +412,6 @@
       "publishedAt": "2026-08-04T04:43:00.000Z",
       "description": "「一部SNSで事実と異なる情報が流れていますが、イオンモール熊本には、ガスコージェネレーションやガス発電機は設置していないことを確認しています」",
       "url": "https://www.itmedia.co.jp/news/article/2608/04/2000000374/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590490?source=rss-今井達也が圧巻 5者連続空振りK",
-      "title": "今井達也が圧巻 5者連続空振りK",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-04T04:39:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590490?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590470?source=rss-事故で胎児が被害 法整備巡る現状",
