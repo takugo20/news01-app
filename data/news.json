@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T19:42:02.399Z",
+  "updatedAt": "2026-08-04T22:16:29.128Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590555?source=rss-ヤクルト苦戦 CS争い混沌の様相",
+      "title": "ヤクルト苦戦 CS争い混沌の様相",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-04T21:56:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590555?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590554?source=rss-NYダウ900ドル超高 連日の最高値",
+      "title": "NYダウ900ドル超高 連日の最高値",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-04T21:42:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590554?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590552?source=rss-東野圭吾さん最新作発売 ファン涙",
+      "title": "東野圭吾さん最新作発売 ファン涙",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-04T21:10:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590552?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590550?source=rss-巨人痛恨 延長12回にサヨナラ被弾",
       "title": "巨人痛恨 延長12回にサヨナラ被弾",
@@ -180,15 +207,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590533?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590531?source=rss-MER公開延期 俳優ら熊本にエール",
-      "title": "MER公開延期 俳優ら熊本にエール",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-04T10:55:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590531?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590532?source=rss-飯窪春菜 家族に血縁は関係ない",
       "title": "飯窪春菜 家族に血縁は関係ない",
       "source": "Yahoo!ニュース エンタメ",
@@ -268,15 +286,6 @@
       "publishedAt": "2026-08-04T08:31:43.000Z",
       "description": "ゲーマー向けチャットツール「Discord」が備える「自分がオンラインになったとき、フレンドに通知する」機能がXで不評だ。Xでは「用もないのに勝手にかまちょ（かまってちょうだいの略語）しないでほしい」「すでに通知があったら申し訳ない」など“余計なお世話”として受け止められている。",
       "url": "https://www.itmedia.co.jp/news/article/2608/04/2000000369/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590517?source=rss-中部電 7万人超の情報漏えい恐れ",
-      "title": "中部電 7万人超の情報漏えい恐れ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-04T08:30:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590517?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590515?source=rss-終了した「104」今もかける60代母",
@@ -484,15 +493,6 @@
       "publishedAt": "2026-08-03T22:56:44.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590450?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590446?source=rss-田中将大 高校野球7回制に反対",
-      "title": "田中将大 高校野球7回制に反対",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-03T22:17:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590446?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/04/2000000352/-立ち話する2人の間には「見えない壁」がある 米研究者が4911人を観察、判明した意外な崩し方",
