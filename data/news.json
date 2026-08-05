@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T14:20:59.646Z",
+  "updatedAt": "2026-08-05T16:44:16.954Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000406/-共同通信に不正アクセス 職員や加盟社の氏名・メルアドなど約6000件が閲覧の恐れ 職員アカウント不正利用か",
+      "title": "共同通信に不正アクセス 職員や加盟社の氏名・メルアドなど約6000件が閲覧の恐れ 職員アカウント不正利用か",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-05T14:03:16.000Z",
+      "description": "共同通信社は8月5日、電子メールなどの業務環境で不正アクセスによる情報漏えいの可能性が判明したと発表した。職員のほか加盟社や取引先の氏名、メールアドレスなど約6000件が閲覧された可能性がある。一部のアカウントでは、メールや保存ファイルの中身まで閲覧された可能性があるという。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000406/"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590666?source=rss-阪神ガルシア NPB初安打が満塁弾",
       "title": "阪神ガルシア NPB初安打が満塁弾",
@@ -547,15 +556,6 @@
       "publishedAt": "2026-08-04T08:14:38.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590513?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/04/2000000376/-「モンハンワイルズ」価格改定で半額に 販売数の伸び悩み、克服なるか",
-      "title": "「モンハンワイルズ」価格改定で半額に 販売数の伸び悩み、克服なるか",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-04T08:08:45.000Z",
-      "description": "カプコンがゲーム「モンスターハンターワイルズ」の価格を改定した。これまでゲーム本体を税込9900円で提供していたところ、今後は同4990円で販売する。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/04/2000000376/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590492?source=rss-Xに「人工地震」なぜデマ出回る",
