@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T11:23:28.137Z",
+  "updatedAt": "2026-08-05T14:20:59.646Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,96 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590666?source=rss-阪神ガルシア NPB初安打が満塁弾",
+      "title": "阪神ガルシア NPB初安打が満塁弾",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-05T13:33:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590666?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590663?source=rss-藤井六冠逆転負け 王座挑戦ならず",
+      "title": "藤井六冠逆転負け 王座挑戦ならず",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-05T13:04:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590663?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590662?source=rss-甲子園出場の女性審判 試合後に涙",
+      "title": "甲子園出場の女性審判 試合後に涙",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-05T12:59:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590662?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590639?source=rss-政府AIを被災自治体に提供 利点は",
+      "title": "政府AIを被災自治体に提供 利点は",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-05T12:55:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590639?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590660?source=rss-職員の性被害巡り NHKが対応謝罪",
+      "title": "職員の性被害巡り NHKが対応謝罪",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-05T12:42:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590660?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590659?source=rss-日産の新型キックス 売れ行き好調",
+      "title": "日産の新型キックス 売れ行き好調",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-05T12:16:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590659?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590637?source=rss-第2の元年 秋春制のJリーグ開幕へ",
+      "title": "第2の元年 秋春制のJリーグ開幕へ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-05T12:08:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590637?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000404/-NASA「確率100％」 SpaceXの使用済みロケットが月に衝突か",
+      "title": "NASA「確率100％」 SpaceXの使用済みロケットが月に衝突か",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-05T12:04:36.000Z",
+      "description": "NASAは8月4日（現地時間）、米SpaceXのロケット「Falcon 9」の使用済み上段が、5日未明に月へ衝突する見通しだと発表した。衝突地点は、月面のアインシュタイン・クレーターとベル・クレーター付近。地球への危険はないとしている。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000404/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590658?source=rss-八村 将来のBリーグプレー「夢」",
+      "title": "八村 将来のBリーグプレー「夢」",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-05T11:53:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590658?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000405/-バンダイ、トレカ巡りマイナカードでの本人確認を導入へ",
+      "title": "バンダイ、トレカ巡りマイナカードでの本人確認を導入へ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-05T11:26:29.000Z",
+      "description": "バンダイがトレーディングカードゲームブランド「BANDAI TCG+」において、マイナンバーカードを使った本人確認システムの導入を検討していると発表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000405/"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590656?source=rss-甲子園開幕戦 仙台育英が勝利",
       "title": "甲子園開幕戦 仙台育英が勝利",
@@ -97,15 +187,6 @@
       "publishedAt": "2026-08-05T09:54:45.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590647?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590646?source=rss-課金巡り相談も ネットオリパとは",
-      "title": "課金巡り相談も ネットオリパとは",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-05T09:45:56.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590646?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590641?source=rss-れいわ新代表 太郎氏依存脱却へ",
@@ -198,15 +279,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590619?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590618?source=rss-出演者から性被害 NHK職員が休職",
-      "title": "出演者から性被害 NHK職員が休職",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-05T07:28:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590618?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590616?source=rss-「ドキュメンタル」米で初の制作",
       "title": "「ドキュメンタル」米で初の制作",
       "source": "Yahoo!ニュース エンタメ",
@@ -241,15 +313,6 @@
       "publishedAt": "2026-08-05T06:21:14.000Z",
       "description": "セキュリティ企業の米Palo Alto Networksの研究チーム「Unit 42」が、こんな攻撃に警鐘を鳴らしている。研究チームが8月3日に発表したところによれば、手口の異なる3種類の手法が存在し、一部は成功例もあるという。",
       "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000395/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590609?source=rss-ドジャース 5試合連続の逆転負け",
-      "title": "ドジャース 5試合連続の逆転負け",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-05T05:59:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590609?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590608?source=rss-我が家・杉山裕之 退院を報告",
@@ -315,24 +378,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000391/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590586?source=rss-残留の菅野 トレード報道巡り心境",
-      "title": "残留の菅野 トレード報道巡り心境",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-05T02:32:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590586?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590583?source=rss-移籍実現せず 大迫が広島再合流",
-      "title": "移籍実現せず 大迫が広島再合流",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-05T02:25:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590583?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/03/2000000359/-Apple、大量購入品の返品に「15％の手数料」 販売条件に明記 “転売対策”か",
       "title": "Apple、大量購入品の返品に「15％の手数料」 販売条件に明記 “転売対策”か",
       "source": "ITmedia NEWS",
@@ -340,15 +385,6 @@
       "publishedAt": "2026-08-05T02:08:57.000Z",
       "description": "米Appleは、日本のApple Storeの販売条件に、大量購入した製品などの返品について「不正な目的による返品の恐れがある」と判断した場合、商品1点につき15％の返品手数料を課すとの条項を追加したとみられる。いつから記載しているかなどはAppleに問い合わせ中だ。",
       "url": "https://www.itmedia.co.jp/news/article/2608/03/2000000359/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590578?source=rss-中島翔哉 ポルティモネンセに復帰",
-      "title": "中島翔哉 ポルティモネンセに復帰",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-05T01:30:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590578?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000388/-SpaceX、IPO後初の決算で売上高92％増 AI設備投資158億ドルで「2030年には年商1兆ドルに」とマスクCEO",
@@ -394,15 +430,6 @@
       "publishedAt": "2026-08-04T21:10:05.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590552?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590548?source=rss-熊本地震1週間 避難所に7500人超",
-      "title": "熊本地震1週間 避難所に7500人超",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-04T14:12:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590548?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590547?source=rss-唐沢寿明 ウッディ役の初期は葛藤",
@@ -531,24 +558,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/04/2000000376/"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/04/2000000377/-AI普及でデザイン業の倒産が前年比2.7倍に 「独自性なき企業は淘汰」 東京商工リサーチ",
-      "title": "AI普及でデザイン業の倒産が前年比2.7倍に 「独自性なき企業は淘汰」 東京商工リサーチ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-04T08:07:18.000Z",
-      "description": "東京商工リサーチは8月2日、グラフィックデザインやインテリアデザインなどを手掛ける「デザイン業」で、負債1000万円以上の倒産が急増していると発表した。生成AIの普及によるデザイン業務の内製化などが影響したという。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/04/2000000377/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/04/2000000378/-ドコモ・バイクシェア、サービス一時停止 不具合の復旧見通し立たず",
-      "title": "ドコモ・バイクシェア、サービス一時停止 不具合の復旧見通し立たず",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-04T06:56:07.000Z",
-      "description": "「安定したサービス提供の見通しが立っていない」とし、再開時期は未定。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/04/2000000378/"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590492?source=rss-Xに「人工地震」なぜデマ出回る",
       "title": "Xに「人工地震」なぜデマ出回る",
       "source": "Yahoo!ニュース IT",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-08-03T10:56:05.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590412?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590391?source=rss-「ドコモの銀行」始動 強みは何か",
-      "title": "「ドコモの銀行」始動 強みは何か",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-03T08:15:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590391?source=rss"
     }
   ]
 }
