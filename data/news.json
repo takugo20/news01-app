@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T08:42:12.323Z",
+  "updatedAt": "2026-08-05T11:23:28.137Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,105 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590656?source=rss-甲子園開幕戦 仙台育英が勝利",
+      "title": "甲子園開幕戦 仙台育英が勝利",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-05T11:21:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590656?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590655?source=rss-消費減税巡り 野党が一斉に批判",
+      "title": "消費減税巡り 野党が一斉に批判",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-05T11:11:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590655?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000403/-「Xであなたをブロックした人が分かる」サイト拡散 ソースコードを見たら、IDとパスワード外部送信",
+      "title": "「Xであなたをブロックした人が分かる」サイト拡散 ソースコードを見たら、IDとパスワード外部送信",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-05T10:51:43.000Z",
+      "description": "「ブロックの状況を確認できる」とうたうWebサイトへの注意喚起がX上で広がっている。ITmedia NEWS編集部がソースコードを確認したところ、入力したIDとパスワードをそのまま外部のサーバへ送る作りで、表示する人数もランダムな数値だった。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000403/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590651?source=rss-韓国プロ野球 猛暑で計20試合中止",
+      "title": "韓国プロ野球 猛暑で計20試合中止",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-05T10:24:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590651?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000396/-最大6万件の個人情報流出か 「ITトレンド」など運営のイノベーション、GitHubの認証情報漏えいで",
+      "title": "最大6万件の個人情報流出か 「ITトレンド」など運営のイノベーション、GitHubの認証情報漏えいで",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-05T10:22:39.000Z",
+      "description": "イノベーションは8月4日、グループが使うGitHubの認証情報が漏えいし、第三者による不正アクセスを受けたと発表した。最大約6万件の氏名やメールアドレスが流出した可能性があるという。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000396/"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590650?source=rss-楽天市場に「AI店長」24h接客構想",
+      "title": "楽天市場に「AI店長」24h接客構想",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-05T10:05:56.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590650?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590647?source=rss-イオン熊本の爆発 LPガス原因か",
+      "title": "イオン熊本の爆発 LPガス原因か",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-05T09:54:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590647?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590646?source=rss-課金巡り相談も ネットオリパとは",
+      "title": "課金巡り相談も ネットオリパとは",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-05T09:45:56.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590646?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590641?source=rss-れいわ新代表 太郎氏依存脱却へ",
+      "title": "れいわ新代表 太郎氏依存脱却へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-05T09:21:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590641?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590642?source=rss-消費減税の閣議決定 首相コメント",
+      "title": "消費減税の閣議決定 首相コメント",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-05T09:12:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590642?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590630?source=rss-甲子園選手宣誓 いい顔して野球を",
+      "title": "甲子園選手宣誓 いい顔して野球を",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-05T08:44:47.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590630?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590632?source=rss-6人デスクワーク中死亡 日本製紙",
       "title": "6人デスクワーク中死亡 日本製紙",
       "source": "Yahoo!ニュース 経済",
@@ -45,13 +144,13 @@
       "url": "https://news.yahoo.co.jp/pickup/6590632?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590629?source=rss-甲子園開幕 仙台育英vs.札幌日大",
-      "title": "甲子園開幕 仙台育英vs.札幌日大",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-05T08:33:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590629?source=rss"
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000400/-キオクシア、フラッシュメモリでメモリ容量を増やせるモジュール発表 DRAMの容量不足を補う",
+      "title": "キオクシア、フラッシュメモリでメモリ容量を増やせるモジュール発表 DRAMの容量不足を補う",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-05T08:31:40.000Z",
+      "description": "キオクシアは8月3日、CXL対応のメモリ拡張モジュール「KIOXIA XL1シリーズ」を発表した。フラッシュメモリでDRAMを補い、AIで膨らむデータセンターのメモリ需要に応える狙いだ。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000400/"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590631?source=rss-花火大会の1/4中止縮小 救う策は",
@@ -63,13 +162,13 @@
       "url": "https://news.yahoo.co.jp/pickup/6590631?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590627?source=rss-甲子園初の女性審判 開幕戦で起用",
-      "title": "甲子園初の女性審判 開幕戦で起用",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-05T08:26:41.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590627?source=rss"
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000399/-管理アカウントを手順書に誤記載――東芝テック、顧客情報38万件が特定の1社から閲覧できる状態に",
+      "title": "管理アカウントを手順書に誤記載――東芝テック、顧客情報38万件が特定の1社から閲覧できる状態に",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-05T08:29:56.000Z",
+      "description": "東芝テックはクラウド型基幹システム「ShopCraft」の手順書に管理アカウントを誤って記載し、顧客情報約38万件を特定の利用企業1社が閲覧できる状態にしていたと発表した。3日時点で閲覧や不正利用、被害は確認していない。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000399/"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590624?source=rss-甲子園 熊本・有明の行進に大拍手",
@@ -126,15 +225,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590614?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000396/-最大6万件の個人情報流出か 「ITトレンド」など運営のイノベーション、GitHubの認証情報漏えいで",
-      "title": "最大6万件の個人情報流出か 「ITトレンド」など運営のイノベーション、GitHubの認証情報漏えいで",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-05T06:30:51.000Z",
-      "description": "イノベーションは8月4日、グループが使うGitHubの認証情報が漏えいし、第三者による不正アクセスを受けたと発表した。最大約6万件の氏名やメールアドレスが流出した可能性があるという。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000396/"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590613?source=rss-みな実結婚&妊娠発表後初の公の場",
       "title": "みな実結婚&妊娠発表後初の公の場",
       "source": "Yahoo!ニュース エンタメ",
@@ -180,15 +270,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590604?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590602?source=rss-スペースX赤字850億円 4-6月期",
-      "title": "スペースX赤字850億円 4-6月期",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-05T04:14:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590602?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000392/-東大、60代教授を懲戒処分 サイトのHTMLソースに“不適切な言葉” 「六四天安門」問題が理由と毎日報道",
       "title": "東大、60代教授を懲戒処分 サイトのHTMLソースに“不適切な言葉” 「六四天安門」問題が理由と毎日報道",
       "source": "ITmedia NEWS",
@@ -205,15 +286,6 @@
       "publishedAt": "2026-08-05T03:47:19.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590599?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590590?source=rss-台風13号 沖縄で影響が長引く恐れ",
-      "title": "台風13号 沖縄で影響が長引く恐れ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-05T03:11:15.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590590?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590595?source=rss-オンワード 貴重品携行を義務付け",
@@ -279,15 +351,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590578?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590577?source=rss-首相 日銀総裁に国債買い入れ要請",
-      "title": "首相 日銀総裁に国債買い入れ要請",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-05T01:10:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590577?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000388/-SpaceX、IPO後初の決算で売上高92％増 AI設備投資158億ドルで「2030年には年商1兆ドルに」とマスクCEO",
       "title": "SpaceX、IPO後初の決算で売上高92％増 AI設備投資158億ドルで「2030年には年商1兆ドルに」とマスクCEO",
       "source": "ITmedia NEWS",
@@ -297,15 +360,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000388/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590567?source=rss-米財務長官 円の水準を問題視",
-      "title": "米財務長官 円の水準を問題視",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-04T23:56:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590567?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000384/-ゲオのレトロゲーム販売がみせた劇的な復活劇 店舗10分の1で売上1.4倍の秘密とは？",
       "title": "ゲオのレトロゲーム販売がみせた劇的な復活劇 店舗10分の1で売上1.4倍の秘密とは？",
       "source": "ITmedia NEWS",
@@ -313,15 +367,6 @@
       "publishedAt": "2026-08-04T23:31:00.000Z",
       "description": "ゲオはコロナ禍の2021年にレトロゲームの販売を止めた。再開したのは半年ほど前で、店舗数は21年以前の1割しかない。しかし全体の売上はむしろ増えたという。",
       "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000384/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590557?source=rss-ドリーファンクジュニアさん死去",
-      "title": "ドリーファンクジュニアさん死去",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-04T22:27:09.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590557?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000387/-OpenAI、Appleの提訴に全面反論――「営業秘密は持っていないし、欲しくもない」",
@@ -349,15 +394,6 @@
       "publishedAt": "2026-08-04T21:10:05.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590552?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590549?source=rss-防衛白書 中国への警戒感が色濃く",
-      "title": "防衛白書 中国への警戒感が色濃く",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-04T14:14:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590549?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590548?source=rss-熊本地震1週間 避難所に7500人超",
@@ -522,33 +558,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590492?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/04/2000000374/-「イオンモール熊本にガスコージェネは設置していない」 SNSの噂を経産省が否定",
-      "title": "「イオンモール熊本にガスコージェネは設置していない」 SNSの噂を経産省が否定",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-04T04:43:00.000Z",
-      "description": "「一部SNSで事実と異なる情報が流れていますが、イオンモール熊本には、ガスコージェネレーションやガス発電機は設置していないことを確認しています」",
-      "url": "https://www.itmedia.co.jp/news/article/2608/04/2000000374/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/04/2000000373/-Telegram、App Storeから一時消える 現在は復旧 「ガイドライン違反のコンテンツを検出」",
-      "title": "Telegram、App Storeから一時消える 現在は復旧 「ガイドライン違反のコンテンツを検出」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-04T04:16:07.000Z",
-      "description": "メッセージアプリ「Telegram」が8月3日（現地時間）、米Appleの「App Store」から一時姿を消した。編集部でも日本時間の4日にダウンロードできない状態を確認したが、現在は復旧している。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/04/2000000373/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/04/2000000372/-au、1台のスマホに2つ目の電話番号「セカンドナンバー」開始 月額550円",
-      "title": "au、1台のスマホに2つ目の電話番号「セカンドナンバー」開始 月額550円",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-04T03:48:40.000Z",
-      "description": "主回線とは別に、仕事や趣味用、各種登録用に使うといった利用シーンを想定している。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/04/2000000372/"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590412?source=rss-万博関連ドメイン 成人向けに転用",
       "title": "万博関連ドメイン 成人向けに転用",
       "source": "Yahoo!ニュース IT",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-08-03T08:15:49.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590391?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590381?source=rss-ポケカ マイナ使用の本人認証導入",
-      "title": "ポケカ マイナ使用の本人認証導入",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-03T06:33:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590381?source=rss"
     }
   ]
 }
