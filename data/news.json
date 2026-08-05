@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T02:51:00.047Z",
+  "updatedAt": "2026-08-05T05:49:25.090Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,69 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590608?source=rss-我が家・杉山裕之 退院を報告",
+      "title": "我が家・杉山裕之 退院を報告",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-05T05:30:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590608?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590604?source=rss-首相の視察動画にBGM 木原氏説明",
+      "title": "首相の視察動画にBGM 木原氏説明",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-05T04:51:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590604?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590602?source=rss-スペースX赤字850億円 4-6月期",
+      "title": "スペースX赤字850億円 4-6月期",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-05T04:14:00.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590602?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000392/-東大、60代教授を懲戒処分 サイトのHTMLソースに“不適切な言葉” 「六四天安門」問題が理由と毎日報道",
+      "title": "東大、60代教授を懲戒処分 サイトのHTMLソースに“不適切な言葉” 「六四天安門」問題が理由と毎日報道",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-05T03:50:12.000Z",
+      "description": "東京大学は8月4日、所属する専攻と研究室のWebサイトのHTMLソース内に不適切な言葉を書き込んだとして、60代の教授を出勤停止3日の懲戒処分にしたと発表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000392/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590599?source=rss-新水俣-鹿児島中央 新幹線再開へ",
+      "title": "新水俣-鹿児島中央 新幹線再開へ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-05T03:47:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590599?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590590?source=rss-台風13号 沖縄で影響が長引く恐れ",
+      "title": "台風13号 沖縄で影響が長引く恐れ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-05T03:11:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590590?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590595?source=rss-オンワード 貴重品携行を義務付け",
+      "title": "オンワード 貴重品携行を義務付け",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-05T03:11:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590595?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590591?source=rss-指摘に部下怒り 心身崩し上司退職",
       "title": "指摘に部下怒り 心身崩し上司退職",
       "source": "Yahoo!ニュース 経済",
@@ -43,6 +106,15 @@
       "publishedAt": "2026-08-05T02:48:52.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590591?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000391/-英AI研究所、評価中のAIが実在の開発者を標的に──偽アカウント使い悪意あるコードの承認迫る",
+      "title": "英AI研究所、評価中のAIが実在の開発者を標的に──偽アカウント使い悪意あるコードの承認迫る",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-05T02:39:27.000Z",
+      "description": "英AI研究所のAISIは、AIエージェントの評価中に、実在の人物や組織に対してAIが継続的かつ不許可の行動を取るインシデントを検知したと発表した。GitHub上で偽アカウントを作成して保守担当者を欺くサプライチェーン攻撃を試みた事例などが含まれる。攻撃はいずれも阻止され実害はなく、リアルタイム監視の導入などの再発防止策...",
+      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000391/"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590584?source=rss-自民総務会 消費税減税の方針了承",
@@ -97,15 +169,6 @@
       "publishedAt": "2026-08-05T01:10:11.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590577?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590575?source=rss-日経平均 一時2200円超の値上がり",
-      "title": "日経平均 一時2200円超の値上がり",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-05T00:46:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590575?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590573?source=rss-ド軍スクバル登板 敵地ブーイング",
@@ -171,15 +234,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590562?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590561?source=rss-九州-東海猛暑 熊本40℃迫る予想",
-      "title": "九州-東海猛暑 熊本40℃迫る予想",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-04T22:58:01.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590561?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590559?source=rss-偽iPhone大量発見 不正還付発覚",
       "title": "偽iPhone大量発見 不正還付発覚",
       "source": "Yahoo!ニュース 経済",
@@ -214,15 +268,6 @@
       "publishedAt": "2026-08-04T22:00:00.000Z",
       "description": "東京大学国際高等研究所新世代感染症センターの古瀬祐気教授と東北大学大学院医学系研究科の田淵貴大准教授の研究チームが国際科学誌「Frontiers in Public Health」に発表した論文「Vaccine-related misinformation and attitude toward COVID-19 va...",
       "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000375/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590554?source=rss-NYダウ900ドル超高 連日の最高値",
-      "title": "NYダウ900ドル超高 連日の最高値",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-04T21:42:27.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590554?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590552?source=rss-東野圭吾さん最新作発売 ファン涙",
@@ -295,15 +340,6 @@
       "publishedAt": "2026-08-04T13:08:29.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590544?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590542?source=rss-オンワード3人死亡「指導不徹底」",
-      "title": "オンワード3人死亡「指導不徹底」",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-04T12:57:09.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590542?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590538?source=rss-菊地亜美 海外移住で2拠点生活へ",
@@ -441,15 +477,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/04/2000000377/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590505?source=rss-8月末までに断水解消 首相が指示",
-      "title": "8月末までに断水解消 首相が指示",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-04T07:52:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590505?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/04/2000000378/-ドコモ・バイクシェア、サービス一時停止 不具合の復旧見通し立たず",
       "title": "ドコモ・バイクシェア、サービス一時停止 不具合の復旧見通し立たず",
       "source": "ITmedia NEWS",
@@ -475,15 +502,6 @@
       "publishedAt": "2026-08-04T05:20:20.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590492?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590489?source=rss-入院中の我が家・杉山 病名を公表",
-      "title": "入院中の我が家・杉山 病名を公表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-04T04:43:47.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590489?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/04/2000000374/-「イオンモール熊本にガスコージェネは設置していない」 SNSの噂を経産省が否定",
@@ -529,24 +547,6 @@
       "publishedAt": "2026-08-04T02:34:17.000Z",
       "description": "2カ月ほど前だったか、とあるSNSで「圧縮効果は望遠レンズによるものじゃない」という書き込みがあり、それに対していろんな意見が飛び交って混沌としていた。確かに「望遠レンズ」によるものじゃないのである。",
       "url": "https://www.itmedia.co.jp/news/article/2608/04/2000000367/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/04/2000000366/-EU、AIの透明性義務の適用を開始 生成コンテンツにラベルとマーク義務、違反に最大1500万ユーロ",
-      "title": "EU、AIの透明性義務の適用を開始 生成コンテンツにラベルとマーク義務、違反に最大1500万ユーロ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-03T23:30:13.000Z",
-      "description": "EUの欧州委員会はAI規制法「EU AI Act」の第50条に基づく透明性ルールの適用を開始した。生成AIやディープフェイク等を扱う事業者に対し、AIとの対話の明示やコンテンツへのラベル・機械可読マークの付与を義務付ける。違反企業には最大1500万ユーロまたは売上高の3％の制裁金が科される可能性がある。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/04/2000000366/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/04/2000000352/-立ち話する2人の間には「見えない壁」がある 米研究者が4911人を観察、判明した意外な崩し方",
-      "title": "立ち話する2人の間には「見えない壁」がある 米研究者が4911人を観察、判明した意外な崩し方",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-03T22:00:00.000Z",
-      "description": "米カリフォルニア大学サンディエゴ校に所属する研究者らが発表した論文「Invisible walls: how pedestrians navigate around social interactions」は、歩行者が他者の会話などの社会的なやり取りを「見えない壁」として認識し、どのような行動をとるかを検証した研究報告...",
-      "url": "https://www.itmedia.co.jp/news/article/2608/04/2000000352/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590412?source=rss-万博関連ドメイン 成人向けに転用",
