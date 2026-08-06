@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T08:43:52.205Z",
+  "updatedAt": "2026-08-06T11:26:39.511Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,168 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590782?source=rss-台風13号は沖縄・奄美に接近 警戒",
+      "title": "台風13号は沖縄・奄美に接近 警戒",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-06T11:22:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590782?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590783?source=rss-熊本県で最大震度4 津波心配なし",
+      "title": "熊本県で最大震度4 津波心配なし",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-06T11:03:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590783?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000434/-アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」 Microsoftがプレビュー公開",
+      "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」 Microsoftがプレビュー公開",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-06T10:54:46.000Z",
+      "description": "米Microsoftが、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000434/"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590781?source=rss-QRコードで災害詐欺 どう見抜く",
+      "title": "QRコードで災害詐欺 どう見抜く",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-06T10:51:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590781?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590780?source=rss-任天堂 被災者の製品修理は無償",
+      "title": "任天堂 被災者の製品修理は無償",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-06T10:48:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590780?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590769?source=rss-マンガ4作から考える原爆の日",
+      "title": "マンガ4作から考える原爆の日",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-06T10:22:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590769?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000430/-個人開発「家系ラーメンマニア」で利用者急増 対応追いつかず一部停止 「より信頼していただけるアプリに」",
+      "title": "個人開発「家系ラーメンマニア」で利用者急増 対応追いつかず一部停止 「より信頼していただけるアプリに」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-06T10:21:05.000Z",
+      "description": "「家系ラーメンマニア」が店舗情報サービスを一時停止した。Xで紹介投稿が拡散し、利用者が約100人から4000人以上に急増。個人運営では情報更新や対応が追いつかず、体制整備後に再開する予定。投稿機能と地図機能は引き続き利用できる。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000430/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000408/-Googleのジェフ・ディーン氏、独立してAI実験を大規模自動化する新会社Discovery Loop設立",
+      "title": "Googleのジェフ・ディーン氏、独立してAI実験を大規模自動化する新会社Discovery Loop設立",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-06T10:20:03.000Z",
+      "description": "Googleのチーフサイエンティスト、ジェフ・ディーン氏が退社し、新会社「Discovery Loop」を設立すると発表した。サンジェイ・ゲマワット氏らと共同創業する公益法人で、フロンティアAIモデルと計算基盤を活用して実験や検証などの研究プロセス全体を自動化することを目指す。Googleは初期出資者およびクラウドパー...",
+      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000408/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590779?source=rss-山本里菜アナが離婚 前向きな決断",
+      "title": "山本里菜アナが離婚 前向きな決断",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-06T10:16:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590779?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590776?source=rss-からあげクン累計販売 50億食突破",
+      "title": "からあげクン累計販売 50億食突破",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-06T09:56:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590776?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590778?source=rss-エース級の財務官僚人事が波紋",
+      "title": "エース級の財務官僚人事が波紋",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-06T09:53:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590778?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590766?source=rss-速報甲子園 聖隷vs.佐野日大",
+      "title": "速報甲子園 聖隷vs.佐野日大",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-06T09:44:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590766?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590775?source=rss-れいわが党名変更「いのちの党」",
+      "title": "れいわが党名変更「いのちの党」",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-06T09:43:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590775?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590774?source=rss-VIVANT考察 太田に二重スパイ説",
+      "title": "VIVANT考察 太田に二重スパイ説",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-06T09:39:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590774?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000428/-写真加工アプリ「SNOW」にステマで措置命令 報酬付きでX投稿依頼、広告表示なし 消費者庁",
+      "title": "写真加工アプリ「SNOW」にステマで措置命令 報酬付きでX投稿依頼、広告表示なし 消費者庁",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-06T09:25:55.000Z",
+      "description": "消費者庁は8月6日、写真加工アプリ「SNOW」を運営する韓国企業と日本法人の2社に対し、広告と明示しないX投稿を第三者に依頼していたとして、景品表示法に基づく措置命令を出した。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000428/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590772?source=rss-神村学園が東筑に逆転勝ち 甲子園",
+      "title": "神村学園が東筑に逆転勝ち 甲子園",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-06T09:25:26.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590772?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000422/-熊本地震で地面がずれた場所、35kmの線状に 衛星データで「変位境界」を判読 国土地理院",
+      "title": "熊本地震で地面がずれた場所、35kmの線状に 衛星データで「変位境界」を判読 国土地理院",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-06T09:13:06.000Z",
+      "description": "国土地理院は8月5日、地球観測衛星「だいち2号」「だいち4号」のレーダーデータを解析し、令和8年熊本地震に伴って地表のずれが生じたとみられる境界（変位境界）を約35kmにわたり判読したと発表した。空中写真からは約2mの「右横ずれ」も読み取れたという。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000422/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590762?source=rss-神谷氏 食料品の消費減税「愚策」",
+      "title": "神谷氏 食料品の消費減税「愚策」",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-06T09:03:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590762?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590754?source=rss-映画ちいかわは愛知が舞台?調査",
       "title": "映画ちいかわは愛知が舞台?調査",
       "source": "Yahoo!ニュース エンタメ",
@@ -63,15 +225,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590751?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000428/-写真加工アプリ「SNOW」にステマで措置命令 報酬付きでX投稿依頼、広告表示なし 消費者庁",
-      "title": "写真加工アプリ「SNOW」にステマで措置命令 報酬付きでX投稿依頼、広告表示なし 消費者庁",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-06T08:02:50.000Z",
-      "description": "消費者庁は8月6日、写真加工アプリ「SNOW」を運営する韓国企業と日本法人の2社に対し、広告と明示しないX投稿を第三者に依頼していたとして、景品表示法に基づく措置命令を出した。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000428/"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590752?source=rss-大手の夏ボーナス過去最高 経団連",
       "title": "大手の夏ボーナス過去最高 経団連",
       "source": "Yahoo!ニュース 経済",
@@ -97,24 +250,6 @@
       "publishedAt": "2026-08-06T07:32:48.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590746?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590744?source=rss-元TBS山本里菜アナ 離婚を発表",
-      "title": "元TBS山本里菜アナ 離婚を発表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-06T07:12:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590744?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590742?source=rss-速報甲子園 神村学園vs.東筑",
-      "title": "速報甲子園 神村学園vs.東筑",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-06T06:58:45.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590742?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590740?source=rss-藤嶌果歩の写真集巡り集英社声明",
@@ -207,15 +342,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590731?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590728?source=rss-国連事務総長 核兵器減の潮流逆行",
-      "title": "国連事務総長 核兵器減の潮流逆行",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-06T04:33:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590728?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000419/-「プチプチ」の川上産業、「プチプチ株式会社」に社名変更 創業58年で",
       "title": "「プチプチ」の川上産業、「プチプチ株式会社」に社名変更 創業58年で",
       "source": "ITmedia NEWS",
@@ -232,24 +358,6 @@
       "publishedAt": "2026-08-06T03:47:49.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590719?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590724?source=rss-台風13号 あす沖縄本島に最接近へ",
-      "title": "台風13号 あす沖縄本島に最接近へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-06T03:45:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590724?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590727?source=rss-活気づく栄 名駅前から覇権奪還?",
-      "title": "活気づく栄 名駅前から覇権奪還?",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-06T03:37:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590727?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000417/-日本の政府機関かたるフィッシング、3カ月で991％増 iPhoneユーザー標的に ノートン調査",
@@ -324,15 +432,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590711?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590708?source=rss-平和記念式典で首相挨拶 就任後初",
-      "title": "平和記念式典で首相挨拶 就任後初",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-06T02:21:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590708?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000412/-熊本地震、冷房失った高齢者の死亡リスクが30日で5％上昇か 九州大、AIとデータで推計",
       "title": "熊本地震、冷房失った高齢者の死亡リスクが30日で5％上昇か 九州大、AIとデータで推計",
       "source": "ITmedia NEWS",
@@ -340,15 +439,6 @@
       "publishedAt": "2026-08-06T02:18:44.000Z",
       "description": "衛星や国勢調査など複数のデータとAIを活用し、災害時に冷房や電力を優先配備すべき地域と必要量を推計する手法を構築した。",
       "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000412/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590705?source=rss-被団協 証言や講演数が25年度急増",
-      "title": "被団協 証言や講演数が25年度急増",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-06T01:47:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590705?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590703?source=rss-冨安健洋 クリスタルパレス入りへ",
@@ -387,24 +477,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000409/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590695?source=rss-ドラマーの三原重夫さん死去",
-      "title": "ドラマーの三原重夫さん死去",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-06T00:34:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590695?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590690?source=rss-平和祈念式 広島市長の宣言全文",
-      "title": "平和祈念式 広島市長の宣言全文",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-05T23:59:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590690?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590691?source=rss-FIFA会長が留任「心から謝罪」",
       "title": "FIFA会長が留任「心から謝罪」",
       "source": "Yahoo!ニュース スポーツ",
@@ -421,15 +493,6 @@
       "publishedAt": "2026-08-05T23:35:00.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590685?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000408/-Googleのジェフ・ディーン氏、独立してAI実験を大規模自動化する新会社Discovery Loop設立",
-      "title": "Googleのジェフ・ディーン氏、独立してAI実験を大規模自動化する新会社Discovery Loop設立",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-05T22:49:24.000Z",
-      "description": "Googleのチーフサイエンティスト、ジェフ・ディーン氏が退社し、新会社「Discovery Loop」を設立すると発表した。サンジェイ・ゲマワット氏らと共同創業する公益法人で、フロンティアAIモデルと計算基盤を活用して実験や検証などの研究プロセス全体を自動化することを目指す。Googleは初期出資者およびクラウドパー...",
-      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000408/"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590680?source=rss-SBI新生銀行 地銀20行超と連携へ",
@@ -477,15 +540,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000406/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590662?source=rss-甲子園出場の女性審判 試合後に涙",
-      "title": "甲子園出場の女性審判 試合後に涙",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-05T12:59:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590662?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590639?source=rss-政府AIを被災自治体に提供 利点は",
       "title": "政府AIを被災自治体に提供 利点は",
       "source": "Yahoo!ニュース IT",
@@ -504,33 +558,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000404/"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000405/-バンダイ、トレカ巡りマイナカードでの本人確認を導入へ",
-      "title": "バンダイ、トレカ巡りマイナカードでの本人確認を導入へ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-05T11:26:29.000Z",
-      "description": "バンダイがトレーディングカードゲームブランド「BANDAI TCG+」において、マイナンバーカードを使った本人確認システムの導入を検討していると発表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000405/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000403/-「Xであなたをブロックした人が分かる」サイト拡散 ソースコードを見たら、IDとパスワード外部送信",
-      "title": "「Xであなたをブロックした人が分かる」サイト拡散 ソースコードを見たら、IDとパスワード外部送信",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-05T10:51:43.000Z",
-      "description": "「ブロックの状況を確認できる」とうたうWebサイトへの注意喚起がX上で広がっている。ITmedia NEWS編集部がソースコードを確認したところ、入力したIDとパスワードをそのまま外部のサーバへ送る作りで、表示する人数もランダムな数値だった。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000403/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000396/-最大6万件の個人情報流出か 「ITトレンド」など運営のイノベーション、GitHubの認証情報漏えいで",
-      "title": "最大6万件の個人情報流出か 「ITトレンド」など運営のイノベーション、GitHubの認証情報漏えいで",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-05T10:22:39.000Z",
-      "description": "イノベーションは8月4日、グループが使うGitHubの認証情報が漏えいし、第三者による不正アクセスを受けたと発表した。最大約6万件の氏名やメールアドレスが流出した可能性があるという。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000396/"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590650?source=rss-楽天市場に「AI店長」24h接客構想",
       "title": "楽天市場に「AI店長」24h接客構想",
       "source": "Yahoo!ニュース IT",
@@ -540,15 +567,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590650?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590616?source=rss-「ドキュメンタル」米で初の制作",
-      "title": "「ドキュメンタル」米で初の制作",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-05T06:58:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590616?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590543?source=rss-格安を装う偽サイト公表 消費者庁",
       "title": "格安を装う偽サイト公表 消費者庁",
       "source": "Yahoo!ニュース IT",
@@ -556,24 +574,6 @@
       "publishedAt": "2026-08-04T13:21:24.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590543?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590533?source=rss-伝説のエンジニア 憂う日本の現状",
-      "title": "伝説のエンジニア 憂う日本の現状",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-04T11:05:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590533?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590515?source=rss-終了した「104」今もかける60代母",
-      "title": "終了した「104」今もかける60代母",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-04T08:29:36.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590515?source=rss"
     }
   ]
 }
