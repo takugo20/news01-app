@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T02:54:12.339Z",
+  "updatedAt": "2026-08-06T05:53:30.500Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,177 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590738?source=rss-ディズニーとTikTok 提携を発表",
+      "title": "ディズニーとTikTok 提携を発表",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-06T05:28:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590738?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590737?source=rss-安保3文書改定 予断控えると首相",
+      "title": "安保3文書改定 予断控えると首相",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-06T05:21:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590737?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590736?source=rss-九州新幹線復旧 8月中に時期示す",
+      "title": "九州新幹線復旧 8月中に時期示す",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-06T05:14:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590736?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000421/-Gmail、他社メアドを送信元にできる機能を廃止へ",
+      "title": "Gmail、他社メアドを送信元にできる機能を廃止へ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-06T05:09:31.000Z",
+      "description": "「維持に過剰なリソースを必要とする機能」だったため。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000421/"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590734?source=rss-メタAIモデルも外部システム侵入",
+      "title": "メタAIモデルも外部システム侵入",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-06T05:00:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590734?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590735?source=rss-無期懲役刑の仮釈放 2025年は4人",
+      "title": "無期懲役刑の仮釈放 2025年は4人",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-06T04:55:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590735?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590731?source=rss-髙嶋政宏と政伸 母の寿美さん追悼",
+      "title": "髙嶋政宏と政伸 母の寿美さん追悼",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-06T04:46:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590731?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590728?source=rss-国連事務総長 核兵器減の潮流逆行",
+      "title": "国連事務総長 核兵器減の潮流逆行",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-06T04:33:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590728?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000419/-「プチプチ」の川上産業、「プチプチ株式会社」に社名変更 創業58年で",
+      "title": "「プチプチ」の川上産業、「プチプチ株式会社」に社名変更 創業58年で",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-06T04:19:49.000Z",
+      "description": "創業58年で初の社名変更という。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000419/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590719?source=rss-上原浩治さん 7回制に反対の理由",
+      "title": "上原浩治さん 7回制に反対の理由",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-06T03:47:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590719?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590722?source=rss-被災地の産業 融資だけでは守れず",
+      "title": "被災地の産業 融資だけでは守れず",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-06T03:46:00.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590722?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590724?source=rss-台風13号 あす沖縄本島に最接近へ",
+      "title": "台風13号 あす沖縄本島に最接近へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-06T03:45:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590724?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590727?source=rss-活気づく栄 名駅前から覇権奪還?",
+      "title": "活気づく栄 名駅前から覇権奪還?",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-06T03:37:53.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590727?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000417/-日本の政府機関かたるフィッシング、3カ月で991％増 iPhoneユーザー標的に ノートン調査",
+      "title": "日本の政府機関かたるフィッシング、3カ月で991％増 iPhoneユーザー標的に ノートン調査",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-06T03:23:05.000Z",
+      "description": "ウイルス対策ソフト「ノートン」を展開する米Genとその日本法人ノートンライフロックが、4?6月に確認した日本の政府機関をかたるフィッシング詐欺が1418件に上り、1?3月比で991％増加していると発表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000417/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590718?source=rss-俳優の寿美花代さん死去 94歳",
+      "title": "俳優の寿美花代さん死去 94歳",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-06T03:17:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590718?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000416/-太陽誘電、上方修正 AIサーバ向け好調 純益290億円、前期の約2倍",
+      "title": "太陽誘電、上方修正 AIサーバ向け好調 純益290億円、前期の約2倍",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-06T03:05:15.000Z",
+      "description": "AIサーバ向けの大容量・高付加価値な積層セラミックコンデンサーなどが足下で好調。今後の需要増や円安などの影響も折り込んだ。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000416/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000402/-「高学力＝ストレスに耐えられる」ではない 秀才が苦しむ一方、収入・満足度が高いのは…… 医学生・医師1000人超を分析",
+      "title": "「高学力＝ストレスに耐えられる」ではない 秀才が苦しむ一方、収入・満足度が高いのは…… 医学生・医師1000人超を分析",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-06T03:00:00.000Z",
+      "description": "ポーランドのグダニスク医科大学に所属する研究者が発表した論文「Why academic selection fails to protect against physician burnout: a brief research report from a 25-year longitudinal programme」...",
+      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000402/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000415/-任天堂、被災したSwitchなど無償修理 義援金5000万円も 熊本地震への支援策",
+      "title": "任天堂、被災したSwitchなど無償修理 義援金5000万円も 熊本地震への支援策",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-06T02:59:41.000Z",
+      "description": "任天堂は8月6日、「令和8年熊本地震」で被災した同社製品の修理を2027年2月1日まで無償で対応すると発表した。日本赤十字社を通じた義援金5000万円の寄付も表明した。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000415/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000414/-ローソン、「鍋さばきロボ」導入拡大 やきそば・チャーハンなどを高火力でスピード調理",
+      "title": "ローソン、「鍋さばきロボ」導入拡大 やきそば・チャーハンなどを高火力でスピード調理",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-06T02:57:31.000Z",
+      "description": "ローソンは、300度超の高火力で炒め物を自動調理する「I-Robo 2」を首都圏3店に追加導入する。チャーハンや野菜炒めに加え焼きそばにも対応し、計13品を約1分半?2分半で提供する。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000414/"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590713?source=rss-高校野球 AIで球速アップの選手も",
       "title": "高校野球 AIで球速アップの選手も",
@@ -207,24 +378,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000407/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590677?source=rss-消費減税1% 外食に「割高感」も",
-      "title": "消費減税1% 外食に「割高感」も",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-05T21:59:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590677?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590676?source=rss-台風13号あす沖縄に最接近 警戒を",
-      "title": "台風13号あす沖縄に最接近 警戒を",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-05T21:49:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590676?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590675?source=rss-大谷が25号&26号も ド軍は6連敗",
       "title": "大谷が25号&26号も ド軍は6連敗",
       "source": "Yahoo!ニュース スポーツ",
@@ -232,15 +385,6 @@
       "publishedAt": "2026-08-05T21:35:28.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590675?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590674?source=rss-原爆投下81年 核リスク高まる現在",
-      "title": "原爆投下81年 核リスク高まる現在",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-05T21:25:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590674?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000406/-共同通信に不正アクセス 職員や加盟社の氏名・メルアドなど約6000件が閲覧の恐れ 職員アカウント不正利用か",
@@ -306,15 +450,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000405/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590655?source=rss-消費減税巡り 野党が一斉に批判",
-      "title": "消費減税巡り 野党が一斉に批判",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-05T11:11:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590655?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000403/-「Xであなたをブロックした人が分かる」サイト拡散 ソースコードを見たら、IDとパスワード外部送信",
       "title": "「Xであなたをブロックした人が分かる」サイト拡散 ソースコードを見たら、IDとパスワード外部送信",
       "source": "ITmedia NEWS",
@@ -322,15 +457,6 @@
       "publishedAt": "2026-08-05T10:51:43.000Z",
       "description": "「ブロックの状況を確認できる」とうたうWebサイトへの注意喚起がX上で広がっている。ITmedia NEWS編集部がソースコードを確認したところ、入力したIDとパスワードをそのまま外部のサーバへ送る作りで、表示する人数もランダムな数値だった。",
       "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000403/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590651?source=rss-韓国プロ野球 猛暑で計20試合中止",
-      "title": "韓国プロ野球 猛暑で計20試合中止",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-05T10:24:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590651?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000396/-最大6万件の個人情報流出か 「ITトレンド」など運営のイノベーション、GitHubの認証情報漏えいで",
@@ -349,24 +475,6 @@
       "publishedAt": "2026-08-05T10:05:56.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590650?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590647?source=rss-イオン熊本の爆発 LPガス原因か",
-      "title": "イオン熊本の爆発 LPガス原因か",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-05T09:54:45.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590647?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590632?source=rss-6人デスクワーク中死亡 日本製紙",
-      "title": "6人デスクワーク中死亡 日本製紙",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-05T08:40:47.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590632?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000400/-キオクシア、フラッシュメモリでメモリ容量を増やせるモジュール発表 DRAMの容量不足を補う",
@@ -423,78 +531,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590608?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000392/-東大、60代教授を懲戒処分 サイトのHTMLソースに“不適切な言葉” 「六四天安門」問題が理由と毎日報道",
-      "title": "東大、60代教授を懲戒処分 サイトのHTMLソースに“不適切な言葉” 「六四天安門」問題が理由と毎日報道",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-05T03:50:12.000Z",
-      "description": "東京大学は8月4日、所属する専攻と研究室のWebサイトのHTMLソース内に不適切な言葉を書き込んだとして、60代の教授を出勤停止3日の懲戒処分にしたと発表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000392/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590595?source=rss-オンワード 貴重品携行を義務付け",
-      "title": "オンワード 貴重品携行を義務付け",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-05T03:11:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590595?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000391/-英AI研究所、評価中のAIが実在の開発者を標的に──偽アカウント使い悪意あるコードの承認迫る",
-      "title": "英AI研究所、評価中のAIが実在の開発者を標的に──偽アカウント使い悪意あるコードの承認迫る",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-05T02:39:27.000Z",
-      "description": "英AI研究所のAISIは、AIエージェントの評価中に、実在の人物や組織に対してAIが継続的かつ不許可の行動を取るインシデントを検知したと発表した。GitHub上で偽アカウントを作成して保守担当者を欺くサプライチェーン攻撃を試みた事例などが含まれる。攻撃はいずれも阻止され実害はなく、リアルタイム監視の導入などの再発防止策...",
-      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000391/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/03/2000000359/-Apple、大量購入品の返品に「15％の手数料」 販売条件に明記 “転売対策”か",
-      "title": "Apple、大量購入品の返品に「15％の手数料」 販売条件に明記 “転売対策”か",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-05T02:08:57.000Z",
-      "description": "米Appleは、日本のApple Storeの販売条件に、大量購入した製品などの返品について「不正な目的による返品の恐れがある」と判断した場合、商品1点につき15％の返品手数料を課すとの条項を追加したとみられる。いつから記載しているかなどはAppleに問い合わせ中だ。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/03/2000000359/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000388/-SpaceX、IPO後初の決算で売上高92％増 AI設備投資158億ドルで「2030年には年商1兆ドルに」とマスクCEO",
-      "title": "SpaceX、IPO後初の決算で売上高92％増 AI設備投資158億ドルで「2030年には年商1兆ドルに」とマスクCEO",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-05T00:08:44.000Z",
-      "description": "SpaceXはIPO後初となる2026年第2四半期決算を発表した。売上高は前年同期比92％増の78億1400万ドル、純損失は5億4100万ドルに改善した。xAIとの合併を経たAI事業の売上高が247％増と急成長を牽引。設備投資はAIインフラを中心に183億6900万ドルへ拡大し、将来の売上予測も上方修正した。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000388/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000384/-ゲオのレトロゲーム販売がみせた劇的な復活劇 店舗10分の1で売上1.4倍の秘密とは？",
-      "title": "ゲオのレトロゲーム販売がみせた劇的な復活劇 店舗10分の1で売上1.4倍の秘密とは？",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-04T23:31:00.000Z",
-      "description": "ゲオはコロナ禍の2021年にレトロゲームの販売を止めた。再開したのは半年ほど前で、店舗数は21年以前の1割しかない。しかし全体の売上はむしろ増えたという。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000384/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000387/-OpenAI、Appleの提訴に全面反論――「営業秘密は持っていないし、欲しくもない」",
-      "title": "OpenAI、Appleの提訴に全面反論――「営業秘密は持っていないし、欲しくもない」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-04T22:16:06.000Z",
-      "description": "OpenAIは、Appleが提起した営業秘密の不正取得訴訟に対し、公式ブログで全面的に反論した。Apple側の誤連絡や連絡不備をメールのやり取りを添えて指摘し、営業秘密の所有や利用を強く否定。一方、Appleは被告らの証人尋問や端末の複製データの提出などを求める仮処分を申し立てており、双方の主張が対立している。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000387/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000375/-反ワクチン情報を信じる人の60％以上はワクチンを接種──東大と東北大が3万人を調査",
-      "title": "反ワクチン情報を信じる人の60％以上はワクチンを接種──東大と東北大が3万人を調査",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-04T22:00:00.000Z",
-      "description": "東京大学国際高等研究所新世代感染症センターの古瀬祐気教授と東北大学大学院医学系研究科の田淵貴大准教授の研究チームが国際科学誌「Frontiers in Public Health」に発表した論文「Vaccine-related misinformation and attitude toward COVID-19 va...",
-      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000375/"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590552?source=rss-東野圭吾さん最新作発売 ファン涙",
       "title": "東野圭吾さん最新作発売 ファン涙",
       "source": "Yahoo!ニュース エンタメ",
@@ -504,15 +540,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590552?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590547?source=rss-唐沢寿明 ウッディ役の初期は葛藤",
-      "title": "唐沢寿明 ウッディ役の初期は葛藤",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-04T13:34:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590547?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590543?source=rss-格安を装う偽サイト公表 消費者庁",
       "title": "格安を装う偽サイト公表 消費者庁",
       "source": "Yahoo!ニュース IT",
@@ -520,15 +547,6 @@
       "publishedAt": "2026-08-04T13:21:24.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590543?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590544?source=rss-武田真一アナ 5度の転勤に悲哀",
-      "title": "武田真一アナ 5度の転勤に悲哀",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-04T13:08:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590544?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590533?source=rss-伝説のエンジニア 憂う日本の現状",
@@ -556,24 +574,6 @@
       "publishedAt": "2026-08-04T08:14:38.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590513?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590492?source=rss-Xに「人工地震」なぜデマ出回る",
-      "title": "Xに「人工地震」なぜデマ出回る",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-04T05:20:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590492?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590412?source=rss-万博関連ドメイン 成人向けに転用",
-      "title": "万博関連ドメイン 成人向けに転用",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-03T10:56:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590412?source=rss"
     }
   ]
 }
