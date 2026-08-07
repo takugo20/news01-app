@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T07:22:16.003Z",
+  "updatedAt": "2026-08-07T10:03:37.465Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,78 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590889?source=rss-持田香織 歌手活動より子育て優先",
+      "title": "持田香織 歌手活動より子育て優先",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-07T09:47:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590889?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590891?source=rss-有明 被災地熊本に届ける劇的勝利",
+      "title": "有明 被災地熊本に届ける劇的勝利",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-07T09:34:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590891?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590883?source=rss-台風 沖縄・奄美で暴風雨続く恐れ",
+      "title": "台風 沖縄・奄美で暴風雨続く恐れ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-07T08:56:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590883?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000446/-小学館「マンガワン」問題、第三者委が報告書 3つの行為を“人権侵害への助長・加担”と指摘",
+      "title": "小学館「マンガワン」問題、第三者委が報告書 3つの行為を“人権侵害への助長・加担”と指摘",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-07T08:30:45.000Z",
+      "description": "",
+      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000446/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590876?source=rss-国家公務員の月給3.51%増へ 勧告",
+      "title": "国家公務員の月給3.51%増へ 勧告",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-07T08:04:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590876?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590870?source=rss-改憲は必要? 国会と世論に乖離も",
+      "title": "改憲は必要? 国会と世論に乖離も",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-07T08:01:26.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590870?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590873?source=rss-13時半からなぜ3試合 甲子園2部制",
+      "title": "13時半からなぜ3試合 甲子園2部制",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-07T07:48:12.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590873?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590872?source=rss-いのちの党 旧グッズ半額で販売",
+      "title": "いのちの党 旧グッズ半額で販売",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-07T07:34:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590872?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590866?source=rss-グーグル幹部退社 AI競争に危機感",
       "title": "グーグル幹部退社 AI競争に危機感",
       "source": "Yahoo!ニュース IT",
@@ -45,13 +117,13 @@
       "url": "https://news.yahoo.co.jp/pickup/6590866?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590863?source=rss-速報甲子園 立命館宇治vs.有明",
-      "title": "速報甲子園 立命館宇治vs.有明",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-07T07:14:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590863?source=rss"
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000449/-防衛装備庁、ITコンサルSHIFTに「AI装備品」の審査支援を委託",
+      "title": "防衛装備庁、ITコンサルSHIFTに「AI装備品」の審査支援を委託",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-07T07:01:54.000Z",
+      "description": "ITコンサルティング事業を手掛けるSHIFT（東京都港区）が、防衛装備庁によるAI装備品の技術的審査を支援する。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000449/"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000448/-「配信システムをAIで自作したアイドル」こと宮本佳林さん、Cloudflare Workersの開発者イベントに登壇へ",
@@ -178,15 +250,6 @@
       "publishedAt": "2026-08-07T03:00:00.000Z",
       "description": "中国BYDが日本の軽自動車規格向けに設計した電気自動車（EV）「BYD RACCO」は“買い”に値するクルマなのだろうか？",
       "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000394/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590846?source=rss-台風13号 沖縄・奄美に最接近",
-      "title": "台風13号 沖縄・奄美に最接近",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-07T02:58:27.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590846?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590843?source=rss-映画「ちいかわ」興収50億円突破",
@@ -351,15 +414,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590807?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590805?source=rss-陸自が個人情報収集か 対象者証言",
-      "title": "陸自が個人情報収集か 対象者証言",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-06T15:18:26.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590805?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590802?source=rss-きのこ雲目撃 復興語る元広島捕手",
       "title": "きのこ雲目撃 復興語る元広島捕手",
       "source": "Yahoo!ニュース スポーツ",
@@ -367,24 +421,6 @@
       "publishedAt": "2026-08-06T13:51:29.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590802?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590799?source=rss-避難所巡り格差も 制度の改革急務",
-      "title": "避難所巡り格差も 制度の改革急務",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-06T13:38:27.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590799?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590796?source=rss-ヤクルト自力V消滅 7連敗で借金9",
-      "title": "ヤクルト自力V消滅 7連敗で借金9",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-06T13:15:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590796?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590793?source=rss-阪神大竹が涙 故郷・熊本を思い",
@@ -477,15 +513,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590775?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590774?source=rss-VIVANT考察 太田に二重スパイ説",
-      "title": "VIVANT考察 太田に二重スパイ説",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-06T09:39:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590774?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000428/-写真加工アプリ「SNOW」にステマで措置命令 報酬付きでX投稿依頼、広告表示なし 消費者庁",
       "title": "写真加工アプリ「SNOW」にステマで措置命令 報酬付きでX投稿依頼、広告表示なし 消費者庁",
       "source": "ITmedia NEWS",
@@ -502,15 +529,6 @@
       "publishedAt": "2026-08-06T09:13:06.000Z",
       "description": "国土地理院は8月5日、地球観測衛星「だいち2号」「だいち4号」のレーダーデータを解析し、令和8年熊本地震に伴って地表のずれが生じたとみられる境界（変位境界）を約35kmにわたり判読したと発表した。空中写真からは約2mの「右横ずれ」も読み取れたという。",
       "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000422/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590762?source=rss-神谷氏 食料品の消費減税「愚策」",
-      "title": "神谷氏 食料品の消費減税「愚策」",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-06T09:03:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590762?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590755?source=rss-加工アプリ「SNOW」に措置命令",
@@ -549,15 +567,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590738?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000421/-Gmail、他社メアドを送信元にできる機能を廃止へ",
-      "title": "Gmail、他社メアドを送信元にできる機能を廃止へ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-06T05:09:31.000Z",
-      "description": "「維持に過剰なリソースを必要とする機能」だったため。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000421/"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590734?source=rss-メタAIモデルも外部システム侵入",
       "title": "メタAIモデルも外部システム侵入",
       "source": "Yahoo!ニュース IT",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-08-06T05:00:16.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590734?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000419/-「プチプチ」の川上産業、「プチプチ株式会社」に社名変更 創業58年で",
-      "title": "「プチプチ」の川上産業、「プチプチ株式会社」に社名変更 創業58年で",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-06T04:19:49.000Z",
-      "description": "創業58年で初の社名変更という。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000419/"
     }
   ]
 }
