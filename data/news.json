@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T13:13:17.212Z",
+  "updatedAt": "2026-08-07T15:59:38.916Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,69 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590918?source=rss-新庄監督が苦言 楽天投手陣5死球",
+      "title": "新庄監督が苦言 楽天投手陣5死球",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-07T14:37:47.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590918?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590916?source=rss-声優らの声も権利保護の対象 指針",
+      "title": "声優らの声も権利保護の対象 指針",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-07T14:06:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590916?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590915?source=rss-16歳 J1年少ゴールで久保建英超え",
+      "title": "16歳 J1年少ゴールで久保建英超え",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-07T13:52:23.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590915?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590910?source=rss-レインボー池田結婚 コント内発表",
+      "title": "レインボー池田結婚 コント内発表",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-07T13:43:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590910?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590914?source=rss-ナイン鼓舞した バイキング・ロー",
+      "title": "ナイン鼓舞した バイキング・ロー",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-07T13:30:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590914?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590911?source=rss-キオクシア株 東芝にも巨額の恩恵",
+      "title": "キオクシア株 東芝にも巨額の恩恵",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-07T13:25:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590911?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590913?source=rss-四国新幹線 調査対象路線に国選定",
+      "title": "四国新幹線 調査対象路線に国選定",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-07T13:21:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590913?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590909?source=rss-中国でスシロー好調 5時間待ちも",
       "title": "中国でスシロー好調 5時間待ちも",
@@ -216,15 +279,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590876?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590870?source=rss-改憲は必要? 国会と世論に乖離も",
-      "title": "改憲は必要? 国会と世論に乖離も",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-07T08:01:26.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590870?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590873?source=rss-13時半からなぜ3試合 甲子園2部制",
       "title": "13時半からなぜ3試合 甲子園2部制",
       "source": "Yahoo!ニュース スポーツ",
@@ -259,24 +313,6 @@
       "publishedAt": "2026-08-07T06:27:51.000Z",
       "description": "元Juice=Juiceでアイドルの宮本佳林さんが、8月27日開催の開発者向けイベント「Cloudflare Workers Tech Talks in Tokyo」に出演する。公式Xアカウントが8月7日に告知した。",
       "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000448/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590848?source=rss-韓国カフェが日本に続々上陸 理由",
-      "title": "韓国カフェが日本に続々上陸 理由",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-07T05:41:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590848?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590861?source=rss-ジャングリア ロイヤルチケを発売",
-      "title": "ジャングリア ロイヤルチケを発売",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-07T05:22:27.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590861?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590851?source=rss-貴重な都市鉱山?「Eゴミ」の課題",
@@ -333,15 +369,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000442/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590854?source=rss-競泳の本多灯が活動自粛 昨年事故",
-      "title": "競泳の本多灯が活動自粛 昨年事故",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-07T03:34:55.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590854?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000440/-「ジャンプ」オンラインストアで43億円分キャンセル繰り返したか 業務妨害容疑の女逮捕",
       "title": "「ジャンプ」オンラインストアで43億円分キャンセル繰り返したか 業務妨害容疑の女逮捕",
       "source": "ITmedia NEWS",
@@ -376,15 +403,6 @@
       "publishedAt": "2026-08-07T02:35:18.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590838?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590835?source=rss-広陵暴力問題 元監督「深く反省」",
-      "title": "広陵暴力問題 元監督「深く反省」",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-07T02:08:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590835?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000437/-味の素、AI・サーバ向け半導体基板材好調で1Q業績過去最高に 通期上方修正",
@@ -468,15 +486,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000436/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590816?source=rss-巨人マルティネス SNSで中傷被害",
-      "title": "巨人マルティネス SNSで中傷被害",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-06T22:35:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590816?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000435/-「ChatGPT」のデフォルトモデル、PlusとProは「Sol」に、無料版は「Luna」でテキストチャット無制限に",
       "title": "「ChatGPT」のデフォルトモデル、PlusとProは「Sol」に、無料版は「Luna」でテキストチャット無制限に",
       "source": "ITmedia NEWS",
@@ -484,15 +493,6 @@
       "publishedAt": "2026-08-06T21:32:08.000Z",
       "description": "OpenAIはChatGPTのデフォルトモデル変更を発表した。有料版には事実の正確性と応答速度を高めた改良版「GPT-5.6 Sol」を導入し、思考時間を選択できるスライダーを追加。無料版および「ChatGPT Go」には「GPT-5.6 Luna」を導入し、テキストチャットを無制限化するとともに推論を促す「Think...",
       "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000435/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590808?source=rss-小栗旬 横浜流星と初共演「最高」",
-      "title": "小栗旬 横浜流星と初共演「最高」",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-06T21:25:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590808?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590807?source=rss-山本舞香 Hiroとの第1子出産",
