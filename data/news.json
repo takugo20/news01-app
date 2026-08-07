@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T10:03:37.465Z",
+  "updatedAt": "2026-08-07T13:13:17.212Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,150 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590909?source=rss-中国でスシロー好調 5時間待ちも",
+      "title": "中国でスシロー好調 5時間待ちも",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-07T12:51:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590909?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590907?source=rss-池田と結婚 佐藤アナ退社理由語る",
+      "title": "池田と結婚 佐藤アナ退社理由語る",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-07T12:50:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590907?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590885?source=rss-「日銀利上げで円高」は本当か?",
+      "title": "「日銀利上げで円高」は本当か?",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-07T12:46:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590885?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590905?source=rss-国税不祥事 前例ない事態に危機感",
+      "title": "国税不祥事 前例ない事態に危機感",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-07T12:34:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590905?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590903?source=rss-8回に球場騒然 オリが3死球受ける",
+      "title": "8回に球場騒然 オリが3死球受ける",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-07T12:22:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590903?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590902?source=rss-蓮池薫さんの母・ハツイさん死去",
+      "title": "蓮池薫さんの母・ハツイさん死去",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-07T12:05:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590902?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590899?source=rss-「墓じまい」が急増 墓石はどこへ",
+      "title": "「墓じまい」が急増 墓石はどこへ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-07T12:05:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590899?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590888?source=rss-台風15号 来週に東・北日本接近か",
+      "title": "台風15号 来週に東・北日本接近か",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-07T11:58:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590888?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590900?source=rss-元K-1王者 久保優太が再婚を報告",
+      "title": "元K-1王者 久保優太が再婚を報告",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-07T11:49:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590900?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590896?source=rss-「家族いる」前提の世間 抱く不安",
+      "title": "「家族いる」前提の世間 抱く不安",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-07T11:30:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590896?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590897?source=rss-レインボー池田&佐藤佳奈アナ結婚",
+      "title": "レインボー池田&佐藤佳奈アナ結婚",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-07T11:20:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590897?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000455/-シャープ、通期純利益見通し170億円下方修正 円安など影響 AIサーバは9月に参入",
+      "title": "シャープ、通期純利益見通し170億円下方修正 円安など影響 AIサーバは9月に参入",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-07T10:34:01.000Z",
+      "description": "シャープは7日、2027年3月期の連結純利益が前期比47.3％減の250億円になる見通しだと発表した。期初予想から170億円下方修正した。樹脂・燃料の価格上昇や円安が収益を圧迫する。営業利益は190億円引き下げて300億円。売上高は1兆7700億円に据え置いた。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000455/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000456/-「就活に生成AI利用」ほぼ全員に 面接で内容追及され困惑も",
+      "title": "「就活に生成AI利用」ほぼ全員に 面接で内容追及され困惑も",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-07T10:16:08.000Z",
+      "description": "2027年春に卒業予定の大学生らを対象に行ったアンケートで、就職活動で生成AIを「利用していない」とした割合は3％にとどまり、ほぼ全ての学生が就活で何らかの形で生成AIを活用している実態が、人事分野の調査研究機関HR総研（東京都千代田区）などの調査で分かった。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000456/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590892?source=rss-くりぃむ所属事務所 熊本に寄付",
+      "title": "くりぃむ所属事務所 熊本に寄付",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-07T10:09:51.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590892?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000454/-「声」の権利明記 生成AIで無断利用、法務省が民事責任の解釈指針を公表",
+      "title": "「声」の権利明記 生成AIで無断利用、法務省が民事責任の解釈指針を公表",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-07T10:08:04.000Z",
+      "description": "著名人の肖像などが生成AIで無断利用されている問題を巡り、法務省は声優らの「声」も法的保護の対象になると明記した解釈指針を公式サイトで公表した。肖像や氏名の無断利用については最高裁判例があるが、声については違法性の線引きが曖昧だった。権利侵害に当たる具体的な事例も盛り込み、生成AIサービスの提供事業者や利用者にも注意を...",
+      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000454/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000453/-KDDI、社内の全システムで脆弱性診断へ 1220万人分漏えいで「未知の脆弱性と片付けない」",
+      "title": "KDDI、社内の全システムで脆弱性診断へ 1220万人分漏えいで「未知の脆弱性と片付けない」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-07T09:53:41.000Z",
+      "description": "KDDIの松田浩道社長は8月7日の決算会見で、ISP事業者向けメールシステムへの不正アクセスによる大規模漏えいについて「行政指導を厳粛に受け止めている」と述べ、保有システム群の脆弱性診断を急ぐ考えを示した。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000453/"
+    },
+    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590889?source=rss-持田香織 歌手活動より子育て優先",
       "title": "持田香織 歌手活動より子育て優先",
       "source": "Yahoo!ニュース エンタメ",
@@ -52,15 +196,6 @@
       "publishedAt": "2026-08-07T09:34:39.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590891?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590883?source=rss-台風 沖縄・奄美で暴風雨続く恐れ",
-      "title": "台風 沖縄・奄美で暴風雨続く恐れ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-07T08:56:36.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590883?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000446/-小学館「マンガワン」問題、第三者委が報告書 3つの行為を“人権侵害への助長・加担”と指摘",
@@ -97,15 +232,6 @@
       "publishedAt": "2026-08-07T07:48:12.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590873?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590872?source=rss-いのちの党 旧グッズ半額で販売",
-      "title": "いのちの党 旧グッズ半額で販売",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-07T07:34:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590872?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590866?source=rss-グーグル幹部退社 AI競争に危機感",
@@ -171,15 +297,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590858?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590859?source=rss-国民代表選 玉木氏と橋本氏立候補",
-      "title": "国民代表選 玉木氏と橋本氏立候補",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-07T04:59:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590859?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000445/-ドコモ・バイクシェアのシステム障害、いまだ全面復旧ならず 8月1日以降の利用者には「全額返金」へ",
       "title": "ドコモ・バイクシェアのシステム障害、いまだ全面復旧ならず 8月1日以降の利用者には「全額返金」へ",
       "source": "ITmedia NEWS",
@@ -187,15 +304,6 @@
       "publishedAt": "2026-08-07T04:58:26.000Z",
       "description": "ドコモ・バイクシェアは8月7日、システム不具合が続いている自転車シェアリングサービスについて、1日以降の利用料金を全額返金すると発表した。正常に利用できたユーザーも対象で、手続きは不要という。",
       "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000445/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590857?source=rss-プルデンシャル 顧客面談を録音へ",
-      "title": "プルデンシャル 顧客面談を録音へ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-07T04:47:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590857?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000444/-西鉄福岡（天神）駅などで意図しない駅構内放送 第三者が有名YouTuberの音声を不正に流したか",
@@ -270,15 +378,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590838?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590839?source=rss-はるな愛 映画で自身初の母親役",
-      "title": "はるな愛 映画で自身初の母親役",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-07T02:26:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590839?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590835?source=rss-広陵暴力問題 元監督「深く反省」",
       "title": "広陵暴力問題 元監督「深く反省」",
       "source": "Yahoo!ニュース スポーツ",
@@ -322,15 +421,6 @@
       "publishedAt": "2026-08-07T01:07:08.000Z",
       "description": "米ボストン小児病院などに所属する研究者らがScience Translational Medicineで発表した論文「Fecal microbiome transplant in food allergy in humans and mice identifies a role for bile acid metabo...",
       "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000426/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590832?source=rss-4/30に6兆円超の介入 政府・日銀",
-      "title": "4/30に6兆円超の介入 政府・日銀",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-07T00:56:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590832?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000438/-手術中の大地震、患者守る医療スタッフ……熊本総合病院の動画に反響 「プロの動き」「尊敬」",
@@ -414,24 +504,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590807?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590802?source=rss-きのこ雲目撃 復興語る元広島捕手",
-      "title": "きのこ雲目撃 復興語る元広島捕手",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-06T13:51:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590802?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590793?source=rss-阪神大竹が涙 故郷・熊本を思い",
-      "title": "阪神大竹が涙 故郷・熊本を思い",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-06T12:34:58.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590793?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000434/-アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」 Microsoftがプレビュー公開",
       "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」 Microsoftがプレビュー公開",
       "source": "ITmedia NEWS",
@@ -459,15 +531,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590780?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590769?source=rss-マンガ4作から考える原爆の日",
-      "title": "マンガ4作から考える原爆の日",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-06T10:22:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590769?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000430/-個人開発「家系ラーメンマニア」で利用者急増 対応追いつかず一部停止 「より信頼していただけるアプリに」",
       "title": "個人開発「家系ラーメンマニア」で利用者急増 対応追いつかず一部停止 「より信頼していただけるアプリに」",
       "source": "ITmedia NEWS",
@@ -486,51 +549,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000408/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590779?source=rss-山本里菜アナが離婚 前向きな決断",
-      "title": "山本里菜アナが離婚 前向きな決断",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-06T10:16:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590779?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590778?source=rss-エース級の財務官僚人事が波紋",
-      "title": "エース級の財務官僚人事が波紋",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-06T09:53:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590778?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590775?source=rss-れいわが党名変更「いのちの党」",
-      "title": "れいわが党名変更「いのちの党」",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-06T09:43:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590775?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000428/-写真加工アプリ「SNOW」にステマで措置命令 報酬付きでX投稿依頼、広告表示なし 消費者庁",
-      "title": "写真加工アプリ「SNOW」にステマで措置命令 報酬付きでX投稿依頼、広告表示なし 消費者庁",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-06T09:25:55.000Z",
-      "description": "消費者庁は8月6日、写真加工アプリ「SNOW」を運営する韓国企業と日本法人の2社に対し、広告と明示しないX投稿を第三者に依頼していたとして、景品表示法に基づく措置命令を出した。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000428/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000422/-熊本地震で地面がずれた場所、35kmの線状に 衛星データで「変位境界」を判読 国土地理院",
-      "title": "熊本地震で地面がずれた場所、35kmの線状に 衛星データで「変位境界」を判読 国土地理院",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-06T09:13:06.000Z",
-      "description": "国土地理院は8月5日、地球観測衛星「だいち2号」「だいち4号」のレーダーデータを解析し、令和8年熊本地震に伴って地表のずれが生じたとみられる境界（変位境界）を約35kmにわたり判読したと発表した。空中写真からは約2mの「右横ずれ」も読み取れたという。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000422/"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590755?source=rss-加工アプリ「SNOW」に措置命令",
       "title": "加工アプリ「SNOW」に措置命令",
       "source": "Yahoo!ニュース IT",
@@ -538,24 +556,6 @@
       "publishedAt": "2026-08-06T08:32:35.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590755?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000425/-SpaceXのロケット上段、月面に衝突 NASAが発表 「地球や月面機器に危険なし」",
-      "title": "SpaceXのロケット上段、月面に衝突 NASAが発表 「地球や月面機器に危険なし」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-06T07:33:20.000Z",
-      "description": "NASAは、SpaceXのFalcon 9使用済み上段が月面に衝突したと発表した。計画外の衝突で、地球や月面機器への危険はない。SpaceXは、月への高エネルギーミッションでは通常の制御廃棄が難しい場合があると説明した。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000425/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000424/-ドコモ1Q、モバイル通信は減収続くが……金融好調、全社の増益エンジンに",
-      "title": "ドコモ1Q、モバイル通信は減収続くが……金融好調、全社の増益エンジンに",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-06T06:13:46.000Z",
-      "description": "金融や動画配信などを束ねるスマートライフ事業が急成長し、増収増益を確保した。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000424/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590738?source=rss-ディズニーとTikTok 提携を発表",
