@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T04:57:24.362Z",
+  "updatedAt": "2026-08-07T07:22:16.003Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,87 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590866?source=rss-グーグル幹部退社 AI競争に危機感",
+      "title": "グーグル幹部退社 AI競争に危機感",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-07T07:16:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590866?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590863?source=rss-速報甲子園 立命館宇治vs.有明",
+      "title": "速報甲子園 立命館宇治vs.有明",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-07T07:14:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590863?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000448/-「配信システムをAIで自作したアイドル」こと宮本佳林さん、Cloudflare Workersの開発者イベントに登壇へ",
+      "title": "「配信システムをAIで自作したアイドル」こと宮本佳林さん、Cloudflare Workersの開発者イベントに登壇へ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-07T06:27:51.000Z",
+      "description": "元Juice=Juiceでアイドルの宮本佳林さんが、8月27日開催の開発者向けイベント「Cloudflare Workers Tech Talks in Tokyo」に出演する。公式Xアカウントが8月7日に告知した。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000448/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590848?source=rss-韓国カフェが日本に続々上陸 理由",
+      "title": "韓国カフェが日本に続々上陸 理由",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-07T05:41:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590848?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590861?source=rss-ジャングリア ロイヤルチケを発売",
+      "title": "ジャングリア ロイヤルチケを発売",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-07T05:22:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590861?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590851?source=rss-貴重な都市鉱山?「Eゴミ」の課題",
+      "title": "貴重な都市鉱山?「Eゴミ」の課題",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-07T05:21:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590851?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590858?source=rss-熊本地震を激甚災害に指定 政府",
+      "title": "熊本地震を激甚災害に指定 政府",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-07T05:00:26.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590858?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590859?source=rss-国民代表選 玉木氏と橋本氏立候補",
+      "title": "国民代表選 玉木氏と橋本氏立候補",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-07T04:59:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590859?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000445/-ドコモ・バイクシェアのシステム障害、いまだ全面復旧ならず 8月1日以降の利用者には「全額返金」へ",
+      "title": "ドコモ・バイクシェアのシステム障害、いまだ全面復旧ならず 8月1日以降の利用者には「全額返金」へ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-07T04:58:26.000Z",
+      "description": "ドコモ・バイクシェアは8月7日、システム不具合が続いている自転車シェアリングサービスについて、1日以降の利用料金を全額返金すると発表した。正常に利用できたユーザーも対象で、手続きは不要という。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000445/"
+    },
+    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590857?source=rss-プルデンシャル 顧客面談を録音へ",
       "title": "プルデンシャル 顧客面談を録音へ",
       "source": "Yahoo!ニュース 経済",
@@ -43,6 +124,15 @@
       "publishedAt": "2026-08-07T04:47:46.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590857?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000444/-西鉄福岡（天神）駅などで意図しない駅構内放送 第三者が有名YouTuberの音声を不正に流したか",
+      "title": "西鉄福岡（天神）駅などで意図しない駅構内放送 第三者が有名YouTuberの音声を不正に流したか",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-07T04:30:57.000Z",
+      "description": "西日本鉄道（福岡県福岡市）は8月6日、西鉄福岡（天神）駅および薬院駅で4日、駅構内の放送設備から同社が意図しない音声が流れる事案が発生したと発表した。原因は不明だが、第三者が不正な手段で音声を流した可能性があるという。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000444/"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590856?source=rss-大手ボーナス増 裏側で広がる格差",
@@ -63,15 +153,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000442/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590855?source=rss-ジャンプ部数減も業績好調 なぜ",
-      "title": "ジャンプ部数減も業績好調 なぜ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-07T03:45:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590855?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590854?source=rss-競泳の本多灯が活動自粛 昨年事故",
       "title": "競泳の本多灯が活動自粛 昨年事故",
       "source": "Yahoo!ニュース スポーツ",
@@ -79,15 +160,6 @@
       "publishedAt": "2026-08-07T03:34:55.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590854?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590849?source=rss-ポリ袋・ラップ 買いだめ落ち着き",
-      "title": "ポリ袋・ラップ 買いだめ落ち着き",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-07T03:05:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590849?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000440/-「ジャンプ」オンラインストアで43億円分キャンセル繰り返したか 業務妨害容疑の女逮捕",
@@ -225,15 +297,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590823?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590822?source=rss-お盆の帰省で休めない どうすれば",
-      "title": "お盆の帰省で休めない どうすれば",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-06T23:16:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590822?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590818?source=rss-秋田にAIデータセンター建設へ",
       "title": "秋田にAIデータセンター建設へ",
       "source": "Yahoo!ニュース IT",
@@ -331,15 +394,6 @@
       "publishedAt": "2026-08-06T12:34:58.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590793?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590789?source=rss-張本美和 中国選手に大逆転で8強",
-      "title": "張本美和 中国選手に大逆転で8強",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-06T12:04:01.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590789?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000434/-アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」 Microsoftがプレビュー公開",
@@ -513,15 +567,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590734?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590735?source=rss-無期懲役刑の仮釈放 2025年は4人",
-      "title": "無期懲役刑の仮釈放 2025年は4人",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-06T04:55:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590735?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000419/-「プチプチ」の川上産業、「プチプチ株式会社」に社名変更 創業58年で",
       "title": "「プチプチ」の川上産業、「プチプチ株式会社」に社名変更 創業58年で",
       "source": "ITmedia NEWS",
@@ -529,51 +574,6 @@
       "publishedAt": "2026-08-06T04:19:49.000Z",
       "description": "創業58年で初の社名変更という。",
       "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000419/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000417/-日本の政府機関かたるフィッシング、3カ月で991％増 iPhoneユーザー標的に ノートン調査",
-      "title": "日本の政府機関かたるフィッシング、3カ月で991％増 iPhoneユーザー標的に ノートン調査",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-06T03:23:05.000Z",
-      "description": "ウイルス対策ソフト「ノートン」を展開する米Genとその日本法人ノートンライフロックが、4?6月に確認した日本の政府機関をかたるフィッシング詐欺が1418件に上り、1?3月比で991％増加していると発表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000417/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000416/-太陽誘電、上方修正 AIサーバ向け好調 純益290億円、前期の約2倍",
-      "title": "太陽誘電、上方修正 AIサーバ向け好調 純益290億円、前期の約2倍",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-06T03:05:15.000Z",
-      "description": "AIサーバ向けの大容量・高付加価値な積層セラミックコンデンサーなどが足下で好調。今後の需要増や円安などの影響も折り込んだ。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000416/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000402/-「高学力＝ストレスに耐えられる」ではない 秀才が苦しむ一方、収入・満足度が高いのは…… 医学生・医師1000人超を分析",
-      "title": "「高学力＝ストレスに耐えられる」ではない 秀才が苦しむ一方、収入・満足度が高いのは…… 医学生・医師1000人超を分析",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-06T03:00:00.000Z",
-      "description": "ポーランドのグダニスク医科大学に所属する研究者が発表した論文「Why academic selection fails to protect against physician burnout: a brief research report from a 25-year longitudinal programme」...",
-      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000402/"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590639?source=rss-政府AIを被災自治体に提供 利点は",
-      "title": "政府AIを被災自治体に提供 利点は",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-05T12:55:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590639?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590650?source=rss-楽天市場に「AI店長」24h接客構想",
-      "title": "楽天市場に「AI店長」24h接客構想",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-05T10:05:56.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590650?source=rss"
     }
   ]
 }
