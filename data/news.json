@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T14:22:30.011Z",
+  "updatedAt": "2026-08-07T00:05:42.480Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,121 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590803?source=rss-長州小力 8月にリング復帰",
-      "title": "長州小力 8月にリング復帰",
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590824?source=rss-ドラマ「Tシャツ」実はYシャツ案",
+      "title": "ドラマ「Tシャツ」実はYシャツ案",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-06T23:48:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590824?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590823?source=rss-UEFAがW杯ボイコット方針を継続",
+      "title": "UEFAがW杯ボイコット方針を継続",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-08-06T14:16:07.000Z",
+      "publishedAt": "2026-08-06T23:35:34.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590803?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6590823?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590822?source=rss-お盆の帰省で休めない どうすれば",
+      "title": "お盆の帰省で休めない どうすれば",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-06T23:16:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590822?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590818?source=rss-秋田にAIデータセンター建設へ",
+      "title": "秋田にAIデータセンター建設へ",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-06T22:48:51.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590818?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000436/-イーロン・マスク氏の「Terafab」、建設地決定 テキサス州グライムズ郡に168億ドル投資",
+      "title": "イーロン・マスク氏の「Terafab」、建設地決定 テキサス州グライムズ郡に168億ドル投資",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-06T22:37:55.000Z",
+      "description": "イーロン・マスク氏率いるSpaceXとTeslaは、次世代半導体工場「Terafab」をテキサス州グライムズ郡に建設すると発表した。初期投資額は約168億ドルで、ロジック、メモリの製造やパッケージングを一体化する。OptimusやCybercab向けエッジチップ、宇宙データセンター用チップを生産し、自社の莫大な計算資源...",
+      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000436/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590816?source=rss-巨人マルティネス SNSで中傷被害",
+      "title": "巨人マルティネス SNSで中傷被害",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-06T22:35:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590816?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000426/-「うんこ移植」でピーナツアレルギー改善、15人中6人が数粒食べられるように ヒトの実証は初 Science系列誌掲載",
+      "title": "「うんこ移植」でピーナツアレルギー改善、15人中6人が数粒食べられるように ヒトの実証は初 Science系列誌掲載",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-06T22:00:00.000Z",
+      "description": "米ボストン小児病院などに所属する研究者らがScience Translational Medicineで発表した論文「Fecal microbiome transplant in food allergy in humans and mice identifies a role for bile acid metabo...",
+      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000426/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590809?source=rss-台風13号 きょう沖縄・奄美に接近",
+      "title": "台風13号 きょう沖縄・奄美に接近",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-06T21:39:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590809?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000435/-「ChatGPT」のデフォルトモデル、PlusとProは「Sol」に、無料版は「Luna」でテキストチャット無制限に",
+      "title": "「ChatGPT」のデフォルトモデル、PlusとProは「Sol」に、無料版は「Luna」でテキストチャット無制限に",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-06T21:32:08.000Z",
+      "description": "OpenAIはChatGPTのデフォルトモデル変更を発表した。有料版には事実の正確性と応答速度を高めた改良版「GPT-5.6 Sol」を導入し、思考時間を選択できるスライダーを追加。無料版および「ChatGPT Go」には「GPT-5.6 Luna」を導入し、テキストチャットを無制限化するとともに推論を促す「Think...",
+      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000435/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590808?source=rss-小栗旬 横浜流星と初共演「最高」",
+      "title": "小栗旬 横浜流星と初共演「最高」",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-06T21:25:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590808?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590807?source=rss-山本舞香 Hiroとの第1子出産",
+      "title": "山本舞香 Hiroとの第1子出産",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-06T21:12:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590807?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590806?source=rss-長州小力がリング復帰へ プロレス",
+      "title": "長州小力がリング復帰へ プロレス",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-06T15:23:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590806?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590805?source=rss-陸自が個人情報収集か 対象者証言",
+      "title": "陸自が個人情報収集か 対象者証言",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-06T15:18:26.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6590805?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590802?source=rss-きのこ雲目撃 復興語る元広島捕手",
@@ -115,15 +223,6 @@
       "publishedAt": "2026-08-06T11:29:28.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590785?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590782?source=rss-台風13号は沖縄・奄美に接近 警戒",
-      "title": "台風13号は沖縄・奄美に接近 警戒",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-06T11:22:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590782?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000434/-アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」 Microsoftがプレビュー公開",
@@ -234,15 +333,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000428/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590772?source=rss-神村学園が東筑に逆転勝ち 甲子園",
-      "title": "神村学園が東筑に逆転勝ち 甲子園",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-06T09:25:26.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590772?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000422/-熊本地震で地面がずれた場所、35kmの線状に 衛星データで「変位境界」を判読 国土地理院",
       "title": "熊本地震で地面がずれた場所、35kmの線状に 衛星データで「変位境界」を判読 国土地理院",
       "source": "ITmedia NEWS",
@@ -259,15 +349,6 @@
       "publishedAt": "2026-08-06T09:03:19.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590762?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590754?source=rss-映画ちいかわは愛知が舞台?調査",
-      "title": "映画ちいかわは愛知が舞台?調査",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-06T08:36:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590754?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590755?source=rss-加工アプリ「SNOW」に措置命令",
@@ -342,15 +423,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590738?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590737?source=rss-安保3文書改定 予断控えると首相",
-      "title": "安保3文書改定 予断控えると首相",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-06T05:21:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590737?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000421/-Gmail、他社メアドを送信元にできる機能を廃止へ",
       "title": "Gmail、他社メアドを送信元にできる機能を廃止へ",
       "source": "ITmedia NEWS",
@@ -405,15 +477,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000417/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590718?source=rss-俳優の寿美花代さん死去 94歳",
-      "title": "俳優の寿美花代さん死去 94歳",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-06T03:17:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590718?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000416/-太陽誘電、上方修正 AIサーバ向け好調 純益290億円、前期の約2倍",
       "title": "太陽誘電、上方修正 AIサーバ向け好調 純益290億円、前期の約2倍",
       "source": "ITmedia NEWS",
@@ -448,15 +511,6 @@
       "publishedAt": "2026-08-06T02:57:31.000Z",
       "description": "ローソンは、300度超の高火力で炒め物を自動調理する「I-Robo 2」を首都圏3店に追加導入する。チャーハンや野菜炒めに加え焼きそばにも対応し、計13品を約1分半?2分半で提供する。",
       "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000414/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590711?source=rss-ジャンプ平均発行部数100万部割れ",
-      "title": "ジャンプ平均発行部数100万部割れ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-06T02:42:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590711?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000412/-熊本地震、冷房失った高齢者の死亡リスクが30日で5％上昇か 九州大、AIとデータで推計",
@@ -495,24 +549,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000409/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590691?source=rss-FIFA会長が留任「心から謝罪」",
-      "title": "FIFA会長が留任「心から謝罪」",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-05T23:56:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590691?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590685?source=rss-消費減税 日本の社会保障は岐路に",
-      "title": "消費減税 日本の社会保障は岐路に",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-05T23:35:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590685?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590680?source=rss-SBI新生銀行 地銀20行超と連携へ",
       "title": "SBI新生銀行 地銀20行超と連携へ",
       "source": "Yahoo!ニュース 経済",
@@ -520,24 +556,6 @@
       "publishedAt": "2026-08-05T22:28:00.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590680?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/06/2000000407/-Google DeepMindのデミス・ハサビスCEOが退任して会長に チーフサイエンティストのジェフ・ディーン氏は独立へ",
-      "title": "Google DeepMindのデミス・ハサビスCEOが退任して会長に チーフサイエンティストのジェフ・ディーン氏は独立へ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-05T22:08:01.000Z",
-      "description": "Google DeepMindのCEOを務めてきたデミス・ハサビス氏が業務執行から退き、DeepMind会長兼Alphabetチーフサイエンティストに就任する。後任にはコーレイ・カブクチュオール氏が就く。また、チーフサイエンティストのジェフ・ディーン氏とGoogleシニアフェローのサンジェイ・ゲマワット氏が退社し、独立...",
-      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000407/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000406/-共同通信に不正アクセス 職員や加盟社の氏名・メルアドなど約6000件が閲覧の恐れ 職員アカウント不正利用か",
-      "title": "共同通信に不正アクセス 職員や加盟社の氏名・メルアドなど約6000件が閲覧の恐れ 職員アカウント不正利用か",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-05T14:03:16.000Z",
-      "description": "共同通信社は8月5日、電子メールなどの業務環境で不正アクセスによる情報漏えいの可能性が判明したと発表した。職員のほか加盟社や取引先の氏名、メールアドレスなど約6000件が閲覧された可能性がある。一部のアカウントでは、メールや保存ファイルの中身まで閲覧された可能性があるという。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000406/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590639?source=rss-政府AIを被災自治体に提供 利点は",
@@ -549,15 +567,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590639?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/05/2000000404/-NASA「確率100％」 SpaceXの使用済みロケットが月に衝突か",
-      "title": "NASA「確率100％」 SpaceXの使用済みロケットが月に衝突か",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-05T12:04:36.000Z",
-      "description": "NASAは8月4日（現地時間）、米SpaceXのロケット「Falcon 9」の使用済み上段が、5日未明に月へ衝突する見通しだと発表した。衝突地点は、月面のアインシュタイン・クレーターとベル・クレーター付近。地球への危険はないとしている。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000404/"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590650?source=rss-楽天市場に「AI店長」24h接客構想",
       "title": "楽天市場に「AI店長」24h接客構想",
       "source": "Yahoo!ニュース IT",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-08-05T10:05:56.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590650?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590543?source=rss-格安を装う偽サイト公表 消費者庁",
-      "title": "格安を装う偽サイト公表 消費者庁",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-04T13:21:24.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590543?source=rss"
     }
   ]
 }
