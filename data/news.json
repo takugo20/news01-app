@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T15:33:47.473Z",
+  "updatedAt": "2026-08-08T18:42:49.933Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591037?source=rss-岩手県で震度4 津波の心配なし",
+      "title": "岩手県で震度4 津波の心配なし",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-08T18:13:01.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591037?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591036?source=rss-MF佐野航大 蘭PSVへ完全移籍",
       "title": "MF佐野航大 蘭PSVへ完全移籍",
@@ -313,15 +322,6 @@
       "publishedAt": "2026-08-07T23:54:29.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590936?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590927?source=rss-政権の積極財政「日本売り」危機",
-      "title": "政権の積極財政「日本売り」危機",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-07T23:12:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590927?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/08/2000000460/-Anthropic、「Fable 5」の生物学の制限を緩和 誤検知によるフォールバックを約85％削減",
