@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T12:56:24.445Z",
+  "updatedAt": "2026-08-08T15:33:47.473Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,60 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591036?source=rss-MF佐野航大 蘭PSVへ完全移籍",
+      "title": "MF佐野航大 蘭PSVへ完全移籍",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-08T14:41:53.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591036?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591034?source=rss-早田ひな4強逃す 中国選手に完敗",
+      "title": "早田ひな4強逃す 中国選手に完敗",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-08T14:12:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591034?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591030?source=rss-日本郵便で一時システム障害",
+      "title": "日本郵便で一時システム障害",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-08T13:34:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591030?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591032?source=rss-離婚から2年 金田朋子の家族の形",
+      "title": "離婚から2年 金田朋子の家族の形",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-08T13:32:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591032?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591031?source=rss-ラグビー九電選手死亡 練習中35℃",
+      "title": "ラグビー九電選手死亡 練習中35℃",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-08T13:31:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591031?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591027?source=rss-戦時中 複数大学で輸血の人体実験",
+      "title": "戦時中 複数大学で輸血の人体実験",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-08T13:19:53.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591027?source=rss"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591026?source=rss-ボイメン 事務所と契約終了し改名",
       "title": "ボイメン 事務所と契約終了し改名",
@@ -72,15 +126,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591023?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591020?source=rss-英明が初戦突破 関東第一に勝利",
-      "title": "英明が初戦突破 関東第一に勝利",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-08T11:42:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591020?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591013?source=rss-戸塚純貴 年下の一般女性と結婚",
       "title": "戸塚純貴 年下の一般女性と結婚",
       "source": "Yahoo!ニュース エンタメ",
@@ -97,15 +142,6 @@
       "publishedAt": "2026-08-08T11:04:14.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591017?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591016?source=rss-ハム郡司 ぶっつけ本番今季初捕手",
-      "title": "ハム郡司 ぶっつけ本番今季初捕手",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-08T10:52:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591016?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591012?source=rss-長友の現役続行 妻・愛梨が後押し",
@@ -198,15 +234,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590991?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590984?source=rss-音楽P・蔦谷好位置氏 離婚を公表",
-      "title": "音楽P・蔦谷好位置氏 離婚を公表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-08T06:27:58.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590984?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590982?source=rss-自民党「萩生田幹事長」案が浮上",
       "title": "自民党「萩生田幹事長」案が浮上",
       "source": "Yahoo!ニュース 国内",
@@ -250,15 +277,6 @@
       "publishedAt": "2026-08-08T02:50:36.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590956?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590954?source=rss-警察の拳銃「使えば面倒」の意識",
-      "title": "警察の拳銃「使えば面倒」の意識",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-08T02:23:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590954?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590943?source=rss-日本のマヨネーズ 世界でなぜ人気",
@@ -340,15 +358,6 @@
       "publishedAt": "2026-08-07T22:26:44.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590922?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590919?source=rss-韓国サッカー 海外審判に性接待か",
-      "title": "韓国サッカー 海外審判に性接待か",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-07T22:25:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590919?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/08/2000000459/-OpenAI、次期モデル「Astra」の一部開発を停止 「Critical」級サイバー能力の可能性否定できず",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-08-06T10:48:02.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590780?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590755?source=rss-加工アプリ「SNOW」に措置命令",
-      "title": "加工アプリ「SNOW」に措置命令",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-06T08:32:35.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590755?source=rss"
     }
   ]
 }
