@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T18:48:00.950Z",
+  "updatedAt": "2026-08-09T21:36:36.464Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591140?source=rss-自衛隊の指揮統制に国産AI 検討",
+      "title": "自衛隊の指揮統制に国産AI 検討",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-09T21:29:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591140?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591139?source=rss-元中日・SB又吉克樹が現役引退へ",
+      "title": "元中日・SB又吉克樹が現役引退へ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-09T21:14:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591139?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591138?source=rss-ゆずが楽曲配信 収益全額を熊本に",
+      "title": "ゆずが楽曲配信 収益全額を熊本に",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-09T21:04:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591138?source=rss"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591136?source=rss-WEST.メンバー7人中4人既婚者に",
       "title": "WEST.メンバー7人中4人既婚者に",
@@ -198,15 +225,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591098?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591097?source=rss-俳優・黒田勇樹 お笑いコンビ加入",
-      "title": "俳優・黒田勇樹 お笑いコンビ加入",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-09T07:22:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591097?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591088?source=rss-66歳で司法試験に合格 挑戦の理由",
       "title": "66歳で司法試験に合格 挑戦の理由",
       "source": "Yahoo!ニュース 経済",
@@ -288,15 +306,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591058?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591060?source=rss-メッシの父親ホルヘさん 死去",
-      "title": "メッシの父親ホルヘさん 死去",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-09T00:47:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591060?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/09/2000000464/-X、「クリエイター収益分配プログラム」終了へ──「オリジナル投稿」に絞った新報酬制度に移行",
       "title": "X、「クリエイター収益分配プログラム」終了へ──「オリジナル投稿」に絞った新報酬制度に移行",
       "source": "ITmedia NEWS",
@@ -376,15 +385,6 @@
       "publishedAt": "2026-08-08T12:42:30.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591024?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591022?source=rss-志茂田景樹さん「要介護5」の今",
-      "title": "志茂田景樹さん「要介護5」の今",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-08T12:19:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591022?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/08/2000000461/-熊本県の「トラック通れた道マップ」、日野コンピューターシステムが公開",
