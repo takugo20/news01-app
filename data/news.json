@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T21:34:21.919Z",
+  "updatedAt": "2026-08-09T02:02:49.326Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,31 +36,157 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591037?source=rss-岩手県で震度4 津波の心配なし",
-      "title": "岩手県で震度4 津波の心配なし",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591068?source=rss-甲子園 花巻東が2年連続初戦突破",
+      "title": "甲子園 花巻東が2年連続初戦突破",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-09T01:49:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591068?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591059?source=rss-中継 長崎「原爆の日」の平和式典",
+      "title": "中継 長崎「原爆の日」の平和式典",
       "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-08-08T18:13:01.000Z",
+      "publishedAt": "2026-08-09T01:31:02.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591037?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6591059?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591036?source=rss-MF佐野航大 蘭PSVへ完全移籍",
-      "title": "MF佐野航大 蘭PSVへ完全移籍",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591065?source=rss-村上宗隆が豪快26号 本拠地大歓声",
+      "title": "村上宗隆が豪快26号 本拠地大歓声",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-08-08T14:41:53.000Z",
+      "publishedAt": "2026-08-09T01:30:04.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591036?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6591065?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591034?source=rss-早田ひな4強逃す 中国選手に完敗",
-      "title": "早田ひな4強逃す 中国選手に完敗",
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591062?source=rss-台風15号 東から西に本州横断か",
+      "title": "台風15号 東から西に本州横断か",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-09T01:25:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591062?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591061?source=rss-非核三原則 堅持求める地方議会増",
+      "title": "非核三原則 堅持求める地方議会増",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-09T01:09:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591061?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591063?source=rss-HIKAKIN「2児の父になりました」",
+      "title": "HIKAKIN「2児の父になりました」",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-09T01:02:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591063?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591058?source=rss-SNSで紹介した川で事故 責任は",
+      "title": "SNSで紹介した川で事故 責任は",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-09T00:50:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591058?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591060?source=rss-メッシの父親ホルヘさん 死去",
+      "title": "メッシの父親ホルヘさん 死去",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-08-08T14:12:07.000Z",
+      "publishedAt": "2026-08-09T00:47:02.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591034?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6591060?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591056?source=rss-速報ドジャース 山本由伸が先発",
+      "title": "速報ドジャース 山本由伸が先発",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-08T23:58:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591056?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/09/2000000464/-X、「クリエイター収益分配プログラム」終了へ──「オリジナル投稿」に絞った新報酬制度に移行",
+      "title": "X、「クリエイター収益分配プログラム」終了へ──「オリジナル投稿」に絞った新報酬制度に移行",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-08T23:20:21.000Z",
+      "description": "Xは「クリエイター収益配分プログラム」を終了し、新制度「Original Content Rewards Program」への移行を発表した。無断転載やインプレゾンビへの対策として自作コンテンツを重視し、有料会員の有効インプレッションに応じて報酬を支払う。既存制度からの申請は9月より開始される。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/09/2000000464/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591047?source=rss-W杯で負傷の久保建英 実戦復帰",
+      "title": "W杯で負傷の久保建英 実戦復帰",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-08T23:14:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591047?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591046?source=rss-ソニーがタムロンに買収提案 なぜ",
+      "title": "ソニーがタムロンに買収提案 なぜ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-08T22:54:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591046?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591044?source=rss-大飯原発3号機自動停止 警報発信",
+      "title": "大飯原発3号機自動停止 警報発信",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-08T22:47:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591044?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591043?source=rss-ウルフ デビュー初ギブアップ負け",
+      "title": "ウルフ デビュー初ギブアップ負け",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-08T22:34:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591043?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591038?source=rss-イオン爆発巡り 遺族装う投稿拡散",
+      "title": "イオン爆発巡り 遺族装う投稿拡散",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-08T22:20:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591038?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/09/2000000463/-Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明",
+      "title": "Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-08T22:16:59.000Z",
+      "description": "OpenAIは、7月に発覚したHugging Face侵害インシデントの詳細を「Black Hat USA 2026」で説明した。評価中のAIエージェントたちが社内のパッケージ管理システムを“掲示板”として使い、脆弱性やスクリプトを共有して協調していたという。掲示板は一度消去されたが、2日後に別の手段で再構築されていた...",
+      "url": "https://www.itmedia.co.jp/news/article/2608/09/2000000463/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/09/2000000457/-告知は前日、返金なし──ソシャゲ「文マヨ」サ終の顛末とマンガ家を驚かせたファンの嘆きとは？",
+      "title": "告知は前日、返金なし──ソシャゲ「文マヨ」サ終の顛末とマンガ家を驚かせたファンの嘆きとは？",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-08T22:15:00.000Z",
+      "description": "スマートフォンゲーム「文豪ストレイドッグス迷ヰ犬怪奇譚」がサービスを終了しました。告知されたのは、なんと前日の7月30日。SNS上では様々な意見が飛び交っていますが、その中にちょっと印象的なポストがありました。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/09/2000000457/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591030?source=rss-日本郵便で一時システム障害",
@@ -144,33 +270,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591013?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591017?source=rss-ラグビー選手急死 九電に今季入団",
-      "title": "ラグビー選手急死 九電に今季入団",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-08T11:04:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591017?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591012?source=rss-長友の現役続行 妻・愛梨が後押し",
-      "title": "長友の現役続行 妻・愛梨が後押し",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-08T10:17:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591012?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591011?source=rss-台風15号 11-12日に東北上陸恐れ",
-      "title": "台風15号 11-12日に東北上陸恐れ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-08T10:16:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591011?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591009?source=rss-令和8年8月8日 芸能界で吉報続々",
       "title": "令和8年8月8日 芸能界で吉報続々",
       "source": "Yahoo!ニュース エンタメ",
@@ -178,15 +277,6 @@
       "publishedAt": "2026-08-08T09:47:55.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591009?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591006?source=rss-ラグビー九電選手急死 熱中症搬送",
-      "title": "ラグビー九電選手急死 熱中症搬送",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-08T09:10:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591006?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591007?source=rss-子を産む不安 「家族留学」で変化",
@@ -216,15 +306,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591003?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6590995?source=rss-今村聖奈が入場後に落馬 両足負傷",
-      "title": "今村聖奈が入場後に落馬 両足負傷",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-08T07:51:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590995?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590994?source=rss-吉木りさ いじめ被害を今明かす訳",
       "title": "吉木りさ いじめ被害を今明かす訳",
       "source": "Yahoo!ニュース エンタメ",
@@ -243,15 +324,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590991?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590982?source=rss-自民党「萩生田幹事長」案が浮上",
-      "title": "自民党「萩生田幹事長」案が浮上",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-08T06:01:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590982?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590972?source=rss-ミッチー再婚 芸能界50代パパ続々",
       "title": "ミッチー再婚 芸能界50代パパ続々",
       "source": "Yahoo!ニュース エンタメ",
@@ -268,24 +340,6 @@
       "publishedAt": "2026-08-08T04:08:46.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590967?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6590958?source=rss-令和8年8月8日 婚姻届窓口に行列",
-      "title": "令和8年8月8日 婚姻届窓口に行列",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-08T03:18:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590958?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6590956?source=rss-及川光博が再婚 お相手は妊娠",
-      "title": "及川光博が再婚 お相手は妊娠",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-08T02:50:36.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590956?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590943?source=rss-日本のマヨネーズ 世界でなぜ人気",
@@ -376,15 +430,6 @@
       "publishedAt": "2026-08-07T22:00:00.000Z",
       "description": "小学館の漫画配信サイト「週刊コロコロコミック」に掲載されている新作漫画「まだサ終しないんですか？」が、IT関係者を中心にXで話題だ。ソーシャルゲーム開発の現場をテーマにした作品だが、バージョン管理ツールの履歴を見て不具合の犯人探しをする描写などが「修羅場すぎる」と注目を浴びている。",
       "url": "https://www.itmedia.co.jp/news/article/2608/08/2000000458/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6590911?source=rss-キオクシア株 東芝にも巨額の恩恵",
-      "title": "キオクシア株 東芝にも巨額の恩恵",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-07T13:25:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590911?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000455/-シャープ、通期純利益見通し170億円下方修正 円安など影響 AIサーバは9月に参入",
@@ -522,24 +567,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000437/"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000426/-「うんこ移植」でピーナツアレルギー改善、15人中6人が数粒食べられるように ヒトの実証は初 Science系列誌掲載",
-      "title": "「うんこ移植」でピーナツアレルギー改善、15人中6人が数粒食べられるように ヒトの実証は初 Science系列誌掲載",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-07T01:07:08.000Z",
-      "description": "米ボストン小児病院などに所属する研究者らがScience Translational Medicineで発表した論文「Fecal microbiome transplant in food allergy in humans and mice identifies a role for bile acid metabo...",
-      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000426/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000438/-手術中の大地震、患者守る医療スタッフ……熊本総合病院の動画に反響 「プロの動き」「尊敬」",
-      "title": "手術中の大地震、患者守る医療スタッフ……熊本総合病院の動画に反響 「プロの動き」「尊敬」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-07T00:46:22.000Z",
-      "description": "機器や椅子が飛び交う中で激しい揺れの中で、医療スタッフが必死に患者を守る姿がとらえられている。手術は無事終了したという。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000438/"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590818?source=rss-秋田にAIデータセンター建設へ",
       "title": "秋田にAIデータセンター建設へ",
       "source": "Yahoo!ニュース IT",
@@ -547,33 +574,6 @@
       "publishedAt": "2026-08-06T22:48:51.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6590818?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000436/-イーロン・マスク氏の「Terafab」、建設地決定 テキサス州グライムズ郡に168億ドル投資",
-      "title": "イーロン・マスク氏の「Terafab」、建設地決定 テキサス州グライムズ郡に168億ドル投資",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-06T22:37:55.000Z",
-      "description": "イーロン・マスク氏率いるSpaceXとTeslaは、次世代半導体工場「Terafab」をテキサス州グライムズ郡に建設すると発表した。初期投資額は約168億ドルで、ロジック、メモリの製造やパッケージングを一体化する。OptimusやCybercab向けエッジチップ、宇宙データセンター用チップを生産し、自社の莫大な計算資源...",
-      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000436/"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590781?source=rss-QRコードで災害詐欺 どう見抜く",
-      "title": "QRコードで災害詐欺 どう見抜く",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-06T10:51:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590781?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590780?source=rss-任天堂 被災者の製品修理は無償",
-      "title": "任天堂 被災者の製品修理は無償",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-06T10:48:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590780?source=rss"
     }
   ]
 }
