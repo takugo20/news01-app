@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T13:17:50.985Z",
+  "updatedAt": "2026-08-10T16:02:25.335Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,60 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591269?source=rss-台風 雨風による交通機関乱れ注意",
+      "title": "台風 雨風による交通機関乱れ注意",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-10T15:10:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591269?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591268?source=rss-ミセス夏季休暇 ファンへ配慮求む",
+      "title": "ミセス夏季休暇 ファンへ配慮求む",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-10T14:55:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591268?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591259?source=rss-中道支持率が野党6番手 産経FNN",
+      "title": "中道支持率が野党6番手 産経FNN",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-10T13:41:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591259?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591258?source=rss-3児の母失明 運命変えたマラソン",
+      "title": "3児の母失明 運命変えたマラソン",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-10T13:40:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591258?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591260?source=rss-ファンキー加藤 中学でイジメ経験",
+      "title": "ファンキー加藤 中学でイジメ経験",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-10T13:37:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591260?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591257?source=rss-井上康生氏 選手の不祥事注意喚起",
+      "title": "井上康生氏 選手の不祥事注意喚起",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-10T13:20:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591257?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591255?source=rss-協調介入 日銀利上げ示唆が決め手",
       "title": "協調介入 日銀利上げ示唆が決め手",
@@ -117,15 +171,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591237?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591235?source=rss-天皇皇后両陛下が熊本県に見舞金",
-      "title": "天皇皇后両陛下が熊本県に見舞金",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-10T10:38:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591235?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591234?source=rss-LuckyFes 11日の開催中止を発表",
       "title": "LuckyFes 11日の開催中止を発表",
       "source": "Yahoo!ニュース エンタメ",
@@ -142,15 +187,6 @@
       "publishedAt": "2026-08-10T09:44:08.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591230?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591229?source=rss-ゆなすみが木下杯辞退 長岡が骨折",
-      "title": "ゆなすみが木下杯辞退 長岡が骨折",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-10T09:42:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591229?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/10/2000000491/-トクリュウ上位者のスマホ情報、遠隔入手へ 警察庁、是非巡り検討会初会合 未然防止図る",
@@ -268,24 +304,6 @@
       "publishedAt": "2026-08-10T08:03:17.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591202?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591208?source=rss-台風 11日午後に関東甲信接近恐れ",
-      "title": "台風 11日午後に関東甲信接近恐れ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-10T07:49:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591208?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591207?source=rss-清水伸が結婚 ニトリCMに11年",
-      "title": "清水伸が結婚 ニトリCMに11年",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-10T07:40:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591207?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591196?source=rss-ニチレイ個人情報 ハッカー公開か",
@@ -414,15 +432,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591170?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591166?source=rss-河村勇輝 NBAクリッパーズと契約",
-      "title": "河村勇輝 NBAクリッパーズと契約",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-10T02:19:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591166?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/10/2000000476/-「購入済みの着せかえアイコン消えた」 LINEのiOS 26対応版に「金返せ」と不満",
       "title": "「購入済みの着せかえアイコン消えた」 LINEのiOS 26対応版に「金返せ」と不満",
       "source": "ITmedia NEWS",
@@ -466,15 +475,6 @@
       "publishedAt": "2026-08-10T00:37:01.000Z",
       "description": "小田急は2019年4月、CHARGESPOTを新宿駅など5駅に導入。2021年5月に充レンを同じ5駅に設置した。今回、充レンからCHARGESPOTに回帰した上で、5駅から全70駅へと規模を大幅に拡大する。",
       "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000469/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591159?source=rss-ミセス きょうから約1カ月の休暇",
-      "title": "ミセス きょうから約1カ月の休暇",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-10T00:29:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591159?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591154?source=rss-休暇中に会社の電話無視 法的には",
