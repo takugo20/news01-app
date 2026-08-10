@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T04:41:24.700Z",
+  "updatedAt": "2026-08-10T07:49:01.337Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,85 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591183?source=rss-速報甲子園 沖縄尚学vs.横浜",
-      "title": "速報甲子園 沖縄尚学vs.横浜",
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591207?source=rss-清水伸が結婚 ニトリCMに11年",
+      "title": "清水伸が結婚 ニトリCMに11年",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-10T07:40:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591207?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591206?source=rss-VIVANT 視聴者を沸かせる仕掛け",
+      "title": "VIVANT 視聴者を沸かせる仕掛け",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-10T07:38:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591206?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591201?source=rss-防衛白書で焦点 新しい戦い方とは",
+      "title": "防衛白書で焦点 新しい戦い方とは",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-10T07:29:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591201?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591199?source=rss-長渕剛 予定どおりに18日熊本公演",
+      "title": "長渕剛 予定どおりに18日熊本公演",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-10T07:03:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591199?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591196?source=rss-ニチレイ個人情報 ハッカー公開か",
+      "title": "ニチレイ個人情報 ハッカー公開か",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-10T07:03:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591196?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591197?source=rss-横浜 連覇を狙う沖縄尚学に勝利",
+      "title": "横浜 連覇を狙う沖縄尚学に勝利",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-08-10T04:27:44.000Z",
+      "publishedAt": "2026-08-10T06:52:43.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591183?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6591197?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/10/2000000486/-AIが変えた震災支援……熊本の被災者がスマホで作った「イマココナビ」活況 “乱立”に課題も",
+      "title": "AIが変えた震災支援……熊本の被災者がスマホで作った「イマココナビ」活況 “乱立”に課題も",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-10T06:22:26.000Z",
+      "description": "被災者がスマホの生成AIで9時間で立ち上げた生活情報サイト「イマココナビ」は、16万人が利用した。AIは「作るハードル」を下げたが……。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000486/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/10/2000000479/-防衛省、リチェルカセキュリティに指名停止措置 研究事業で水増し請求か",
+      "title": "防衛省、リチェルカセキュリティに指名停止措置 研究事業で水増し請求か",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-10T06:21:39.000Z",
+      "description": "防衛省が、委託先のリチェルカセキュリティ（東京都千代田区）に不正行為があったとして、9カ月間の指名停止措置を取ったと発表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000479/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/10/2000000483/-浅田真央さん旧ドメイン失効問題、さくら田中社長「対処します」の意図は 同社に聞いた",
+      "title": "浅田真央さん旧ドメイン失効問題、さくら田中社長「対処します」の意図は 同社に聞いた",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-10T05:45:31.000Z",
+      "description": "浅田真央さんの旧ドメイン騒動で、さくらインターネットの田中邦裕社長が「対処します」と投稿し話題に。お名前.comとの違いと、その真意を聞いた。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000483/"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/10/2000000468/-圧をかけて“泡”爆増、ミラブルの技術が融合した「高圧洗浄機」を自宅で試したら掃除が楽しくなった",
@@ -99,15 +171,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000480/"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/10/2000000479/-防衛省、リチェルカセキュリティに指名停止措置 研究事業で水増し請求か",
-      "title": "防衛省、リチェルカセキュリティに指名停止措置 研究事業で水増し請求か",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-10T03:22:40.000Z",
-      "description": "防衛省が、委託先のリチェルカセキュリティ（東京都千代田区）に不正行為があったとして、9カ月間の指名停止措置を取ったと発表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000479/"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591176?source=rss-北朝鮮ハッカー AIツール開発か",
       "title": "北朝鮮ハッカー AIツール開発か",
       "source": "Yahoo!ニュース IT",
@@ -124,24 +187,6 @@
       "publishedAt": "2026-08-10T03:21:09.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591177?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591174?source=rss-熊本で35℃予想 熱中症に警戒を",
-      "title": "熊本で35℃予想 熱中症に警戒を",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-10T03:06:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591174?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591173?source=rss-映画ちいかわ グッズ争奪戦が過熱",
-      "title": "映画ちいかわ グッズ争奪戦が過熱",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-10T02:53:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591173?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/10/2000000478/-靖国神社、境内での軍服・コスプレを禁止",
@@ -342,15 +387,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591146?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591143?source=rss-佐藤佳奈アナ 古巣で結婚生報告",
-      "title": "佐藤佳奈アナ 古巣で結婚生報告",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-09T22:19:58.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591143?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591142?source=rss-AI「暴走」自律的攻撃に米危機感",
       "title": "AI「暴走」自律的攻撃に米危機感",
       "source": "Yahoo!ニュース IT",
@@ -412,15 +448,6 @@
       "publishedAt": "2026-08-09T13:32:42.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591134?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591132?source=rss-W結婚発表 STARTOでは5年ぶり",
-      "title": "W結婚発表 STARTOでは5年ぶり",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-09T13:25:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591132?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591116?source=rss-車内で運転手寝入り バス47分遅延",
@@ -547,33 +574,6 @@
       "publishedAt": "2026-08-07T22:11:46.000Z",
       "description": "OpenAIは、次期主力モデル「Astra」のサイバー能力が自社の安全指針における最上位「Critical」に達している可能性を発表した。要件を満たさない一部活動を停止し、リアルタイム監視や思考過程の評価など管理を強化する。能力を抑制するのではなく、政府機関や外部組織と協力して検証と安全策の提供を進める方針だ。",
       "url": "https://www.itmedia.co.jp/news/article/2608/08/2000000459/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000455/-シャープ、通期純利益見通し170億円下方修正 円安など影響 AIサーバは9月に参入",
-      "title": "シャープ、通期純利益見通し170億円下方修正 円安など影響 AIサーバは9月に参入",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-07T10:34:01.000Z",
-      "description": "シャープは7日、2027年3月期の連結純利益が前期比47.3％減の250億円になる見通しだと発表した。期初予想から170億円下方修正した。樹脂・燃料の価格上昇や円安が収益を圧迫する。営業利益は190億円引き下げて300億円。売上高は1兆7700億円に据え置いた。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000455/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/07/2000000456/-「就活に生成AI利用」ほぼ全員に 面接で内容追及され困惑も",
-      "title": "「就活に生成AI利用」ほぼ全員に 面接で内容追及され困惑も",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-07T10:16:08.000Z",
-      "description": "2027年春に卒業予定の大学生らを対象に行ったアンケートで、就職活動で生成AIを「利用していない」とした割合は3％にとどまり、ほぼ全ての学生が就活で何らかの形で生成AIを活用している実態が、人事分野の調査研究機関HR総研（東京都千代田区）などの調査で分かった。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000456/"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6590866?source=rss-グーグル幹部退社 AI競争に危機感",
-      "title": "グーグル幹部退社 AI競争に危機感",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-07T07:16:41.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6590866?source=rss"
     }
   ]
 }
