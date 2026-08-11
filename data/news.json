@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T10:02:33.958Z",
+  "updatedAt": "2026-08-11T13:15:07.767Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,69 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591361?source=rss-台風上陸 12日も各地で大雨予想",
+      "title": "台風上陸 12日も各地で大雨予想",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-11T13:12:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591361?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591358?source=rss-ソニーとTSMC 合弁会社を設立へ",
+      "title": "ソニーとTSMC 合弁会社を設立へ",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-11T12:45:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591358?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591356?source=rss-SB三塁打→HR 相手リクエストで",
+      "title": "SB三塁打→HR 相手リクエストで",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-11T12:20:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591356?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591352?source=rss-YouTube 収益化ハードル引き上げ",
+      "title": "YouTube 収益化ハードル引き上げ",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-11T11:59:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591352?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591353?source=rss-第2の麻辣湯 ビャンビャン麺とは",
+      "title": "第2の麻辣湯 ビャンビャン麺とは",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-11T11:39:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591353?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591350?source=rss-アスベスト影響 半蔵門線運転再開",
+      "title": "アスベスト影響 半蔵門線運転再開",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-11T10:39:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591350?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591348?source=rss-台風接近 各地イベント中止相次ぐ",
+      "title": "台風接近 各地イベント中止相次ぐ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-11T10:13:53.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591348?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591347?source=rss-佐藤輝の看板直撃弾に賞金 大歓声",
       "title": "佐藤輝の看板直撃弾に賞金 大歓声",
@@ -90,15 +153,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591331?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591338?source=rss-台風が関東上陸へ 大雨に厳重警戒",
-      "title": "台風が関東上陸へ 大雨に厳重警戒",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-11T08:18:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591338?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591332?source=rss-降板スクバル顔真っ赤 監督は諭す",
       "title": "降板スクバル顔真っ赤 監督は諭す",
       "source": "Yahoo!ニュース スポーツ",
@@ -106,15 +160,6 @@
       "publishedAt": "2026-08-11T07:53:40.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591332?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591330?source=rss-半蔵門線の運転再開は「本日中」",
-      "title": "半蔵門線の運転再開は「本日中」",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-11T07:34:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591330?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591327?source=rss-病気公表の我が家・杉山 復帰へ",
@@ -234,15 +279,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591288?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591289?source=rss-ANAが計58便欠航 台風がお盆直撃",
-      "title": "ANAが計58便欠航 台風がお盆直撃",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-11T01:06:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591289?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591291?source=rss-推し活でビッグカツ人気 社長驚く",
       "title": "推し活でビッグカツ人気 社長驚く",
       "source": "Yahoo!ニュース 経済",
@@ -324,15 +360,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591259?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591258?source=rss-3児の母失明 運命変えたマラソン",
-      "title": "3児の母失明 運命変えたマラソン",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-10T13:40:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591258?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591260?source=rss-ファンキー加藤 中学でイジメ経験",
       "title": "ファンキー加藤 中学でイジメ経験",
       "source": "Yahoo!ニュース エンタメ",
@@ -376,15 +403,6 @@
       "publishedAt": "2026-08-10T11:55:06.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591246?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591234?source=rss-LuckyFes 11日の開催中止を発表",
-      "title": "LuckyFes 11日の開催中止を発表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-10T10:06:01.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591234?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/10/2000000491/-トクリュウ上位者のスマホ情報、遠隔入手へ 警察庁、是非巡り検討会初会合 未然防止図る",
@@ -495,15 +513,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000480/"
     },
     {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591176?source=rss-北朝鮮ハッカー AIツール開発か",
-      "title": "北朝鮮ハッカー AIツール開発か",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-10T03:21:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591176?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/10/2000000478/-靖国神社、境内での軍服・コスプレを禁止",
       "title": "靖国神社、境内での軍服・コスプレを禁止",
       "source": "ITmedia NEWS",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-08-09T22:03:29.000Z",
       "description": "他省庁への送付ファイルに本来含めるべきでない職員の氏名やユーザーID、所属などのコードなどが記載されていた。二次被害は確認されていない。",
       "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000467/"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591038?source=rss-イオン爆発巡り 遺族装う投稿拡散",
-      "title": "イオン爆発巡り 遺族装う投稿拡散",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-08T22:20:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591038?source=rss"
     }
   ]
 }
