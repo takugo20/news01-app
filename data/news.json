@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T19:06:57.901Z",
+  "updatedAt": "2026-08-11T21:53:00.493Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,33 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591379?source=rss-元・経団連会長 奥田碩さん死去",
+      "title": "元・経団連会長 奥田碩さん死去",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-11T21:48:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591379?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591377?source=rss-あざとくて何が悪いの? 9月終了",
+      "title": "あざとくて何が悪いの? 9月終了",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-11T21:33:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591377?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591375?source=rss-台風15号は近畿地方から西へ 警戒",
+      "title": "台風15号は近畿地方から西へ 警戒",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-11T21:07:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591375?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591371?source=rss-クレベル完敗 20歳新星に判定0-3",
       "title": "クレベル完敗 20歳新星に判定0-3",
       "source": "Yahoo!ニュース スポーツ",
@@ -63,15 +90,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591365?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591362?source=rss-東北道下りで全車線塞ぐ倒木 栃木",
-      "title": "東北道下りで全車線塞ぐ倒木 栃木",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-11T13:22:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591362?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591360?source=rss-イオン再入館 証言から浮かぶ混乱",
       "title": "イオン再入館 証言から浮かぶ混乱",
       "source": "Yahoo!ニュース 経済",
@@ -79,15 +97,6 @@
       "publishedAt": "2026-08-11T13:14:06.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591360?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591361?source=rss-台風上陸 12日も各地で大雨予想",
-      "title": "台風上陸 12日も各地で大雨予想",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-11T13:12:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591361?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591358?source=rss-ソニーとTSMC 合弁会社を設立へ",
@@ -385,15 +394,6 @@
       "publishedAt": "2026-08-10T12:33:25.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591250?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591248?source=rss-ちいかわ原作者 映画化は暗中模索",
-      "title": "ちいかわ原作者 映画化は暗中模索",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-10T12:03:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591248?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591246?source=rss-内閣支持率62.5%で横ばい FNN",
