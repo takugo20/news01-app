@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T02:01:59.392Z",
+  "updatedAt": "2026-08-11T04:22:38.764Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591305?source=rss-イオン 避難後の一時入館認めた",
+      "title": "イオン 避難後の一時入館認めた",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-11T03:27:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591305?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591301?source=rss-千賀滉大 渡米後初セーブで笑顔",
+      "title": "千賀滉大 渡米後初セーブで笑顔",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-11T02:55:51.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591301?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/11/2000000496/-OpenAI、サイバー防御「Daybreak」を赤青2階層に 特化型「GPT-5.6-Cyber」投入",
+      "title": "OpenAI、サイバー防御「Daybreak」を赤青2階層に 特化型「GPT-5.6-Cyber」投入",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-11T02:48:40.000Z",
+      "description": "OpenAIはサイバー防御者向けイニシアチブ「Daybreak」を拡張し、2つのアクセス階層「Blue」「Red」と、Red向けの専用モデル「GPT-5.6-Cyber」を発表した。正当なセキュリティ研究におけるAIの過度な拒否動作を抑制し、未知のゼロデイ脆弱性発見やエクスプロイト検証などの高度な防御タスクを支援する。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000496/"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591296?source=rss-台風上陸へ 午後から雨風強まるか",
       "title": "台風上陸へ 午後から雨風強まるか",
@@ -477,24 +504,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000478/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591171?source=rss-世帯年収1000万円 理想とは遠い家",
-      "title": "世帯年収1000万円 理想とは遠い家",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-10T02:38:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591171?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591170?source=rss-馬淵監督 もう何年もやる気はない",
-      "title": "馬淵監督 もう何年もやる気はない",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-10T02:29:03.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591170?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/10/2000000476/-「購入済みの着せかえアイコン消えた」 LINEのiOS 26対応版に「金返せ」と不満",
       "title": "「購入済みの着せかえアイコン消えた」 LINEのiOS 26対応版に「金返せ」と不満",
       "source": "ITmedia NEWS",
@@ -547,15 +556,6 @@
       "publishedAt": "2026-08-09T22:03:29.000Z",
       "description": "他省庁への送付ファイルに本来含めるべきでない職員の氏名やユーザーID、所属などのコードなどが記載されていた。二次被害は確認されていない。",
       "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000467/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/10/2000000432/-ランサム被害、主因は脆弱性より「人」 34％がメールで感染、「本物に見えた」で疑わず",
-      "title": "ランサム被害、主因は脆弱性より「人」 34％がメールで感染、「本物に見えた」で疑わず",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-09T22:00:00.000Z",
-      "description": "世界中で多発しているランサムウェア感染は、いつもと変わらないように見える添付ファイルを開いたり、問題なさそうに見えるログイン画面にパスワードを入力したり、アカウントが乗っ取られているとは知らずに返信したりといった「人」の行為で始まっている――米セキュリティ企業の調査でそんな実態が浮かび上がった。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000432/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591058?source=rss-SNSで紹介した川で事故 責任は",
