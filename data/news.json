@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T19:06:09.307Z",
+  "updatedAt": "2026-08-12T21:51:09.493Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,42 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591512?source=rss-日本国旗損壊罪法 きょう施行",
+      "title": "日本国旗損壊罪法 きょう施行",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-12T21:43:29.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591512?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591511?source=rss-東北から近畿 急な雨や落雷に注意",
+      "title": "東北から近畿 急な雨や落雷に注意",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-12T21:34:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591511?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591510?source=rss-第3次森保J 名波コーチら続投へ",
+      "title": "第3次森保J 名波コーチら続投へ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-12T21:28:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591510?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591507?source=rss-Ado23歳 熊本支援で4000万円寄付",
+      "title": "Ado23歳 熊本支援で4000万円寄付",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-12T21:07:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591507?source=rss"
+    },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000518/-Google版“AirTag”こと「Pixel Tag」登場 10億台のAndroidネットワークで居場所を探知",
       "title": "Google版“AirTag”こと「Pixel Tag」登場 10億台のAndroidネットワークで居場所を探知",
@@ -270,15 +306,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591453?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591452?source=rss-台風17号 来週関東など近づく恐れ",
-      "title": "台風17号 来週関東など近づく恐れ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-12T07:16:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591452?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591449?source=rss-検事総長が退任 不祥事続発を陳謝",
       "title": "検事総長が退任 不祥事続発を陳謝",
       "source": "Yahoo!ニュース 国内",
@@ -313,15 +340,6 @@
       "publishedAt": "2026-08-12T06:05:08.000Z",
       "description": "個人開発として異次元とも言える“超大ヒット”が続いている。",
       "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000507/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591442?source=rss-ドジャース劇的サヨナラ 接戦制す",
-      "title": "ドジャース劇的サヨナラ 接戦制す",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-12T05:31:47.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591442?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591438?source=rss-漫画家の梅津葉子さん死去",
@@ -421,24 +439,6 @@
       "publishedAt": "2026-08-12T02:18:04.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591410?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591403?source=rss-地震で煙突倒壊 国交省が調査開始",
-      "title": "地震で煙突倒壊 国交省が調査開始",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-12T01:07:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591403?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591398?source=rss-辻希美「子2人の病気」公表に賛否",
-      "title": "辻希美「子2人の病気」公表に賛否",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-12T00:19:27.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591398?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000499/-LINE着せかえ「アイコンがデフォルトに戻る」問題、対応完了時期示さず クリエイターズは「審査に時間がかかっている」",
