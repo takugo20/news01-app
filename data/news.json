@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T10:10:47.752Z",
+  "updatedAt": "2026-08-12T13:19:10.033Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,103 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591479?source=rss-ハッピーターン50年 売れ続ける訳",
-      "title": "ハッピーターン50年 売れ続ける訳",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591496?source=rss-楽天・前田健太がNPB通算100勝",
+      "title": "楽天・前田健太がNPB通算100勝",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-12T12:51:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591496?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591494?source=rss-阪神・佐藤輝明 プロ通算150号HR",
+      "title": "阪神・佐藤輝明 プロ通算150号HR",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-12T12:34:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591494?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591491?source=rss-夜間の墓参りも 変化する供養の形",
+      "title": "夜間の墓参りも 変化する供養の形",
       "source": "Yahoo!ニュース 経済",
       "category": "経済",
-      "publishedAt": "2026-08-12T10:07:19.000Z",
+      "publishedAt": "2026-08-12T12:22:38.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591479?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6591491?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591493?source=rss-地震で観光業約60億円被害 熊本県",
+      "title": "地震で観光業約60億円被害 熊本県",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-12T12:19:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591493?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591492?source=rss-首相 15日の靖国参拝を見送る方向",
+      "title": "首相 15日の靖国参拝を見送る方向",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-12T12:11:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591492?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591488?source=rss-アミューズ 誹謗中傷巡り法的措置",
+      "title": "アミューズ 誹謗中傷巡り法的措置",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-12T12:01:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591488?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591485?source=rss-イオン爆発 ハビタが「補償模索」",
+      "title": "イオン爆発 ハビタが「補償模索」",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-12T11:37:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591485?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591486?source=rss-コメ収穫始まる 倉庫は古米山積み",
+      "title": "コメ収穫始まる 倉庫は古米山積み",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-12T11:35:17.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591486?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591482?source=rss-新幹線乗り遅れ緊急停止 動画拡散",
+      "title": "新幹線乗り遅れ緊急停止 動画拡散",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-12T10:53:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591482?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591480?source=rss-松坂大輔氏が始球式 日ハムユニ",
+      "title": "松坂大輔氏が始球式 日ハムユニ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-12T10:29:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591480?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000500/-GeminiアプリのMAUが10億人を突破 Googleで14番目の大台到達製品に",
+      "title": "GeminiアプリのMAUが10億人を突破 Googleで14番目の大台到達製品に",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-12T09:59:59.000Z",
+      "description": "GoogleのGeminiアプリの月間アクティブユーザー数（MAU）が10億人を突破した。Google検索やWorkspaceなどの組み込み機能を除いたアプリ単体の数字で、同社として14番目の10億ユーザー到達製品となる。競合のChatGPTに続く大台達成で、iOSユーザー数や音声利用の比率なども公開された。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591474?source=rss-花咲徳栄監督 遊撃手の次男に涙",
@@ -90,15 +180,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000509/"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000500/-GeminiアプリのMAUが10億人を突破 Googleで14番目の大台到達製品に",
-      "title": "GeminiアプリのMAUが10億人を突破 Googleで14番目の大台到達製品に",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-12T08:43:59.000Z",
-      "description": "GoogleのGeminiアプリの月間アクティブユーザー数（MAU）が10億人を突破した。Google検索やWorkspaceなどの組み込み機能を除いたアプリ単体の数字で、同社として14番目の10億ユーザー到達製品となる。競合のChatGPTに続く大台達成で、iOSユーザー数や音声利用の比率なども公開された。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591468?source=rss-中道の総支部解散が相次ぐ 30超",
       "title": "中道の総支部解散が相次ぐ 30超",
       "source": "Yahoo!ニュース 国内",
@@ -115,15 +196,6 @@
       "publishedAt": "2026-08-12T08:35:47.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591467?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591466?source=rss-FA人的補償廃止 今オフ見送りへ",
-      "title": "FA人的補償廃止 今オフ見送りへ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-12T08:27:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591466?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591457?source=rss-ボーイングHP記述巡り日航に謝罪",
@@ -151,15 +223,6 @@
       "publishedAt": "2026-08-12T07:49:06.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591453?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591455?source=rss-人が入る箱型冷房 建設業など注目",
-      "title": "人が入る箱型冷房 建設業など注目",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-12T07:30:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591455?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591452?source=rss-台風17号 来週関東など近づく恐れ",
@@ -288,24 +351,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000501/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591420?source=rss-奥田碩さん死去 プリウスに尽力",
-      "title": "奥田碩さん死去 プリウスに尽力",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-12T03:25:35.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591420?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591417?source=rss-熱帯低気圧 広い範囲で大雨に注意",
-      "title": "熱帯低気圧 広い範囲で大雨に注意",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-12T03:14:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591417?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591407?source=rss-Geminiアプリ ユーザー月10億超",
       "title": "Geminiアプリ ユーザー月10億超",
       "source": "Yahoo!ニュース IT",
@@ -360,15 +405,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591403?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591400?source=rss-佐野海舟の争奪戦 移籍市場で注目",
-      "title": "佐野海舟の争奪戦 移籍市場で注目",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-12T00:45:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591400?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591398?source=rss-辻希美「子2人の病気」公表に賛否",
       "title": "辻希美「子2人の病気」公表に賛否",
       "source": "Yahoo!ニュース エンタメ",
@@ -387,15 +423,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000499/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591392?source=rss-「四国新幹線」実現なるか 現状は",
-      "title": "「四国新幹線」実現なるか 現状は",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-11T23:17:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591392?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000498/-「孤独のグルメ」ムック、2ページ抜けていた……扶桑社謝罪、該当話を無料公開",
       "title": "「孤独のグルメ」ムック、2ページ抜けていた……扶桑社謝罪、該当話を無料公開",
       "source": "ITmedia NEWS",
@@ -403,15 +430,6 @@
       "publishedAt": "2026-08-11T23:16:33.000Z",
       "description": "編集・印刷工程上の不備により、2ページ分の抜けがあることが判明した。",
       "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000498/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591386?source=rss-大家志津香 父との最後の家族旅行",
-      "title": "大家志津香 父との最後の家族旅行",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-11T22:42:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591386?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000497/-Anthropic、「Claude」で生成したテキストに“見えない透かし” 日本を含むグローバルに適用へ",
@@ -430,24 +448,6 @@
       "publishedAt": "2026-08-11T22:00:00.000Z",
       "description": "米コーネル大学と米ペンシルベニア州立大学に所属する研究者らが学術誌「Appetite」に発表した論文「Water intake, switching between bites and sips, and drinking behavior are associated with food intake across ...",
       "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000471/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591380?source=rss-C・ロナウド ポルトガルで民事婚",
-      "title": "C・ロナウド ポルトガルで民事婚",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-11T21:58:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591380?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591365?source=rss-イオン 爆発事故で遺族に補償方針",
-      "title": "イオン 爆発事故で遺族に補償方針",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-11T13:38:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591365?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591358?source=rss-ソニーとTSMC 合弁会社を設立へ",
