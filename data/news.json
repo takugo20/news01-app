@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T04:50:43.666Z",
+  "updatedAt": "2026-08-12T07:38:27.932Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,114 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591455?source=rss-人が入る箱型冷房 建設業など注目",
+      "title": "人が入る箱型冷房 建設業など注目",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-12T07:30:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591455?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591452?source=rss-台風17号 来週関東など近づく恐れ",
+      "title": "台風17号 来週関東など近づく恐れ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-12T07:16:29.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591452?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591448?source=rss-映画「さとこ」PRを騙る詐欺発生",
+      "title": "映画「さとこ」PRを騙る詐欺発生",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-12T07:12:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591448?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591449?source=rss-検事総長が退任 不祥事続発を陳謝",
+      "title": "検事総長が退任 不祥事続発を陳謝",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-12T07:02:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591449?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591450?source=rss-仙台育英 投手戦制し2年連続16強",
+      "title": "仙台育英 投手戦制し2年連続16強",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-12T06:59:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591450?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000506/-SpaceXAI、AIエージェント「Grok Bot」発表 クラウド環境で常時稼働、GrokやCursorの有料ユーザー向けに",
+      "title": "SpaceXAI、AIエージェント「Grok Bot」発表 クラウド環境で常時稼働、GrokやCursorの有料ユーザー向けに",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-12T06:33:57.000Z",
+      "description": "米SpaceXAIは8月11日（現地時間）、常時稼働型のAIエージェント「Grok Bot」（β版）を発表した。チャットでタスクを渡すとBotがアプリやWebサイトを操作して作業を進め、役割の異なる複数のBotを並列で働かせることもできる。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000506/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000508/-中国発AIエージェント「Manus」、Metaから独立へ 中国政府が買収に反発、一部ユーザーデータは削除に",
+      "title": "中国発AIエージェント「Manus」、Metaから独立へ 中国政府が買収に反発、一部ユーザーデータは削除に",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-12T06:09:00.000Z",
+      "description": "AIエージェント「Manus」を提供するManusは8月11日（現地時間）、独立企業としての運営をまもなく再開すると発表した。米Metaからの分離に伴い、一部ユーザーのデータを23日から削除するとして、事前のバックアップを呼び掛けている。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000508/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000507/-「めっちゃカメレオン」2000万本突破 日本の2人が開発、発売から2カ月で",
+      "title": "「めっちゃカメレオン」2000万本突破 日本の2人が開発、発売から2カ月で",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-12T06:05:08.000Z",
+      "description": "個人開発として異次元とも言える“超大ヒット”が続いている。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000507/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591441?source=rss-客席に消えた記念球 千賀の手元に",
+      "title": "客席に消えた記念球 千賀の手元に",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-12T05:51:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591441?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591442?source=rss-ドジャース劇的サヨナラ 接戦制す",
+      "title": "ドジャース劇的サヨナラ 接戦制す",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-12T05:31:47.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591442?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591438?source=rss-漫画家の梅津葉子さん死去",
+      "title": "漫画家の梅津葉子さん死去",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-12T05:02:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591438?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591437?source=rss-元厚労相・坂口力氏が死去 92歳",
+      "title": "元厚労相・坂口力氏が死去 92歳",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-12T04:57:56.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591437?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591428?source=rss-「踊る」スピンオフ中止報道 背景",
       "title": "「踊る」スピンオフ中止報道 背景",
       "source": "Yahoo!ニュース エンタメ",
@@ -52,24 +160,6 @@
       "publishedAt": "2026-08-12T04:28:32.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591427?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591433?source=rss-速報甲子園 仙台育英vs.花咲徳栄",
-      "title": "速報甲子園 仙台育英vs.花咲徳栄",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-12T04:24:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591433?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591432?source=rss-熊本・長崎で震度4 津波心配なし",
-      "title": "熊本・長崎で震度4 津波心配なし",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-12T04:13:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591432?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591425?source=rss-新幹線「独りぼっち席」が話題",
@@ -153,15 +243,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591418?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591413?source=rss-拓大紅陵 投手戦制し初戦突破",
-      "title": "拓大紅陵 投手戦制し初戦突破",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-12T02:35:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591413?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591412?source=rss-子がラジオ体操知らない 親は驚き",
       "title": "子がラジオ体操知らない 親は驚き",
       "source": "Yahoo!ニュース 国内",
@@ -189,15 +270,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591410?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591411?source=rss-台風17号発生 来週以降に影響恐れ",
-      "title": "台風17号発生 来週以降に影響恐れ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-12T02:15:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591411?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591405?source=rss-甲子園 天候不良で第4試合は順延",
       "title": "甲子園 天候不良で第4試合は順延",
       "source": "Yahoo!ニュース スポーツ",
@@ -214,15 +286,6 @@
       "publishedAt": "2026-08-12T01:07:20.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591403?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591402?source=rss-終戦3日前の満州 集団自決の証言",
-      "title": "終戦3日前の満州 集団自決の証言",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-12T00:53:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591402?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591400?source=rss-佐野海舟の争奪戦 移籍市場で注目",
@@ -288,15 +351,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000498/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591385?source=rss-広瀬アリス アクション映画初主演",
-      "title": "広瀬アリス アクション映画初主演",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-11T22:48:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591385?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591386?source=rss-大家志津香 父との最後の家族旅行",
       "title": "大家志津香 父との最後の家族旅行",
       "source": "Yahoo!ニュース エンタメ",
@@ -304,15 +358,6 @@
       "publishedAt": "2026-08-11T22:42:02.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591386?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591382?source=rss-美容医療の低年齢化 親の意向も",
-      "title": "美容医療の低年齢化 親の意向も",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-11T22:30:27.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591382?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000497/-Anthropic、「Claude」で生成したテキストに“見えない透かし” 日本を含むグローバルに適用へ",
@@ -378,15 +423,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591358?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591356?source=rss-SB三塁打→HR 相手リクエストで",
-      "title": "SB三塁打→HR 相手リクエストで",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-11T12:20:35.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591356?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591352?source=rss-YouTube 収益化ハードル引き上げ",
       "title": "YouTube 収益化ハードル引き上げ",
       "source": "Yahoo!ニュース IT",
@@ -403,15 +439,6 @@
       "publishedAt": "2026-08-11T11:39:27.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591353?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591331?source=rss-山口一郎うつ病4年 進む新しい道",
-      "title": "山口一郎うつ病4年 進む新しい道",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-11T08:42:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591331?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591320?source=rss-NAVERの牙城崩れる 韓国で変化",
@@ -547,33 +574,6 @@
       "publishedAt": "2026-08-10T05:45:31.000Z",
       "description": "浅田真央さんの旧ドメイン騒動で、さくらインターネットの田中邦裕社長が「対処します」と投稿し話題に。お名前.comとの違いと、その真意を聞いた。",
       "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000483/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/10/2000000468/-圧をかけて“泡”爆増、ミラブルの技術が融合した「高圧洗浄機」を自宅で試したら掃除が楽しくなった",
-      "title": "圧をかけて“泡”爆増、ミラブルの技術が融合した「高圧洗浄機」を自宅で試したら掃除が楽しくなった",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-10T04:18:48.000Z",
-      "description": "高圧洗浄機といえば、「強い水圧で汚れを吹き飛ばす」ための強力なツールというイメージがありますが、今回体験した「MIRABLE AQUABLAST MINI」はその常識を少し変えてくれる製品でした。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000468/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/10/2000000482/-PC内蔵カメラで「血管情報」「心拍情報」測定 VAIOが世界初、ノジマのアイデアが発端",
-      "title": "PC内蔵カメラで「血管情報」「心拍情報」測定 VAIOが世界初、ノジマのアイデアが発端",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-10T04:00:49.000Z",
-      "description": "カメラから取得したデータに基づき、統計学的処理により構築したモデルから血管情報と心拍情報を推定する。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000482/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/10/2000000481/-避難所でAI使ってサービス開発「イマココナビ」 ニッチな生活情報も被災者主導で共有",
-      "title": "避難所でAI使ってサービス開発「イマココナビ」 ニッチな生活情報も被災者主導で共有",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-10T03:52:46.000Z",
-      "description": "熊本地震の発生直後、人工知能（AI）を活用し、被災者どうしが生活情報をリアルタイムで共有するサイトが生まれ、好評を呼んでいる。子供が遊べる公園、爬虫類のペットフードの売り場―。行政では担えないニッチな内容を共有できることも強みで、すでに16万人以上がサイトに足を運んだ。「情報」が欠かせぬ一つのライフラインとなる中、被災...",
-      "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000481/"
     }
   ]
 }
