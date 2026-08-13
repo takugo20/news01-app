@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T02:20:43.319Z",
+  "updatedAt": "2026-08-13T04:54:47.502Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,150 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591575?source=rss-速報 有明が長崎日大をリード",
+      "title": "速報 有明が長崎日大をリード",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-13T04:44:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591575?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591573?source=rss-芸能プロの佐藤企画 破産開始決定",
+      "title": "芸能プロの佐藤企画 破産開始決定",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-13T04:40:47.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591573?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591572?source=rss-露大統領の択捉島訪問 茂木氏抗議",
+      "title": "露大統領の択捉島訪問 茂木氏抗議",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-13T04:29:51.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591572?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591568?source=rss-新スペース・マウンテン 名称決定",
+      "title": "新スペース・マウンテン 名称決定",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-13T04:11:12.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591568?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591566?source=rss-米国外初 表参道にグーグル直営店",
+      "title": "米国外初 表参道にグーグル直営店",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-13T04:08:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591566?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591564?source=rss-秋篠宮さま 皇室典範巡りコメント",
+      "title": "秋篠宮さま 皇室典範巡りコメント",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-13T03:55:31.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591564?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591559?source=rss-大気が不安定 局地的な大雨に警戒",
+      "title": "大気が不安定 局地的な大雨に警戒",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-13T03:39:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591559?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591562?source=rss-大谷が27号 逆転2ラン豪快アーチ",
+      "title": "大谷が27号 逆転2ラン豪快アーチ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-13T03:24:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591562?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591561?source=rss-フジ木村拓也アナ 再婚を発表",
+      "title": "フジ木村拓也アナ 再婚を発表",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-13T03:21:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591561?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591555?source=rss-レイカーズ売却報道 ド軍監督驚き",
+      "title": "レイカーズ売却報道 ド軍監督驚き",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-13T02:44:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591555?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591551?source=rss-オランダ代表 新監督にシャビ氏",
+      "title": "オランダ代表 新監督にシャビ氏",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-13T02:43:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591551?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000519/-「Google Store 表参道」13日オープン AIを使った“お土産作り”から限定グッズまで、店内を詳細レポート",
+      "title": "「Google Store 表参道」13日オープン AIを使った“お土産作り”から限定グッズまで、店内を詳細レポート",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-13T02:37:04.000Z",
+      "description": "米Googleは8月13日午後2時、直営店「Google Store 表参道」を東京・表参道の商業施設「東急プラザ表参道『オモカド』」にオープンする。AI体験スタジオ「Pixel Studio」など3フロアで構成し、製品購入から店頭修理まで対応する。オープンに先立ち店内を取材した。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000519/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591554?source=rss-バブル・氷河期・Z 各世代の働く",
+      "title": "バブル・氷河期・Z 各世代の働く",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-13T02:36:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591554?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591547?source=rss-元巨人マイコラス 事実上の戦力外",
+      "title": "元巨人マイコラス 事実上の戦力外",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-13T02:25:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591547?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591546?source=rss-VIVANTタイ俳優のフォロワー急増",
+      "title": "VIVANTタイ俳優のフォロワー急増",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-13T02:22:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591546?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000523/-一部テレビで「BSテレ東」映らず 信号データ不備が原因か",
+      "title": "一部テレビで「BSテレ東」映らず 信号データ不備が原因か",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-13T02:07:19.000Z",
+      "description": "主にシャープ製テレビの一部機種で10日から発生しているという。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000523/"
+    },
+    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000522/-ドコモ・バイクシェア、都内でも再開 全面停止から8日ぶり",
       "title": "ドコモ・バイクシェア、都内でも再開 全面停止から8日ぶり",
       "source": "ITmedia NEWS",
@@ -43,15 +187,6 @@
       "publishedAt": "2026-08-13T01:35:55.000Z",
       "description": "東京広域エリアは、千代田区や中央区、港区、新宿区、渋谷区など都内16区を1エリアとしてまとめ、区をまたいで貸出・返却できる相互利用の枠組み。",
       "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000522/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591538?source=rss-速報 東海大甲府vs.健大高崎",
-      "title": "速報 東海大甲府vs.健大高崎",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-13T01:26:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591538?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000521/-「Made by Google」イベントで発表したこと 手話のリアルタイムテキスト化や「Health Guardian」など",
@@ -72,15 +207,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000514/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591539?source=rss-日経平均 一時6万8000円台回復",
-      "title": "日経平均 一時6万8000円台回復",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-13T00:58:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591539?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591536?source=rss-外国人政策の厳格化加速 懸念の声",
       "title": "外国人政策の厳格化加速 懸念の声",
       "source": "Yahoo!ニュース 国内",
@@ -88,15 +214,6 @@
       "publishedAt": "2026-08-13T00:50:15.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591536?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591533?source=rss-日本海側は猛暑 関東など雷雨注意",
-      "title": "日本海側は猛暑 関東など雷雨注意",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-13T00:25:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591533?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591531?source=rss-King Gnu井口理 2作目の映画主演",
@@ -162,24 +279,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591520?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591517?source=rss-猛暑常態化 工事の「夏季休工」増",
-      "title": "猛暑常態化 工事の「夏季休工」増",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-12T22:26:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591517?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591516?source=rss-父死去のメッシ 優勝見せたかった",
-      "title": "父死去のメッシ 優勝見せたかった",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-12T22:24:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591516?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591514?source=rss-出産の山本舞香 ドラマ続編を辞退",
       "title": "出産の山本舞香 ドラマ続編を辞退",
       "source": "Yahoo!ニュース エンタメ",
@@ -243,15 +342,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000518/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591505?source=rss-首相 イラン大統領と電話会談",
-      "title": "首相 イラン大統領と電話会談",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-12T14:24:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591505?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000517/-Google、折りたたみスマホ「Pixel 11 Pro Fold」発表 10％軽く、1mm薄くしつつ耐久性強化",
       "title": "Google、折りたたみスマホ「Pixel 11 Pro Fold」発表 10％軽く、1mm薄くしつつ耐久性強化",
       "source": "ITmedia NEWS",
@@ -277,24 +367,6 @@
       "publishedAt": "2026-08-12T13:38:13.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591503?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591496?source=rss-楽天・前田健太がNPB通算100勝",
-      "title": "楽天・前田健太がNPB通算100勝",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-12T12:51:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591496?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591493?source=rss-地震で観光業約60億円被害 熊本県",
-      "title": "地震で観光業約60億円被害 熊本県",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-12T12:19:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591493?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591492?source=rss-首相 15日の靖国参拝を見送る方向",
@@ -333,15 +405,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591482?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591480?source=rss-松坂大輔氏が始球式 日ハムユニ",
-      "title": "松坂大輔氏が始球式 日ハムユニ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-12T10:29:55.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591480?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000500/-GeminiアプリのMAUが10億人を突破 Googleで14番目の大台到達製品に",
       "title": "GeminiアプリのMAUが10億人を突破 Googleで14番目の大台到達製品に",
       "source": "ITmedia NEWS",
@@ -349,15 +412,6 @@
       "publishedAt": "2026-08-12T09:59:59.000Z",
       "description": "GoogleのGeminiアプリの月間アクティブユーザー数（MAU）が10億人を突破した。Google検索やWorkspaceなどの組み込み機能を除いたアプリ単体の数字で、同社として14番目の10億ユーザー到達製品となる。競合のChatGPTに続く大台達成で、iOSユーザー数や音声利用の比率なども公開された。",
       "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591474?source=rss-花咲徳栄監督 遊撃手の次男に涙",
-      "title": "花咲徳栄監督 遊撃手の次男に涙",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-12T09:48:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591474?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000512/-RIZAP運営のECサイトに不正アクセス カード情報含む個人情報が流出の可能性 サイトは一時閉鎖",
@@ -396,24 +450,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591468?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591467?source=rss-梅津葉子さん死去 漫画連載は終了",
-      "title": "梅津葉子さん死去 漫画連載は終了",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-12T08:35:47.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591467?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591457?source=rss-ボーイングHP記述巡り日航に謝罪",
-      "title": "ボーイングHP記述巡り日航に謝罪",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-12T07:54:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591457?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000510/-「10月以降も継続」 楽天のKDDIローミング終了について三木谷氏がコメント 縮小はカバー済みエリアのみ",
       "title": "「10月以降も継続」 楽天のKDDIローミング終了について三木谷氏がコメント 縮小はカバー済みエリアのみ",
       "source": "ITmedia NEWS",
@@ -421,15 +457,6 @@
       "publishedAt": "2026-08-12T07:52:24.000Z",
       "description": "楽天グループの三木谷浩史会長兼社長は8月12日、楽天モバイルがKDDIから通信網を借りるローミング契約について「現在も詰めの協議を行っている」と自身のXアカウントで説明した。カバーに時間を要するエリアでは10月以降も継続する一方、十分カバーできているエリアは縮小するという。",
       "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000510/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591449?source=rss-検事総長が退任 不祥事続発を陳謝",
-      "title": "検事総長が退任 不祥事続発を陳謝",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-12T07:02:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591449?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000506/-SpaceXAI、AIエージェント「Grok Bot」発表 クラウド環境で常時稼働、GrokやCursorの有料ユーザー向けに",
@@ -457,15 +484,6 @@
       "publishedAt": "2026-08-12T06:05:08.000Z",
       "description": "個人開発として異次元とも言える“超大ヒット”が続いている。",
       "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000507/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591438?source=rss-漫画家の梅津葉子さん死去",
-      "title": "漫画家の梅津葉子さん死去",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-12T05:02:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591438?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000502/-通知なしで送れるLINE「ミュートメッセージ」有料提供へ 無料のテスト機能から昇格",
@@ -502,24 +520,6 @@
       "publishedAt": "2026-08-11T23:55:40.000Z",
       "description": "個人クリエイターなどによる「クリエイターズ着せかえ」は「審査に時間がかかっている」状況という。",
       "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000499/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000498/-「孤独のグルメ」ムック、2ページ抜けていた……扶桑社謝罪、該当話を無料公開",
-      "title": "「孤独のグルメ」ムック、2ページ抜けていた……扶桑社謝罪、該当話を無料公開",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-11T23:16:33.000Z",
-      "description": "編集・印刷工程上の不備により、2ページ分の抜けがあることが判明した。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000498/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000497/-Anthropic、「Claude」で生成したテキストに“見えない透かし” 日本を含むグローバルに適用へ",
-      "title": "Anthropic、「Claude」で生成したテキストに“見えない透かし” 日本を含むグローバルに適用へ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-11T22:16:45.000Z",
-      "description": "Anthropicは、「Claude」が生成するテキストに電子透かしを、対応ファイルにC2PA準拠の署名付きメタデータを付与する方針を発表した。8月2日に適用開始された「EU AI Act」の透明性義務に伴う措置だが、日本を含む全世界のモデルとサービスに適用される。人間には不可視の透かし等により、AI処理の有無や改ざん...",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000497/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591358?source=rss-ソニーとTSMC 合弁会社を設立へ",
