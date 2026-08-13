@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T21:51:09.493Z",
+  "updatedAt": "2026-08-13T02:20:43.319Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,168 @@
   "errors": [],
   "items": [
     {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000522/-ドコモ・バイクシェア、都内でも再開 全面停止から8日ぶり",
+      "title": "ドコモ・バイクシェア、都内でも再開 全面停止から8日ぶり",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-13T01:35:55.000Z",
+      "description": "東京広域エリアは、千代田区や中央区、港区、新宿区、渋谷区など都内16区を1エリアとしてまとめ、区をまたいで貸出・返却できる相互利用の枠組み。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000522/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591538?source=rss-速報 東海大甲府vs.健大高崎",
+      "title": "速報 東海大甲府vs.健大高崎",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-13T01:26:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591538?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000521/-「Made by Google」イベントで発表したこと 手話のリアルタイムテキスト化や「Health Guardian」など",
+      "title": "「Made by Google」イベントで発表したこと 手話のリアルタイムテキスト化や「Health Guardian」など",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-13T01:14:35.000Z",
+      "description": "Googleは新製品発表イベント「Made by Google 2026」で、「Pixel 11」シリーズなどの最新ハードウェアに加え、手話をテキスト化する「SL2T」機能や、既存センサーのデータで健康状態を推定する「Health Guardian」などを発表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000521/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000514/-個人開発のAIデザインツール「Rikyū」 “幾何学的なデザイン”機能が秀逸と話題に",
+      "title": "個人開発のAIデザインツール「Rikyū」 “幾何学的なデザイン”機能が秀逸と話題に",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-13T01:00:00.000Z",
+      "description": "幾何学的にロゴをデザインできる個人開発のAIサービス「Rikyū」がXで話題だ。生成ロゴや“設計図”風の画像にも注目が集まり、Xでは成果物の投稿が相次いでいる。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000514/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591539?source=rss-日経平均 一時6万8000円台回復",
+      "title": "日経平均 一時6万8000円台回復",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-13T00:58:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591539?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591536?source=rss-外国人政策の厳格化加速 懸念の声",
+      "title": "外国人政策の厳格化加速 懸念の声",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-13T00:50:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591536?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591533?source=rss-日本海側は猛暑 関東など雷雨注意",
+      "title": "日本海側は猛暑 関東など雷雨注意",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-13T00:25:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591533?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591531?source=rss-King Gnu井口理 2作目の映画主演",
+      "title": "King Gnu井口理 2作目の映画主演",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-13T00:17:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591531?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591526?source=rss-井ノ原快彦 香取慎吾と映画で共演",
+      "title": "井ノ原快彦 香取慎吾と映画で共演",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-12T23:33:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591526?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591525?source=rss-スシロー&くら寿司 次の成長戦略",
+      "title": "スシロー&くら寿司 次の成長戦略",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-12T23:29:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591525?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591524?source=rss-国旗損壊 捜査幹部から懸念の声も",
+      "title": "国旗損壊 捜査幹部から懸念の声も",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-12T23:27:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591524?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591523?source=rss-高密度の金含む鉱石 相次ぎ発見",
+      "title": "高密度の金含む鉱石 相次ぎ発見",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-12T23:15:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591523?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591522?source=rss-Google「Pixel11」シリーズ発表",
+      "title": "Google「Pixel11」シリーズ発表",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-12T23:03:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591522?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591520?source=rss-レイカーズ 125億ドル超で売却へ",
+      "title": "レイカーズ 125億ドル超で売却へ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-12T22:49:23.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591520?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591517?source=rss-猛暑常態化 工事の「夏季休工」増",
+      "title": "猛暑常態化 工事の「夏季休工」増",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-12T22:26:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591517?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591516?source=rss-父死去のメッシ 優勝見せたかった",
+      "title": "父死去のメッシ 優勝見せたかった",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-12T22:24:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591516?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591514?source=rss-出産の山本舞香 ドラマ続編を辞退",
+      "title": "出産の山本舞香 ドラマ続編を辞退",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-12T22:03:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591514?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000472/-悪酔いにチェイサーは効果なし？ 日本酒4合＋水1Lを飲ませ二日酔い調査 大分大などが研究",
+      "title": "悪酔いにチェイサーは効果なし？ 日本酒4合＋水1Lを飲ませ二日酔い調査 大分大などが研究",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-12T22:00:00.000Z",
+      "description": "大分大学や三和酒類株式会社研究所に所属する研究者らが国際学術誌「Frontiers in Pharmacology」で発表した論文「Water intake during drinking does not alleviate hangover symptoms」は、飲酒中に水（チェイサー）を飲んでも二日酔いは緩和され...",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000472/"
+    },
+    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591512?source=rss-日本国旗損壊罪法 きょう施行",
       "title": "日本国旗損壊罪法 きょう施行",
       "source": "Yahoo!ニュース 国内",
@@ -45,13 +207,13 @@
       "url": "https://news.yahoo.co.jp/pickup/6591512?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591511?source=rss-東北から近畿 急な雨や落雷に注意",
-      "title": "東北から近畿 急な雨や落雷に注意",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-12T21:34:15.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591511?source=rss"
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000520/-SpaceXAI、「Grok 4.6」を発表 総合指標で「GPT-5.6 Sol Max」に並ぶと謳う",
+      "title": "SpaceXAI、「Grok 4.6」を発表 総合指標で「GPT-5.6 Sol Max」に並ぶと謳う",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-12T21:32:01.000Z",
+      "description": "SpaceXAIは、AIモデル「Grok 4.6」を発表した。前世代の「Grok 4.5」をベースに、多数の手順にまたがって作業を続けるエージェント用途と、対話的・視覚的な成果物の作成を強化した。「Cursor」、「Grok Build」、「Grok Bot」、APIで同日提供を始めた。API料金は入力100万トークン...",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000520/"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591510?source=rss-第3次森保J 名波コーチら続投へ",
@@ -126,24 +288,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591496?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591494?source=rss-阪神・佐藤輝明 プロ通算150号HR",
-      "title": "阪神・佐藤輝明 プロ通算150号HR",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-12T12:34:27.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591494?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591491?source=rss-夜間の墓参りも 変化する供養の形",
-      "title": "夜間の墓参りも 変化する供養の形",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-12T12:22:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591491?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591493?source=rss-地震で観光業約60億円被害 熊本県",
       "title": "地震で観光業約60億円被害 熊本県",
       "source": "Yahoo!ニュース 経済",
@@ -178,15 +322,6 @@
       "publishedAt": "2026-08-12T11:37:21.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591485?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591486?source=rss-コメ収穫始まる 倉庫は古米山積み",
-      "title": "コメ収穫始まる 倉庫は古米山積み",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-12T11:35:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591486?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591482?source=rss-新幹線乗り遅れ緊急停止 動画拡散",
@@ -232,15 +367,6 @@
       "publishedAt": "2026-08-12T09:19:37.000Z",
       "description": "RIZAPは8月10日、運営するスポーツ・アウトドア用品の通販サイト「APORITOオンラインストア」が不正アクセスを受け、利用者の個人情報とクレジットカード情報が外部へ流出した可能性があると発表した。サイトは5日から閉鎖しており、再開時期は未定。",
       "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000512/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591472?source=rss-DeNA松尾汐恩が抹消 感染症特例",
-      "title": "DeNA松尾汐恩が抹消 感染症特例",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-12T09:06:03.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591472?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591469?source=rss-韓国の性接待疑惑 JFA会長が言及",
@@ -297,15 +423,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000510/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591453?source=rss-大泉洋30周年 今のテレビを語る",
-      "title": "大泉洋30周年 今のテレビを語る",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-12T07:49:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591453?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591449?source=rss-検事総長が退任 不祥事続発を陳謝",
       "title": "検事総長が退任 不祥事続発を陳謝",
       "source": "Yahoo!ニュース 国内",
@@ -351,33 +468,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591438?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591437?source=rss-元厚労相・坂口力氏が死去 92歳",
-      "title": "元厚労相・坂口力氏が死去 92歳",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-12T04:57:56.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591437?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591428?source=rss-「踊る」スピンオフ中止報道 背景",
-      "title": "「踊る」スピンオフ中止報道 背景",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-12T04:38:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591428?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591425?source=rss-新幹線「独りぼっち席」が話題",
-      "title": "新幹線「独りぼっち席」が話題",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-12T03:51:26.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591425?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000502/-通知なしで送れるLINE「ミュートメッセージ」有料提供へ 無料のテスト機能から昇格",
       "title": "通知なしで送れるLINE「ミュートメッセージ」有料提供へ 無料のテスト機能から昇格",
       "source": "ITmedia NEWS",
@@ -403,42 +493,6 @@
       "publishedAt": "2026-08-12T03:04:25.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591407?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591418?source=rss-C・ロナウドが結婚 3文字で報告",
-      "title": "C・ロナウドが結婚 3文字で報告",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-12T02:57:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591418?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591412?source=rss-子がラジオ体操知らない 親は驚き",
-      "title": "子がラジオ体操知らない 親は驚き",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-12T02:35:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591412?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591414?source=rss-スポーツ用品大手オン 株価急落",
-      "title": "スポーツ用品大手オン 株価急落",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-12T02:33:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591414?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591410?source=rss-VIVANT視聴率なぜ下降続く 考察",
-      "title": "VIVANT視聴率なぜ下降続く 考察",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-12T02:18:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591410?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000499/-LINE着せかえ「アイコンがデフォルトに戻る」問題、対応完了時期示さず クリエイターズは「審査に時間がかかっている」",
@@ -468,15 +522,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000497/"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000471/-「食事中に水を飲むと食べ過ぎない」、実はウソ？ 食べる量を左右していたのは…… 米研究者が検証",
-      "title": "「食事中に水を飲むと食べ過ぎない」、実はウソ？ 食べる量を左右していたのは…… 米研究者が検証",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-11T22:00:00.000Z",
-      "description": "米コーネル大学と米ペンシルベニア州立大学に所属する研究者らが学術誌「Appetite」に発表した論文「Water intake, switching between bites and sips, and drinking behavior are associated with food intake across ...",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000471/"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591358?source=rss-ソニーとTSMC 合弁会社を設立へ",
       "title": "ソニーとTSMC 合弁会社を設立へ",
       "source": "Yahoo!ニュース IT",
@@ -504,15 +549,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591320?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/11/2000000496/-OpenAI、サイバー防御「Daybreak」を赤青2階層に 特化型「GPT-5.6-Cyber」投入",
-      "title": "OpenAI、サイバー防御「Daybreak」を赤青2階層に 特化型「GPT-5.6-Cyber」投入",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-11T02:48:40.000Z",
-      "description": "OpenAIはサイバー防御者向けイニシアチブ「Daybreak」を拡張し、2つのアクセス階層「Blue」「Red」と、Red向けの専用モデル「GPT-5.6-Cyber」を発表した。正当なセキュリティ研究におけるAIの過度な拒否動作を抑制し、未知のゼロデイ脆弱性発見やエクスプロイト検証などの高度な防御タスクを支援する。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000496/"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591293?source=rss-携帯キャリア悩ませるホッピング",
       "title": "携帯キャリア悩ませるホッピング",
       "source": "Yahoo!ニュース IT",
@@ -531,33 +567,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591286?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/11/2000000495/-YouTube、収益化基準を2027年に大幅引き上げへ 新規参加条件が従来の2倍に",
-      "title": "YouTube、収益化基準を2027年に大幅引き上げへ 新規参加条件が従来の2倍に",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-11T00:21:44.000Z",
-      "description": "YouTubeは「YouTubeパートナープログラム」の改定を発表した。2027年2月より新規参加の条件が再生時間8000時間またはショート2000万回再生へと引き上げられる。既存クリエイターの長尺動画への影響はないが、ショート動画の広告分配維持には直近90日間で1000万回再生の継続が必要となる。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000495/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/11/2000000494/-ザッカーバーグCEO、超知能の集中化に警鐘 「単一の善意ある超知能は存在しない」とオープンモデル公開再開へ",
-      "title": "ザッカーバーグCEO、超知能の集中化に警鐘 「単一の善意ある超知能は存在しない」とオープンモデル公開再開へ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-10T22:21:33.000Z",
-      "description": "MetaのザッカーバーグCEOは、超知能の分散化と個人のエンパワーメントを訴える論考を公開した。単一の超知能への集権化を否定し、権力の均衡が安全の基礎であると主張。モデル公開審査の独立組織委任や政府へのチェックポイント提供などの管理策を提示しつつ、オープンソースモデルの公開再開と新モデルのウェイト提供を明言した。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000494/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/11/2000000474/-親が子にAIを使わせる理由は「勉強に役立つ」ではなく「うちの子だけは遅れさせたくない」？ 2000人を調査",
-      "title": "親が子にAIを使わせる理由は「勉強に役立つ」ではなく「うちの子だけは遅れさせたくない」？ 2000人を調査",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-10T22:00:00.000Z",
-      "description": "米シカゴ大学などに所属する研究者らがPNASで発表した論文「Social dynamics of AI adoption in parents’ educational decisions」は、親が子どもに生成AIを使わせる判断の背景を調査した研究報告だ。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000474/"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591250?source=rss-八代市民が発信 WEBで情報共有",
       "title": "八代市民が発信 WEBで情報共有",
       "source": "Yahoo!ニュース IT",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-08-10T12:33:25.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591250?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591196?source=rss-ニチレイ個人情報 ハッカー公開か",
-      "title": "ニチレイ個人情報 ハッカー公開か",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-10T07:03:35.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591196?source=rss"
     }
   ]
 }
