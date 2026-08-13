@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T19:06:55.105Z",
+  "updatedAt": "2026-08-13T21:51:03.771Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,51 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591651?source=rss-千葉県に大雨 最新情報まとめ",
+      "title": "千葉県に大雨 最新情報まとめ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-13T20:51:47.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591651?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591650?source=rss-千葉県の特別警報 危険警報に切替",
+      "title": "千葉県の特別警報 危険警報に切替",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-13T20:42:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591650?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591649?source=rss-危険な雨 土砂災害など終日警戒",
+      "title": "危険な雨 土砂災害など終日警戒",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-13T20:29:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591649?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591647?source=rss-午前1時 成田空港に6600人が滞留",
+      "title": "午前1時 成田空港に6600人が滞留",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-13T20:00:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591647?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591646?source=rss-千葉県内のJR各線 始発から運休",
+      "title": "千葉県内のJR各線 始発から運休",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-13T19:46:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591646?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591644?source=rss-千葉県北西部などに線状降水帯",
       "title": "千葉県北西部などに線状降水帯",
       "source": "Yahoo!ニュース 国内",
@@ -45,24 +90,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591644?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591642?source=rss-千葉県に土砂災害特別警報",
-      "title": "千葉県に土砂災害特別警報",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-13T15:07:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591642?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591641?source=rss-千葉県の大雨特別警報 エリア拡大",
-      "title": "千葉県の大雨特別警報 エリア拡大",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-13T15:00:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591641?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591633?source=rss-千葉県などで停電発生 最新の状況",
       "title": "千葉県などで停電発生 最新の状況",
       "source": "Yahoo!ニュース 国内",
@@ -70,15 +97,6 @@
       "publishedAt": "2026-08-13T13:17:20.000Z",
       "description": "「停電情報」どこで停電が起きているか、都道府県ごとに地図に表示している。周辺の状況確認を。",
       "url": "https://news.yahoo.co.jp/pickup/6591633?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591623?source=rss-千葉県に大雨特別警報 最新情報",
-      "title": "千葉県に大雨特別警報 最新情報",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-13T12:12:09.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591623?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591626?source=rss-気象庁「経験のないような大雨」",
@@ -124,15 +142,6 @@
       "publishedAt": "2026-08-13T10:14:38.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591611?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591612?source=rss-大雨 関東の鉄道の運行情報",
-      "title": "大雨 関東の鉄道の運行情報",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-13T10:11:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591612?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000532/-ドコモ・バイクシェア、全エリアでサービス再開 全面停止から9日ぶり",
@@ -403,15 +412,6 @@
       "publishedAt": "2026-08-13T01:00:00.000Z",
       "description": "幾何学的にロゴをデザインできる個人開発のAIサービス「Rikyū」がXで話題だ。生成ロゴや“設計図”風の画像にも注目が集まり、Xでは成果物の投稿が相次いでいる。",
       "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000514/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591523?source=rss-高密度の金含む鉱石 相次ぎ発見",
-      "title": "高密度の金含む鉱石 相次ぎ発見",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-12T23:15:03.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591523?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591522?source=rss-Google「Pixel11」シリーズ発表",
