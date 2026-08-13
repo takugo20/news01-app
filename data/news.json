@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T04:54:47.502Z",
+  "updatedAt": "2026-08-13T07:40:20.075Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,121 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591575?source=rss-速報 有明が長崎日大をリード",
-      "title": "速報 有明が長崎日大をリード",
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591590?source=rss-そごう 19年ぶり「本店」名称復活",
+      "title": "そごう 19年ぶり「本店」名称復活",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-13T07:38:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591590?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591591?source=rss-九州自動車道 14日朝に全線復旧",
+      "title": "九州自動車道 14日朝に全線復旧",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-13T07:33:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591591?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591588?source=rss-一太郎転落 振り返る当時の担当者",
+      "title": "一太郎転落 振り返る当時の担当者",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-13T07:31:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591588?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591584?source=rss-高市内閣の支持率は横ばい 時事",
+      "title": "高市内閣の支持率は横ばい 時事",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-13T06:49:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591584?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591583?source=rss-TWICE・チェヨン JYPと契約終了",
+      "title": "TWICE・チェヨン JYPと契約終了",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-13T06:36:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591583?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591582?source=rss-ネタバレ許される境界線 識者解説",
+      "title": "ネタバレ許される境界線 識者解説",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-13T06:27:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591582?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000530/-LINE、送信後のメッセージを編集可能に 15分以内限定 秋以降は有料化",
+      "title": "LINE、送信後のメッセージを編集可能に 15分以内限定 秋以降は有料化",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-13T06:21:45.000Z",
+      "description": "まず「LINEラボ」で無償提供し、秋以降は有料の「LYPプレミアム」会員向け特典として正式に提供する予定だ。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000530/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591580?source=rss-大谷が痛恨の走塁死 併殺プレー",
+      "title": "大谷が痛恨の走塁死 併殺プレー",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-08-13T04:44:19.000Z",
+      "publishedAt": "2026-08-13T05:47:20.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591575?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6591580?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591579?source=rss-トイストーリー5 興収110億円突破",
+      "title": "トイストーリー5 興収110億円突破",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-13T05:46:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591579?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000519/-「Google Store 表参道」13日オープン AIを使った“お土産作り”から限定グッズまで、店内を詳細レポート",
+      "title": "「Google Store 表参道」13日オープン AIを使った“お土産作り”から限定グッズまで、店内を詳細レポート",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-13T05:28:42.000Z",
+      "description": "米Googleは8月13日午後2時、直営店「Google Store 表参道」を東京・表参道の商業施設「東急プラザ表参道『オモカド』」にオープンする。AI体験スタジオ「Pixel Studio」など3フロアで構成し、製品購入から店頭修理まで対応する。オープンに先立ち店内を取材した。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000519/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000526/-サービス終了した「Link！Like！ラブライブ！」開発元が破産 負債103億円超 東京商工リサーチ",
+      "title": "サービス終了した「Link！Like！ラブライブ！」開発元が破産 負債103億円超 東京商工リサーチ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-13T04:55:57.000Z",
+      "description": "東京商工リサーチは8月13日、スマートフォンアプリ「Link！Like！ラブライブ！」を開発・運営していたオッドナンバーと関連2社が、東京地裁から破産開始決定を受けたと報じた。決定は8月5日付。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000526/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591576?source=rss-大谷が27号逆転2ラン ド軍が3連勝",
+      "title": "大谷が27号逆転2ラン ド軍が3連勝",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-13T04:55:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591576?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000527/-ヨネックス、公式ECショップに不正ログイン 氏名や住所、購入履歴が閲覧された恐れ パスワード変更呼び掛け",
+      "title": "ヨネックス、公式ECショップに不正ログイン 氏名や住所、購入履歴が閲覧された恐れ パスワード変更呼び掛け",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-13T04:51:04.000Z",
+      "description": "ヨネックスは8月12日、公式オンラインショップで第三者による不正ログインが発生したと発表した。リスト型攻撃によるもので、利用者に対しパスワードの再設定を呼び掛けている。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000527/"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591573?source=rss-芸能プロの佐藤企画 破産開始決定",
@@ -72,15 +180,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591568?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591566?source=rss-米国外初 表参道にグーグル直営店",
-      "title": "米国外初 表参道にグーグル直営店",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-13T04:08:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591566?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591564?source=rss-秋篠宮さま 皇室典範巡りコメント",
       "title": "秋篠宮さま 皇室典範巡りコメント",
       "source": "Yahoo!ニュース 国内",
@@ -97,15 +196,6 @@
       "publishedAt": "2026-08-13T03:39:11.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591559?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591562?source=rss-大谷が27号 逆転2ラン豪快アーチ",
-      "title": "大谷が27号 逆転2ラン豪快アーチ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-13T03:24:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591562?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591561?source=rss-フジ木村拓也アナ 再婚を発表",
@@ -133,15 +223,6 @@
       "publishedAt": "2026-08-13T02:43:10.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591551?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000519/-「Google Store 表参道」13日オープン AIを使った“お土産作り”から限定グッズまで、店内を詳細レポート",
-      "title": "「Google Store 表参道」13日オープン AIを使った“お土産作り”から限定グッズまで、店内を詳細レポート",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-13T02:37:04.000Z",
-      "description": "米Googleは8月13日午後2時、直営店「Google Store 表参道」を東京・表参道の商業施設「東急プラザ表参道『オモカド』」にオープンする。AI体験スタジオ「Pixel Studio」など3フロアで構成し、製品購入から店頭修理まで対応する。オープンに先立ち店内を取材した。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000519/"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591554?source=rss-バブル・氷河期・Z 各世代の働く",
@@ -234,15 +315,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591526?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591525?source=rss-スシロー&くら寿司 次の成長戦略",
-      "title": "スシロー&くら寿司 次の成長戦略",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-12T23:29:24.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591525?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591524?source=rss-国旗損壊 捜査幹部から懸念の声も",
       "title": "国旗損壊 捜査幹部から懸念の声も",
       "source": "Yahoo!ニュース 国内",
@@ -295,15 +367,6 @@
       "publishedAt": "2026-08-12T22:00:00.000Z",
       "description": "大分大学や三和酒類株式会社研究所に所属する研究者らが国際学術誌「Frontiers in Pharmacology」で発表した論文「Water intake during drinking does not alleviate hangover symptoms」は、飲酒中に水（チェイサー）を飲んでも二日酔いは緩和され...",
       "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000472/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591512?source=rss-日本国旗損壊罪法 きょう施行",
-      "title": "日本国旗損壊罪法 きょう施行",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-12T21:43:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591512?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000520/-SpaceXAI、「Grok 4.6」を発表 総合指標で「GPT-5.6 Sol Max」に並ぶと謳う",
@@ -360,15 +423,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000516/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591503?source=rss-橋本環奈が始球式 「河了貂」衣装",
-      "title": "橋本環奈が始球式 「河了貂」衣装",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-12T13:38:13.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591503?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591492?source=rss-首相 15日の靖国参拝を見送る方向",
       "title": "首相 15日の靖国参拝を見送る方向",
       "source": "Yahoo!ニュース 国内",
@@ -376,15 +430,6 @@
       "publishedAt": "2026-08-12T12:11:42.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591492?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591488?source=rss-アミューズ 誹謗中傷巡り法的措置",
-      "title": "アミューズ 誹謗中傷巡り法的措置",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-12T12:01:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591488?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591485?source=rss-イオン爆発 ハビタが「補償模索」",
@@ -486,24 +531,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000507/"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000502/-通知なしで送れるLINE「ミュートメッセージ」有料提供へ 無料のテスト機能から昇格",
-      "title": "通知なしで送れるLINE「ミュートメッセージ」有料提供へ 無料のテスト機能から昇格",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-12T03:31:21.000Z",
-      "description": "新機能を試せる「LINEラボ」で無償提供してきたが、8月下旬ごろから有料の「LYPプレミアム」ユーザー限定になる。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000502/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000501/-ソニーとTSMC、熊本に新会社 計7470億円を拠出、29年にスマホ向けセンサー量産開始",
-      "title": "ソニーとTSMC、熊本に新会社 計7470億円を拠出、29年にスマホ向けセンサー量産開始",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-12T03:28:05.000Z",
-      "description": "ソニーとTSMCが熊本県合志市に合弁会社を設立へ。計約7470億円を段階的に拠出し、2029年にスマホ向け次世代イメージセンサーの量産を始める。5月の基本合意を経て、法的拘束力のある確定契約を締結した。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000501/"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591407?source=rss-Geminiアプリ ユーザー月10億超",
       "title": "Geminiアプリ ユーザー月10億超",
       "source": "Yahoo!ニュース IT",
@@ -511,15 +538,6 @@
       "publishedAt": "2026-08-12T03:04:25.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591407?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000499/-LINE着せかえ「アイコンがデフォルトに戻る」問題、対応完了時期示さず クリエイターズは「審査に時間がかかっている」",
-      "title": "LINE着せかえ「アイコンがデフォルトに戻る」問題、対応完了時期示さず クリエイターズは「審査に時間がかかっている」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-11T23:55:40.000Z",
-      "description": "個人クリエイターなどによる「クリエイターズ着せかえ」は「審査に時間がかかっている」状況という。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000499/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591358?source=rss-ソニーとTSMC 合弁会社を設立へ",
@@ -556,24 +574,6 @@
       "publishedAt": "2026-08-11T01:10:44.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591293?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591286?source=rss-被災男性のAI加工画像が拡散 憤り",
-      "title": "被災男性のAI加工画像が拡散 憤り",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-11T00:37:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591286?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591250?source=rss-八代市民が発信 WEBで情報共有",
-      "title": "八代市民が発信 WEBで情報共有",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-10T12:33:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591250?source=rss"
     }
   ]
 }
