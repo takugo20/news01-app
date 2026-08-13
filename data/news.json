@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T13:20:53.953Z",
+  "updatedAt": "2026-08-13T16:01:20.853Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,24 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591642?source=rss-千葉県に土砂災害特別警報",
+      "title": "千葉県に土砂災害特別警報",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-13T15:07:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591642?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591641?source=rss-千葉県の大雨特別警報 エリア拡大",
+      "title": "千葉県の大雨特別警報 エリア拡大",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-13T15:00:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591641?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591633?source=rss-千葉県などで停電発生 最新の状況",
       "title": "千葉県などで停電発生 最新の状況",
       "source": "Yahoo!ニュース 国内",
@@ -43,15 +61,6 @@
       "publishedAt": "2026-08-13T13:17:20.000Z",
       "description": "「停電情報」どこで停電が起きているか、都道府県ごとに地図に表示している。周辺の状況確認を。",
       "url": "https://news.yahoo.co.jp/pickup/6591633?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591632?source=rss-千葉市と市原市 土砂災害特別警報",
-      "title": "千葉市と市原市 土砂災害特別警報",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-13T13:04:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591632?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591623?source=rss-千葉県に大雨特別警報 最新情報",
@@ -70,15 +79,6 @@
       "publishedAt": "2026-08-13T12:05:45.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591626?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591619?source=rss-命守る行動を 千葉に大雨特別警報",
-      "title": "命守る行動を 千葉に大雨特別警報",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-13T11:23:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591619?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000528/-「収益化のハードルが低いのを知っていますか？」―─ニコニコがXでアピール YouTubeの条件引き上げ受け",
