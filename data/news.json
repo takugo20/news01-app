@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T21:51:03.771Z",
+  "updatedAt": "2026-08-14T02:18:58.366Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,148 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591651?source=rss-千葉県に大雨 最新情報まとめ",
-      "title": "千葉県に大雨 最新情報まとめ",
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591671?source=rss-単独では限界 日米協調介入の内幕",
+      "title": "単独では限界 日米協調介入の内幕",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-14T01:26:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591671?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591669?source=rss-ガラスのうさぎ 高木敏子さん死去",
+      "title": "ガラスのうさぎ 高木敏子さん死去",
       "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-08-13T20:51:47.000Z",
+      "publishedAt": "2026-08-14T01:09:45.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591651?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6591669?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/14/2000000539/-千葉の「通れた道」、JARTIC地図で確認可能に トヨタやホンダなど5社のデータを集約",
+      "title": "千葉の「通れた道」、JARTIC地図で確認可能に トヨタやホンダなど5社のデータを集約",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-14T01:07:13.000Z",
+      "description": "クルマの通行実績を、「最新1時間」「最新3時間」「最新6時間」の3種類を切り替えて表示できる。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000539/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591667?source=rss-マスク氏 スペースX株48.4%保有",
+      "title": "マスク氏 スペースX株48.4%保有",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-14T00:52:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591667?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/14/2000000538/-AIエージェント同士が“縄張り争い”、マルウェアで妨害も Anthropicがマルチエージェント実験の結果を公開",
+      "title": "AIエージェント同士が“縄張り争い”、マルウェアで妨害も Anthropicがマルチエージェント実験の結果を公開",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-14T00:51:06.000Z",
+      "description": "Anthropicは、複数のAIエージェントが同じ環境で働くとどうなるかを検証した実験結果を公開した。互いを妨害し合う“縄張り争い”や、示し合わせたような価格カルテル、全員が同じ判断をして資源を食い潰す現象などが確認された。個々のAIを安全にするだけでは防げない問題があると警告している。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000538/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591666?source=rss-千葉市など 約2万5300軒が停電",
+      "title": "千葉市など 約2万5300軒が停電",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-14T00:44:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591666?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591665?source=rss-関東・東北 夕方から雨強まる予想",
+      "title": "関東・東北 夕方から雨強まる予想",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-14T00:25:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591665?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591662?source=rss-サマソニ東京 予定通り千葉で開催",
+      "title": "サマソニ東京 予定通り千葉で開催",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-14T00:03:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591662?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/14/2000000537/-Instagram、ワードマークを10年ぶりに刷新 筆記体をより太くシンプルに",
+      "title": "Instagram、ワードマークを10年ぶりに刷新 筆記体をより太くシンプルに",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-13T23:03:37.000Z",
+      "description": "Metaは、Instagramのブランドアイデンティティ刷新を発表した。アプリ上部のワードマークを10年ぶりに更新し、より太くシンプルな筆記体を採用する。新フォントとして「Instagram Pen」などを追加し、ブランドシステム全体を更新する。グラデーションは維持し、アプリアイコンの変更はない。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000537/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591657?source=rss-成田空港に7000人が滞留 大雨影響",
+      "title": "成田空港に7000人が滞留 大雨影響",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-13T23:01:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591657?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591655?source=rss-異色のふぉ～ゆ～ CDデビューへ",
+      "title": "異色のふぉ～ゆ～ CDデビューへ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-13T22:48:12.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591655?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591656?source=rss-非上場株の算定ルール 見直し方針",
+      "title": "非上場株の算定ルール 見直し方針",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-13T22:41:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591656?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/14/2000000536/-豪雨被害の千葉で「通れた道マップ」トヨタが公開 直近3時間の通行実績が分かる",
+      "title": "豪雨被害の千葉で「通れた道マップ」トヨタが公開 直近3時間の通行実績が分かる",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-13T22:41:41.000Z",
+      "description": "直近3時間以内に車両が通行できた道路を地図で確認できる。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000536/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591654?source=rss-千葉にいまして 矢部浩之ANN休演",
+      "title": "千葉にいまして 矢部浩之ANN休演",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-13T22:13:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591654?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/14/2000000535/-トランプ大統領、民間企業によるサイバー攻撃作戦を認める覚書に署名",
+      "title": "トランプ大統領、民間企業によるサイバー攻撃作戦を認める覚書に署名",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-13T22:09:09.000Z",
+      "description": "トランプ米大統領は、審査を通過した米民間企業が連邦政府の指揮監督下で、国外のサイバー犯罪組織に対する攻撃作戦を実施できるようにする大統領覚書に署名した。人命の損失などを招く「重大な結果」を伴う作戦は承認対象外とし、米国人が標的に含まれる活動には事前に必要な承認を得る手続きを求める。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000535/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/14/2000000477/-「紙のカレンダーvs.デジタルカレンダー」、書いた予定をよく覚えているのは？ 東大などが脳活動を調査",
+      "title": "「紙のカレンダーvs.デジタルカレンダー」、書いた予定をよく覚えているのは？ 東大などが脳活動を調査",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-13T22:00:00.000Z",
+      "description": "東京大学大学院とNTTデータ経営研究所に所属する研究者らが発表した論文「Paper Notebooks vs. Mobile Devices: Brain Activation Differences During Memory Retrieval」は、何に書くかが、後でどう思い出すかを左右することを脳活動から検証した...",
+      "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000477/"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591650?source=rss-千葉県の特別警報 危険警報に切替",
@@ -63,15 +198,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591649?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591647?source=rss-午前1時 成田空港に6600人が滞留",
-      "title": "午前1時 成田空港に6600人が滞留",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-13T20:00:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591647?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591646?source=rss-千葉県内のJR各線 始発から運休",
       "title": "千葉県内のJR各線 始発から運休",
       "source": "Yahoo!ニュース 経済",
@@ -79,24 +205,6 @@
       "publishedAt": "2026-08-13T19:46:02.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591646?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591644?source=rss-千葉県北西部などに線状降水帯",
-      "title": "千葉県北西部などに線状降水帯",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-13T17:17:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591644?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591633?source=rss-千葉県などで停電発生 最新の状況",
-      "title": "千葉県などで停電発生 最新の状況",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-13T13:17:20.000Z",
-      "description": "「停電情報」どこで停電が起きているか、都道府県ごとに地図に表示している。周辺の状況確認を。",
-      "url": "https://news.yahoo.co.jp/pickup/6591633?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591626?source=rss-気象庁「経験のないような大雨」",
@@ -234,15 +342,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591592?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591591?source=rss-九州自動車道 14日朝に全線復旧",
-      "title": "九州自動車道 14日朝に全線復旧",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-13T07:33:24.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591591?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591588?source=rss-一太郎転落 振り返る当時の担当者",
       "title": "一太郎転落 振り返る当時の担当者",
       "source": "Yahoo!ニュース IT",
@@ -315,24 +414,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000527/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591573?source=rss-芸能プロの佐藤企画 破産開始決定",
-      "title": "芸能プロの佐藤企画 破産開始決定",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-13T04:40:47.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591573?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591568?source=rss-新スペース・マウンテン 名称決定",
-      "title": "新スペース・マウンテン 名称決定",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-13T04:11:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591568?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591561?source=rss-フジ木村拓也アナ 再婚を発表",
       "title": "フジ木村拓也アナ 再婚を発表",
       "source": "Yahoo!ニュース エンタメ",
@@ -367,15 +448,6 @@
       "publishedAt": "2026-08-13T02:25:57.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591547?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591546?source=rss-VIVANTタイ俳優のフォロワー急増",
-      "title": "VIVANTタイ俳優のフォロワー急増",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-13T02:22:03.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591546?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000523/-一部テレビで「BSテレ東」映らず 信号データ不備が原因か",
@@ -432,15 +504,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591520?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591514?source=rss-出産の山本舞香 ドラマ続編を辞退",
-      "title": "出産の山本舞香 ドラマ続編を辞退",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-12T22:03:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591514?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000472/-悪酔いにチェイサーは効果なし？ 日本酒4合＋水1Lを飲ませ二日酔い調査 大分大などが研究",
       "title": "悪酔いにチェイサーは効果なし？ 日本酒4合＋水1Lを飲ませ二日酔い調査 大分大などが研究",
       "source": "ITmedia NEWS",
@@ -459,15 +522,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000520/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591507?source=rss-Ado23歳 熊本支援で4000万円寄付",
-      "title": "Ado23歳 熊本支援で4000万円寄付",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-12T21:07:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591507?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000518/-Google版“AirTag”こと「Pixel Tag」登場 10億台のAndroidネットワークで居場所を探知",
       "title": "Google版“AirTag”こと「Pixel Tag」登場 10億台のAndroidネットワークで居場所を探知",
       "source": "ITmedia NEWS",
@@ -475,60 +529,6 @@
       "publishedAt": "2026-08-12T14:34:21.000Z",
       "description": "米Googleが紛失防止タグ「Google Pixel Tag」を発表した。鍵や財布に取り付け、10億台超のAndroid端末で構成されるFind Hubのネットワークで位置を探せる。UWBで距離と方向も分かる。日本では単品5010円、4個セット1万6940円で11月に発売する。",
       "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000518/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000517/-Google、折りたたみスマホ「Pixel 11 Pro Fold」発表 10％軽く、1mm薄くしつつ耐久性強化",
-      "title": "Google、折りたたみスマホ「Pixel 11 Pro Fold」発表 10％軽く、1mm薄くしつつ耐久性強化",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-12T14:10:09.000Z",
-      "description": "米Googleは8月12日、折りたたみスマートフォン「Pixel 11 Pro Fold」を国内発表した。前モデルより約10％軽く約1mm薄いが、新しいヒンジとセラミックガラスの採用で3倍の強度を実現したという。Googleストアでの価格は256GBモデルが27万9900円。8月20日に発売する。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000517/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000516/-Google新スマホ「Pixel 11シリーズ」正式発表 「Gemini Intelligence」向けに設計 カメラも強化",
-      "title": "Google新スマホ「Pixel 11シリーズ」正式発表 「Gemini Intelligence」向けに設計 カメラも強化",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-12T14:03:56.000Z",
-      "description": "米Googleは8月12日、「Pixel 11」「Pixel 11 Pro」「Pixel 11 Pro XL」を発表した。新チップ「Google Tensor G6」を搭載し、カメラを刷新。Proには通知を光で知らせる「HiLight」を加えた。中核のAI機能「Gemini Intelligence」が目玉としている。...",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000516/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000500/-GeminiアプリのMAUが10億人を突破 Googleで14番目の大台到達製品に",
-      "title": "GeminiアプリのMAUが10億人を突破 Googleで14番目の大台到達製品に",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-12T09:59:59.000Z",
-      "description": "GoogleのGeminiアプリの月間アクティブユーザー数（MAU）が10億人を突破した。Google検索やWorkspaceなどの組み込み機能を除いたアプリ単体の数字で、同社として14番目の10億ユーザー到達製品となる。競合のChatGPTに続く大台達成で、iOSユーザー数や音声利用の比率なども公開された。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000512/-RIZAP運営のECサイトに不正アクセス カード情報含む個人情報が流出の可能性 サイトは一時閉鎖",
-      "title": "RIZAP運営のECサイトに不正アクセス カード情報含む個人情報が流出の可能性 サイトは一時閉鎖",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-12T09:19:37.000Z",
-      "description": "RIZAPは8月10日、運営するスポーツ・アウトドア用品の通販サイト「APORITOオンラインストア」が不正アクセスを受け、利用者の個人情報とクレジットカード情報が外部へ流出した可能性があると発表した。サイトは5日から閉鎖しており、再開時期は未定。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000512/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000509/-提出した課題の口頭試問が必須に―─デンマーク、AI不正対策で高校課程に新ルール",
-      "title": "提出した課題の口頭試問が必須に―─デンマーク、AI不正対策で高校課程に新ルール",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-12T08:54:02.000Z",
-      "description": "デンマーク教育省は、高校でのAI不正対策として、自宅で作成する試験課題に口頭試問を義務付ける方針を発表した。対象は2年間の高校教育課程「HF」の筆記課題「SSO」。筆記試験中のPC画面監視や、学校管理下での課題作成も促す。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000509/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000510/-「10月以降も継続」 楽天のKDDIローミング終了について三木谷氏がコメント 縮小はカバー済みエリアのみ",
-      "title": "「10月以降も継続」 楽天のKDDIローミング終了について三木谷氏がコメント 縮小はカバー済みエリアのみ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-12T07:52:24.000Z",
-      "description": "楽天グループの三木谷浩史会長兼社長は8月12日、楽天モバイルがKDDIから通信網を借りるローミング契約について「現在も詰めの協議を行っている」と自身のXアカウントで説明した。カバーに時間を要するエリアでは10月以降も継続する一方、十分カバーできているエリアは縮小するという。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000510/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591407?source=rss-Geminiアプリ ユーザー月10億超",
