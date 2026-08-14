@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T04:51:12.298Z",
+  "updatedAt": "2026-08-14T07:37:56.944Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,103 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591687?source=rss-午後も関東は大雨恐れ 厳重警戒を",
-      "title": "午後も関東は大雨恐れ 厳重警戒を",
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591705?source=rss-関東 局地的に非常に激しい雨恐れ",
+      "title": "関東 局地的に非常に激しい雨恐れ",
       "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-08-14T04:40:46.000Z",
+      "publishedAt": "2026-08-14T07:35:06.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591687?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6591705?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591704?source=rss-政府 択捉島巡り露に対抗措置検討",
+      "title": "政府 択捉島巡り露に対抗措置検討",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-14T07:33:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591704?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591699?source=rss-阿蘇中岳 噴火警戒レベル3に",
+      "title": "阿蘇中岳 噴火警戒レベル3に",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-14T07:10:00.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591699?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591697?source=rss-アシックス商事 解散・清算の方針",
+      "title": "アシックス商事 解散・清算の方針",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-14T06:46:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591697?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591695?source=rss-衝撃 ゴルフ安田祐香が初日で-11",
+      "title": "衝撃 ゴルフ安田祐香が初日で-11",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-14T06:32:53.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591695?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/14/2000000546/-「水没した車、自分でエンジンかけないで」「EVはむやみに触らないで」 火災発生のおそれ",
+      "title": "「水没した車、自分でエンジンかけないで」「EVはむやみに触らないで」 火災発生のおそれ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-14T06:19:24.000Z",
+      "description": "「ハイブリッド車、電気自動車の場合は高電圧システムを搭載しているので車両に触らないでください」",
+      "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000546/"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591694?source=rss-折りたたみスマホの発売続々 狙い",
+      "title": "折りたたみスマホの発売続々 狙い",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-14T06:00:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591694?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591691?source=rss-気象庁 令和8年8月千葉豪雨と命名",
+      "title": "気象庁 令和8年8月千葉豪雨と命名",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-14T05:31:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591691?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591690?source=rss-シュワバー トウモロコシ畑へ2HR",
+      "title": "シュワバー トウモロコシ畑へ2HR",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-14T05:17:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591690?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/14/2000000543/-千葉の豪雨、変電所の装置も水に浸かる……東電PG、現場写真を公開",
+      "title": "千葉の豪雨、変電所の装置も水に浸かる……東電PG、現場写真を公開",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-14T05:10:43.000Z",
+      "description": "「ミニクラッド」の下部が水に浸かっている様子がとらられている。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000543/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/14/2000000541/-千葉県の豪雨から一夜 2万軒超で停電続く 千葉市では2260人が避難",
+      "title": "千葉県の豪雨から一夜 2万軒超で停電続く 千葉市では2260人が避難",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-14T04:31:32.000Z",
+      "description": "8月13日の大雨の影響で、千葉県内では14日も大規模な停電が続いている。東京電力パワーグリッドの停電情報によると、14日午後1時時点で、県内では約2万2370軒が停電している。茨城県でも同時点で580軒が停電していという。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000541/"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591685?source=rss-スキージャンプ銅 丸山希が結婚",
@@ -171,15 +261,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000538/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591666?source=rss-千葉市など 約2万5300軒が停電",
-      "title": "千葉市など 約2万5300軒が停電",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-14T00:44:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591666?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591662?source=rss-サマソニ東京 予定通り千葉で開催",
       "title": "サマソニ東京 予定通り千葉で開催",
       "source": "Yahoo!ニュース エンタメ",
@@ -214,15 +295,6 @@
       "publishedAt": "2026-08-13T22:48:12.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591655?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591656?source=rss-非上場株の算定ルール 見直し方針",
-      "title": "非上場株の算定ルール 見直し方針",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-13T22:41:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591656?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/14/2000000536/-豪雨被害の千葉で「通れた道マップ」トヨタが公開 直近3時間の通行実績が分かる",
@@ -270,15 +342,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591650?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591649?source=rss-危険な雨 土砂災害など終日警戒",
-      "title": "危険な雨 土砂災害など終日警戒",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-13T20:29:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591649?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000528/-「収益化のハードルが低いのを知っていますか？」―─ニコニコがXでアピール YouTubeの条件引き上げ受け",
       "title": "「収益化のハードルが低いのを知っていますか？」―─ニコニコがXでアピール YouTubeの条件引き上げ受け",
       "source": "ITmedia NEWS",
@@ -304,15 +367,6 @@
       "publishedAt": "2026-08-13T10:19:30.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591613?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591611?source=rss-藤川監督怒り 森下に2戦連続死球",
-      "title": "藤川監督怒り 森下に2戦連続死球",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-13T10:14:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591611?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000532/-ドコモ・バイクシェア、全エリアでサービス再開 全面停止から9日ぶり",
@@ -376,15 +430,6 @@
       "publishedAt": "2026-08-13T08:47:53.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591602?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591598?source=rss-露大統領の択捉島訪問 高市氏抗議",
-      "title": "露大統領の択捉島訪問 高市氏抗議",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-13T08:28:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591598?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591588?source=rss-一太郎転落 振り返る当時の担当者",
@@ -459,15 +504,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591551?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591547?source=rss-元巨人マイコラス 事実上の戦力外",
-      "title": "元巨人マイコラス 事実上の戦力外",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-13T02:25:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591547?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000523/-一部テレビで「BSテレ東」映らず 信号データ不備が原因か",
       "title": "一部テレビで「BSテレ東」映らず 信号データ不備が原因か",
       "source": "ITmedia NEWS",
@@ -495,15 +531,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000521/"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000514/-個人開発のAIデザインツール「Rikyū」 “幾何学的なデザイン”機能が秀逸と話題に",
-      "title": "個人開発のAIデザインツール「Rikyū」 “幾何学的なデザイン”機能が秀逸と話題に",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-13T01:00:00.000Z",
-      "description": "幾何学的にロゴをデザインできる個人開発のAIサービス「Rikyū」がXで話題だ。生成ロゴや“設計図”風の画像にも注目が集まり、Xでは成果物の投稿が相次いでいる。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000514/"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591522?source=rss-Google「Pixel11」シリーズ発表",
       "title": "Google「Pixel11」シリーズ発表",
       "source": "Yahoo!ニュース IT",
@@ -511,24 +538,6 @@
       "publishedAt": "2026-08-12T23:03:06.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591522?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000472/-悪酔いにチェイサーは効果なし？ 日本酒4合＋水1Lを飲ませ二日酔い調査 大分大などが研究",
-      "title": "悪酔いにチェイサーは効果なし？ 日本酒4合＋水1Lを飲ませ二日酔い調査 大分大などが研究",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-12T22:00:00.000Z",
-      "description": "大分大学や三和酒類株式会社研究所に所属する研究者らが国際学術誌「Frontiers in Pharmacology」で発表した論文「Water intake during drinking does not alleviate hangover symptoms」は、飲酒中に水（チェイサー）を飲んでも二日酔いは緩和され...",
-      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000472/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000520/-SpaceXAI、「Grok 4.6」を発表 総合指標で「GPT-5.6 Sol Max」に並ぶと謳う",
-      "title": "SpaceXAI、「Grok 4.6」を発表 総合指標で「GPT-5.6 Sol Max」に並ぶと謳う",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-12T21:32:01.000Z",
-      "description": "SpaceXAIは、AIモデル「Grok 4.6」を発表した。前世代の「Grok 4.5」をベースに、多数の手順にまたがって作業を続けるエージェント用途と、対話的・視覚的な成果物の作成を強化した。「Cursor」、「Grok Build」、「Grok Bot」、APIで同日提供を始めた。API料金は入力100万トークン...",
-      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000520/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591407?source=rss-Geminiアプリ ユーザー月10億超",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-08-11T05:57:05.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591320?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591293?source=rss-携帯キャリア悩ませるホッピング",
-      "title": "携帯キャリア悩ませるホッピング",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-11T01:10:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591293?source=rss"
     }
   ]
 }
