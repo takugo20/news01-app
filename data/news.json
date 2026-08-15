@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T01:26:45.392Z",
+  "updatedAt": "2026-08-15T03:42:37.316Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,60 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591799?source=rss-ボディビル大会に寺田心 どよめき",
+      "title": "ボディビル大会に寺田心 どよめき",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-15T03:14:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591799?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591791?source=rss-中継 終戦81年の全国戦没者追悼式",
+      "title": "中継 終戦81年の全国戦没者追悼式",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-15T02:40:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591791?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591794?source=rss-ファミ通 紙媒体にこだわる理由",
+      "title": "ファミ通 紙媒体にこだわる理由",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-15T02:20:53.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591794?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591789?source=rss-速報ドジャース 山本由伸が先発",
+      "title": "速報ドジャース 山本由伸が先発",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-15T02:08:01.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591789?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591786?source=rss-速報 敦賀気比vs.智弁和歌山",
+      "title": "速報 敦賀気比vs.智弁和歌山",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-15T02:03:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591786?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591790?source=rss-大橋未歩アナ 不妊治療と流産告白",
+      "title": "大橋未歩アナ 不妊治療と流産告白",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-15T01:39:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591790?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591783?source=rss-村上27号 大谷と並び日本勢トップ",
       "title": "村上27号 大谷と並び日本勢トップ",
@@ -243,15 +297,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000541/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591718?source=rss-八村塁 2年ぶり代表復帰の理由",
-      "title": "八村塁 2年ぶり代表復帰の理由",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-14T09:04:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591718?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591717?source=rss-GPT-5.6 Sol「Ultrafast」発表",
       "title": "GPT-5.6 Sol「Ultrafast」発表",
       "source": "Yahoo!ニュース IT",
@@ -342,15 +387,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591694?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591690?source=rss-シュワバー トウモロコシ畑へ2HR",
-      "title": "シュワバー トウモロコシ畑へ2HR",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-14T05:17:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591690?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/14/2000000543/-千葉の豪雨、変電所の装置も水に浸かる……東電PG、現場写真を公開",
       "title": "千葉の豪雨、変電所の装置も水に浸かる……東電PG、現場写真を公開",
       "source": "ITmedia NEWS",
@@ -358,15 +394,6 @@
       "publishedAt": "2026-08-14T05:10:43.000Z",
       "description": "「ミニクラッド」の下部が水に浸かっている様子がとらられている。",
       "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000543/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591683?source=rss-室外機浸水したら まずは使用中止",
-      "title": "室外機浸水したら まずは使用中止",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-14T04:00:35.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591683?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591682?source=rss-千葉大雨でガス異常 1万戸超停止",
@@ -405,15 +432,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000540/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591679?source=rss-北川景子「夫婦共演」で笑い呼ぶ",
-      "title": "北川景子「夫婦共演」で笑い呼ぶ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-14T03:17:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591679?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591671?source=rss-単独では限界 日米協調介入の内幕",
       "title": "単独では限界 日米協調介入の内幕",
       "source": "Yahoo!ニュース 経済",
@@ -448,15 +466,6 @@
       "publishedAt": "2026-08-14T00:51:06.000Z",
       "description": "Anthropicは、複数のAIエージェントが同じ環境で働くとどうなるかを検証した実験結果を公開した。互いを妨害し合う“縄張り争い”や、示し合わせたような価格カルテル、全員が同じ判断をして資源を食い潰す現象などが確認された。個々のAIを安全にするだけでは防げない問題があると警告している。",
       "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000538/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591662?source=rss-サマソニ東京 予定通り千葉で開催",
-      "title": "サマソニ東京 予定通り千葉で開催",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-14T00:03:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591662?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/14/2000000537/-Instagram、ワードマークを10年ぶりに刷新 筆記体をより太くシンプルに",
@@ -511,15 +520,6 @@
       "publishedAt": "2026-08-13T09:47:38.000Z",
       "description": "8月4日の全面停止から9日ぶりに全エリアで利用可能になった。",
       "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000532/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591610?source=rss-「プチプチ」なぜ原油危機に強い",
-      "title": "「プチプチ」なぜ原油危機に強い",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-13T09:42:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591610?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000526/-サービス終了した「Link！Like！ラブライブ！」開発元が破産 負債103億円超 東京商工リサーチ",
