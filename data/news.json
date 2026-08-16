@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T21:25:00.060Z",
+  "updatedAt": "2026-08-16T01:38:22.295Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,132 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591918?source=rss-速報甲子園 東日大昌平vs.有明",
+      "title": "速報甲子園 東日大昌平vs.有明",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-16T01:33:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591918?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591910?source=rss-新体操団体 ロス五輪へ日本勢1号",
+      "title": "新体操団体 ロス五輪へ日本勢1号",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-16T00:43:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591910?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591906?source=rss-お盆休み最終日 Uターン混雑予想",
+      "title": "お盆休み最終日 Uターン混雑予想",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-16T00:16:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591906?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591902?source=rss-粗悪なモバイル電池 会社の闇追跡",
+      "title": "粗悪なモバイル電池 会社の闇追跡",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-16T00:02:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591902?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591903?source=rss-長州小力 無免許運転を巡り胸中",
+      "title": "長州小力 無免許運転を巡り胸中",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-15T23:55:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591903?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591901?source=rss-MLB初 デビュー戦で3打席連続HR",
+      "title": "MLB初 デビュー戦で3打席連続HR",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-15T23:54:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591901?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591898?source=rss-お盆休み後は熱中症リスク高 警戒",
+      "title": "お盆休み後は熱中症リスク高 警戒",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-15T23:10:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591898?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591897?source=rss-首相の靖国参拝見送り 外交考慮か",
+      "title": "首相の靖国参拝見送り 外交考慮か",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-15T23:06:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591897?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/16/2000000555/-「Claude」の“見えない透かし”、Anthropicが仕組みを説明 「完全な書き直しなら消える」",
+      "title": "「Claude」の“見えない透かし”、Anthropicが仕組みを説明 「完全な書き直しなら消える」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-15T22:58:11.000Z",
+      "description": "Anthropicは、「Claude」が生成するテキストに埋め込む電子透かしの仕組みを公表した。乱数生成に秘密鍵を用いて統計的パターンを残す手法で、品質や速度、料金に影響を与えない。「EU AI Act」への準拠を目的とするが全世界で適用され、コードや短文などでは入りにくいといった限界も明示している。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/16/2000000555/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591894?source=rss-熊本地震 なお3205人が避難所に",
+      "title": "熊本地震 なお3205人が避難所に",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-15T22:42:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591894?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591893?source=rss-ラヴ上等と法務省コラボ なぜ物議",
+      "title": "ラヴ上等と法務省コラボ なぜ物議",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-15T22:42:12.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591893?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591890?source=rss-鈴木彩艶のPSG移籍は破談か 報道",
+      "title": "鈴木彩艶のPSG移籍は破談か 報道",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-15T22:20:53.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591890?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591891?source=rss-J1町田 FW小川航基の獲得に動く",
+      "title": "J1町田 FW小川航基の獲得に動く",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-15T22:20:31.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591891?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/16/2000000552/-「ほの暮しの庭」はホラーが苦手でも大丈夫！ 怖さを上回る物語とスローライフの魅力をマンガ家が力説",
+      "title": "「ほの暮しの庭」はホラーが苦手でも大丈夫！ 怖さを上回る物語とスローライフの魅力をマンガ家が力説",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-15T22:15:00.000Z",
+      "description": "今回紹介するゲーム、実はホラーゲームが苦手な人にこそオススメの一本です。タイトルは「ほの暮しの庭」。「夜廻（よまわり）」シリーズを開発した、日本一ソフトウェアの最新タイトルです。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/16/2000000552/"
+    },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591883?source=rss-米軍AIシステム「メイブン」とは",
       "title": "米軍AIシステム「メイブン」とは",
@@ -72,15 +198,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591877?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591876?source=rss-熊本地震の住家被害 3万棟超え",
-      "title": "熊本地震の住家被害 3万棟超え",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-15T13:28:45.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591876?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591874?source=rss-物価高 具材ない麺商品の投入加速",
       "title": "物価高 具材ない麺商品の投入加速",
       "source": "Yahoo!ニュース 経済",
@@ -90,15 +207,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591874?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591873?source=rss-八村22得点大暴れ 2年ぶり代表戦",
-      "title": "八村22得点大暴れ 2年ぶり代表戦",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-15T12:47:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591873?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591870?source=rss-死球受けた中日・村松 肩甲骨骨折",
       "title": "死球受けた中日・村松 肩甲骨骨折",
       "source": "Yahoo!ニュース スポーツ",
@@ -106,15 +214,6 @@
       "publishedAt": "2026-08-15T12:21:37.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591870?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591867?source=rss-甲子園 仙台育英が3年ぶり8強進出",
-      "title": "甲子園 仙台育英が3年ぶり8強進出",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-15T11:58:41.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591867?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591862?source=rss-100m障害・中島ひとみ また日本新",
@@ -142,15 +241,6 @@
       "publishedAt": "2026-08-15T09:35:52.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591853?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591854?source=rss-陸上100mで珍事 10秒097で同着",
-      "title": "陸上100mで珍事 10秒097で同着",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-15T09:30:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591854?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591850?source=rss-立憲が財政難 頭痛める党執行部",
@@ -198,15 +288,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591831?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591838?source=rss-履正社が涙の敗退 守備ミス目立つ",
-      "title": "履正社が涙の敗退 守備ミス目立つ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-15T07:52:45.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591838?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591836?source=rss-コミケ近くのベローチェ 高速提供",
       "title": "コミケ近くのベローチェ 高速提供",
       "source": "Yahoo!ニュース 経済",
@@ -214,15 +295,6 @@
       "publishedAt": "2026-08-15T07:34:55.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591836?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591830?source=rss-大谷の投手復帰プラン 監督明かす",
-      "title": "大谷の投手復帰プラン 監督明かす",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-15T07:25:36.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591830?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591828?source=rss-戦没者追悼式 式辞に高市カラー",
@@ -250,15 +322,6 @@
       "publishedAt": "2026-08-15T06:33:47.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591824?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591819?source=rss-減税と給付 法案一本化へ政府調整",
-      "title": "減税と給付 法案一本化へ政府調整",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-15T05:56:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591819?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591810?source=rss-車水没 保険適用のためすべきこと",
@@ -297,24 +360,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591799?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591790?source=rss-大橋未歩アナ 不妊治療と流産告白",
-      "title": "大橋未歩アナ 不妊治療と流産告白",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-15T01:39:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591790?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591779?source=rss-自民幹部ら相次ぎ靖国神社を参拝",
-      "title": "自民幹部ら相次ぎ靖国神社を参拝",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-15T00:08:58.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591779?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591773?source=rss-15歳未満SNS禁止に違憲判断 仏",
       "title": "15歳未満SNS禁止に違憲判断 仏",
       "source": "Yahoo!ニュース IT",
@@ -351,24 +396,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591754?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591742?source=rss-ハマ・オカモト OKAMOTO'S脱退",
-      "title": "ハマ・オカモト OKAMOTO'S脱退",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-14T11:20:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591742?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591731?source=rss-高さ日本一 観覧車8カ月以上停止",
-      "title": "高さ日本一 観覧車8カ月以上停止",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-14T10:37:47.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591731?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/14/2000000553/-河川監視のライブカメラ水没か――千葉豪雨、村田川の映像が水中に 「こんなの初めて見た」",
       "title": "河川監視のライブカメラ水没か――千葉豪雨、村田川の映像が水中に 「こんなの初めて見た」",
       "source": "ITmedia NEWS",
@@ -403,15 +430,6 @@
       "publishedAt": "2026-08-14T08:55:54.000Z",
       "description": "集中豪雨や台風による被害は各地で相次いでおり、備えの重要性が増している。防災に使えるアプリやサービスをまとめる。",
       "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000549/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591715?source=rss-初任給100万円の会社 応募1300人",
-      "title": "初任給100万円の会社 応募1300人",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-14T08:44:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591715?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/14/2000000550/-「浸水した家電の使用で火災の恐れ」――経産省が千葉の記録的豪雨で注意喚起",
@@ -556,24 +574,6 @@
       "publishedAt": "2026-08-13T09:07:24.000Z",
       "description": "東京ガス子会社の東京ガスネットワークは8月13日、顧客の個人情報約2万件を保存した業務用PCを社員が紛失したと発表した。社員が同僚らと飲酒した後、電車で帰宅する途中にPCなどが入ったかばんを紛失したという。13日時点で、第三者による不正操作や個人情報の不正利用は確認していないとしている。",
       "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000531/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000530/-LINE、送信後のメッセージを編集可能に 15分以内限定 秋以降は有料化",
-      "title": "LINE、送信後のメッセージを編集可能に 15分以内限定 秋以降は有料化",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-13T06:21:45.000Z",
-      "description": "まず「LINEラボ」で無償提供し、秋以降は有料の「LYPプレミアム」会員向け特典として正式に提供する予定だ。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000530/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/13/2000000519/-「Google Store 表参道」13日オープン AIを使った“お土産作り”から限定グッズまで、店内を詳細レポート",
-      "title": "「Google Store 表参道」13日オープン AIを使った“お土産作り”から限定グッズまで、店内を詳細レポート",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-13T05:28:42.000Z",
-      "description": "米Googleは8月13日午後2時、直営店「Google Store 表参道」を東京・表参道の商業施設「東急プラザ表参道『オモカド』」にオープンする。AI体験スタジオ「Pixel Studio」など3フロアで構成し、製品購入から店頭修理まで対応する。オープンに先立ち店内を取材した。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000519/"
     }
   ]
 }
