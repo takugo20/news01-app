@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T06:46:32.407Z",
+  "updatedAt": "2026-08-16T09:31:01.724Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,78 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591970?source=rss-地震で停電 教室育ちサーモン全滅",
+      "title": "地震で停電 教室育ちサーモン全滅",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-16T09:11:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591970?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591968?source=rss-G小笠原に8秒間の大ブーイング",
+      "title": "G小笠原に8秒間の大ブーイング",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-16T09:00:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591968?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591967?source=rss-衆議院本館の女性トイレ 増設へ",
+      "title": "衆議院本館の女性トイレ 増設へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-16T08:55:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591967?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591965?source=rss-モナキの快進撃 支えた純烈・酒井",
+      "title": "モナキの快進撃 支えた純烈・酒井",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-16T08:22:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591965?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591963?source=rss-横浜が8強進出 霞ケ浦に逆転勝利",
+      "title": "横浜が8強進出 霞ケ浦に逆転勝利",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-16T08:16:29.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591963?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591955?source=rss-西武 ドミニカ出身17歳と育成契約",
+      "title": "西武 ドミニカ出身17歳と育成契約",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-16T07:38:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591955?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591954?source=rss-防空壕で生まれた自民森山氏 思い",
+      "title": "防空壕で生まれた自民森山氏 思い",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-16T07:24:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591954?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591951?source=rss-高専「ネーミングライツ」広がる",
+      "title": "高専「ネーミングライツ」広がる",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-16T06:46:17.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6591951?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591950?source=rss-3試合連続逆転勝ち 有明なぜ強い",
       "title": "3試合連続逆転勝ち 有明なぜ強い",
       "source": "Yahoo!ニュース スポーツ",
@@ -54,15 +126,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591949?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591948?source=rss-速報甲子園 霞ケ浦vs.横浜",
-      "title": "速報甲子園 霞ケ浦vs.横浜",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-16T06:11:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591948?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591947?source=rss-花巻東が3年ぶり8強 英明を破る",
       "title": "花巻東が3年ぶり8強 英明を破る",
       "source": "Yahoo!ニュース スポーツ",
@@ -70,15 +133,6 @@
       "publishedAt": "2026-08-16T05:51:30.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591947?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591946?source=rss-今福和志 1500m自由形で日本新",
-      "title": "今福和志 1500m自由形で日本新",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-16T05:39:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591946?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591944?source=rss-元近鉄の左腕・神部年男さん死去",
@@ -115,15 +169,6 @@
       "publishedAt": "2026-08-16T03:22:01.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591931?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591933?source=rss-有明が一挙4点の逆転劇 快進撃8強",
-      "title": "有明が一挙4点の逆転劇 快進撃8強",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-16T03:19:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591933?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591929?source=rss-プロテイン 価格の高騰止まらず",
@@ -279,24 +324,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591881?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591874?source=rss-物価高 具材ない麺商品の投入加速",
-      "title": "物価高 具材ない麺商品の投入加速",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-15T13:06:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591874?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591858?source=rss-SUVの国内販売競争 激しさ増す",
-      "title": "SUVの国内販売競争 激しさ増す",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-15T10:18:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591858?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591853?source=rss-映画「ズートピア3」制作決定",
       "title": "映画「ズートピア3」制作決定",
       "source": "Yahoo!ニュース エンタメ",
@@ -315,15 +342,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591850?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591847?source=rss-学歴からかう動画 批判した教授",
-      "title": "学歴からかう動画 批判した教授",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-15T08:39:36.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591847?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591831?source=rss-ジュノンボーイ ベスト30に東大生",
       "title": "ジュノンボーイ ベスト30に東大生",
       "source": "Yahoo!ニュース エンタメ",
@@ -333,15 +351,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591831?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591828?source=rss-戦没者追悼式 式辞に高市カラー",
-      "title": "戦没者追悼式 式辞に高市カラー",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-15T07:07:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591828?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591824?source=rss-寺田心 ボディビル大会終え寝たい",
       "title": "寺田心 ボディビル大会終え寝たい",
       "source": "Yahoo!ニュース エンタメ",
@@ -349,15 +358,6 @@
       "publishedAt": "2026-08-15T06:33:47.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591824?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591804?source=rss-「キングダム ハーツ」アニメ化へ",
-      "title": "「キングダム ハーツ」アニメ化へ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-15T03:58:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591804?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591773?source=rss-15歳未満SNS禁止に違憲判断 仏",
