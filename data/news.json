@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T18:34:03.649Z",
+  "updatedAt": "2026-08-16T21:23:53.019Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592007?source=rss-村上宗隆が28号2ラン 快進撃主役",
+      "title": "村上宗隆が28号2ラン 快進撃主役",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-16T21:09:17.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592007?source=rss"
+    },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592006?source=rss-オープンAI 経営幹部が相次ぎ退社",
       "title": "オープンAI 経営幹部が相次ぎ退社",
@@ -205,15 +214,6 @@
       "publishedAt": "2026-08-16T08:22:10.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591965?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6591963?source=rss-横浜が8強進出 霞ケ浦に逆転勝利",
-      "title": "横浜が8強進出 霞ケ浦に逆転勝利",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-16T08:16:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591963?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591954?source=rss-防空壕で生まれた自民森山氏 思い",
