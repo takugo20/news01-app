@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T03:53:01.936Z",
+  "updatedAt": "2026-08-17T07:03:25.215Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,96 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592068?source=rss-元乃木坂46・衛藤美彩が第3子出産",
+      "title": "元乃木坂46・衛藤美彩が第3子出産",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-17T06:27:47.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592068?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592064?source=rss-テンポ良い投球で打線活気? 検証",
+      "title": "テンポ良い投球で打線活気? 検証",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-17T06:20:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592064?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592067?source=rss-ギャル曽根 ご飯「1日24合炊く」",
+      "title": "ギャル曽根 ご飯「1日24合炊く」",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-17T06:14:00.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592067?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/17/2000000566/-両毛システムズ、社内システムに不正アクセス被害",
+      "title": "両毛システムズ、社内システムに不正アクセス被害",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-17T05:26:44.000Z",
+      "description": "情報流出などの影響は「確認中」で、詳細は判明していない。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/17/2000000566/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/17/2000000561/-千葉水害、半数以上が“ハザードマップの浸水エリア外”で起きていた ウェザーニューズ調査より",
+      "title": "千葉水害、半数以上が“ハザードマップの浸水エリア外”で起きていた ウェザーニューズ調査より",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-17T05:24:41.000Z",
+      "description": "ウェザーニューズが千葉県内の約2万件の現地報告を分析したところ、被害報告の55.7％が浸水想定区域や低位地帯の「外」から寄せられていたという。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/17/2000000561/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592062?source=rss-俳優 H・パネッティーアさん死去",
+      "title": "俳優 H・パネッティーアさん死去",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-17T05:11:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592062?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/17/2000000565/-LINE着せかえ“デザイン崩れ”問題、返金フォーム設置 ただ「返金できない場合も」",
+      "title": "LINE着せかえ“デザイン崩れ”問題、返金フォーム設置 ただ「返金できない場合も」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-17T05:07:41.000Z",
+      "description": "「調査の結果、返金できない場合がありますことを予めご了承ください」との注意書きも。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/17/2000000565/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/12/2000000499/-LINE着せかえ「アイコンがデフォルトに戻る」問題、対応完了時期示さず クリエイターズは「審査に時間がかかっている」",
+      "title": "LINE着せかえ「アイコンがデフォルトに戻る」問題、対応完了時期示さず クリエイターズは「審査に時間がかかっている」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-17T05:03:01.000Z",
+      "description": "個人クリエイターなどによる「クリエイターズ着せかえ」は「審査に時間がかかっている」状況という。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000499/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592046?source=rss-「都構想」と「副首都」巡る課題",
+      "title": "「都構想」と「副首都」巡る課題",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-17T04:31:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592046?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592055?source=rss-大竹まこと 前立腺がんを公表",
+      "title": "大竹まこと 前立腺がんを公表",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-17T03:57:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592055?source=rss"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592054?source=rss-歌舞伎俳優・中村種之助が結婚",
       "title": "歌舞伎俳優・中村種之助が結婚",
@@ -79,15 +169,6 @@
       "publishedAt": "2026-08-17T03:01:56.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592051?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592048?source=rss-ちいかわ くりまんじゅう人気背景",
-      "title": "ちいかわ くりまんじゅう人気背景",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-17T02:56:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592048?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592042?source=rss-精神疾患の日本兵に感染人体実験",
@@ -234,15 +315,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592015?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592016?source=rss-剛力彩芽 事務所名イジりに笑顔",
-      "title": "剛力彩芽 事務所名イジりに笑顔",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-16T22:38:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592016?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592013?source=rss-石綿除去に免許制 日本は未導入",
       "title": "石綿除去に免許制 日本は未導入",
       "source": "Yahoo!ニュース 国内",
@@ -250,15 +322,6 @@
       "publishedAt": "2026-08-16T22:29:17.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592013?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592011?source=rss-トミー・ジョン氏死去 MLB発表",
-      "title": "トミー・ジョン氏死去 MLB発表",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-16T21:58:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592011?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592008?source=rss-Cロナウド 今季終了後の引退示唆",
@@ -315,15 +378,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591977?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591971?source=rss-木村多江 結婚は流れに乗った感じ",
-      "title": "木村多江 結婚は流れに乗った感じ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-16T09:35:26.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591971?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591970?source=rss-地震で停電 教室育ちサーモン全滅",
       "title": "地震で停電 教室育ちサーモン全滅",
       "source": "Yahoo!ニュース 経済",
@@ -331,15 +385,6 @@
       "publishedAt": "2026-08-16T09:11:21.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591970?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6591965?source=rss-モナキの快進撃 支えた純烈・酒井",
-      "title": "モナキの快進撃 支えた純烈・酒井",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-16T08:22:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591965?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591954?source=rss-防空壕で生まれた自民森山氏 思い",
@@ -367,15 +412,6 @@
       "publishedAt": "2026-08-16T02:39:24.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591925?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591923?source=rss-飼い犬殺害 裁判官が証言に苦言",
-      "title": "飼い犬殺害 裁判官が証言に苦言",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-16T02:08:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591923?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/16/2000000555/-「Claude」の“見えない透かし”、Anthropicが仕組みを説明 「完全な書き直しなら消える」",
@@ -538,42 +574,6 @@
       "publishedAt": "2026-08-14T01:07:13.000Z",
       "description": "クルマの通行実績を、「最新1時間」「最新3時間」「最新6時間」の3種類を切り替えて表示できる。",
       "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000539/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/14/2000000538/-AIエージェント同士が“縄張り争い”、マルウェアで妨害も Anthropicがマルチエージェント実験の結果を公開",
-      "title": "AIエージェント同士が“縄張り争い”、マルウェアで妨害も Anthropicがマルチエージェント実験の結果を公開",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-14T00:51:06.000Z",
-      "description": "Anthropicは、複数のAIエージェントが同じ環境で働くとどうなるかを検証した実験結果を公開した。互いを妨害し合う“縄張り争い”や、示し合わせたような価格カルテル、全員が同じ判断をして資源を食い潰す現象などが確認された。個々のAIを安全にするだけでは防げない問題があると警告している。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000538/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/14/2000000537/-Instagram、ワードマークを10年ぶりに刷新 筆記体をより太くシンプルに",
-      "title": "Instagram、ワードマークを10年ぶりに刷新 筆記体をより太くシンプルに",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-13T23:03:37.000Z",
-      "description": "Metaは、Instagramのブランドアイデンティティ刷新を発表した。アプリ上部のワードマークを10年ぶりに更新し、より太くシンプルな筆記体を採用する。新フォントとして「Instagram Pen」などを追加し、ブランドシステム全体を更新する。グラデーションは維持し、アプリアイコンの変更はない。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000537/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/14/2000000536/-豪雨被害の千葉で「通れた道マップ」トヨタが公開 直近3時間の通行実績が分かる",
-      "title": "豪雨被害の千葉で「通れた道マップ」トヨタが公開 直近3時間の通行実績が分かる",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-13T22:41:41.000Z",
-      "description": "直近3時間以内に車両が通行できた道路を地図で確認できる。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000536/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/14/2000000535/-トランプ大統領、民間企業によるサイバー攻撃作戦を認める覚書に署名",
-      "title": "トランプ大統領、民間企業によるサイバー攻撃作戦を認める覚書に署名",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-13T22:09:09.000Z",
-      "description": "トランプ米大統領は、審査を通過した米民間企業が連邦政府の指揮監督下で、国外のサイバー犯罪組織に対する攻撃作戦を実施できるようにする大統領覚書に署名した。人命の損失などを招く「重大な結果」を伴う作戦は承認対象外とし、米国人が標的に含まれる活動には事前に必要な承認を得る手続きを求める。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000535/"
     }
   ]
 }
