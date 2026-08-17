@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T12:51:40.703Z",
+  "updatedAt": "2026-08-17T15:28:27.838Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,51 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592119?source=rss-渡辺元智さん死去 松坂大輔氏悼む",
+      "title": "渡辺元智さん死去 松坂大輔氏悼む",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-17T14:32:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592119?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592118?source=rss-熊本地震3週間「関連死」防ぐには",
+      "title": "熊本地震3週間「関連死」防ぐには",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-17T14:19:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592118?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592117?source=rss-豪雨で車が浸水 金銭負担が心配",
+      "title": "豪雨で車が浸水 金銭負担が心配",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-17T13:36:51.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592117?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592113?source=rss-「夜に経済活動」夏暑すぎて注目",
+      "title": "「夜に経済活動」夏暑すぎて注目",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-17T13:27:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592113?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592111?source=rss-永野芽郁が元キャバ嬢役 再起は",
+      "title": "永野芽郁が元キャバ嬢役 再起は",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-17T13:10:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592111?source=rss"
+    },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592107?source=rss-生成AIで標章偽造の疑い 書類送検",
       "title": "生成AIで標章偽造の疑い 書類送検",
@@ -142,15 +187,6 @@
       "publishedAt": "2026-08-17T09:12:15.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592088?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592092?source=rss-横浜高校元監督 渡辺元智さん死去",
-      "title": "横浜高校元監督 渡辺元智さん死去",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-17T09:06:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592092?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592086?source=rss-ゲーム婚した夫婦たち 恋した瞬間",
@@ -288,15 +324,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592046?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592049?source=rss-「カレー焼きそば」再評価 なぜ今",
-      "title": "「カレー焼きそば」再評価 なぜ今",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-17T03:39:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592049?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592050?source=rss-VIVANT考察疲れ「復習視聴」功罪",
       "title": "VIVANT考察疲れ「復習視聴」功罪",
       "source": "Yahoo!ニュース エンタメ",
@@ -313,15 +340,6 @@
       "publishedAt": "2026-08-17T03:13:57.000Z",
       "description": "現時点で583アカウントへの不正ログインが判明しており、一部の顧客情報を含む個人データが閲覧または取得されたおそれがあるという。",
       "url": "https://www.itmedia.co.jp/news/article/2608/17/2000000563/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592051?source=rss-ラヴ上等出演者の発言が物議 解説",
-      "title": "ラヴ上等出演者の発言が物議 解説",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-17T03:01:56.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592051?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592042?source=rss-精神疾患の日本兵に感染人体実験",
@@ -376,24 +394,6 @@
       "publishedAt": "2026-08-17T01:03:00.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592031?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592030?source=rss-キャッシュレス決済 浸透に地域差",
-      "title": "キャッシュレス決済 浸透に地域差",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-17T00:54:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592030?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592027?source=rss-各地で厳しい残暑 熱中症に注意",
-      "title": "各地で厳しい残暑 熱中症に注意",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-17T00:15:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592027?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/17/2000000557/-Hugging Face分析、中国のオープンモデルが台頭 Qwenは派生モデル15万件超",
