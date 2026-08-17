@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T09:47:06.835Z",
+  "updatedAt": "2026-08-17T12:51:40.703Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,94 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592096?source=rss-衛藤美彩が出産 源田「妻に感謝」",
-      "title": "衛藤美彩が出産 源田「妻に感謝」",
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592107?source=rss-生成AIで標章偽造の疑い 書類送検",
+      "title": "生成AIで標章偽造の疑い 書類送検",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-17T12:05:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592107?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592106?source=rss-KEY TO LIT 今冬CDデビュー決定",
+      "title": "KEY TO LIT 今冬CDデビュー決定",
       "source": "Yahoo!ニュース エンタメ",
       "category": "エンタメ",
-      "publishedAt": "2026-08-17T09:38:22.000Z",
+      "publishedAt": "2026-08-17T11:46:40.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592096?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6592106?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592105?source=rss-左手骨折の有明エース 代走出場も",
+      "title": "左手骨折の有明エース 代走出場も",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-17T11:43:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592105?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/17/2000000570/-中国のCGアニメ映画「牛来」、“AI生成よりひどい”と話題で逆にヒット 興収は一気に350倍以上に",
+      "title": "中国のCGアニメ映画「牛来」、“AI生成よりひどい”と話題で逆にヒット 興収は一気に350倍以上に",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-17T11:21:22.000Z",
+      "description": "中国で、CGのクオリティの低さが逆に話題を呼んだ国産アニメ映画「牛来」が異例のヒットとなっている。公開9日間の興行収入は7169元（約17万円）だったが、SNSで拡散した後は累計250万元（約6000万円）を超えたと中国メディアが報じた。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/17/2000000570/"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592103?source=rss-ロケットナウ つまみ食い動画拡散",
+      "title": "ロケットナウ つまみ食い動画拡散",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-17T11:17:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592103?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592102?source=rss-ANAとJAL 互いにダイヤを調整へ",
+      "title": "ANAとJAL 互いにダイヤを調整へ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-17T11:12:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592102?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592093?source=rss-シン・山の神卒業 青学5区候補は",
+      "title": "シン・山の神卒業 青学5区候補は",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-17T11:10:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592093?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592100?source=rss-渡辺元智さん死去 教え子に筒香ら",
+      "title": "渡辺元智さん死去 教え子に筒香ら",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-17T10:50:23.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592100?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592098?source=rss-熊本地震 月内にも支援パッケージ",
+      "title": "熊本地震 月内にも支援パッケージ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-17T10:36:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592098?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592097?source=rss-衛藤美彩&源田壮亮 第3子が誕生",
+      "title": "衛藤美彩&源田壮亮 第3子が誕生",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-17T09:54:00.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592097?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592094?source=rss-仙台育英vs.智弁和歌山 鍵は継投",
@@ -61,15 +142,6 @@
       "publishedAt": "2026-08-17T09:12:15.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592088?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/17/2000000570/-母子2人制作の中国CGアニメ「牛来」、粗削りさが話題で異例のヒット 興収17万円→6000万円超に",
-      "title": "母子2人制作の中国CGアニメ「牛来」、粗削りさが話題で異例のヒット 興収17万円→6000万円超に",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-17T09:07:52.000Z",
-      "description": "中国で、CGのクオリティの低さが逆に話題を呼んだ国産アニメ映画「牛来」が異例のヒットとなっている。公開9日間の興行収入は7169元（約17万円）だったが、SNSで拡散した後は累計250万元（約6000万円）を超えたと中国メディアが報じた。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/17/2000000570/"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592092?source=rss-横浜高校元監督 渡辺元智さん死去",
@@ -216,15 +288,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592046?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592054?source=rss-歌舞伎俳優・中村種之助が結婚",
-      "title": "歌舞伎俳優・中村種之助が結婚",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-17T03:39:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592054?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592049?source=rss-「カレー焼きそば」再評価 なぜ今",
       "title": "「カレー焼きそば」再評価 なぜ今",
       "source": "Yahoo!ニュース 経済",
@@ -279,15 +342,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/17/2000000562/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592043?source=rss-吉田正尚がIL入り 無念の離脱",
-      "title": "吉田正尚がIL入り 無念の離脱",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-17T02:29:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592043?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592038?source=rss-定着するか 稼げるブルーカラー",
       "title": "定着するか 稼げるブルーカラー",
       "source": "Yahoo!ニュース 経済",
@@ -331,15 +385,6 @@
       "publishedAt": "2026-08-17T00:54:18.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592030?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592029?source=rss-大谷悔しさあらわ 好機で痛恨併殺",
-      "title": "大谷悔しさあらわ 好機で痛恨併殺",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-17T00:34:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592029?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592027?source=rss-各地で厳しい残暑 熱中症に注意",
@@ -396,15 +441,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592013?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592008?source=rss-Cロナウド 今季終了後の引退示唆",
-      "title": "Cロナウド 今季終了後の引退示唆",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-16T21:24:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592008?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592006?source=rss-オープンAI 経営幹部が相次ぎ退社",
       "title": "オープンAI 経営幹部が相次ぎ退社",
       "source": "Yahoo!ニュース IT",
@@ -430,24 +466,6 @@
       "publishedAt": "2026-08-16T10:26:05.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591977?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6591970?source=rss-地震で停電 教室育ちサーモン全滅",
-      "title": "地震で停電 教室育ちサーモン全滅",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-16T09:11:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591970?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6591954?source=rss-防空壕で生まれた自民森山氏 思い",
-      "title": "防空壕で生まれた自民森山氏 思い",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-16T07:24:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591954?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/16/2000000555/-「Claude」の“見えない透かし”、Anthropicが仕組みを説明 「完全な書き直しなら消える」",
@@ -493,24 +511,6 @@
       "publishedAt": "2026-08-14T23:37:47.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6591773?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591769?source=rss-ニコニコ動画 有料会員90万人割れ",
-      "title": "ニコニコ動画 有料会員90万人割れ",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-14T23:12:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591769?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6591755?source=rss-スマホ水没・水ぬれ時 NGな行為",
-      "title": "スマホ水没・水ぬれ時 NGな行為",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-14T14:42:27.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6591755?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/14/2000000553/-河川監視のライブカメラ水没か――千葉豪雨、村田川の映像が水中に 「こんなの初めて見た」",
