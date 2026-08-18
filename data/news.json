@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T18:42:54.623Z",
+  "updatedAt": "2026-08-18T21:28:05.131Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592229?source=rss-横浜・江坂のプレー 松坂氏が称賛",
+      "title": "横浜・江坂のプレー 松坂氏が称賛",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-18T21:10:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592229?source=rss"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592228?source=rss-青葉坂46 活動を経て3坂道へ配属",
       "title": "青葉坂46 活動を経て3坂道へ配属",
@@ -196,15 +205,6 @@
       "publishedAt": "2026-08-18T09:17:28.000Z",
       "description": "ドコモ・バイクシェアは8月18日、7月末から続いた大規模システム障害について、原因と再発防止策、返金対応を報告した。新システム移行後の利用集中で処理能力が不足したことが原因といい、対象期間の利用料金は9月末までに返金を終える予定だ。",
       "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000601/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592188?source=rss-大谷の連続弾 背景に打撃の再現性",
-      "title": "大谷の連続弾 背景に打撃の再現性",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-18T09:06:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592188?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/18/2000000600/-生成AIで巧妙化するデマ──熊本地震で露見した「10年前にはなかった新たな手法」 識者に聞く",
