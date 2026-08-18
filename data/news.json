@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T12:53:49.149Z",
+  "updatedAt": "2026-08-18T15:35:15.568Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,60 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592228?source=rss-青葉坂46 活動を経て3坂道へ配属",
+      "title": "青葉坂46 活動を経て3坂道へ配属",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-18T14:28:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592228?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592225?source=rss-「踊る」新作スピンオフ配信決定",
+      "title": "「踊る」新作スピンオフ配信決定",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-18T13:57:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592225?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592224?source=rss-米産ジャガイモ輸入巡り 農家懸念",
+      "title": "米産ジャガイモ輸入巡り 農家懸念",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-18T13:49:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592224?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592222?source=rss-横浜・織田翔希 156キロ7度の衝撃",
+      "title": "横浜・織田翔希 156キロ7度の衝撃",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-18T13:22:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592222?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592221?source=rss-地震倒壊 工場煙突を国が全国調査",
+      "title": "地震倒壊 工場煙突を国が全国調査",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-18T13:19:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592221?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592220?source=rss-青葉坂46設立 1年限定で活動へ",
+      "title": "青葉坂46設立 1年限定で活動へ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-18T12:55:17.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592220?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592219?source=rss-山本耕史 バスローブ姿で取材会",
       "title": "山本耕史 バスローブ姿で取材会",
       "source": "Yahoo!ニュース エンタメ",
@@ -43,15 +97,6 @@
       "publishedAt": "2026-08-18T12:51:51.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592219?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592217?source=rss-新坂道G「青葉坂46」設立を発表",
-      "title": "新坂道G「青葉坂46」設立を発表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-18T12:45:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592217?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592215?source=rss-通販生活が楽天市場から撤退",
@@ -79,15 +124,6 @@
       "publishedAt": "2026-08-18T12:06:04.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592213?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592212?source=rss-都築の冠ラジオ 代役立て放送へ",
-      "title": "都築の冠ラジオ 代役立て放送へ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-18T11:52:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592212?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592197?source=rss-LINEクレジット 都が業務改善命令",
@@ -142,15 +178,6 @@
       "publishedAt": "2026-08-18T10:14:09.000Z",
       "description": "LINE Creditは8月18日、個人向けローンサービス「LINEポケットマネー」を巡り、東京都から業務改善命令の行政処分を受けたと発表した。システムの不備により、収入証明書類の確認漏れや過剰貸付けなど、貸金業法に違反する契約を一部の顧客と結んでいた。",
       "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000603/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592201?source=rss-日本で走る ベトナム人運転手の今",
-      "title": "日本で走る ベトナム人運転手の今",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-18T09:51:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592201?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592198?source=rss-漫画ヤニねこ全巻重版 編集長驚き",
@@ -468,15 +495,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592131?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592130?source=rss-パドレスの売却 MLBが承認",
-      "title": "パドレスの売却 MLBが承認",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-17T23:11:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592130?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592128?source=rss-八村塁 富山でバスケ人生終えたい",
       "title": "八村塁 富山でバスケ人生終えたい",
       "source": "Yahoo!ニュース スポーツ",
@@ -493,15 +511,6 @@
       "publishedAt": "2026-08-17T22:39:58.000Z",
       "description": "YouTubeは、動画の公開再生回数を再生開始時（最初の1フレーム）から1回とカウントする新方式へ移行すると発表した。長尺動画やライブ配信もショート動画と同様の基準に統一される。公開表示の数字は増加傾向になるが、広告収益やパートナープログラムの判定基準であるエンゲージビューには影響しない。",
       "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000573/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592126?source=rss-高橋光臣がつんく役 24時間テレビ",
-      "title": "高橋光臣がつんく役 24時間テレビ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-17T22:22:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592126?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592118?source=rss-熊本地震3週間「関連死」防ぐには",
@@ -556,15 +565,6 @@
       "publishedAt": "2026-08-17T08:09:33.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592078?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592074?source=rss-コロンビア地震 日本が物資供与へ",
-      "title": "コロンビア地震 日本が物資供与へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-17T07:26:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592074?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592006?source=rss-オープンAI 経営幹部が相次ぎ退社",
