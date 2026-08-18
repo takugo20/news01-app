@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T03:48:24.541Z",
+  "updatedAt": "2026-08-18T06:50:42.143Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,103 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592164?source=rss-速報甲子園 仙台育英vs智弁和歌山",
-      "title": "速報甲子園 仙台育英vs智弁和歌山",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592176?source=rss-速報甲子園 横浜が花巻東をリード",
+      "title": "速報甲子園 横浜が花巻東をリード",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-08-18T03:38:58.000Z",
+      "publishedAt": "2026-08-18T06:38:03.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592164?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6592176?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592175?source=rss-森高千里 熊本県に2000万円寄付",
+      "title": "森高千里 熊本県に2000万円寄付",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-18T06:24:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592175?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/18/2000000594/-パイオニアのカーナビアプリ「COCCHi」終了へ 開始から約3年、累計150万ダウンロード",
+      "title": "パイオニアのカーナビアプリ「COCCHi」終了へ 開始から約3年、累計150万ダウンロード",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-18T06:21:23.000Z",
+      "description": "累計ダウンロード数は150万を突破したが、開始から約3年で終了することになる。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000594/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/18/2000000593/-エアコン「2027年問題」にらみ、中国勢が価格攻勢 8万円切る水準、日本勢も対応急ぐ",
+      "title": "エアコン「2027年問題」にらみ、中国勢が価格攻勢 8万円切る水準、日本勢も対応急ぐ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-18T06:03:19.000Z",
+      "description": "来年4月から家庭用エアコンの省エネ基準が厳しくなり、価格アップなどが予想される「エアコン2027年問題」をにらみ、中国メーカーが日本市場に安価な製品で攻勢を強めている。新基準を満たす6畳用の機種では、TCLが8万円を切る水準で投入し、国内メーカーの標準機より数万円安い。猛暑で生活必需品となったエアコン市場でシェア拡大を...",
+      "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000593/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/18/2000000591/-一部テレビで「BSテレ東」など映らなかった問題、NHKが謝罪 信号データに古いチャンネル情報混入",
+      "title": "一部テレビで「BSテレ東」など映らなかった問題、NHKが謝罪 信号データに古いチャンネル情報混入",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-18T05:53:54.000Z",
+      "description": "Sデジタルでは、他局も含めたチャンネル情報の信号データを放送波で送っている。その中に古いチャンネル情報が含まれていたため、一部機種の受信機で、対象のBSチャンネルが正常に選局できなくなったという。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000591/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592171?source=rss-四千頭身・都築メンバー 謹慎処分",
+      "title": "四千頭身・都築メンバー 謹慎処分",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-18T05:36:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592171?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592173?source=rss-フィットネス倒産 会員のリスクは",
+      "title": "フィットネス倒産 会員のリスクは",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-18T05:31:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592173?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/18/2000000590/-新顔相次ぐ小型電動モビリティー 優れた環境性能、免許返納した高齢者の「次の足」に注目",
+      "title": "新顔相次ぐ小型電動モビリティー 優れた環境性能、免許返納した高齢者の「次の足」に注目",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-18T05:29:55.000Z",
+      "description": "優れた環境性能や利便性、低コストに加え、免許返納者の「次の足」といった特徴を打ち出す「小型電動モビリティー」の新商品が相次ぎ登場している。「クルマほど大きすぎず、バイクより安全」な、都市の移動手段として注目される。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000590/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/18/2000000589/-2.5次元アイドル「いれいす」事務所のBIツールに不正アクセス ファンの氏名・電話番号や“推し”情報漏えい",
+      "title": "2.5次元アイドル「いれいす」事務所のBIツールに不正アクセス ファンの氏名・電話番号や“推し”情報漏えい",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-18T05:19:55.000Z",
+      "description": "漏えいした情報は、氏名・住所・電話番号・メールアドレス・生年月日・性別の基本情報に加え、購入日時や商品名などの購買履歴、決済金額記録、サービス加入状況、応援対象タレントの選択情報。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000589/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592168?source=rss-智弁和歌山が4強 18安打11得点",
+      "title": "智弁和歌山が4強 18安打11得点",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-18T04:43:26.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592168?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/18/2000000587/-災害便乗の“〇〇Pay詐欺”に注意喚起 最初は多めに返金→信用したら10万円被害 国民生活センター",
+      "title": "災害便乗の“〇〇Pay詐欺”に注意喚起 最初は多めに返金→信用したら10万円被害 国民生活センター",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-18T04:01:18.000Z",
+      "description": "国民生活センターは8月17日、「令和8年熊本地震」に便乗し、SNSのダイレクトメッセージ（DM）からコード決済による詐欺に誘導する手口について注意を呼び掛けた。「〇〇Payで返金します」と言われたら詐欺を疑うよう求めている。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000587/"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592148?source=rss-「佐藤輝明シフト」ルールの現状",
@@ -90,15 +180,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592150?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592152?source=rss-ジム倒産「料金前払い」リスクは",
-      "title": "ジム倒産「料金前払い」リスクは",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-18T02:40:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592152?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592154?source=rss-AI事業者向け政府知財保護案 判明",
       "title": "AI事業者向け政府知財保護案 判明",
       "source": "Yahoo!ニュース IT",
@@ -124,15 +205,6 @@
       "publishedAt": "2026-08-18T01:53:19.000Z",
       "description": "小泉進次郎防衛大臣が配信するポッドキャスト番組に、自衛隊の現場から意見や要望が多数寄せられているという。小泉氏が8月16日にXに投稿し、話題になっている。",
       "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000581/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592143?source=rss-甲子園 天理が三重を破り4強入り",
-      "title": "甲子園 天理が三重を破り4強入り",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-18T01:16:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592143?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592140?source=rss-「NISA貧乏」なぜ生まれる",
@@ -450,24 +522,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/17/2000000565/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592050?source=rss-VIVANT考察疲れ「復習視聴」功罪",
-      "title": "VIVANT考察疲れ「復習視聴」功罪",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-17T03:35:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592050?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/17/2000000563/-「さくらのレンタルサーバ」に不正アクセス 583アカウントが不正ログイン被害、個人データなど漏えいのおそれ",
-      "title": "「さくらのレンタルサーバ」に不正アクセス 583アカウントが不正ログイン被害、個人データなど漏えいのおそれ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-17T03:13:57.000Z",
-      "description": "現時点で583アカウントへの不正ログインが判明しており、一部の顧客情報を含む個人データが閲覧または取得されたおそれがあるという。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/17/2000000563/"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592042?source=rss-精神疾患の日本兵に感染人体実験",
       "title": "精神疾患の日本兵に感染人体実験",
       "source": "Yahoo!ニュース 国内",
@@ -475,15 +529,6 @@
       "publishedAt": "2026-08-17T02:52:38.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592042?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/17/2000000562/-Ankerのスピーカーでまた発火事故 過去にも5回の火災で回収・交換中 消費者庁「直ちに使用中止を」",
-      "title": "Ankerのスピーカーでまた発火事故 過去にも5回の火災で回収・交換中 消費者庁「直ちに使用中止を」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-17T02:40:09.000Z",
-      "description": "消費者庁は8月14日、Anker製の充電式スピーカー「Soundcore 3」による発火事故が起きたと発表した。この製品はリコールの対象で、回収率は43.7％にとどまっている。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/17/2000000562/"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592038?source=rss-定着するか 稼げるブルーカラー",
@@ -495,15 +540,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592038?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/17/2000000559/-スマートリングは日本でブレイクするか 高精度な睡眠モニターと分析の「Ultrahuman Ring AIR」を試す",
-      "title": "スマートリングは日本でブレイクするか 高精度な睡眠モニターと分析の「Ultrahuman Ring AIR」を試す",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-17T02:17:32.000Z",
-      "description": "今回はUltrahuman Ring AIRの使用体験を基に、スマートリングの市場性について考えてみたい。日本の睡眠市場の規模は拡大しており、事業者にとってはかなりのブルーオーシャンに見えているはずだ。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/17/2000000559/"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592041?source=rss-長期金利が上昇 約30年ぶり高水準",
       "title": "長期金利が上昇 約30年ぶり高水準",
       "source": "Yahoo!ニュース 経済",
@@ -511,33 +547,6 @@
       "publishedAt": "2026-08-17T02:16:48.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592041?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/17/2000000557/-Hugging Face分析、中国のオープンモデルが台頭 Qwenは派生モデル15万件超",
-      "title": "Hugging Face分析、中国のオープンモデルが台頭 Qwenは派生モデル15万件超",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-16T23:42:45.000Z",
-      "description": "Hugging Faceは、オープンモデル動向をまとめたレポートを公開した。中国勢が2兆パラメータ超の大規模モデルを相次いで公開するなど台頭する一方、実際のダウンロードの8割以上は10億パラメータ未満の小型モデルが占めた。Alibabaの「Qwen」は派生モデル数でMetaを上回り、開発者コミュニティの事実上の基盤モデ...",
-      "url": "https://www.itmedia.co.jp/news/article/2608/17/2000000557/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/17/2000000556/-「うんこミュージアム」公式サイト改ざん被害、個人情報4人分流出のおそれ",
-      "title": "「うんこミュージアム」公式サイト改ざん被害、個人情報4人分流出のおそれ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-16T23:40:29.000Z",
-      "description": "第三者製ソフトウェアの脆弱性を悪用した攻撃を受けたことが原因という。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/17/2000000556/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592022?source=rss-永野芽郁 元キャバ嬢役で主演",
-      "title": "永野芽郁 元キャバ嬢役で主演",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-16T23:34:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592022?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592015?source=rss-介護保険証とマイナ 一体化を促進",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-08-16T15:00:50.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592006?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/16/2000000555/-「Claude」の“見えない透かし”、Anthropicが仕組みを説明 「完全な書き直しなら消える」",
-      "title": "「Claude」の“見えない透かし”、Anthropicが仕組みを説明 「完全な書き直しなら消える」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-15T22:58:11.000Z",
-      "description": "Anthropicは、「Claude」が生成するテキストに埋め込む電子透かしの仕組みを公表した。乱数生成に秘密鍵を用いて統計的パターンを残す手法で、品質や速度、料金に影響を与えない。「EU AI Act」への準拠を目的とするが全世界で適用され、コードや短文などでは入りにくいといった限界も明示している。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/16/2000000555/"
     }
   ]
 }
