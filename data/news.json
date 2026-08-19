@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T09:38:03.031Z",
+  "updatedAt": "2026-08-19T12:54:45.726Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,123 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592335?source=rss-JR九州被害額16年地震上回る恐れ",
+      "title": "JR九州被害額16年地震上回る恐れ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-19T12:49:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592335?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592333?source=rss-四千頭身 後藤と石橋ラジオで謝罪",
+      "title": "四千頭身 後藤と石橋ラジオで謝罪",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-19T12:39:51.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592333?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592331?source=rss-伊達公子氏 錦織は夢を現実にした",
+      "title": "伊達公子氏 錦織は夢を現実にした",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-19T12:38:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592331?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592330?source=rss-カズ59歳 天皇杯1回戦で2ゴール",
+      "title": "カズ59歳 天皇杯1回戦で2ゴール",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-19T12:14:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592330?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592328?source=rss-中道落選者ら 政治団体ゴリラ設立",
+      "title": "中道落選者ら 政治団体ゴリラ設立",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-19T11:59:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592328?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592329?source=rss-F1角田裕毅 オランダGP緊急参戦",
+      "title": "F1角田裕毅 オランダGP緊急参戦",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-19T11:53:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592329?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592325?source=rss-VIVANT物議の「空爆シーン」考察",
+      "title": "VIVANT物議の「空爆シーン」考察",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-19T11:36:23.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592325?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592313?source=rss-大谷「6年連続30本」他の達成者は",
+      "title": "大谷「6年連続30本」他の達成者は",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-19T11:24:17.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592313?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592324?source=rss-呪怨2作品出演 トシオくん役の今",
+      "title": "呪怨2作品出演 トシオくん役の今",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-19T11:22:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592324?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/19/2000000632/-生成AI画像で“架空の女性”に成り済まして政治投稿か 立憲栃木県連の男性党員 一部報道",
+      "title": "生成AI画像で“架空の女性”に成り済まして政治投稿か 立憲栃木県連の男性党員 一部報道",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-19T11:21:49.000Z",
+      "description": "立憲民主党栃木県連に党員登録している男性が、架空の女性に成り済ましてXで選挙や政治活動について投稿していたことが8月19日までに分かった。女性の画像は生成AIで作成したとみられ、アカウントは既に凍結されている。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000632/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592326?source=rss-サマソニでも浮上「熱唱客問題」",
+      "title": "サマソニでも浮上「熱唱客問題」",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-19T11:18:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592326?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592323?source=rss-20日 日本海側で激しい雨に注意",
+      "title": "20日 日本海側で激しい雨に注意",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-19T10:25:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592323?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592318?source=rss-ICC赤根所長に制裁 首相「残念」",
+      "title": "ICC赤根所長に制裁 首相「残念」",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-19T09:41:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592318?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592317?source=rss-訪日客 7月として過去最多344万人",
       "title": "訪日客 7月として過去最多344万人",
@@ -108,15 +225,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000628/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592299?source=rss-横綱・豊昇龍 右膝の手術を明かす",
-      "title": "横綱・豊昇龍 右膝の手術を明かす",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-19T07:50:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592299?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592300?source=rss-脊髄梗塞公表 元中日の石川翔退院",
       "title": "脊髄梗塞公表 元中日の石川翔退院",
       "source": "Yahoo!ニュース スポーツ",
@@ -133,15 +241,6 @@
       "publishedAt": "2026-08-19T07:34:49.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592298?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592296?source=rss-ICC所長へ米制裁 外務省「残念」",
-      "title": "ICC所長へ米制裁 外務省「残念」",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-19T07:28:58.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592296?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592295?source=rss-東証続落 中東混乱の景気減速懸念",
@@ -178,15 +277,6 @@
       "publishedAt": "2026-08-19T06:35:20.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592288?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592287?source=rss-吉田正尚は残り全休か 重度肉離れ",
-      "title": "吉田正尚は残り全休か 重度肉離れ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-19T06:20:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592287?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592286?source=rss-ジョニデ 新作カリビアンで交渉中",
@@ -279,15 +369,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592270?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592271?source=rss-池田直人 佐藤アナとの新婚生活",
-      "title": "池田直人 佐藤アナとの新婚生活",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-19T03:30:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592271?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592272?source=rss-俳優・岸恵子さん死去",
       "title": "俳優・岸恵子さん死去",
       "source": "Yahoo!ニュース エンタメ",
@@ -313,33 +394,6 @@
       "publishedAt": "2026-08-19T03:08:15.000Z",
       "description": "ブックオフとファミリーマートは8月19日、宅配買取の荷物を全国のファミリーマート店舗から発送できる新サービスを25日に始めると発表した。本やCDのほか、家電やスマートフォンも売れる。",
       "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000616/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592268?source=rss-村上宗隆 ビジョン直撃の豪快29号",
-      "title": "村上宗隆 ビジョン直撃の豪快29号",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-19T02:59:36.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592268?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592266?source=rss-熊本など38℃前後予想 熱中症注意",
-      "title": "熊本など38℃前後予想 熱中症注意",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-19T02:52:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592266?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592264?source=rss-日立 日立建機の全株式売却へ",
-      "title": "日立 日立建機の全株式売却へ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-19T02:42:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592264?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592265?source=rss-従業員逮捕 竹中工務店がコメント",
@@ -378,15 +432,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592257?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592255?source=rss-岡本和真 球団の新人最多HR記録",
-      "title": "岡本和真 球団の新人最多HR記録",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-19T01:21:58.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592255?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/19/2000000609/-ヤマハ発動機系、保育園向け「電動アシストお散歩カー」開発 保育士「従来の10％の力で動かせた」",
       "title": "ヤマハ発動機系、保育園向け「電動アシストお散歩カー」開発 保育士「従来の10％の力で動かせた」",
       "source": "ITmedia NEWS",
@@ -423,15 +468,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000607/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592248?source=rss-石原さとみ 新ドラマで女ルパン役",
-      "title": "石原さとみ 新ドラマで女ルパン役",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-19T00:16:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592248?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592242?source=rss-OpenAIの2人語る 注目の職種FDE",
       "title": "OpenAIの2人語る 注目の職種FDE",
       "source": "Yahoo!ニュース IT",
@@ -459,15 +495,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000606/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592236?source=rss-都築拓紀の謹慎 四千頭身どうなる",
-      "title": "都築拓紀の謹慎 四千頭身どうなる",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-18T22:51:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592236?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/19/2000000605/-OpenAI、フロンティアAIの強化学習を一部停止 安全対策を強化",
       "title": "OpenAI、フロンティアAIの強化学習を一部停止 安全対策を強化",
       "source": "ITmedia NEWS",
@@ -486,24 +513,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000588/"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/19/2000000583/-「害悪すぎる」「バカ迷惑」──嫌われまくる“AI営業電話”、今すぐ取れる自衛策は",
-      "title": "「害悪すぎる」「バカ迷惑」──嫌われまくる“AI営業電話”、今すぐ取れる自衛策は",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-18T22:00:00.000Z",
-      "description": "AI営業電話に迷惑を被ったという声が少なくない。SNSでは迷惑がる声も……。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000583/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592225?source=rss-「踊る」新作スピンオフ配信決定",
-      "title": "「踊る」新作スピンオフ配信決定",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-18T13:57:24.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592225?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592214?source=rss-豪雨で水没「車両保険」の重要性",
       "title": "豪雨で水没「車両保険」の重要性",
       "source": "Yahoo!ニュース 国内",
@@ -511,15 +520,6 @@
       "publishedAt": "2026-08-18T12:11:32.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592214?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592210?source=rss-陸自の個人情報収集 昨年公益通報",
-      "title": "陸自の個人情報収集 昨年公益通報",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-18T11:22:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592210?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592150?source=rss-電子書籍や動画「購入」巡る課題",
