@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T12:54:45.726Z",
+  "updatedAt": "2026-08-19T15:35:23.343Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,60 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592346?source=rss-8強の有明が熊本帰郷 市民ら歓声",
+      "title": "8強の有明が熊本帰郷 市民ら歓声",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-19T14:50:47.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592346?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592344?source=rss-日ハム 6点差逆転でサヨナラ勝ち",
+      "title": "日ハム 6点差逆転でサヨナラ勝ち",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-19T14:29:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592344?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592342?source=rss-東野圭吾さん遺作 相次ぐ重版",
+      "title": "東野圭吾さん遺作 相次ぐ重版",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-19T14:13:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592342?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592340?source=rss-ロッキン千葉市と県に1千万円寄付",
+      "title": "ロッキン千葉市と県に1千万円寄付",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-19T13:20:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592340?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592339?source=rss-ガチ中華競争激化 レーン回る店も",
+      "title": "ガチ中華競争激化 レーン回る店も",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-19T13:13:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592339?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592337?source=rss-四千頭身・後藤 解散はありません",
+      "title": "四千頭身・後藤 解散はありません",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-19T12:56:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592337?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592335?source=rss-JR九州被害額16年地震上回る恐れ",
       "title": "JR九州被害額16年地震上回る恐れ",
       "source": "Yahoo!ニュース 経済",
@@ -43,15 +97,6 @@
       "publishedAt": "2026-08-19T12:49:21.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592335?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592333?source=rss-四千頭身 後藤と石橋ラジオで謝罪",
-      "title": "四千頭身 後藤と石橋ラジオで謝罪",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-19T12:39:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592333?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592331?source=rss-伊達公子氏 錦織は夢を現実にした",
@@ -207,15 +252,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000630/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592302?source=rss-ココリコ2人 コンビ名由来を回顧",
-      "title": "ココリコ2人 コンビ名由来を回顧",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-19T08:05:47.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592302?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/19/2000000628/-CHARGESPOTのバッテリー、川に大量投棄か SNSで動画拡散 「警察と連携して回収・調査」",
       "title": "CHARGESPOTのバッテリー、川に大量投棄か SNSで動画拡散 「警察と連携して回収・調査」",
       "source": "ITmedia NEWS",
@@ -223,24 +259,6 @@
       "publishedAt": "2026-08-19T08:01:51.000Z",
       "description": "「警察や関係各所と連携し、現場の確認・回収対応と事実関係の調査を進めている」",
       "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000628/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592300?source=rss-脊髄梗塞公表 元中日の石川翔退院",
-      "title": "脊髄梗塞公表 元中日の石川翔退院",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-19T07:46:35.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592300?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592298?source=rss-元西武・平井克典 今季限りで引退",
-      "title": "元西武・平井克典 今季限りで引退",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-19T07:34:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592298?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592295?source=rss-東証続落 中東混乱の景気減速懸念",
@@ -295,24 +313,6 @@
       "publishedAt": "2026-08-19T05:57:14.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592285?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592284?source=rss-フードデリバリー「menu」終了へ",
-      "title": "フードデリバリー「menu」終了へ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-19T05:42:13.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592284?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592281?source=rss-岸恵子さん死去 真知子巻き大流行",
-      "title": "岸恵子さん死去 真知子巻き大流行",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-19T05:16:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592281?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/19/2000000621/-AIを活用した特殊詐欺対策、官民から募集 警察庁×GENIAC、懸賞金総額5000万円",
