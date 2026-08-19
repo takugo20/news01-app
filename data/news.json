@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T03:49:47.053Z",
+  "updatedAt": "2026-08-19T06:51:03.158Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,121 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592274?source=rss-洋麺屋五右衛門の出店加速 なぜ",
-      "title": "洋麺屋五右衛門の出店加速 なぜ",
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592288?source=rss-トロ安くなる? マグロ漁獲枠拡大",
+      "title": "トロ安くなる? マグロ漁獲枠拡大",
       "source": "Yahoo!ニュース 経済",
       "category": "経済",
-      "publishedAt": "2026-08-19T03:44:58.000Z",
+      "publishedAt": "2026-08-19T06:35:20.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592274?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6592288?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592287?source=rss-吉田正尚は残り全休か 重度肉離れ",
+      "title": "吉田正尚は残り全休か 重度肉離れ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-19T06:20:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592287?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592286?source=rss-ジョニデ 新作カリビアンで交渉中",
+      "title": "ジョニデ 新作カリビアンで交渉中",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-19T06:17:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592286?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592285?source=rss-転売目的で大量購入 悪性bot実態",
+      "title": "転売目的で大量購入 悪性bot実態",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-19T05:57:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592285?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592284?source=rss-フードデリバリー「menu」終了へ",
+      "title": "フードデリバリー「menu」終了へ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-19T05:42:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592284?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592281?source=rss-岸恵子さん死去 真知子巻き大流行",
+      "title": "岸恵子さん死去 真知子巻き大流行",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-19T05:16:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592281?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/19/2000000621/-AIを活用した特殊詐欺対策、官民から募集 警察庁×GENIAC、懸賞金総額5000万円",
+      "title": "AIを活用した特殊詐欺対策、官民から募集 警察庁×GENIAC、懸賞金総額5000万円",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-19T05:13:13.000Z",
+      "description": "金融機関、通信事業者、SNS事業者、警察、税務署などからの応募を想定して",
+      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000621/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/19/2000000620/-フードデリバリー「menu」終了へ 「持続的なサービス提供が困難」 9月末まで",
+      "title": "フードデリバリー「menu」終了へ 「持続的なサービス提供が困難」 9月末まで",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-19T04:57:32.000Z",
+      "description": "menu社（東京都新宿区）は8月19日、フードデリバリー・テイクアウトサービス「menu」の提供を9月30日に終了すると発表した。親会社のKDDIは同日、サービス終了後にmenu社を解散・清算すると明らかにした。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000620/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592279?source=rss-報知器鳴り藤井王位避難 対局遅れ",
+      "title": "報知器鳴り藤井王位避難 対局遅れ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-19T04:39:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592279?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592278?source=rss-洋麺屋五右衛門 出店ラッシュの訳",
+      "title": "洋麺屋五右衛門 出店ラッシュの訳",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-19T04:17:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592278?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/19/2000000618/-「Adobe半額」ヨドバシ、ビックカメラなどで Proプラン12カ月版は5万1480円に",
+      "title": "「Adobe半額」ヨドバシ、ビックカメラなどで Proプラン12カ月版は5万1480円に",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-19T04:09:57.000Z",
+      "description": "ヨドバシカメラやビックカメラ、エディオン、Joshinにて、Adobe製品を正規価格の半額で販売する期間限定セールを実施している。Amazonでも同様のセールを実施していたが、売り切れている。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000618/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592277?source=rss-必要な便器数の算出基準 見直しへ",
+      "title": "必要な便器数の算出基準 見直しへ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-19T04:03:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592277?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592275?source=rss-自転車ヘルメット 大人向けに動き",
+      "title": "自転車ヘルメット 大人向けに動き",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-19T03:59:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592275?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592270?source=rss-超党派議員団が訪中へ 中国側招待",
@@ -153,24 +261,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000613/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592258?source=rss-アニメ制作市場 ピークアウトか",
-      "title": "アニメ制作市場 ピークアウトか",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-19T02:02:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592258?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592256?source=rss-すしやコナン 空港の愛称の効果は",
-      "title": "すしやコナン 空港の愛称の効果は",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-19T01:45:03.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592256?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592257?source=rss-大谷30号 6年連続大台到達の偉業",
       "title": "大谷30号 6年連続大台到達の偉業",
       "source": "Yahoo!ニュース スポーツ",
@@ -198,15 +288,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000609/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592253?source=rss-東海汽船 新年会で飲酒後に勤務か",
-      "title": "東海汽船 新年会で飲酒後に勤務か",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-19T01:07:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592253?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/19/2000000598/-コードが書けない筆者が愛車用にアプリを2本自作 「AI製アプリで起業」の夢膨らむも、見えた有料化の壁",
       "title": "コードが書けない筆者が愛車用にアプリを2本自作 「AI製アプリで起業」の夢膨らむも、見えた有料化の壁",
       "source": "ITmedia NEWS",
@@ -223,15 +304,6 @@
       "publishedAt": "2026-08-19T00:59:58.000Z",
       "description": "Appleは、EU域内のアプリ配信条件を刷新すると発表した。インストールごとに課していたCTFを廃止し、デジタル取引に5％を課すCTCへ移行する。決済方法に応じた手数料体系を整理し、IAPと代替決済の併用も認める。欧州委員会は変更を歓迎する一方、Epic Gamesは依然としてDMA違反だと反発している。",
       "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000608/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592251?source=rss-青葉坂46 募集直後から応募殺到",
-      "title": "青葉坂46 募集直後から応募殺到",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-19T00:59:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592251?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/19/2000000607/-楽天、“攻撃型ドローン”報道で問い合わせフォーム設置 ただし「返信はしない」",
@@ -450,60 +522,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000599/"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/18/2000000596/-通販生活が楽天市場から撤退 迎撃ドローン関連の報道受け「企業理念に反する」",
-      "title": "通販生活が楽天市場から撤退 迎撃ドローン関連の報道受け「企業理念に反する」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-18T07:52:05.000Z",
-      "description": "通信販売カタログ「通販生活」を手掛けるカタログハウスが、楽天グループのECモール「楽天市場」への出店を取りやめたと発表した。楽天グループが迎撃用ドローンを手掛ける独Helsingと提携するとの報道を受け、「企業理念に抵触する」（カタログハウス）として撤退に至った。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000596/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592181?source=rss-広島・小園「無期限」2軍再調整",
-      "title": "広島・小園「無期限」2軍再調整",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-18T07:33:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592181?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592180?source=rss-玉木氏 北方領土巡る政府対応批判",
-      "title": "玉木氏 北方領土巡る政府対応批判",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-18T07:19:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592180?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/18/2000000587/-災害便乗の“〇〇Pay詐欺”に注意喚起 最初は多めに返金→信用したら10万円被害 国民生活センター",
-      "title": "災害便乗の“〇〇Pay詐欺”に注意喚起 最初は多めに返金→信用したら10万円被害 国民生活センター",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-18T07:16:59.000Z",
-      "description": "国民生活センターは8月17日、「令和8年熊本地震」に便乗し、SNSのダイレクトメッセージ（DM）からコード決済による詐欺に誘導する手口について注意を呼び掛けた。「〇〇Payで返金します」と言われたら詐欺を疑うよう求めている。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000587/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/18/2000000580/-「食欲が削られる」――AIで作られた“気色の悪い飲食店メニュー”がXで物議 「実物を見たい」の声も",
-      "title": "「食欲が削られる」――AIで作られた“気色の悪い飲食店メニュー”がXで物議 「実物を見たい」の声も",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-18T07:14:46.000Z",
-      "description": "生成AIで作ったとみられる飲食店のメニューやポスターを巡り、Xで物議が広がっている。8月13日ごろから関連する投稿がみられ、とあるサービスエリアの飲食店メニューを写した投稿が反響を呼ぶと、同様の事例を紹介する投稿が急増した。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000580/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592171?source=rss-四千頭身・都築メンバー 謹慎処分",
-      "title": "四千頭身・都築メンバー 謹慎処分",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-18T05:36:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592171?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592150?source=rss-電子書籍や動画「購入」巡る課題",
       "title": "電子書籍や動画「購入」巡る課題",
       "source": "Yahoo!ニュース IT",
@@ -520,15 +538,6 @@
       "publishedAt": "2026-08-18T02:38:17.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592154?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592149?source=rss-高市首相お盆休み返上? Xで連投",
-      "title": "高市首相お盆休み返上? Xで連投",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-18T02:25:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592149?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592135?source=rss-子が「自殺」検索で通知 インスタ",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-08-17T08:53:05.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592086?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592078?source=rss-「comico」来年1月でサービス終了",
-      "title": "「comico」来年1月でサービス終了",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-17T08:09:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592078?source=rss"
     }
   ]
 }
