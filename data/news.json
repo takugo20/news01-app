@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T18:40:07.552Z",
+  "updatedAt": "2026-08-19T21:28:41.756Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592348?source=rss-阪神・大山 2試合連続サヨナラ打",
+      "title": "阪神・大山 2試合連続サヨナラ打",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-19T21:18:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592348?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592347?source=rss-上白石萌音 ドラマ主演で1人2役",
+      "title": "上白石萌音 ドラマ主演で1人2役",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-19T21:09:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592347?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592346?source=rss-8強の有明が熊本帰郷 市民ら歓声",
       "title": "8強の有明が熊本帰郷 市民ら歓声",
@@ -126,15 +144,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592328?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592329?source=rss-F1角田裕毅 オランダGP緊急参戦",
-      "title": "F1角田裕毅 オランダGP緊急参戦",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-19T11:53:35.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592329?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592325?source=rss-VIVANT物議の「空爆シーン」考察",
       "title": "VIVANT物議の「空爆シーン」考察",
       "source": "Yahoo!ニュース エンタメ",
@@ -151,15 +160,6 @@
       "publishedAt": "2026-08-19T11:24:17.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592313?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592324?source=rss-呪怨2作品出演 トシオくん役の今",
-      "title": "呪怨2作品出演 トシオくん役の今",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-19T11:22:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592324?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/19/2000000632/-生成AI画像で“架空の女性”に成り済まして政治投稿か 立憲栃木県連の男性党員 一部報道",
