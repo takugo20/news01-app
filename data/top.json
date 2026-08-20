@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T18:45:25.614Z",
+  "updatedAt": "2026-08-20T21:31:43.747Z",
   "generatedBy": "GitHub Actions",
   "market": {
     "nikkei225": {
@@ -29,7 +29,7 @@
     "longitude": 139.8836,
     "temperature": 23,
     "weatherCode": 1,
-    "windSpeed": 2.6,
+    "windSpeed": 1.8,
     "precipitationProbability": 100,
     "temperatureMax": 26.7,
     "temperatureMin": 22.7,

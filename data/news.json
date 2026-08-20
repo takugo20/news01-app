@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T18:45:25.461Z",
+  "updatedAt": "2026-08-20T21:31:44.010Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592474?source=rss-新庄氏 リクエストは「食い違い」",
+      "title": "新庄氏 リクエストは「食い違い」",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-20T21:23:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592474?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592471?source=rss-26年産新米 大幅値下がりの見通し",
       "title": "26年産新米 大幅値下がりの見通し",
@@ -385,15 +394,6 @@
       "publishedAt": "2026-08-20T00:55:28.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592368?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592367?source=rss-横浜・織田3ラン被弾で降板 騒然",
-      "title": "横浜・織田3ラン被弾で降板 騒然",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-20T00:19:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592367?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/20/2000000634/-Google、大学生向けに「Google AI Plus」を1年間無料提供 「Gemini」アプリに学生向け新機能も",
