@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T01:26:41.745Z",
+  "updatedAt": "2026-08-20T03:50:07.180Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,121 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592371?source=rss-智弁和歌山 5年ぶりの決勝進出",
-      "title": "智弁和歌山 5年ぶりの決勝進出",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592391?source=rss-織田の進路はMLBも視野 横浜監督",
+      "title": "織田の進路はMLBも視野 横浜監督",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-08-20T01:14:28.000Z",
+      "publishedAt": "2026-08-20T03:18:51.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592371?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6592391?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592386?source=rss-くら寿司 最低価格の値下げ発表",
+      "title": "くら寿司 最低価格の値下げ発表",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-20T03:05:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592386?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592384?source=rss-秋山竜次 元マネからCMオファー",
+      "title": "秋山竜次 元マネからCMオファー",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-20T02:59:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592384?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592383?source=rss-速報 健大高崎が天理をリード",
+      "title": "速報 健大高崎が天理をリード",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-20T02:44:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592383?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592380?source=rss-エンジン不具合で航空機停止 成田",
+      "title": "エンジン不具合で航空機停止 成田",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-20T02:40:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592380?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592377?source=rss-うどん業界競争 丸亀に急ブレーキ",
+      "title": "うどん業界競争 丸亀に急ブレーキ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-20T02:36:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592377?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592378?source=rss-国産AIシステムの実証始動 政府",
+      "title": "国産AIシステムの実証始動 政府",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-20T02:31:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592378?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592375?source=rss-横浜敗退 乱調の織田は大粒の涙",
+      "title": "横浜敗退 乱調の織田は大粒の涙",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-20T02:23:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592375?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/20/2000000640/-Amazon、「Prime Air」を米500都市へ大幅拡大 ドローン配送を現在の6倍規模へ",
+      "title": "Amazon、「Prime Air」を米500都市へ大幅拡大 ドローン配送を現在の6倍規模へ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-20T02:19:05.000Z",
+      "description": "Amazonは、ドローン配送「Prime Air」を年内に約500都市へ拡大すると発表した。提供規模を現在の6倍に広げ、約2.3キロ以下の対象商品を最短30?60分で届ける。FAAの認証を受けた完全電動機体を用い、プライバシーや静音性に配慮しながら全米で数千万人規模への普及を図る。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000640/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/20/2000000639/-Stripe、AIモデルゲートウェイのOpenRouter買収 400以上のAIモデルを束ねる中立基盤は維持",
+      "title": "Stripe、AIモデルゲートウェイのOpenRouter買収 400以上のAIモデルを束ねる中立基盤は維持",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-20T01:43:52.000Z",
+      "description": "Stripeは、AIモデルのゲートウェイを手掛けるOpenRouterを買収することで合意したと発表した。報道による買収額は約75億ドル。OpenRouterは単一APIで400超のモデル切り替えを可能にする。Stripeはトークンコスト最適化を強化し、OpenRouterは買収後も中立的な運営を継続する。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000639/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592373?source=rss-オモロー山下57歳 第1子が誕生",
+      "title": "オモロー山下57歳 第1子が誕生",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-20T01:40:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592373?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592372?source=rss-智弁和歌山が横浜に逆転 決勝進出",
+      "title": "智弁和歌山が横浜に逆転 決勝進出",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-20T01:27:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592372?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/20/2000000624/-サッカーのヘディング、直後に脳の損傷指標が上昇 300人の実測データ 米医学誌に掲載",
+      "title": "サッカーのヘディング、直後に脳の損傷指標が上昇 300人の実測データ 米医学誌に掲載",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-20T01:20:34.000Z",
+      "description": "オランダのアムステルダム大学などに所属する研究者らが医学誌「JAMA Neurology」で発表した論文「Amateur Soccer Heading and Acute Elevations in Blood-Based p-Tau217 and S100B」は、アマチュアサッカーの試合で実際に生じるヘディングが、脳...",
+      "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000624/"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592370?source=rss-万博工事背任疑い 関係者に動揺",
@@ -135,15 +243,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000582/"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/20/2000000624/-サッカーのヘディング、直後に脳の損傷指標が上昇 300人の実測データ 米医学誌に掲載",
-      "title": "サッカーのヘディング、直後に脳の損傷指標が上昇 300人の実測データ 米医学誌に掲載",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-19T22:00:00.000Z",
-      "description": "オランダのアムステルダム大学などに所属する研究者らが医学誌「JAMA Neurology」で発表した論文「Amateur Soccer Heading and Acute Elevations in Blood-Based p-Tau217 and S100B」は、アマチュアサッカーの試合で実際に生じるヘディングが、脳...",
-      "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000624/"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592350?source=rss-九州-東海で猛暑日の予想 警戒を",
       "title": "九州-東海で猛暑日の予想 警戒を",
       "source": "Yahoo!ニュース 国内",
@@ -153,15 +252,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592350?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592348?source=rss-阪神・大山 2試合連続サヨナラ打",
-      "title": "阪神・大山 2試合連続サヨナラ打",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-19T21:18:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592348?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592347?source=rss-上白石萌音 ドラマ主演で1人2役",
       "title": "上白石萌音 ドラマ主演で1人2役",
       "source": "Yahoo!ニュース エンタメ",
@@ -169,15 +259,6 @@
       "publishedAt": "2026-08-19T21:09:18.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592347?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592342?source=rss-東野圭吾さん遺作 相次ぐ重版",
-      "title": "東野圭吾さん遺作 相次ぐ重版",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-19T14:13:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592342?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592340?source=rss-ロッキン千葉市と県に1千万円寄付",
@@ -243,15 +324,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592325?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592313?source=rss-大谷「6年連続30本」他の達成者は",
-      "title": "大谷「6年連続30本」他の達成者は",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-19T11:24:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592313?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/19/2000000632/-生成AI画像で“架空の女性”に成り済まして政治投稿か 立憲栃木県連の男性党員 一部報道",
       "title": "生成AI画像で“架空の女性”に成り済まして政治投稿か 立憲栃木県連の男性党員 一部報道",
       "source": "ITmedia NEWS",
@@ -279,15 +351,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592318?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592317?source=rss-訪日客 7月として過去最多344万人",
-      "title": "訪日客 7月として過去最多344万人",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-19T09:25:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592317?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/19/2000000625/-氏名・住所など16万人分漏えい 学生向けPC販売サイト、不正アクセスの影響判明 明大・帝京など利用",
       "title": "氏名・住所など16万人分漏えい 学生向けPC販売サイト、不正アクセスの影響判明 明大・帝京など利用",
       "source": "ITmedia NEWS",
@@ -295,15 +358,6 @@
       "publishedAt": "2026-08-19T09:25:36.000Z",
       "description": "加賀ソルネットは8月17日、ECサイト「アカデミコナビ」への不正アクセスに関する調査結果を公表した。16万5587人分の個人データの漏えいを確認したほか、停止中のサイトは10月末の再開を予定する。",
       "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000625/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592310?source=rss-GK鈴木彩艶アストンビラ加入決定",
-      "title": "GK鈴木彩艶アストンビラ加入決定",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-19T08:58:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592310?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/19/2000000631/-香川の私鉄「ことでん」、券売機をほぼ廃止 スマホで買う「デジタル切符」に移行 地方鉄道で全国初",
@@ -342,15 +396,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000628/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592295?source=rss-東証続落 中東混乱の景気減速懸念",
-      "title": "東証続落 中東混乱の景気減速懸念",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-19T07:19:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592295?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592291?source=rss-陸自個人情報収集「任務の範囲」",
       "title": "陸自個人情報収集「任務の範囲」",
       "source": "Yahoo!ニュース 国内",
@@ -358,15 +403,6 @@
       "publishedAt": "2026-08-19T07:06:24.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592291?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592290?source=rss-万博 盛況の影で工事の不祥事続々",
-      "title": "万博 盛況の影で工事の不祥事続々",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-19T07:00:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592290?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592285?source=rss-転売目的で大量購入 悪性bot実態",
@@ -432,15 +468,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592270?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592272?source=rss-俳優・岸恵子さん死去",
-      "title": "俳優・岸恵子さん死去",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-19T03:12:58.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592272?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/19/2000000612/-「ポロクル」も「まちのり」も止まった ドコモ・バイクシェア大規模障害、影響が全国に及んだ理由",
       "title": "「ポロクル」も「まちのり」も止まった ドコモ・バイクシェア大規模障害、影響が全国に及んだ理由",
       "source": "ITmedia NEWS",
@@ -495,24 +522,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000598/"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/19/2000000608/-Apple、EUでのアプリ配信条件を刷新 欧州委は歓迎もEpic Gamesは反発",
-      "title": "Apple、EUでのアプリ配信条件を刷新 欧州委は歓迎もEpic Gamesは反発",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-19T00:59:58.000Z",
-      "description": "Appleは、EU域内のアプリ配信条件を刷新すると発表した。インストールごとに課していたCTFを廃止し、デジタル取引に5％を課すCTCへ移行する。決済方法に応じた手数料体系を整理し、IAPと代替決済の併用も認める。欧州委員会は変更を歓迎する一方、Epic Gamesは依然としてDMA違反だと反発している。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000608/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/19/2000000607/-楽天、“攻撃型ドローン”報道で問い合わせフォーム設置 ただし「返信はしない」",
-      "title": "楽天、“攻撃型ドローン”報道で問い合わせフォーム設置 ただし「返信はしない」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-19T00:40:19.000Z",
-      "description": "送られた内容は楽天グループの担当部署に共有するが、「返信は行っておりませんのであらかじめご了承ください」と明記している。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000607/"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592242?source=rss-OpenAIの2人語る 注目の職種FDE",
       "title": "OpenAIの2人語る 注目の職種FDE",
       "source": "Yahoo!ニュース IT",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-08-17T11:17:11.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592103?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592086?source=rss-ゲーム婚した夫婦たち 恋した瞬間",
-      "title": "ゲーム婚した夫婦たち 恋した瞬間",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-17T08:53:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592086?source=rss"
     }
   ]
 }
