@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T03:50:07.180Z",
+  "updatedAt": "2026-08-20T06:52:35.217Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,87 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592409?source=rss-京王ライナー 10月から立席導入へ",
+      "title": "京王ライナー 10月から立席導入へ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-20T06:43:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592409?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592408?source=rss-伊丹21時過ぎる離着陸制限 厳格化",
+      "title": "伊丹21時過ぎる離着陸制限 厳格化",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-20T06:26:29.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592408?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592407?source=rss-西日本中心に猛烈な暑さ 対策を",
+      "title": "西日本中心に猛烈な暑さ 対策を",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-20T06:05:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592407?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592402?source=rss-いしだ壱成 植毛で取り戻した自信",
+      "title": "いしだ壱成 植毛で取り戻した自信",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-20T05:35:51.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592402?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592398?source=rss-22日決勝 智弁和歌山vs.健大高崎",
+      "title": "22日決勝 智弁和歌山vs.健大高崎",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-20T04:55:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592398?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592387?source=rss-外食で「ダブル看板」広がる 戦略",
+      "title": "外食で「ダブル看板」広がる 戦略",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-20T04:32:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592387?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592396?source=rss-健大高崎 天理を制し夏初の決勝へ",
+      "title": "健大高崎 天理を制し夏初の決勝へ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-20T04:22:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592396?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592390?source=rss-フードデリバリー「3強」死角は",
+      "title": "フードデリバリー「3強」死角は",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-20T04:20:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592390?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/20/2000000643/-中国の動画サイト「bilibili」にグローバル版アプリ 日本でも配信開始 まずはAndroidから",
+      "title": "中国の動画サイト「bilibili」にグローバル版アプリ 日本でも配信開始 まずはAndroidから",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-20T03:45:42.000Z",
+      "description": "中国の動画共有サービス「bilibili」は8月19日、グローバル版アプリの提供を開始したと発表した。まずAndroid版をGoogle Playで配信しており、本人確認書類なしでアカウントを登録できる。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000643/"
+    },
+    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592391?source=rss-織田の進路はMLBも視野 横浜監督",
       "title": "織田の進路はMLBも視野 横浜監督",
       "source": "Yahoo!ニュース スポーツ",
@@ -61,24 +142,6 @@
       "publishedAt": "2026-08-20T02:59:08.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592384?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592383?source=rss-速報 健大高崎が天理をリード",
-      "title": "速報 健大高崎が天理をリード",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-20T02:44:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592383?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592380?source=rss-エンジン不具合で航空機停止 成田",
-      "title": "エンジン不具合で航空機停止 成田",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-20T02:40:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592380?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592377?source=rss-うどん業界競争 丸亀に急ブレーキ",
@@ -135,15 +198,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592373?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592372?source=rss-智弁和歌山が横浜に逆転 決勝進出",
-      "title": "智弁和歌山が横浜に逆転 決勝進出",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-20T01:27:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592372?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/20/2000000624/-サッカーのヘディング、直後に脳の損傷指標が上昇 300人の実測データ 米医学誌に掲載",
       "title": "サッカーのヘディング、直後に脳の損傷指標が上昇 300人の実測データ 米医学誌に掲載",
       "source": "ITmedia NEWS",
@@ -151,15 +205,6 @@
       "publishedAt": "2026-08-20T01:20:34.000Z",
       "description": "オランダのアムステルダム大学などに所属する研究者らが医学誌「JAMA Neurology」で発表した論文「Amateur Soccer Heading and Acute Elevations in Blood-Based p-Tau217 and S100B」は、アマチュアサッカーの試合で実際に生じるヘディングが、脳...",
       "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000624/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592370?source=rss-万博工事背任疑い 関係者に動揺",
-      "title": "万博工事背任疑い 関係者に動揺",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-20T01:07:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592370?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592368?source=rss-仲里依紗 結婚で自由失いたくない",
@@ -198,15 +243,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592361?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592357?source=rss-「エヴァ」とコラボ ショベル人気",
-      "title": "「エヴァ」とコラボ ショベル人気",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-19T23:05:01.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592357?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/20/2000000634/-Google、大学生向けに「Google AI Plus」を1年間無料提供 「Gemini」アプリに学生向け新機能も",
       "title": "Google、大学生向けに「Google AI Plus」を1年間無料提供 「Gemini」アプリに学生向け新機能も",
       "source": "ITmedia NEWS",
@@ -243,15 +279,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000582/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592350?source=rss-九州-東海で猛暑日の予想 警戒を",
-      "title": "九州-東海で猛暑日の予想 警戒を",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-19T21:38:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592350?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592347?source=rss-上白石萌音 ドラマ主演で1人2役",
       "title": "上白石萌音 ドラマ主演で1人2役",
       "source": "Yahoo!ニュース エンタメ",
@@ -261,15 +288,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592347?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592340?source=rss-ロッキン千葉市と県に1千万円寄付",
-      "title": "ロッキン千葉市と県に1千万円寄付",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-19T13:20:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592340?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592337?source=rss-四千頭身・後藤 解散はありません",
       "title": "四千頭身・後藤 解散はありません",
       "source": "Yahoo!ニュース エンタメ",
@@ -277,15 +295,6 @@
       "publishedAt": "2026-08-19T12:56:20.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592337?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592335?source=rss-JR九州被害額16年地震上回る恐れ",
-      "title": "JR九州被害額16年地震上回る恐れ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-19T12:49:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592335?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592331?source=rss-伊達公子氏 錦織は夢を現実にした",
@@ -511,15 +520,6 @@
       "publishedAt": "2026-08-19T01:19:49.000Z",
       "description": "消防業界向けに培った電動アシスト技術を保育分野に応用。消防用が迅速な動きを重視したのに対し、今回の製品は保育現場で誰でも「簡単に操作できる」ことを追求した。9月から受注する。",
       "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000609/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/19/2000000598/-コードが書けない筆者が愛車用にアプリを2本自作 「AI製アプリで起業」の夢膨らむも、見えた有料化の壁",
-      "title": "コードが書けない筆者が愛車用にアプリを2本自作 「AI製アプリで起業」の夢膨らむも、見えた有料化の壁",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-19T01:00:00.000Z",
-      "description": "プログラミング経験がほぼない筆者が、Claude Codeを使い、Tesla専用のiPhoneアプリを数日で2本開発。自然言語だけで進める「バイブコーディング」の手軽さと、AI時代のアプリ開発の可能性、起業まで見据えたときの限界を考える。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000598/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592242?source=rss-OpenAIの2人語る 注目の職種FDE",
