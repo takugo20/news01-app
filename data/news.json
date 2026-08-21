@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T09:40:36.974Z",
+  "updatedAt": "2026-08-21T12:55:21.471Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,78 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592588?source=rss-概算要求総額 130兆円超の見通し",
+      "title": "概算要求総額 130兆円超の見通し",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-21T12:48:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592588?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592585?source=rss-異例 自主映画が1館→53館公開に",
+      "title": "異例 自主映画が1館→53館公開に",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-21T12:28:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592585?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592565?source=rss-難しい検知 bot不正どう対策?",
+      "title": "難しい検知 bot不正どう対策?",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-21T11:59:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592565?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592578?source=rss-日ハム万波が登録抹消 監督が説明",
+      "title": "日ハム万波が登録抹消 監督が説明",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-21T11:07:51.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592578?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592577?source=rss-=LOVE運営声明 ファンに注意喚起",
+      "title": "=LOVE運営声明 ファンに注意喚起",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-21T11:05:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592577?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/21/2000000695/-法務省、「ラヴ上等」とのタイアップ中止 「当初の意図を全うすることが難しい」",
+      "title": "法務省、「ラヴ上等」とのタイアップ中止 「当初の意図を全うすることが難しい」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-21T10:51:06.000Z",
+      "description": "法務省は8月21日、米Netflixの恋愛リアリティーショー「『ラヴ上等』シーズン2」と「更生保護」の取り組みとのタイアップを取りやめると発表した。タイアップを巡り、犯罪被害者に不快感や割り切れない思いを抱かせるのではないかといった批判が多く寄せられたことなどを受けての判断という。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000695/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/21/2000000691/-FANZA、成人向けAI創作・公開サービス「FANZAスタジオ」発表 先行体験は8月24日から",
+      "title": "FANZA、成人向けAI創作・公開サービス「FANZAスタジオ」発表 先行体験は8月24日から",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-21T09:52:57.000Z",
+      "description": "デジタルコマースは8月17日、成人向けECサイト「FANZA」上で、AIコンテンツの創作・公開サービス「FANZAスタジオ」の先行体験を24日に始めると発表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000691/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/21/2000000682/-SNSのウソ画像、どう見破る？ 熊本県庁やテレビ局も頼る“すごい企業”の正体",
+      "title": "SNSのウソ画像、どう見破る？ 熊本県庁やテレビ局も頼る“すごい企業”の正体",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-21T09:31:35.000Z",
+      "description": "スペクティが提供する「Spectee Pro」は、さまざまな情報を収集し、その時に起きている「危機」を可視化するシステムだ。多くの自治体やマスコミも活用しているというSpectee Proは、どうやってデマや虚偽の情報を見分けるのか。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000682/"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592568?source=rss-バイオリニスト木嶋真優さん 出産",
       "title": "バイオリニスト木嶋真優さん 出産",
@@ -160,15 +232,6 @@
       "publishedAt": "2026-08-21T07:14:53.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592543?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/21/2000000682/-SNSのウソ画像、どう見破る？ 熊本県庁やテレビ局も頼る“すごい企業”の正体",
-      "title": "SNSのウソ画像、どう見破る？ 熊本県庁やテレビ局も頼る“すごい企業”の正体",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-21T07:09:56.000Z",
-      "description": "スペクティが提供する「Spectee Pro」は、さまざまな情報を収集し、その時に起きている「危機」を可視化するシステムだ。多くの自治体やマスコミも活用しているというSpectee Proは、どうやってデマや虚偽の情報を見分けるのか。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000682/"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592539?source=rss-藤井風 12月のタイ公演中止を発表",
@@ -342,15 +405,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000669/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592494?source=rss-「みい山」アニメ化 懸念の背景は",
-      "title": "「みい山」アニメ化 懸念の背景は",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-21T00:10:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592494?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592493?source=rss-SKハイニックス 宮城に工場案",
       "title": "SKハイニックス 宮城に工場案",
       "source": "Yahoo!ニュース 経済",
@@ -367,15 +421,6 @@
       "publishedAt": "2026-08-21T00:03:47.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592492?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592489?source=rss-防衛事業 再編の企業に国出資方針",
-      "title": "防衛事業 再編の企業に国出資方針",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-20T23:35:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592489?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592487?source=rss-「冷しカプヌ」1週間で供給分完売",
@@ -468,24 +513,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592466?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592453?source=rss-セントチヒロ・チッチ 活動名統一",
-      "title": "セントチヒロ・チッチ 活動名統一",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-20T12:01:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592453?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592449?source=rss-伊原の疑惑 阪神がおおむね認める",
-      "title": "伊原の疑惑 阪神がおおむね認める",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-20T11:01:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592449?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/20/2000000664/-タクシー大手「エムケイ」、EV充電にバナジウム電池を国内初導入 発火リスク低＆電気代削減",
       "title": "タクシー大手「エムケイ」、EV充電にバナジウム電池を国内初導入 発火リスク低＆電気代削減",
       "source": "ITmedia NEWS",
@@ -522,24 +549,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000657/"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/20/2000000654/-楽天、“攻撃型ドローン”関連報道に「事実と相違ない」 国内販売窓口として導入支援",
-      "title": "楽天、“攻撃型ドローン”関連報道に「事実と相違ない」 国内販売窓口として導入支援",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-20T07:35:41.000Z",
-      "description": "楽天グループは8月19日、ドイツの防衛系スタートアップHelsing（ヘルシング）と提携し、攻撃型ドローン「HX-2」の導入支援を手掛けるとの報道を巡り、ITmedia NEWSの取材に対し「事実と相違ない」と認めた。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000654/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/20/2000000651/-不正アクセスで一部停止中のNTT西子会社レンタルサーバ、復旧見通しを公表 調査完了は8月末見込み",
-      "title": "不正アクセスで一部停止中のNTT西子会社レンタルサーバ、復旧見通しを公表 調査完了は8月末見込み",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-20T06:36:30.000Z",
-      "description": "NTTスマートコネクトは8月19日、不正アクセスを受けて一部停止中のレンタルサーバサービス「スマイルサーバ」について、9月中旬ごろの復旧環境の提供開始を目標にすると発表した。外部機関による調査の完了は8月末を見込む。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000651/"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592378?source=rss-国産AIシステムの実証始動 政府",
       "title": "国産AIシステムの実証始動 政府",
       "source": "Yahoo!ニュース IT",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-08-19T00:04:04.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592242?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592150?source=rss-電子書籍や動画「購入」巡る課題",
-      "title": "電子書籍や動画「購入」巡る課題",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-18T02:51:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592150?source=rss"
     }
   ]
 }
