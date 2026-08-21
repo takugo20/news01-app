@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T03:53:06.086Z",
+  "updatedAt": "2026-08-21T06:53:36.386Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,96 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592539?source=rss-藤井風 12月のタイ公演中止を発表",
+      "title": "藤井風 12月のタイ公演中止を発表",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-21T06:39:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592539?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592537?source=rss-横浜・織田 進路決める鍵「直感」",
+      "title": "横浜・織田 進路決める鍵「直感」",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-21T06:19:31.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592537?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592532?source=rss-セコマ なぜ人口580人の村にも店",
+      "title": "セコマ なぜ人口580人の村にも店",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-21T05:05:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592532?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592528?source=rss-内閣改造 総裁選争った4人処遇は",
+      "title": "内閣改造 総裁選争った4人処遇は",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-21T04:42:29.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592528?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592527?source=rss-台風18号 26日ごろ沖縄接近の恐れ",
+      "title": "台風18号 26日ごろ沖縄接近の恐れ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-21T04:29:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592527?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/19/2000000598/-コードが書けない筆者が愛車用にアプリを2本自作 「AI製アプリで起業」の夢膨らむも、見えた有料化の壁",
+      "title": "コードが書けない筆者が愛車用にアプリを2本自作 「AI製アプリで起業」の夢膨らむも、見えた有料化の壁",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-21T04:20:18.000Z",
+      "description": "プログラミング経験がほぼない筆者が、Claude Codeを使い、Tesla専用のiPhoneアプリを数日で2本開発。自然言語だけで進める「バイブコーディング」の手軽さと、AI時代のアプリ開発の可能性、起業まで見据えたときの限界を考える。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000598/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/21/2000000677/-2.5次元アイドル「いれいす」事務所への不正アクセス、最大17万人に影響 “推し”情報や購買履歴も漏えいか",
+      "title": "2.5次元アイドル「いれいす」事務所への不正アクセス、最大17万人に影響 “推し”情報や購買履歴も漏えいか",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-21T04:16:17.000Z",
+      "description": "2.5次元アイドルグループ事務所のVOISING（東京都港区）は8月20日、同社が利用するBIツールへの不正アクセスによる個人情報漏えいについて、対象となる可能性がある人数が最大で約17万人に上ると発表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000677/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/21/2000000665/-「ロボットのChatGPTモーメントは近い」―─上場した中国ロボット大手Unitree CEO",
+      "title": "「ロボットのChatGPTモーメントは近い」―─上場した中国ロボット大手Unitree CEO",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-21T04:10:34.000Z",
+      "description": "中国の人型ロボットメーカーUnitreeの王興興（ワン・シンシン）CEOは20日、ロボットの頭脳は「ChatGPTモーメント」に近づきつつあると述べた。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000665/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592525?source=rss-「年収5千万円婚活」話題 背景は",
+      "title": "「年収5千万円婚活」話題 背景は",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-21T04:09:00.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592525?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/21/2000000675/-LINE、着せかえ表示問題を謝罪 希望者に返金へ",
+      "title": "LINE、着せかえ表示問題を謝罪 希望者に返金へ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-21T03:51:16.000Z",
+      "description": "LINEヤフーは8月20日、LINEアプリの一部の「着せかえ」でメニューアイコンがデフォルト表示になっている問題について経緯を説明し、謝罪した。返金を希望する日本国内のユーザーからは専用フォームで申請を受け付ける。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000675/"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592514?source=rss-芸能事務所に異変 倒産が相次ぐ",
       "title": "芸能事務所に異変 倒産が相次ぐ",
@@ -187,15 +277,6 @@
       "publishedAt": "2026-08-20T23:23:41.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592487?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592488?source=rss-暑さ続く 北陸・東北は大雨恐れ",
-      "title": "暑さ続く 北陸・東北は大雨恐れ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-20T23:16:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592488?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/21/2000000668/-Google、読者がワンクリックで“推しメディア”登録できるボタン公開",
@@ -351,15 +432,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592449?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592446?source=rss-DeNA藤浪が3回途中で降板 唇かむ",
-      "title": "DeNA藤浪が3回途中で降板 唇かむ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-20T10:36:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592446?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/20/2000000664/-タクシー大手「エムケイ」、EV充電にバナジウム電池を国内初導入 発火リスク低＆電気代削減",
       "title": "タクシー大手「エムケイ」、EV充電にバナジウム電池を国内初導入 発火リスク低＆電気代削減",
       "source": "ITmedia NEWS",
@@ -378,15 +450,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592442?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592441?source=rss-散歩中に犬同士がトラブル 注意点",
-      "title": "散歩中に犬同士がトラブル 注意点",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-20T09:47:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592441?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/20/2000000661/-JAXA、火星衛星探査機「MMX」を10月20日打ち上げ 帰還すれば世界初の試料回収に",
       "title": "JAXA、火星衛星探査機「MMX」を10月20日打ち上げ 帰還すれば世界初の試料回収に",
       "source": "ITmedia NEWS",
@@ -403,15 +466,6 @@
       "publishedAt": "2026-08-20T09:25:41.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592433?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592424?source=rss-クールジャパン機構廃止へ 経産省",
-      "title": "クールジャパン機構廃止へ 経産省",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-20T08:40:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592424?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/19/2000000583/-「害悪すぎる」「バカ迷惑」──嫌われまくる“AI営業電話”、今すぐ取れる自衛策は",
@@ -468,15 +522,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000643/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592384?source=rss-秋山竜次 元マネからCMオファー",
-      "title": "秋山竜次 元マネからCMオファー",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-20T02:59:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592384?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592378?source=rss-国産AIシステムの実証始動 政府",
       "title": "国産AIシステムの実証始動 政府",
       "source": "Yahoo!ニュース IT",
@@ -502,51 +547,6 @@
       "publishedAt": "2026-08-20T01:43:52.000Z",
       "description": "Stripeは、AIモデルのゲートウェイを手掛けるOpenRouterを買収することで合意したと発表した。報道による買収額は約75億ドル。OpenRouterは単一APIで400超のモデル切り替えを可能にする。Stripeはトークンコスト最適化を強化し、OpenRouterは買収後も中立的な運営を継続する。",
       "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000639/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/20/2000000624/-サッカーのヘディング、直後に脳の損傷指標が上昇 300人の実測データ 米医学誌に掲載",
-      "title": "サッカーのヘディング、直後に脳の損傷指標が上昇 300人の実測データ 米医学誌に掲載",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-20T01:20:34.000Z",
-      "description": "オランダのアムステルダム大学などに所属する研究者らが医学誌「JAMA Neurology」で発表した論文「Amateur Soccer Heading and Acute Elevations in Blood-Based p-Tau217 and S100B」は、アマチュアサッカーの試合で実際に生じるヘディングが、脳...",
-      "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000624/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592368?source=rss-仲里依紗 結婚で自由失いたくない",
-      "title": "仲里依紗 結婚で自由失いたくない",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-20T00:55:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592368?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/20/2000000634/-Google、大学生向けに「Google AI Plus」を1年間無料提供 「Gemini」アプリに学生向け新機能も",
-      "title": "Google、大学生向けに「Google AI Plus」を1年間無料提供 「Gemini」アプリに学生向け新機能も",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-19T22:58:36.000Z",
-      "description": "Googleは米国の新学期に合わせ、大学生向けに「Google AI Plus」などを12カ月無料で提供するキャンペーンを発表した。あわせてGeminiアプリに学生向けハブを新設し、授業資料から学習プランを生成する学習ノートブックや、3Dモデルの表示、Gemini LiveでのDeep Researchなどの新機能の提...",
-      "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000634/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/20/2000000582/-日本は「月面輸送」を産業にできるか？ 三菱重工と組んだispace、国産ロケットを選んだ3つの理由",
-      "title": "日本は「月面輸送」を産業にできるか？ 三菱重工と組んだispace、国産ロケットを選んだ3つの理由",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-19T22:00:00.000Z",
-      "description": "月面探査企業ispaceが2028年に予定する新型月着陸機「ULTRA」の打ち上げに、三菱重工業の「H3」ロケットを使用する契約を結んだ。国産ロケットと国産ランダー（月面着陸機）の組み合わせが実現する試みとあって目を奪われるが、この契約の意味は“日の丸月探査”の実現にとどまらない。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000582/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/19/2000000632/-生成AI画像で“架空の女性”に成り済まして政治投稿か 立憲栃木県連の男性党員 一部報道",
-      "title": "生成AI画像で“架空の女性”に成り済まして政治投稿か 立憲栃木県連の男性党員 一部報道",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-19T11:21:49.000Z",
-      "description": "立憲民主党栃木県連に党員登録している男性が、架空の女性に成り済ましてXで選挙や政治活動について投稿していたことが8月19日までに分かった。女性の画像は生成AIで作成したとみられ、アカウントは既に凍結されている。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000632/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592285?source=rss-転売目的で大量購入 悪性bot実態",
