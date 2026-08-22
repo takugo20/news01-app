@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T15:25:13.795Z",
+  "updatedAt": "2026-08-22T18:35:38.856Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592717?source=rss-茨城などで最大震度5弱 津波なし",
+      "title": "茨城などで最大震度5弱 津波なし",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-22T17:09:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592717?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592716?source=rss-広島・小園が2軍で満塁弾 客拍手",
       "title": "広島・小園が2軍で満塁弾 客拍手",
@@ -250,15 +259,6 @@
       "publishedAt": "2026-08-22T05:29:47.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592651?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592650?source=rss-国民代表選告示 政権との距離争点",
-      "title": "国民代表選告示 政権との距離争点",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-22T05:10:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592650?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592643?source=rss-甲子園決勝 振り逃げと暴投の違い",
