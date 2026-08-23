@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T21:25:22.302Z",
+  "updatedAt": "2026-08-23T01:40:10.623Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,148 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592717?source=rss-茨城などで最大震度5弱 津波なし",
-      "title": "茨城などで最大震度5弱 津波なし",
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592748?source=rss-天木じゅん 競輪佐々木悠葵と結婚",
+      "title": "天木じゅん 競輪佐々木悠葵と結婚",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-23T01:35:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592748?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592744?source=rss-利用料3倍に 老人ホーム側の説明",
+      "title": "利用料3倍に 老人ホーム側の説明",
       "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-08-22T17:09:58.000Z",
+      "publishedAt": "2026-08-23T01:33:18.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592717?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6592744?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592740?source=rss-関東で震度5弱 けが人相次ぐ",
+      "title": "関東で震度5弱 けが人相次ぐ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-23T00:54:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592740?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592736?source=rss-沖縄知事選 県政奪還へ自民総力戦",
+      "title": "沖縄知事選 県政奪還へ自民総力戦",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-23T00:26:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592736?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592735?source=rss-智弁和歌山 寮母インスタ大バズリ",
+      "title": "智弁和歌山 寮母インスタ大バズリ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-23T00:22:31.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592735?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592732?source=rss-りくりゅう プロポーズ写真投稿",
+      "title": "りくりゅう プロポーズ写真投稿",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-22T23:55:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592732?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592734?source=rss-2000円台の新米 昨年産と価格逆転",
+      "title": "2000円台の新米 昨年産と価格逆転",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-22T23:54:01.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592734?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592731?source=rss-発火相次ぐ「モバ充」規制強化へ",
+      "title": "発火相次ぐ「モバ充」規制強化へ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-22T23:32:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592731?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592730?source=rss-台風20号 八重山地方で大雨の恐れ",
+      "title": "台風20号 八重山地方で大雨の恐れ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-22T23:19:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592730?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592728?source=rss-ラヴ上等コラボ中止 制作側責任は",
+      "title": "ラヴ上等コラボ中止 制作側責任は",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-22T23:12:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592728?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592727?source=rss-人型ロボ100mボルト超え 直後炎上",
+      "title": "人型ロボ100mボルト超え 直後炎上",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-22T22:57:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592727?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/23/2000000701/-TikTok、児童プライバシー訴訟で4億ドル支払いへ 米司法省と和解",
+      "title": "TikTok、児童プライバシー訴訟で4億ドル支払いへ 米司法省と和解",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-22T22:37:08.000Z",
+      "description": "司法省は、TikTokの児童プライバシーを巡る訴訟で、TikTok側が総額4億ドルを支払うことで和解したと発表した。13歳未満の個人情報収集や保護者同意を巡る申し立てを受けたもので、COPPA関連では過去最大規模の和解となる。所有構造の変更や若年層の保護機能強化などを踏まえ合意に至った。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/23/2000000701/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592722?source=rss-震度5弱 関東の鉄道運行情報",
+      "title": "震度5弱 関東の鉄道運行情報",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-22T22:23:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592722?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592720?source=rss-大谷の左膝懸念 監督「もう過去」",
+      "title": "大谷の左膝懸念 監督「もう過去」",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-22T22:19:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592720?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/23/2000000693/-「comico」サ終にマンガ家が思う“縦読みマンガ”の弱点と戦略ミス",
+      "title": "「comico」サ終にマンガ家が思う“縦読みマンガ”の弱点と戦略ミス",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-22T22:15:00.000Z",
+      "description": "基本フルカラーで、スマホで気楽に読める“縦読みマンガ”。ヒットしてアニメ化される作品も生み出しましたが、最近は調子がイマイチのようです。なぜそうなったのか。マンガ家の端くれであるボクなりに考えてみました。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/23/2000000693/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592724?source=rss-りくりゅう木原さん&三浦さん婚約",
+      "title": "りくりゅう木原さん&三浦さん婚約",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-22T22:14:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592724?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592716?source=rss-広島・小園が2軍で満塁弾 客拍手",
@@ -106,15 +241,6 @@
       "publishedAt": "2026-08-22T12:31:59.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592705?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592704?source=rss-事件で浮き彫りに 介護のカスハラ",
-      "title": "事件で浮き彫りに 介護のカスハラ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-22T12:28:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592704?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592700?source=rss-架空の党員をAIで作成 立憲苦言",
@@ -189,24 +315,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592686?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592687?source=rss-侍U18の18人選出 横浜が最多5人",
-      "title": "侍U18の18人選出 横浜が最多5人",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-22T09:41:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592687?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592679?source=rss-処方箋不要 訪日客に眼鏡が人気",
-      "title": "処方箋不要 訪日客に眼鏡が人気",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-22T09:07:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592679?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592673?source=rss-「超・老老介護」神経すり減る夫",
       "title": "「超・老老介護」神経すり減る夫",
       "source": "Yahoo!ニュース 国内",
@@ -225,15 +333,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592665?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592668?source=rss-ドジャース激震 パヘスが左手骨折",
-      "title": "ドジャース激震 パヘスが左手骨折",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-22T07:22:26.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592668?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592657?source=rss-イチロー氏 甲子園決勝で夢叶った",
       "title": "イチロー氏 甲子園決勝で夢叶った",
       "source": "Yahoo!ニュース スポーツ",
@@ -243,33 +342,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592657?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592655?source=rss-ICCなど巡る高市外交「弱腰」批判",
-      "title": "ICCなど巡る高市外交「弱腰」批判",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-22T05:51:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592655?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592651?source=rss-原爆「包帯の少女」の証言公開へ",
-      "title": "原爆「包帯の少女」の証言公開へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-22T05:29:47.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592651?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592643?source=rss-甲子園決勝 振り逃げと暴投の違い",
-      "title": "甲子園決勝 振り逃げと暴投の違い",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-22T04:14:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592643?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592626?source=rss-笑い飯哲夫 肉眼で花火を楽しんで",
       "title": "笑い飯哲夫 肉眼で花火を楽しんで",
       "source": "Yahoo!ニュース エンタメ",
@@ -277,15 +349,6 @@
       "publishedAt": "2026-08-22T04:08:21.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592626?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592639?source=rss-智弁和歌山 5年ぶり4度目の優勝",
-      "title": "智弁和歌山 5年ぶり4度目の優勝",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-22T03:13:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592639?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592633?source=rss-長期休み「子どもと出勤」広がる",
@@ -331,42 +394,6 @@
       "publishedAt": "2026-08-22T01:09:41.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592622?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592621?source=rss-地震で突然失業 肩落とす被災者",
-      "title": "地震で突然失業 肩落とす被災者",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-22T01:06:27.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592621?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592617?source=rss-清水あいり 母に離婚頼んだ幼少期",
-      "title": "清水あいり 母に離婚頼んだ幼少期",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-22T00:41:45.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592617?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592614?source=rss-COWCOW 20年の投稿今夏バズる",
-      "title": "COWCOW 20年の投稿今夏バズる",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-21T23:57:01.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592614?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592604?source=rss-100均業界2トップ 快進撃の理由",
-      "title": "100均業界2トップ 快進撃の理由",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-21T23:04:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592604?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/20/2000000643/-中国の動画サイト「bilibili」にグローバル版アプリ 日本でも配信開始 まずはAndroidから",
@@ -547,33 +574,6 @@
       "publishedAt": "2026-08-20T22:00:00.000Z",
       "description": "決まった時間に猫や犬のフードを出してくれる自動給餌器は、留守中や忙しい時でも餌やりができることから、頼りにする飼い主も増えている。ところが米国などで使われている製品でアプリの障害が発生し、ペットを心配した飼い主からの苦情が殺到する騒ぎが起きた。",
       "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000658/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/21/2000000667/-Slack、AIとチームで協働する「Slack Code」を発表 ClaudeやDevinを専用チャネルで操作",
-      "title": "Slack、AIとチームで協働する「Slack Code」を発表 ClaudeやDevinを専用チャネルで操作",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-20T21:37:48.000Z",
-      "description": "Slackは、AIコーディングエージェントと協働するための新機能「Slack Code」を発表した。メンションで専用の「コードチャネル」が自動生成され、計画やコード差分、プレビューを確認しながら指示できる。ClaudeやDevinなど複数社のエージェントに対応し、人間の承認を経て安全に処理を実行する。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000667/"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592467?source=rss-Amazon 米国でドローン配送拡大",
-      "title": "Amazon 米国でドローン配送拡大",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-20T13:49:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592467?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/20/2000000664/-タクシー大手「エムケイ」、EV充電にバナジウム電池を国内初導入 発火リスク低＆電気代削減",
-      "title": "タクシー大手「エムケイ」、EV充電にバナジウム電池を国内初導入 発火リスク低＆電気代削減",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-20T10:15:34.000Z",
-      "description": "タクシー大手のエムケイが、EVタクシーの充電用にバナジウムイオン電池を用いたエネルギー貯蔵システムを国内で初めて導入した。リチウムイオン電池より発火リスクが低く耐久性も高いといい、電気料金の削減も見込む。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000664/"
     }
   ]
 }
