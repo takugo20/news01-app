@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T01:40:10.623Z",
+  "updatedAt": "2026-08-23T03:53:26.072Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,69 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592757?source=rss-映画ちいかわ 興収100億円を突破",
+      "title": "映画ちいかわ 興収100億円を突破",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-23T03:39:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592757?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592755?source=rss-月10万円→30万円 都内老人ホーム",
+      "title": "月10万円→30万円 都内老人ホーム",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-23T03:16:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592755?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592754?source=rss-関東で震度5弱 けが人30人超",
+      "title": "関東で震度5弱 けが人30人超",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-23T03:02:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592754?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592753?source=rss-吉田麻也「FW顔負け」のヒール弾",
+      "title": "吉田麻也「FW顔負け」のヒール弾",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-23T02:57:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592753?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592750?source=rss-りくりゅう婚約 高橋成美氏が祝福",
+      "title": "りくりゅう婚約 高橋成美氏が祝福",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-23T02:14:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592750?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592751?source=rss-ドジャース逆転勝ち 大谷は無安打",
+      "title": "ドジャース逆転勝ち 大谷は無安打",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-23T02:13:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592751?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592747?source=rss-文科省 来年度科研費を倍増要求へ",
+      "title": "文科省 来年度科研費を倍増要求へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-23T01:39:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592747?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592748?source=rss-天木じゅん 競輪佐々木悠葵と結婚",
       "title": "天木じゅん 競輪佐々木悠葵と結婚",
       "source": "Yahoo!ニュース エンタメ",
@@ -43,24 +106,6 @@
       "publishedAt": "2026-08-23T01:35:59.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592748?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592744?source=rss-利用料3倍に 老人ホーム側の説明",
-      "title": "利用料3倍に 老人ホーム側の説明",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-23T01:33:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592744?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592740?source=rss-関東で震度5弱 けが人相次ぐ",
-      "title": "関東で震度5弱 けが人相次ぐ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-23T00:54:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592740?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592736?source=rss-沖縄知事選 県政奪還へ自民総力戦",
@@ -180,15 +225,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592724?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592716?source=rss-広島・小園が2軍で満塁弾 客拍手",
-      "title": "広島・小園が2軍で満塁弾 客拍手",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-22T14:13:24.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592716?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592715?source=rss-乃木坂公演 雷避難の客戻る前開始",
       "title": "乃木坂公演 雷避難の客戻る前開始",
       "source": "Yahoo!ニュース エンタメ",
@@ -288,15 +324,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592696?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592690?source=rss-智弁和の優勝 ドルトムントが祝う",
-      "title": "智弁和の優勝 ドルトムントが祝う",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-22T10:36:13.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592690?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592688?source=rss-本編前の映画泥棒CMリニューアル",
       "title": "本編前の映画泥棒CMリニューアル",
       "source": "Yahoo!ニュース エンタメ",
@@ -315,15 +342,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592686?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592673?source=rss-「超・老老介護」神経すり減る夫",
-      "title": "「超・老老介護」神経すり減る夫",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-22T08:07:26.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592673?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592665?source=rss-「自販機」に逆風 飲料各社が工夫",
       "title": "「自販機」に逆風 飲料各社が工夫",
       "source": "Yahoo!ニュース 経済",
@@ -331,24 +349,6 @@
       "publishedAt": "2026-08-22T07:27:25.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592665?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592657?source=rss-イチロー氏 甲子園決勝で夢叶った",
-      "title": "イチロー氏 甲子園決勝で夢叶った",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-22T06:01:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592657?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592626?source=rss-笑い飯哲夫 肉眼で花火を楽しんで",
-      "title": "笑い飯哲夫 肉眼で花火を楽しんで",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-22T04:08:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592626?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592633?source=rss-長期休み「子どもと出勤」広がる",
