@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T18:34:52.325Z",
+  "updatedAt": "2026-08-23T21:25:32.017Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592822?source=rss-大谷来週にも投手復帰か 監督説明",
+      "title": "大谷来週にも投手復帰か 監督説明",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-23T21:12:00.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592822?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592818?source=rss-原油輸送確保 首脳外交求める声も",
       "title": "原油輸送確保 首脳外交求める声も",
@@ -367,15 +376,6 @@
       "publishedAt": "2026-08-22T22:15:00.000Z",
       "description": "基本フルカラーで、スマホで気楽に読める“縦読みマンガ”。ヒットしてアニメ化される作品も生み出しましたが、最近は調子がイマイチのようです。なぜそうなったのか。マンガ家の端くれであるボクなりに考えてみました。",
       "url": "https://www.itmedia.co.jp/news/article/2608/23/2000000693/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592724?source=rss-りくりゅう木原さん&三浦さん婚約",
-      "title": "りくりゅう木原さん&三浦さん婚約",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-22T22:14:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592724?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592700?source=rss-架空の党員をAIで作成 立憲苦言",
