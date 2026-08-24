@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T18:46:23.768Z",
+  "updatedAt": "2026-08-24T21:33:16.181Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592950?source=rss-人気韓ドラ 芦田愛菜主演で日本版",
+      "title": "人気韓ドラ 芦田愛菜主演で日本版",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-24T21:25:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592950?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592946?source=rss-智弁和歌山 新チームが初戦敗戦",
       "title": "智弁和歌山 新チームが初戦敗戦",
@@ -178,15 +187,6 @@
       "publishedAt": "2026-08-24T10:36:51.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592913?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592912?source=rss-SCANDALが活動終了 来年8月で",
-      "title": "SCANDALが活動終了 来年8月で",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-24T10:24:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592912?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592910?source=rss-プルデンシャル 自粛中に不祥事か",
