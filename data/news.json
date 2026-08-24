@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T12:57:39.364Z",
+  "updatedAt": "2026-08-24T15:42:45.193Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,42 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592946?source=rss-智弁和歌山 新チームが初戦敗戦",
+      "title": "智弁和歌山 新チームが初戦敗戦",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-24T14:45:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592946?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592944?source=rss-俳優・満島ひかり 第1子出産発表",
+      "title": "俳優・満島ひかり 第1子出産発表",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-24T13:50:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592944?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592942?source=rss-損保ジャパン 車保険料5%値上げへ",
+      "title": "損保ジャパン 車保険料5%値上げへ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-24T13:33:23.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592942?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/24/2000000730/-「まるで奇行種」――とある人型ロボの爆走フォームが話題に 中国のロボット運動会400m走で優勝",
+      "title": "「まるで奇行種」――とある人型ロボの爆走フォームが話題に 中国のロボット運動会400m走で優勝",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-24T12:54:36.000Z",
+      "description": "人型ロボットが独特なフォームでトラックを駆け抜ける映像が、SNSで話題だ。ロボットは、中国の北京人形機器人創新中心（TianGong Robotics）が開発した「天工 Omni」。8月23日（現地時間）、北京で開催中の「第2回世界人型ロボット運動会」の400m走・小型組で、45秒66を記録し優勝した。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000730/"
+    },
+    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592931?source=rss-代表FW小川航基 町田に完全移籍",
       "title": "代表FW小川航基 町田に完全移籍",
       "source": "Yahoo!ニュース スポーツ",
@@ -52,15 +88,6 @@
       "publishedAt": "2026-08-24T12:32:19.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592929?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/24/2000000730/-「まるで奇行種」――とある人型ロボの爆走フォームが話題に 中国のロボット運動会400m走で優勝",
-      "title": "「まるで奇行種」――とある人型ロボの爆走フォームが話題に 中国のロボット運動会400m走で優勝",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-24T12:06:19.000Z",
-      "description": "人型ロボットが独特なフォームでトラックを駆け抜ける映像が、SNSで話題だ。ロボットは、中国の北京人形機器人創新中心（TianGong Robotics）が開発した「天工 Omni」。8月23日（現地時間）、北京で開催中の「第2回世界人型ロボット運動会」の400m走・小型組で、45秒66を記録し優勝した。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000730/"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592904?source=rss-VIVANT「ガバガバ考察」の動きも",
@@ -297,15 +324,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592884?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592882?source=rss-宇梶剛士 若者のコスパ優先に思い",
-      "title": "宇梶剛士 若者のコスパ優先に思い",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-24T06:50:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592882?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/24/2000000718/-「うるう秒」27年に事実上廃止へ 自転とのずれ「1時間」まで容認 10月に国際会議で採決",
       "title": "「うるう秒」27年に事実上廃止へ 自転とのずれ「1時間」まで容認 10月に国際会議で採決",
       "source": "ITmedia NEWS",
@@ -378,15 +396,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000712/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592864?source=rss-ローソン 手巻きおにぎり値下げへ",
-      "title": "ローソン 手巻きおにぎり値下げへ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-24T03:27:09.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592864?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/24/2000000710/-「不味そうすぎ」AIメニュー画像はどう作られる？ AIで“岩のような唐揚げ”再現に挑戦した",
       "title": "「不味そうすぎ」AIメニュー画像はどう作られる？ AIで“岩のような唐揚げ”再現に挑戦した",
       "source": "ITmedia NEWS",
@@ -394,15 +403,6 @@
       "publishedAt": "2026-08-24T03:11:23.000Z",
       "description": "いまどきのAIはリアルで高画質な画像を出力できるはずなのに、なぜ“不味そうな”POPができるのか、謎に思ったので、AI（ChatGPT Sol 高）に聞いてみた。",
       "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000710/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592855?source=rss-シュワバーが劇的サヨナラ39号",
-      "title": "シュワバーが劇的サヨナラ39号",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-24T02:38:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592855?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592848?source=rss-出国税でクマ対策など 訪日客負担",
