@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T03:57:04.768Z",
+  "updatedAt": "2026-08-24T07:05:49.451Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,105 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592884?source=rss-居眠り運転など検知 搭載義務化へ",
+      "title": "居眠り運転など検知 搭載義務化へ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-24T07:04:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592884?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592882?source=rss-宇梶剛士 若者のコスパ優先に思い",
+      "title": "宇梶剛士 若者のコスパ優先に思い",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-24T06:50:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592882?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592880?source=rss-木原氏 ICC所長と緊密に意思疎通",
+      "title": "木原氏 ICC所長と緊密に意思疎通",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-24T06:21:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592880?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/24/2000000718/-「うるう秒」27年に事実上廃止へ 自転とのずれ「1時間」まで容認 10月に国際会議で採決",
+      "title": "「うるう秒」27年に事実上廃止へ 自転とのずれ「1時間」まで容認 10月に国際会議で採決",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-24T06:10:09.000Z",
+      "description": "「うるう秒」を事実上廃止する案について、10月13?15日にフランスで開催する国際度量衡総会（CGPM）で審議する。国際度量衡局（BIPM）の決議案では、採択されれば2027年5月20日から、うるう秒による調整を行わない「連続的な協定世界時」に移行する。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000718/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592879?source=rss-厚労省 映画とタイアップ巡り謝罪",
+      "title": "厚労省 映画とタイアップ巡り謝罪",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-24T05:42:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592879?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/24/2000000602/-「社用PC高すぎ、中古品使おう」の注意点 潜む“前の持ち主の亡霊”リスク 立命館・上原教授に聞く",
+      "title": "「社用PC高すぎ、中古品使おう」の注意点 潜む“前の持ち主の亡霊”リスク 立命館・上原教授に聞く",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-24T05:20:10.000Z",
+      "description": "必要なスペックを満たしたPCをコストパフォーマンス良く手にできる中古PC。一方で、安易に中古PCを導入すると、思わぬセキュリティリスクを招く恐れもある。どんなポイントに留意すべきか、セキュリティに詳しい立命館大学情報理工学部の上原哲太郎教授に尋ねた。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000602/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592876?source=rss-FW小川航基 J1町田移籍が決定的",
+      "title": "FW小川航基 J1町田移籍が決定的",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-24T05:02:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592876?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/24/2000000714/-中国、人型ロボットが100メートルで9秒32 “ボルト超え”続出の北京「世界人型ロボット運動会」",
+      "title": "中国、人型ロボットが100メートルで9秒32 “ボルト超え”続出の北京「世界人型ロボット運動会」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-24T04:34:23.000Z",
+      "description": "中国・北京で開催中の「世界人型ロボット運動会」で、陸上100メートルの予選でウサイン・ボルト選手の世界記録を上回るタイムが相次いだ。2回目となる今回は参加ロボットが約2000台と前回の4倍に増え、中国のロボット産業の勢いを映している。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000714/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592873?source=rss-売春防止法 買う側の勧誘も処罰案",
+      "title": "売春防止法 買う側の勧誘も処罰案",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-24T04:22:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592873?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592871?source=rss-総合居酒屋苦戦 老舗チェーンの今",
+      "title": "総合居酒屋苦戦 老舗チェーンの今",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-24T04:02:56.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592871?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/24/2000000715/-人気カフェ「BERG」も楽天市場撤退 「反戦の思いと相容れない」",
+      "title": "人気カフェ「BERG」も楽天市場撤退 「反戦の思いと相容れない」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-24T03:54:30.000Z",
+      "description": "楽天の軍事ドローン参入を理由とした楽天市場からの撤退は、18日に「通販生活」を手掛けるカタログハウスに続き2例目とみられる。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000715/"
+    },
+    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592866?source=rss-サンマ高騰の背景 今後のポイント",
       "title": "サンマ高騰の背景 今後のポイント",
       "source": "Yahoo!ニュース 経済",
@@ -52,6 +151,15 @@
       "publishedAt": "2026-08-24T03:33:37.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592868?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/24/2000000712/-シャオミ、スマホ・タブレット計11製品を値上げ 最大33％、9月1日から メモリ高騰で",
+      "title": "シャオミ、スマホ・タブレット計11製品を値上げ 最大33％、9月1日から メモリ高騰で",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-24T03:32:35.000Z",
+      "description": "中国Xiaomi傘下のXiaomi Japanは8月24日、「Xiaomi 17T Pro」「POCO X8 Pro」などスマートフォン・タブレット計11製品の値上げを発表した。9月1日から順次適用し、値上げ率は約5?33％。メモリ価格の高騰を理由に挙げている。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000712/"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592864?source=rss-ローソン 手巻きおにぎり値下げへ",
@@ -88,15 +196,6 @@
       "publishedAt": "2026-08-24T03:06:27.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592860?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/24/2000000602/-「社用PC高すぎ、中古品使おう」の注意点 潜む“前の持ち主の亡霊”リスク 立命館・上原教授に聞く",
-      "title": "「社用PC高すぎ、中古品使おう」の注意点 潜む“前の持ち主の亡霊”リスク 立命館・上原教授に聞く",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-24T03:00:00.000Z",
-      "description": "必要なスペックを満たしたPCをコストパフォーマンス良く手にできる中古PC。一方で、安易に中古PCを導入すると、思わぬセキュリティリスクを招く恐れもある。どんなポイントに留意すべきか、セキュリティに詳しい立命館大学情報理工学部の上原哲太郎教授に尋ねた。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000602/"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592859?source=rss-猛暑日が続出 西日本で危険な暑さ",
@@ -162,24 +261,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592846?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592838?source=rss-浅香航大と杢代和人 連ドラW主演",
-      "title": "浅香航大と杢代和人 連ドラW主演",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-23T23:20:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592838?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592837?source=rss-台風18号が南西諸島に接近へ 警戒",
-      "title": "台風18号が南西諸島に接近へ 警戒",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-23T23:05:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592837?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592832?source=rss-上田綺世が2戦連発 中断に動じず",
       "title": "上田綺世が2戦連発 中断に動じず",
       "source": "Yahoo!ニュース スポーツ",
@@ -187,15 +268,6 @@
       "publishedAt": "2026-08-23T22:44:51.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592832?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592831?source=rss-処理水放出3年 タンク貯蔵量7%減",
-      "title": "処理水放出3年 タンク貯蔵量7%減",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-23T22:41:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592831?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592830?source=rss-協議離婚サポート 家事ADRに注目",
@@ -234,24 +306,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592823?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592822?source=rss-大谷来週にも投手復帰か 監督説明",
-      "title": "大谷来週にも投手復帰か 監督説明",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-23T21:12:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592822?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592818?source=rss-原油輸送確保 首脳外交求める声も",
-      "title": "原油輸送確保 首脳外交求める声も",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-23T14:50:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592818?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592809?source=rss-りくりゅう婚約発表設計 識者見解",
       "title": "りくりゅう婚約発表設計 識者見解",
       "source": "Yahoo!ニュース スポーツ",
@@ -268,15 +322,6 @@
       "publishedAt": "2026-08-23T12:42:54.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592810?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592806?source=rss-20歳の振り袖選び 高校生で契約も",
-      "title": "20歳の振り袖選び 高校生で契約も",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-23T12:04:09.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592806?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592805?source=rss-戸建て売り入居する人も 団地人気",
@@ -340,15 +385,6 @@
       "publishedAt": "2026-08-23T07:32:51.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592777?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592772?source=rss-年金だけ苦しい 炎天下働くシニア",
-      "title": "年金だけ苦しい 炎天下働くシニア",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-23T06:05:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592772?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592770?source=rss-スマホ乗っ取られ詐欺SMSのbot化",
@@ -513,15 +549,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000680/"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/19/2000000598/-コードが書けない筆者が愛車用にアプリを2本自作 「AI製アプリで起業」の夢膨らむも、見えた有料化の壁",
-      "title": "コードが書けない筆者が愛車用にアプリを2本自作 「AI製アプリで起業」の夢膨らむも、見えた有料化の壁",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-21T04:20:18.000Z",
-      "description": "プログラミング経験がほぼない筆者が、Claude Codeを使い、Tesla専用のiPhoneアプリを数日で2本開発。自然言語だけで進める「バイブコーディング」の手軽さと、AI時代のアプリ開発の可能性、起業まで見据えたときの限界を考える。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000598/"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/21/2000000677/-2.5次元アイドル「いれいす」事務所への不正アクセス、最大17万人に影響 “推し”情報や購買履歴も漏えいか",
       "title": "2.5次元アイドル「いれいす」事務所への不正アクセス、最大17万人に影響 “推し”情報や購買履歴も漏えいか",
       "source": "ITmedia NEWS",
@@ -547,33 +574,6 @@
       "publishedAt": "2026-08-21T03:51:16.000Z",
       "description": "LINEヤフーは8月20日、LINEアプリの一部の「着せかえ」でメニューアイコンがデフォルト表示になっている問題について経緯を説明し、謝罪した。返金を希望する日本国内のユーザーからは専用フォームで申請を受け付ける。",
       "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000675/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/21/2000000649/-終了発表の縦読み漫画「comico」――元重課金ユーザーが振り返る「いつしか開かなくなった」理由",
-      "title": "終了発表の縦読み漫画「comico」――元重課金ユーザーが振り返る「いつしか開かなくなった」理由",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-21T02:44:02.000Z",
-      "description": "縦読み漫画サービス「comico」が2027年1月に終了する。学生時代に重課金ユーザーだった記者が、女性向け作品へのシフトやレンタル券導入、作品の突然の終了など、利用者の反応も交えながら、いつしか同サービスから離れていった理由を振り返る。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000649/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/21/2000000670/-Googleのオープンモデル「Gemma」、累計10億ダウンロード超 GitHubに公式ディレクトリ公開",
-      "title": "Googleのオープンモデル「Gemma」、累計10億ダウンロード超 GitHubに公式ディレクトリ公開",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-21T01:14:33.000Z",
-      "description": "Googleは、オープンモデル「Gemma」ファミリーの累計ダウンロード数が10億回を突破したと発表した。派生モデルは10万種を超え、公式リポジトリ「Awesome Gemma」をGitHubで公開。宇宙空間での衛星データ解析や新規のがん治療経路の発見など、多様な活用事例を紹介している。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000670/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/21/2000000669/-macOS版ChatGPT、Appleの「メッセージ」と連携 会話検索や下書き、送信に対応",
-      "title": "macOS版ChatGPT、Appleの「メッセージ」と連携 会話検索や下書き、送信に対応",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-21T00:22:19.000Z",
-      "description": "OpenAIは、macOS版ChatGPT向けにAppleの「メッセージ」アプリと連携するプラグインを公開した。CodexやChatGPT Workのチャット上で過去の会話検索や下書き作成、送信が可能になる。誤送信防止のため都度承認フローを備える。Appleシリコン搭載Mac向けだ。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000669/"
     }
   ]
 }
