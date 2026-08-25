@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T12:54:16.809Z",
+  "updatedAt": "2026-08-25T15:47:16.457Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,69 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593078?source=rss-バレー秋本が16得点 TV解説は母",
+      "title": "バレー秋本が16得点 TV解説は母",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-25T14:46:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593078?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6593076?source=rss-消費減税で減収農家に給付金 方針",
+      "title": "消費減税で減収農家に給付金 方針",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-25T14:20:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593076?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6593074?source=rss-即席麺の待ち時間 なぜ3分が多い",
+      "title": "即席麺の待ち時間 なぜ3分が多い",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-25T13:51:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593074?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593073?source=rss-育成14位→お立ち台 西武仲田が涙",
+      "title": "育成14位→お立ち台 西武仲田が涙",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-25T13:50:31.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593073?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593070?source=rss-新学期前 子どものSOSサイン注意",
+      "title": "新学期前 子どものSOSサイン注意",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-25T13:35:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593070?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593069?source=rss-阪神敗戦 優勝マジック点灯ならず",
+      "title": "阪神敗戦 優勝マジック点灯ならず",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-25T13:31:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593069?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593065?source=rss-長州小力がプロレス復帰戦で勝利",
+      "title": "長州小力がプロレス復帰戦で勝利",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-25T12:53:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593065?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593063?source=rss-バレー女子3連勝 決勝T進出決定",
       "title": "バレー女子3連勝 決勝T進出決定",
@@ -189,15 +252,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6593042?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6593043?source=rss-スイカジュース 日本で人気の背景",
-      "title": "スイカジュース 日本で人気の背景",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-25T09:06:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593043?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593041?source=rss-アジア大会の日程変更 選手ら困惑",
       "title": "アジア大会の日程変更 選手ら困惑",
       "source": "Yahoo!ニュース スポーツ",
@@ -223,15 +277,6 @@
       "publishedAt": "2026-08-25T08:51:52.000Z",
       "description": "楽天グループは8月25日、低価格なファッションアイテムや雑貨などを集めたオンラインストア「楽天ラクヨコ」を開設した。若年層向けに約6万点の商品を数百円から販売する。品ぞろえは今後順次拡充する予定。",
       "url": "https://www.itmedia.co.jp/news/article/2608/25/2000000757/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593036?source=rss-FC東京 誹謗中傷や替え歌に警鐘",
-      "title": "FC東京 誹謗中傷や替え歌に警鐘",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-25T08:40:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593036?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6593030?source=rss-モス スーパーなどで冷食販売へ",
@@ -270,33 +315,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6593033?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593031?source=rss-高市氏と麻生氏が会談 昼食を共に",
-      "title": "高市氏と麻生氏が会談 昼食を共に",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-25T08:14:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593031?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593029?source=rss-田中将大 2カ月半ぶりに1軍合流",
-      "title": "田中将大 2カ月半ぶりに1軍合流",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-25T08:11:15.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593029?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593025?source=rss-韓国サッカー危機 国民の信頼失墜",
-      "title": "韓国サッカー危機 国民の信頼失墜",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-25T07:43:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593025?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/25/2000000736/-「ChatGPTでAdobeツールを動かす」を検証 静止画の編集は快適、一方で動画は……",
       "title": "「ChatGPTでAdobeツールを動かす」を検証 静止画の編集は快適、一方で動画は……",
       "source": "ITmedia NEWS",
@@ -324,15 +342,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6593017?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593015?source=rss-燕・石川雅規46歳 今季初1軍合流",
-      "title": "燕・石川雅規46歳 今季初1軍合流",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-25T07:03:24.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593015?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593013?source=rss-日航機墜落 修理ミス巡り国公表へ",
       "title": "日航機墜落 修理ミス巡り国公表へ",
       "source": "Yahoo!ニュース 国内",
@@ -340,15 +349,6 @@
       "publishedAt": "2026-08-25T06:28:31.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6593013?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592996?source=rss-高級化or大衆化 外食市場巡る動き",
-      "title": "高級化or大衆化 外食市場巡る動き",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-25T05:31:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592996?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6593005?source=rss-調整さん 20年で日程調整4119万件",
