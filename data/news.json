@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T03:51:38.161Z",
+  "updatedAt": "2026-08-25T06:54:50.423Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,132 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593014?source=rss-部活や登校 サングラスOK広がる",
+      "title": "部活や登校 サングラスOK広がる",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-25T06:46:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593014?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593013?source=rss-日航機墜落 修理ミス巡り国公表へ",
+      "title": "日航機墜落 修理ミス巡り国公表へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-25T06:28:31.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593013?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593011?source=rss-不祥事表面化 韓国サッカーに危機",
+      "title": "不祥事表面化 韓国サッカーに危機",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-25T06:19:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593011?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6593008?source=rss-東武事故受け AC広告に差し替え",
+      "title": "東武事故受け AC広告に差し替え",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-25T05:36:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593008?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592996?source=rss-高級化or大衆化 外食市場巡る動き",
+      "title": "高級化or大衆化 外食市場巡る動き",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-25T05:31:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592996?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592997?source=rss-政府のアニメ支援 現場に届かぬ訳",
+      "title": "政府のアニメ支援 現場に届かぬ訳",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-25T05:21:29.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592997?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6593005?source=rss-調整さん 20年で日程調整4119万件",
+      "title": "調整さん 20年で日程調整4119万件",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-25T05:05:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593005?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/25/2000000742/-新「マイナアプリ」登場、旧「マイナポータルアプリ」との違いは 一通り触ってみた",
+      "title": "新「マイナアプリ」登場、旧「マイナポータルアプリ」との違いは 一通り触ってみた",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-25T04:49:36.000Z",
+      "description": "デジタル庁は8月25日、「マイナポータルアプリ」と「デジタル認証アプリ」を統合した新「マイナアプリ」の提供を始めた。移行にどれだけ手間がかかるのか、記者のiPhoneで実際に試した。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/25/2000000742/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/25/2000000740/-パスポートのオンライン申請で「iPhoneのマイナカード」利用可能に 実物カードの読み取り不要",
+      "title": "パスポートのオンライン申請で「iPhoneのマイナカード」利用可能に 実物カードの読み取り不要",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-25T04:43:05.000Z",
+      "description": "デジタル庁は8月25日、マイナポータルのパスポートオンライン申請機能を刷新し、「iPhoneのマイナンバーカード」に対応した。事前にマイナンバーカードをiPhoneへ追加しておけば、暗証番号の入力や実物のカードの読み取りに代わり、端末の顔認証や指紋認証を使ってオンライン申請できる。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/25/2000000740/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/25/2000000741/-「スマホしまって楽しんで」テーマパークのカメラで来場者自動撮影、那須ハイ「プレスマ」話題",
+      "title": "「スマホしまって楽しんで」テーマパークのカメラで来場者自動撮影、那須ハイ「プレスマ」話題",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-25T04:42:41.000Z",
+      "description": "「すごく良いサービス」「親の写真がない、を救ってくれる」などと反響が広がっている。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/25/2000000741/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/25/2000000736/-「ChatGPTでAdobeツールを動かす」を検証 静止画の編集は快適、一方で動画は……",
+      "title": "「ChatGPTでAdobeツールを動かす」を検証 静止画の編集は快適、一方で動画は……",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-25T04:36:55.000Z",
+      "description": "「@adobe」と打つだけで、PhotoshopもPremiereもChatGPTの中から呼び出せる。8月7日に公開されたAdobeの統合プラグインは、アプリの使い方を覚えなくても作りたいものが作れる世界の入口に見える。その入口は、どこまで開いているのか。静止画から動画まで、実際の仕事で使えるのかを試した。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/25/2000000736/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6593000?source=rss-ハビタ 当初の報告巡り遺族に謝罪",
+      "title": "ハビタ 当初の報告巡り遺族に謝罪",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-25T04:04:01.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593000?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592998?source=rss-キンタローが特殊メイク 会場爆笑",
+      "title": "キンタローが特殊メイク 会場爆笑",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-25T03:53:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592998?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592999?source=rss-ピコ太郎 痛風かかえ過酷企画完走",
+      "title": "ピコ太郎 痛風かかえ過酷企画完走",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-25T03:53:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6592999?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592994?source=rss-クマ撃退スプレー 性能に推奨要件",
       "title": "クマ撃退スプレー 性能に推奨要件",
       "source": "Yahoo!ニュース 国内",
@@ -61,15 +187,6 @@
       "publishedAt": "2026-08-25T03:06:35.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592993?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592988?source=rss-東武死亡事故受け 自社CMを自粛",
-      "title": "東武死亡事故受け 自社CMを自粛",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-25T02:53:24.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592988?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592985?source=rss-成果を出す社員はAIどう活用 分析",
@@ -142,15 +259,6 @@
       "publishedAt": "2026-08-25T01:00:38.000Z",
       "description": "日本にも拠点を置くRLWRLD（リアルワールド）は、フィジカルAI分野で注目を集める国際企業だ。産業用ロボットの導入もかなり進んでいる日本市場で最近起こった変化について聞いた。",
       "url": "https://www.itmedia.co.jp/news/article/2608/25/2000000731/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592972?source=rss-「将門塚」で迷惑配信 刑事責任は",
-      "title": "「将門塚」で迷惑配信 刑事責任は",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-25T00:25:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592972?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592971?source=rss-路上売春 買う側処罰案に賛否の訳",
@@ -279,15 +387,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592931?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592929?source=rss-ICC制裁巡り超党派議連が非難声明",
-      "title": "ICC制裁巡り超党派議連が非難声明",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-24T12:32:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592929?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592904?source=rss-VIVANT「ガバガバ考察」の動きも",
       "title": "VIVANT「ガバガバ考察」の動きも",
       "source": "Yahoo!ニュース エンタメ",
@@ -295,15 +394,6 @@
       "publishedAt": "2026-08-24T11:55:58.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592904?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592920?source=rss-SCANDAL活動終了 23年にギネス",
-      "title": "SCANDAL活動終了 23年にギネス",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-24T11:40:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592920?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592917?source=rss-優木まおみ離婚 昨年から母子留学",
@@ -342,15 +432,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592914?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592910?source=rss-プルデンシャル 自粛中に不祥事か",
-      "title": "プルデンシャル 自粛中に不祥事か",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-24T10:18:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592910?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/24/2000000726/-東京の下町や浦安周辺はなぜ揺れやすい？ 日本地震工学会の「揺れやすさ」マップが話題",
       "title": "東京の下町や浦安周辺はなぜ揺れやすい？ 日本地震工学会の「揺れやすさ」マップが話題",
       "source": "ITmedia NEWS",
@@ -358,15 +439,6 @@
       "publishedAt": "2026-08-24T09:44:33.000Z",
       "description": "関東地方の「揺れやすさ」を色分けした地図が、Xで注目を集めている。日本地震工学会が8月23日、公式アカウントで投稿したもので、同日未明の茨城県南部の地震で観測した震度の分布と見比べると、赤い場所に震度5弱や震度4が集まっている。",
       "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000726/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6592907?source=rss-ママせかタイアップ中止 厚労省",
-      "title": "ママせかタイアップ中止 厚労省",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-24T09:26:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592907?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/24/2000000728/-消費者庁、「ダークパターン」規制へ 特商法改正視野に中間取りまとめ案",
@@ -396,15 +468,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6592901?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6592899?source=rss-ファミマがレジ端末の刷新検討",
-      "title": "ファミマがレジ端末の刷新検討",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-24T09:05:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592899?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/24/2000000725/-ドコモ・バイクシェア、新ブランドへの刷新また延期 8月のシステム障害受け",
       "title": "ドコモ・バイクシェア、新ブランドへの刷新また延期 8月のシステム障害受け",
       "source": "ITmedia NEWS",
@@ -412,15 +475,6 @@
       "publishedAt": "2026-08-24T08:46:13.000Z",
       "description": "ドコモ・バイクシェア（東京都港区）は8月24日、9月1日に予定していたサービスブランド「NOLL」への刷新を延期すると発表した。8月1日のサービス仕様変更後、全国でシステム障害が発生したことを受け、現行サービスの安定した提供や顧客対応を優先すると判断した。",
       "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000725/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592894?source=rss-優木まおみが離婚 2013年に結婚",
-      "title": "優木まおみが離婚 2013年に結婚",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-24T08:18:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592894?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592885?source=rss-バレー黒後愛が海外挑戦 会見で涙",
@@ -468,33 +522,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000715/"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/24/2000000712/-シャオミ、スマホ・タブレット計11製品を値上げ 最大33％、9月1日から メモリ高騰で",
-      "title": "シャオミ、スマホ・タブレット計11製品を値上げ 最大33％、9月1日から メモリ高騰で",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-24T03:32:35.000Z",
-      "description": "中国Xiaomi傘下のXiaomi Japanは8月24日、「Xiaomi 17T Pro」「POCO X8 Pro」などスマートフォン・タブレット計11製品の値上げを発表した。9月1日から順次適用し、値上げ率は約5?33％。メモリ価格の高騰を理由に挙げている。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000712/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/24/2000000710/-「不味そうすぎ」AIメニュー画像はどう作られる？ AIで“岩のような唐揚げ”再現に挑戦した",
-      "title": "「不味そうすぎ」AIメニュー画像はどう作られる？ AIで“岩のような唐揚げ”再現に挑戦した",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-24T03:11:23.000Z",
-      "description": "いまどきのAIはリアルで高画質な画像を出力できるはずなのに、なぜ“不味そうな”POPができるのか、謎に思ったので、AI（ChatGPT Sol 高）に聞いてみた。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000710/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/24/2000000662/-“メタボ”が脳にゴミを詰まらせる？ 「においが分かりにくい」経て認知症へ 米大学が新説",
-      "title": "“メタボ”が脳にゴミを詰まらせる？ 「においが分かりにくい」経て認知症へ 米大学が新説",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-24T02:00:00.000Z",
-      "description": "米テキサス大学ヘルスサイエンスセンター・サンアントニオ校と米メソジスト病院に所属する研究者らが国際学術誌Frontiers in Neuroscienceで発表した論文「The olfactory-glymphatic syndrome: linking smell dysfunction, cognitive imp...",
-      "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000662/"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592850?source=rss-山下美夢有 圧勝で米ツアー4勝目",
       "title": "山下美夢有 圧勝で米ツアー4勝目",
       "source": "Yahoo!ニュース スポーツ",
@@ -502,15 +529,6 @@
       "publishedAt": "2026-08-24T01:37:40.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592850?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6592846?source=rss-MLB登板の日本勢4投手「総崩れ」",
-      "title": "MLB登板の日本勢4投手「総崩れ」",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-24T00:54:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592846?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592770?source=rss-スマホ乗っ取られ詐欺SMSのbot化",
@@ -529,15 +547,6 @@
       "publishedAt": "2026-08-23T04:18:26.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592760?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/20/2000000643/-中国の動画サイト「bilibili」にグローバル版アプリ 日本でも配信開始 まずはAndroidから",
-      "title": "中国の動画サイト「bilibili」にグローバル版アプリ 日本でも配信開始 まずはAndroidから",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-23T04:11:10.000Z",
-      "description": "中国の動画共有サービス「bilibili」は8月19日、グローバル版アプリの提供を開始したと発表した。まずAndroid版をGoogle Playで配信しており、本人確認書類なしでアカウントを登録できる。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000643/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592727?source=rss-人型ロボ100mボルト超え 直後炎上",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-08-22T11:20:45.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6592695?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592628?source=rss-「味の素」広報にAI 炎上の本質",
-      "title": "「味の素」広報にAI 炎上の本質",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-22T01:54:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592628?source=rss"
     }
   ]
 }
