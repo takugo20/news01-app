@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T18:44:04.491Z",
+  "updatedAt": "2026-08-25T21:32:19.546Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593082?source=rss-財務省概算要求 国債費が過去最高",
+      "title": "財務省概算要求 国債費が過去最高",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-25T21:28:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593082?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6593081?source=rss-「救命病棟24時」13年ぶり復活",
+      "title": "「救命病棟24時」13年ぶり復活",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-25T21:10:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593081?source=rss"
+    },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/26/2000000778/-「Mac Studio」待望の新モデル M5 UltraでAI性能は最大4.3倍に 512GBメモリも選べる",
       "title": "「Mac Studio」待望の新モデル M5 UltraでAI性能は最大4.3倍に 512GBメモリも選べる",
@@ -169,15 +187,6 @@
       "publishedAt": "2026-08-25T11:13:01.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6593055?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593052?source=rss-「令和8年8月8日」婚 都内7650件",
-      "title": "「令和8年8月8日」婚 都内7650件",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-25T10:54:15.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593052?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593053?source=rss-西武1軍復帰の渡部聖弥 負傷交代",
@@ -520,15 +529,6 @@
       "publishedAt": "2026-08-24T12:54:36.000Z",
       "description": "人型ロボットが独特なフォームでトラックを駆け抜ける映像が、SNSで話題だ。ロボットは、中国の北京人形機器人創新中心（TianGong Robotics）が開発した「天工 Omni」。8月23日（現地時間）、北京で開催中の「第2回世界人型ロボット運動会」の400m走・小型組で、45秒66を記録し優勝した。",
       "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000730/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6592904?source=rss-VIVANT「ガバガバ考察」の動きも",
-      "title": "VIVANT「ガバガバ考察」の動きも",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-24T11:55:58.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6592904?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592916?source=rss-ダークパターン 規制強化の方針",
