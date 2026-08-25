@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T15:47:16.457Z",
+  "updatedAt": "2026-08-25T18:44:04.491Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/26/2000000778/-「Mac Studio」待望の新モデル M5 UltraでAI性能は最大4.3倍に 512GBメモリも選べる",
+      "title": "「Mac Studio」待望の新モデル M5 UltraでAI性能は最大4.3倍に 512GBメモリも選べる",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-25T17:26:42.000Z",
+      "description": "米Appleが、デスクトップPC「Mac Studio」の新モデルを発表した。新チップ「M5 Ultra」を載せた上位モデルはユニファイドメモリを最大512GB搭載でき、下位のM5 Max搭載モデルは最大128GB。世界的なメモリ不足で、現行モデルの選択肢は最大96GBまで絞られていた。価格は41万9800円から。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/26/2000000778/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/26/2000000777/-新型「Mac mini」登場 M6チップに刷新、1万5000円アップの14万9800円から 上位はM5 Proに",
+      "title": "新型「Mac mini」登場 M6チップに刷新、1万5000円アップの14万9800円から 上位はM5 Proに",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-25T15:44:23.000Z",
+      "description": "米Appleが、新型「Mac mini」を発表した。標準モデルには同社初の2nmチップ「M6」、上位モデルには「M5 Pro」を搭載する。価格は14万9800円からで、同じメモリ16GB／ストレージ256GB構成の現行機（13万4800円）から上がった。9月22日発売。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/26/2000000777/"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593078?source=rss-バレー秋本が16得点 TV解説は母",
       "title": "バレー秋本が16得点 TV解説は母",
@@ -538,24 +556,6 @@
       "publishedAt": "2026-08-24T09:44:33.000Z",
       "description": "関東地方の「揺れやすさ」を色分けした地図が、Xで注目を集めている。日本地震工学会が8月23日、公式アカウントで投稿したもので、同日未明の茨城県南部の地震で観測した震度の分布と見比べると、赤い場所に震度5弱や震度4が集まっている。",
       "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000726/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/24/2000000728/-消費者庁、「ダークパターン」規制へ 特商法改正視野に中間取りまとめ案",
-      "title": "消費者庁、「ダークパターン」規制へ 特商法改正視野に中間取りまとめ案",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-24T09:23:27.000Z",
-      "description": "消費者庁は8月24日、消費者を誤認させたり不安を生じさせたりして契約に誘導する表示・UI、いわゆる「ダークパターン」への規律などを盛り込んだ、有識者検討会の中間取りまとめ案を公表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000728/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/24/2000000727/-将門塚によじ登り動画配信、男性が謝罪 不敬避けてきた場所……国税庁も「たたりの噂」",
-      "title": "将門塚によじ登り動画配信、男性が謝罪 不敬避けてきた場所……国税庁も「たたりの噂」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-24T09:22:19.000Z",
-      "description": "平安時代の豪族、平将門（903?940年）の首を供養する東京都千代田区大手町の将門塚で、動画配信者の男性が石碑をよじ登り、批判を受けてSNSで謝罪した。将門塚は都の旧跡に指定されているうえ、「怨霊伝説」があり、敬意を欠いた行為が避けられてきた。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000727/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6592770?source=rss-スマホ乗っ取られ詐欺SMSのbot化",
