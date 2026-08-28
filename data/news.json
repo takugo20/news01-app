@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T13:58:23.896Z",
+  "updatedAt": "2026-08-28T00:18:25.736Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,96 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593359?source=rss-由伸 まさかの先頭打者に初球被弾",
+      "title": "由伸 まさかの先頭打者に初球被弾",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-28T00:08:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593359?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593357?source=rss-草間彌生さん死去 自身救った芸術",
+      "title": "草間彌生さん死去 自身救った芸術",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-27T23:43:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593357?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6593356?source=rss-なぜ「定年廃止」 変わる人事制度",
+      "title": "なぜ「定年廃止」 変わる人事制度",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-08-27T23:37:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593356?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/28/2000000877/-キオクシア、北上工場に新製造棟建設 「BiCS FLASH」増強、29年度中に稼働へ",
+      "title": "キオクシア、北上工場に新製造棟建設 「BiCS FLASH」増強、29年度中に稼働へ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-27T23:35:00.000Z",
+      "description": "政府からの支援を前提に投資し、2029年度中の稼働開始を目指す。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000877/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593355?source=rss-公明も中道への合流見送り視野に",
+      "title": "公明も中道への合流見送り視野に",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-27T23:00:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593355?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593353?source=rss-きょう北海道～東海で大雨警戒",
+      "title": "きょう北海道～東海で大雨警戒",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-27T22:48:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593353?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6593352?source=rss-映画まどマギ 3度の延期経て公開",
+      "title": "映画まどマギ 3度の延期経て公開",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-27T22:47:56.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593352?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593350?source=rss-BC埼玉の清田育宏監督 活動自粛",
+      "title": "BC埼玉の清田育宏監督 活動自粛",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-27T22:31:17.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593350?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593349?source=rss-八村が29得点大暴れ サウジに圧勝",
+      "title": "八村が29得点大暴れ サウジに圧勝",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-27T22:29:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593349?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6593347?source=rss-「相棒」シーズン25が10月開始",
+      "title": "「相棒」シーズン25が10月開始",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-27T21:40:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593347?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593339?source=rss-阪神3連敗阻止 坂本が逆転2ラン",
       "title": "阪神3連敗阻止 坂本が逆転2ラン",
       "source": "Yahoo!ニュース スポーツ",
@@ -54,15 +144,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6593338?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593332?source=rss-バレー女子勝利 あと2勝で五輪へ",
-      "title": "バレー女子勝利 あと2勝で五輪へ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-27T12:27:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593332?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593331?source=rss-立憲 3党の早期合流見送りを伝達",
       "title": "立憲 3党の早期合流見送りを伝達",
       "source": "Yahoo!ニュース 国内",
@@ -70,24 +151,6 @@
       "publishedAt": "2026-08-27T12:18:07.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6593331?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593325?source=rss-28日は広い範囲で大雨予想 警戒を",
-      "title": "28日は広い範囲で大雨予想 警戒を",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-27T11:30:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593325?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6593326?source=rss-宮崎空港 搭乗口付近で煙が充満",
-      "title": "宮崎空港 搭乗口付近で煙が充満",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-08-27T11:24:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593326?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/27/2000000871/-初の“指輪型たまごっち”の秘密、開発者に聞く 「驚きのあるデバイスを」「前面ボタンは飾りです」",
@@ -160,15 +223,6 @@
       "publishedAt": "2026-08-27T09:36:21.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6593311?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593310?source=rss-豊昇龍が膝手術 今後に師匠危機感",
-      "title": "豊昇龍が膝手術 今後に師匠危機感",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-27T09:26:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593310?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/27/2000000868/-トヨタ、28年にAI自動運転車を投入 「E2E」と事前ルール規定を組み合わせるハイブリッド方式",
@@ -414,33 +468,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000823/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593249?source=rss-草間氏死去 直前まで絵筆手放さず",
-      "title": "草間氏死去 直前まで絵筆手放さず",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-27T02:56:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593249?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593244?source=rss-芸術家の草間彌生さん死去 97歳",
-      "title": "芸術家の草間彌生さん死去 97歳",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-27T02:14:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593244?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593245?source=rss-龍谷大 硬式野球部の活動停止説明",
-      "title": "龍谷大 硬式野球部の活動停止説明",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-27T02:14:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593245?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/27/2000000833/-「マイナアプリ」一部端末でログインできない不具合 リリースから2日",
       "title": "「マイナアプリ」一部端末でログインできない不具合 リリースから2日",
       "source": "ITmedia NEWS",
@@ -520,33 +547,6 @@
       "publishedAt": "2026-08-26T23:24:31.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6593216?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/27/2000000827/-個人で契約したChatGPTに、会社の情報を入力していいの？ 超初心者向けAI解説",
-      "title": "個人で契約したChatGPTに、会社の情報を入力していいの？ 超初心者向けAI解説",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-26T22:00:00.000Z",
-      "description": "もはや生活に欠かせない存在となりつつある生成AI。毎日の仕事においても例外でなく、便利に使っている人が多いでしょう。しかし、機密情報をむやみにAIに共有してしまうと、思わぬリスクにつながるかもしれません。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000827/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6593194?source=rss-ABC横山太一アナ 東大大学院進学",
-      "title": "ABC横山太一アナ 東大大学院進学",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-26T14:13:09.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593194?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6593188?source=rss-人気歌手の海外公演 中止相次ぐ",
-      "title": "人気歌手の海外公演 中止相次ぐ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-26T12:52:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593188?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6593151?source=rss-食パン不法投棄 偽画像拡散相次ぐ",
