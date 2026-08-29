@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T16:29:25.139Z",
+  "updatedAt": "2026-08-29T20:43:09.719Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,31 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593574?source=rss-茨城県で最大震度4 津波心配なし",
-      "title": "茨城県で最大震度4 津波心配なし",
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593579?source=rss-中継・気象庁会見 福井に特別警報",
+      "title": "中継・気象庁会見 福井に特別警報",
       "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-08-29T15:23:44.000Z",
+      "publishedAt": "2026-08-29T20:34:35.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593574?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6593579?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593206?source=rss-安全確保を 大雨のときのNG行動",
+      "title": "安全確保を 大雨のときのNG行動",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-29T19:59:00.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593206?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593577?source=rss-命守って 福井県に大雨特別警報",
+      "title": "命守って 福井県に大雨特別警報",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-29T19:58:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593577?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593573?source=rss-自責点0で黒星 SB大津に監督謝罪",
@@ -214,24 +232,6 @@
       "publishedAt": "2026-08-29T07:22:19.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6593522?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593516?source=rss-北陸29-31日も大雨恐れ 厳重警戒",
-      "title": "北陸29-31日も大雨恐れ 厳重警戒",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-29T06:34:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593516?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593503?source=rss-高市首相が安野氏からAI指南 狙い",
-      "title": "高市首相が安野氏からAI指南 狙い",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-29T04:49:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593503?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6593500?source=rss-円が下落 介入効果4週間で陰り",
