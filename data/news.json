@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T20:43:09.719Z",
+  "updatedAt": "2026-08-29T23:08:20.734Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,58 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593579?source=rss-中継・気象庁会見 福井に特別警報",
-      "title": "中継・気象庁会見 福井に特別警報",
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6593593?source=rss-Number_i 9/2ド軍戦で始球式",
+      "title": "Number_i 9/2ド軍戦で始球式",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-29T23:04:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593593?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593589?source=rss-大谷の投手復帰が白紙に 監督説明",
+      "title": "大谷の投手復帰が白紙に 監督説明",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-29T22:28:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593589?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/30/2000000911/-「FANZAスタジオ」爆誕へ 成人向けAIマンガに違和感を覚えるマンガ家も期待する部分とは？",
+      "title": "「FANZAスタジオ」爆誕へ 成人向けAIマンガに違和感を覚えるマンガ家も期待する部分とは？",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-29T22:16:00.000Z",
+      "description": "成人向けECサイトである「FANZA」で、生成AIを使って作品を作り、公開できるサービス「FANZAスタジオ」の先行体験がスタートしました。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000911/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593588?source=rss-福井県に大雨特別警報 最大級警戒",
+      "title": "福井県に大雨特別警報 最大級警戒",
       "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-08-29T20:34:35.000Z",
+      "publishedAt": "2026-08-29T22:08:02.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593579?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6593588?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593581?source=rss-福井県に大雨特別警報 最新情報",
+      "title": "福井県に大雨特別警報 最新情報",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-29T21:23:53.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593581?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593582?source=rss-大雨で浸水リスク 車移動は危険",
+      "title": "大雨で浸水リスク 車移動は危険",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-29T21:14:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593582?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593206?source=rss-安全確保を 大雨のときのNG行動",
@@ -52,15 +97,6 @@
       "publishedAt": "2026-08-29T19:59:00.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6593206?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593577?source=rss-命守って 福井県に大雨特別警報",
-      "title": "命守って 福井県に大雨特別警報",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-29T19:58:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593577?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593573?source=rss-自責点0で黒星 SB大津に監督謝罪",
@@ -171,15 +207,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6593547?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593546?source=rss-横浜織田に大学生の洗礼 2回6失点",
-      "title": "横浜織田に大学生の洗礼 2回6失点",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-29T10:37:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593546?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593545?source=rss-千葉豪雨 半壊判定が大幅増見通し",
       "title": "千葉豪雨 半壊判定が大幅増見通し",
       "source": "Yahoo!ニュース 国内",
@@ -261,15 +288,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6593489?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593488?source=rss-邦人大学生の露派遣を再開 外務省",
-      "title": "邦人大学生の露派遣を再開 外務省",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-29T02:35:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593488?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6593483?source=rss-17年で社長が7人 百貨店消滅の街",
       "title": "17年で社長が7人 百貨店消滅の街",
       "source": "Yahoo!ニュース 経済",
@@ -295,15 +313,6 @@
       "publishedAt": "2026-08-28T23:32:34.000Z",
       "description": "昭和50年代に男の子達が熱狂した通称「スーパーカー自転車」をご存知でしょうか。多くの自転車メーカーがクルマをモチーフにした装備の児童向け自転車を投入し、それが大ヒットしました。そんな昭和の自転車が、令和版になって復活。しかも大人向けもあります。",
       "url": "https://www.itmedia.co.jp/news/article/2608/29/2000000934/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6593462?source=rss-TBS・山形純菜アナ 結婚を発表",
-      "title": "TBS・山形純菜アナ 結婚を発表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-28T22:16:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593462?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6593460?source=rss-FRBによる9月利​上げ観測高まる",
@@ -529,15 +538,6 @@
       "publishedAt": "2026-08-28T04:10:56.000Z",
       "description": "不正アクセスで証券口座を乗っ取られ、保有する有価証券を勝手に売却されたとする79人が27日、大手証券会社4社に対し、原状回復を求める民事調停を東京簡裁に申し立てた。同日、都内で記者会見した被害者らは「口座から一銭もなくなっていた。もぬけの殻だった」などと訴え、早急な対応を求めた。",
       "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000891/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/28/2000000633/-避けるのか、とことん使いこなすのか──明治のCMに生成AIを取り入れた映像監督の本音",
-      "title": "避けるのか、とことん使いこなすのか──明治のCMに生成AIを取り入れた映像監督の本音",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-28T03:58:04.000Z",
-      "description": "「AI動画はあまり好きになれない」。そう語る映像監督が、明治のプロテイン新商品「ザバス BIOPRO」のCMで、巨大なUFOが空を飛び交うSF映画のような映像をAIで作り上げた。景表法や薬機法による表現の制約、CGには足りない予算。AIをどこまで使い、どこから先を人の手に残したのかを解説する。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000633/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6593388?source=rss-購入済みゲームの維持 各社対応は",
