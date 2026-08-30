@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T23:08:20.734Z",
+  "updatedAt": "2026-08-30T04:41:28.348Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,69 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593608?source=rss-今季のプロ野球は死球多い? 検証",
+      "title": "今季のプロ野球は死球多い? 検証",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-30T03:03:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593608?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593611?source=rss-福井3市 大雨危険警報に引き下げ",
+      "title": "福井3市 大雨危険警報に引き下げ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-30T02:54:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593611?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593610?source=rss-福井県で大雨 最新情報まとめ",
+      "title": "福井県で大雨 最新情報まとめ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-30T02:54:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593610?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593603?source=rss-栗山巧が異例引退会見 ファン同席",
+      "title": "栗山巧が異例引退会見 ファン同席",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-30T01:19:17.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593603?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593599?source=rss-中道 結党7カ月で瓦解の危機",
+      "title": "中道 結党7カ月で瓦解の危機",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-30T00:56:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593599?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/30/2000000945/-OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由",
+      "title": "OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-29T23:12:23.000Z",
+      "description": "OpenAIは、AIコードエディタ「Cursor」へのモデル提供契約を11月12日に終了すると発表した。SpaceXによるCursor買収を受け、イーロン・マスク氏の過去の契約違反実績から規約順守を確信できないことを理由に挙げている。Cursor側は影響が限定的としつつ協議継続を表明、Anthropicは支援継続を示し...",
+      "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593594?source=rss-大坂なおみ「私の本業は母親」",
+      "title": "大坂なおみ「私の本業は母親」",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-29T23:09:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593594?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6593593?source=rss-Number_i 9/2ド軍戦で始球式",
       "title": "Number_i 9/2ド軍戦で始球式",
       "source": "Yahoo!ニュース エンタメ",
@@ -61,24 +124,6 @@
       "publishedAt": "2026-08-29T22:16:00.000Z",
       "description": "成人向けECサイトである「FANZA」で、生成AIを使って作品を作り、公開できるサービス「FANZAスタジオ」の先行体験がスタートしました。",
       "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000911/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593588?source=rss-福井県に大雨特別警報 最大級警戒",
-      "title": "福井県に大雨特別警報 最大級警戒",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-29T22:08:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593588?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593581?source=rss-福井県に大雨特別警報 最新情報",
-      "title": "福井県に大雨特別警報 最新情報",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-29T21:23:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593581?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593582?source=rss-大雨で浸水リスク 車移動は危険",
@@ -171,15 +216,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6593561?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593555?source=rss-阪神・森下が死球交代 甲子園怒号",
-      "title": "阪神・森下が死球交代 甲子園怒号",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-29T12:20:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593555?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593551?source=rss-バレー女子が完敗 選手は5秒絶句",
       "title": "バレー女子が完敗 選手は5秒絶句",
       "source": "Yahoo!ニュース スポーツ",
@@ -187,15 +223,6 @@
       "publishedAt": "2026-08-29T12:12:22.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6593551?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593552?source=rss-プロ野球引退後ボディビル 舞台裏",
-      "title": "プロ野球引退後ボディビル 舞台裏",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-29T11:48:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593552?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6593547?source=rss-52歳でアイドルに 看護師から転身",
@@ -241,24 +268,6 @@
       "publishedAt": "2026-08-29T09:07:03.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6593534?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593531?source=rss-プロ入り後に脊髄損傷 数日後結婚",
-      "title": "プロ入り後に脊髄損傷 数日後結婚",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-29T08:55:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593531?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593522?source=rss-睡眠導入剤を乱用 青い舌の少女",
-      "title": "睡眠導入剤を乱用 青い舌の少女",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-29T07:22:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593522?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6593500?source=rss-円が下落 介入効果4週間で陰り",
@@ -529,15 +538,6 @@
       "publishedAt": "2026-08-28T04:21:28.000Z",
       "description": "生成AIスタートアップのSpiralAI（東京都千代田区）は8月27日、スマートフォン向けAIチャットアプリ「RyzaChat:AI ライザと創るあなただけのひと夏の夢物語」を巡り、利用規約に違反する行為が確認されたとして注意喚起した。国内での提供開始から2日後の発表となる。",
       "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000892/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/28/2000000891/-NISA口座「もぬけの殻」に 不正アクセス被害者らが証券4社に原状回復求め調停",
-      "title": "NISA口座「もぬけの殻」に 不正アクセス被害者らが証券4社に原状回復求め調停",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-28T04:10:56.000Z",
-      "description": "不正アクセスで証券口座を乗っ取られ、保有する有価証券を勝手に売却されたとする79人が27日、大手証券会社4社に対し、原状回復を求める民事調停を東京簡裁に申し立てた。同日、都内で記者会見した被害者らは「口座から一銭もなくなっていた。もぬけの殻だった」などと訴え、早急な対応を求めた。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000891/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6593388?source=rss-購入済みゲームの維持 各社対応は",
