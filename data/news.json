@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T20:48:24.824Z",
+  "updatedAt": "2026-08-30T23:18:24.359Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,87 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6593701?source=rss-ソニーG35社がAnthropic提訴 米",
+      "title": "ソニーG35社がAnthropic提訴 米",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-08-30T23:01:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593701?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593700?source=rss-31日 東海や九州で猛暑日の予想",
+      "title": "31日 東海や九州で猛暑日の予想",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-30T22:49:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593700?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/31/2000000790/-LinkedInの写真で買収先を絞る──とある階段メーカーが海外M&Aでやっている“地方の優良企業”発掘法",
+      "title": "LinkedInの写真で買収先を絞る──とある階段メーカーが海外M&Aでやっている“地方の優良企業”発掘法",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-30T22:45:00.000Z",
+      "description": "グローバルニッチは高い技術力を持つ一方で、知名度が実力に比べて劣り、ITを駆使して海外でのブランディングや販売に生かしていることも多い。この連載では、こうした企業のIT戦略をインタビューで深堀りする。今回は鉄骨階段を製造・販売する横森製作所に注目。",
+      "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000790/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593698?source=rss-消費減税に「賛成」55% 朝日",
+      "title": "消費減税に「賛成」55% 朝日",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-08-30T22:38:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593698?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593696?source=rss-大谷のスイング異変 足元グラつく",
+      "title": "大谷のスイング異変 足元グラつく",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-30T22:22:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593696?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6593697?source=rss-WEST.2人脱退へ フェス返金対応",
+      "title": "WEST.2人脱退へ フェス返金対応",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-08-30T22:18:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593697?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/31/2000000867/-“リソースの上位集中”は文字・貨幣が根付く前からあった？ 成城大准教授が古墳の体積から導出",
+      "title": "“リソースの上位集中”は文字・貨幣が根付く前からあった？ 成城大准教授が古墳の体積から導出",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-30T22:00:00.000Z",
+      "description": "成城大学の渡邊隼史准教授が発表したプレプリント論文「Zipf’s law before the monetary economy and written administration: volume distribution of kofun, ancient Japanese burial mounds」は、古代日本...",
+      "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000867/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/31/2000000865/-AIが生成した“存在しない病名”、研修医の44％が信用 見抜けた医師との差は？ 仏大学病院が検証",
+      "title": "AIが生成した“存在しない病名”、研修医の44％が信用 見抜けた医師との差は？ 仏大学病院が検証",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-08-30T22:00:00.000Z",
+      "description": "フランスの大学病院「Lille University Hospital」などに所属する研究者らが発表した論文「Hallucination by proxy in LLM-assisted differential diagnosis」は、大規模言語モデル（LLM）がもっともらしく提示した架空の病名が医師にどのような影響...",
+      "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000865/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593693?source=rss-元アマ横綱花田秀虎 角界入り断念",
+      "title": "元アマ横綱花田秀虎 角界入り断念",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-08-30T21:18:53.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593693?source=rss"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6593691?source=rss-WEST. 残る5人の活動「協議中」",
       "title": "WEST. 残る5人の活動「協議中」",
@@ -135,15 +216,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6593669?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593666?source=rss-甲子園2日連続で怒号 佐藤輝死球",
-      "title": "甲子園2日連続で怒号 佐藤輝死球",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-30T11:10:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593666?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593665?source=rss-90歳がV ボディビルは私の人生",
       "title": "90歳がV ボディビルは私の人生",
       "source": "Yahoo!ニュース スポーツ",
@@ -171,15 +243,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6593660?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593658?source=rss-福井大雨 土砂災害に厳重警戒を",
-      "title": "福井大雨 土砂災害に厳重警戒を",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-30T10:18:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593658?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593654?source=rss-こたけ正義感 冤罪をネタにした訳",
       "title": "こたけ正義感 冤罪をネタにした訳",
       "source": "Yahoo!ニュース 国内",
@@ -205,15 +268,6 @@
       "publishedAt": "2026-08-30T09:23:12.000Z",
       "description": "OpenAIと評価機関METRは、Hugging Face侵害事案の技術報告書を公開した。約1200体のAIエージェントが非公式掲示板で結託し、難問攻略のため採点機構を探る過程で攻撃を実行したという。OpenAIは根本原因を報酬ハッキングとし対策を公表したが、METRは自律的集団行動の再発リスクに警戒を示している。",
       "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000949/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593648?source=rss-バレー女子が銅 W杯の出場権獲得",
-      "title": "バレー女子が銅 W杯の出場権獲得",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-30T09:02:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593648?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6593646?source=rss-各地に存在「廃墟モール」の盛衰",
@@ -322,24 +376,6 @@
       "publishedAt": "2026-08-29T14:14:16.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6593568?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6593563?source=rss-映画ちいかわ「X直送型」ヒット",
-      "title": "映画ちいかわ「X直送型」ヒット",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-29T13:50:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593563?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593545?source=rss-千葉豪雨 半壊判定が大幅増見通し",
-      "title": "千葉豪雨 半壊判定が大幅増見通し",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-08-29T10:25:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593545?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6593500?source=rss-円が下落 介入効果4週間で陰り",
@@ -513,15 +549,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000897/"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/28/2000000896/-「5G SAにしたら圏外」──povo、一部スマホで接続不能に KDDI「誤った設定だった」と謝罪",
-      "title": "「5G SAにしたら圏外」──povo、一部スマホで接続不能に KDDI「誤った設定だった」と謝罪",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-28T05:09:24.000Z",
-      "description": "KDDIは8月28日、オンライン専用ブランド「povo2.0」で25日に始めた「5G SA」サービスで、一部の端末がネットワークに接続できない事象が起きていたと発表した。原因は同社側の設定ミスで、27日夜間に修正したという。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000896/"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6593385?source=rss-ゲイツ氏のAI巡る提言 実効性は",
       "title": "ゲイツ氏のAI巡る提言 実効性は",
       "source": "Yahoo!ニュース IT",
@@ -529,24 +556,6 @@
       "publishedAt": "2026-08-28T04:43:32.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6593385?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/28/2000000890/-大学入試センター、公式サイトの資料一覧ページが公開状態に 非公開化は「誤解を避けるため」",
-      "title": "大学入試センター、公式サイトの資料一覧ページが公開状態に 非公開化は「誤解を避けるため」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-28T04:34:09.000Z",
-      "description": "大学入試センターは8月27日、公式Webサイトで本来は閲覧できないページが表示される状態になっていたと発表した。同センターは同日午前、ページを非公開化した。一覧に表示されていた資料は全て公表済みで、情報漏えいはなかったという。ITmedia NEWSは、一覧表示に至った経緯や非公開にした理由を聞いた。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000890/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2608/28/2000000893/-Google、「Gemini Notebook」に購入済み電子書籍を追加できる「Expert Intelligence」",
-      "title": "Google、「Gemini Notebook」に購入済み電子書籍を追加できる「Expert Intelligence」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-08-28T04:25:21.000Z",
-      "description": "Googleは、信頼できる情報源をAI製品で活用する取り組み「Expert Intelligence」を発表した。第1弾として「Google Playブックス」の対象電子書籍を「Gemini Notebook」のソースに追加可能にした。大手出版社の10万冊以上が対象で、今後は他サービスにも拡大する。",
-      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000893/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6593388?source=rss-購入済みゲームの維持 各社対応は",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-08-28T00:54:17.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6593363?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6593293?source=rss-AIエージェント連携し暴走 OpenAI",
-      "title": "AIエージェント連携し暴走 OpenAI",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-08-27T08:30:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593293?source=rss"
     }
   ]
 }
