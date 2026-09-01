@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T18:16:16.736Z",
+  "updatedAt": "2026-09-01T23:09:46.611Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,69 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593932?source=rss-厳しい残暑 熊本など猛暑日の予想",
+      "title": "厳しい残暑 熊本など猛暑日の予想",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-01T23:05:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593932?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6593931?source=rss-SBエナジー 米国でIPOを申請",
+      "title": "SBエナジー 米国でIPOを申請",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-01T22:46:56.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593931?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593930?source=rss-俳優・藤原季節 ボクシングで敗戦",
+      "title": "俳優・藤原季節 ボクシングで敗戦",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-01T22:36:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593930?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6593928?source=rss-異例連ドラ 全話シンガポール撮影",
+      "title": "異例連ドラ 全話シンガポール撮影",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-01T22:33:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593928?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/02/2000001048/-Anthropic、「Claude Fable 5.1」と「Claude Mythos 5.1」発表 「監視の難しさ」への懸念も開示",
+      "title": "Anthropic、「Claude Fable 5.1」と「Claude Mythos 5.1」発表 「監視の難しさ」への懸念も開示",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-01T22:23:30.000Z",
+      "description": "Anthropicは新LLM「Claude Fable 5.1」と「Claude Mythos 5.1」を発表した。科学研究やコーディング性能が大幅に向上し、一般提供のFableに対し、Mythosは厳格な審査制を採用。System Cardでは高度な推論力に伴うエクスプロイト成功率や監視困難性などのリスクも報告されて...",
+      "url": "https://www.itmedia.co.jp/news/article/2609/02/2000001048/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593923?source=rss-エンゼルス 球団売却を正式発表",
+      "title": "エンゼルス 球団売却を正式発表",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-01T21:56:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593923?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593921?source=rss-ヤクルト石川雅規 今季限りで引退",
+      "title": "ヤクルト石川雅規 今季限りで引退",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-01T21:32:12.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6593921?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593917?source=rss-阪神森下の顔付近に投球 怒号飛ぶ",
       "title": "阪神森下の顔付近に投球 怒号飛ぶ",
@@ -124,15 +187,6 @@
       "publishedAt": "2026-09-01T11:40:03.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6593896?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593897?source=rss-沖縄尚学・末吉ら プロ志望届提出",
-      "title": "沖縄尚学・末吉ら プロ志望届提出",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-01T11:39:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593897?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6593895?source=rss-キユーピー マヨネーズなど値上げ",
@@ -315,15 +369,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001023/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593846?source=rss-大坂なおみ 全米OPでド派手衣装",
-      "title": "大坂なおみ 全米OPでド派手衣装",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-01T05:01:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593846?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/01/2000001021/-「NERV防災」緊急地震速報のカウントダウンをロック画面に表示 リアルタイム更新通知に対応",
       "title": "「NERV防災」緊急地震速報のカウントダウンをロック画面に表示 リアルタイム更新通知に対応",
       "source": "ITmedia NEWS",
@@ -405,24 +450,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/01/2000000987/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593833?source=rss-台風24号発生 週後半は大雨の恐れ",
-      "title": "台風24号発生 週後半は大雨の恐れ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-01T02:34:13.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593833?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6593829?source=rss-備蓄米21万t 今月買い戻し実施へ",
-      "title": "備蓄米21万t 今月買い戻し実施へ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-01T02:12:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593829?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/01/2000001005/-NVIDIA、MediaTekの転換社債に35億ドル投資 「NVLink Fusion」採用などでAI協業を強化",
       "title": "NVIDIA、MediaTekの転換社債に35億ドル投資 「NVLink Fusion」採用などでAI協業を強化",
       "source": "ITmedia NEWS",
@@ -450,15 +477,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6593822?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/01/2000001002/-東大、「価値創造学部」新設へ 27年秋入学、授業はすべて英語",
-      "title": "東大、「価値創造学部」新設へ 27年秋入学、授業はすべて英語",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-01T01:18:57.000Z",
-      "description": "秋入学を採用し、国内外から学生を受け入れる。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001002/"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6593820?source=rss-ポケカがアニメ映画の題材に なぜ",
       "title": "ポケカがアニメ映画の題材に なぜ",
       "source": "Yahoo!ニュース エンタメ",
@@ -466,15 +484,6 @@
       "publishedAt": "2026-09-01T00:38:13.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6593820?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6593811?source=rss-堂安のサウジ移籍が破談に 独報道",
-      "title": "堂安のサウジ移籍が破談に 独報道",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-08-31T23:59:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593811?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6593799?source=rss-中道分裂へ 急ごしらえで限界露呈",
@@ -529,15 +538,6 @@
       "publishedAt": "2026-08-31T13:45:34.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6593785?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6593781?source=rss-成宮寛貴 アジアのアワードで快挙",
-      "title": "成宮寛貴 アジアのアワードで快挙",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-08-31T12:57:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593781?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6593762?source=rss-AIに機能追加で情報流出 注意点",
