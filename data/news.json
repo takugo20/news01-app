@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T10:56:21.837Z",
+  "updatedAt": "2026-09-03T16:08:02.059Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,67 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594126?source=rss-週明けにかけ大雨続く恐れ 警戒を",
-      "title": "週明けにかけ大雨続く恐れ 警戒を",
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594147?source=rss-誠お兄さん なぜ順大の特任助教に",
+      "title": "誠お兄さん なぜ順大の特任助教に",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-03T14:56:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594147?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594146?source=rss-大和ハウス 一戸建ての部門再編へ",
+      "title": "大和ハウス 一戸建ての部門再編へ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-03T14:16:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594146?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594140?source=rss-九州で記録的大雨の恐れ 厳重警戒",
+      "title": "九州で記録的大雨の恐れ 厳重警戒",
       "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-09-03T10:28:38.000Z",
+      "publishedAt": "2026-09-03T13:56:35.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594126?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6594140?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594141?source=rss-北乃きい 売れたという感覚ない",
+      "title": "北乃きい 売れたという感覚ない",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-03T13:31:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594141?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594130?source=rss-「純金」実は銅と鉄 偽サイト被害",
+      "title": "「純金」実は銅と鉄 偽サイト被害",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-03T11:10:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594130?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594129?source=rss-維新が閣内協力へ 馬場氏推す方針",
+      "title": "維新が閣内協力へ 馬場氏推す方針",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-03T10:59:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594129?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/03/2000001140/-「仏にドラゴンボールのテーマパーク」報道に東映アニメ「許諾していない」……どこで話がねじくれた？ 話題が錯綜した経緯",
+      "title": "「仏にドラゴンボールのテーマパーク」報道に東映アニメ「許諾していない」……どこで話がねじくれた？ 話題が錯綜した経緯",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-03T10:35:51.000Z",
+      "description": "フランスに「ドラゴンボール」のテーマパークができる――国内外で報じられた計画を巡り、東映アニメーションは8月31日、「一切のライセンス許諾を行っていない」との声明を発表した。日本では、当初の報道が「なぜ日本で立ち上げられなかった」といった議論の種になっていただけに、同社の声明は「許可なしで話が進んでいたのか」と驚きと共...",
+      "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001140/"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594124?source=rss-水ダウ物議 笑いと不快の境界線",
@@ -160,15 +214,6 @@
       "publishedAt": "2026-09-03T07:37:46.000Z",
       "description": "",
       "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001125/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594104?source=rss-東映アニメ 仏DBパーク巡り声明",
-      "title": "東映アニメ 仏DBパーク巡り声明",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-03T07:34:01.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594104?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/03/2000001124/-AWSをゲームで学べる“AWSクエスト”にまさかの新バージョン AIバーチャル顧客と対話可能に",
@@ -450,24 +495,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6594046?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594045?source=rss-木原稔官房長官を留任で調整 首相",
-      "title": "木原稔官房長官を留任で調整 首相",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-02T22:34:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594045?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594044?source=rss-「VIVANT」絶叫台詞がミーム化",
-      "title": "「VIVANT」絶叫台詞がミーム化",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-02T22:19:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594044?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594037?source=rss-MF中村敬斗 仏強豪のリヨン加入",
       "title": "MF中村敬斗 仏強豪のリヨン加入",
       "source": "Yahoo!ニュース スポーツ",
@@ -475,24 +502,6 @@
       "publishedAt": "2026-09-02T21:05:23.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594037?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594031?source=rss-パワハラ報道巡り 東京MKが会見",
-      "title": "パワハラ報道巡り 東京MKが会見",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-02T13:36:56.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594031?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594029?source=rss-長期金利「3%突破」は異常か",
-      "title": "長期金利「3%突破」は異常か",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-02T12:42:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594029?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594024?source=rss-広島から1試合4死球 一触即発状態",
@@ -520,15 +529,6 @@
       "publishedAt": "2026-09-02T10:40:43.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6593978?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/02/2000001093/-「好き嫌い.com」ってどんなサイト？ 運営は個人、国が情プラ法で指定した“好感度掲示板”を開いてみた",
-      "title": "「好き嫌い.com」ってどんなサイト？ 運営は個人、国が情プラ法で指定した“好感度掲示板”を開いてみた",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-02T10:34:25.000Z",
-      "description": "総務省は8月31日、有名人への「好き」「嫌い」を匿名で投票できる「好き嫌い.com」を運営する個人を、情報流通プラットフォーム対処法に基づく大規模事業者に指定した。個人運営のサイトが対象に入るのは初めて。そもそもどんなサイトなのか、実際に開いて確かめた。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/02/2000001093/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6593969?source=rss-論文査読にAI活用 誤情報リスクも",
