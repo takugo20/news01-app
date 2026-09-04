@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T20:33:18.892Z",
+  "updatedAt": "2026-09-04T22:53:53.859Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,51 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594256?source=rss-太平洋側は大雨が長引く 備えを",
+      "title": "太平洋側は大雨が長引く 備えを",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-04T22:43:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594256?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594255?source=rss-茂木外相留任へ 外交の継続性重視",
+      "title": "茂木外相留任へ 外交の継続性重視",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-04T22:26:29.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594255?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594253?source=rss-物議の水ダウ ラーメン評論家苦言",
+      "title": "物議の水ダウ ラーメン評論家苦言",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-04T22:18:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594253?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594250?source=rss-セブンがアパレルに本格参入 なぜ",
+      "title": "セブンがアパレルに本格参入 なぜ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-04T22:02:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594250?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594249?source=rss-屋久島町に特別警報 最新情報",
+      "title": "屋久島町に特別警報 最新情報",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-04T21:38:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594249?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594245?source=rss-屋久島町に土砂災害特別警報",
       "title": "屋久島町に土砂災害特別警報",
       "source": "Yahoo!ニュース 国内",
@@ -52,15 +97,6 @@
       "publishedAt": "2026-09-04T14:44:15.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594243?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594240?source=rss-関東～九州 大雨の終わり見えず",
-      "title": "関東～九州 大雨の終わり見えず",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-04T13:55:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594240?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594239?source=rss-バスケ女子 マリに劇的な逆転勝ち",
@@ -369,15 +405,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6594201?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594203?source=rss-北陸大雨を激甚災害指定へ",
-      "title": "北陸大雨を激甚災害指定へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-04T05:21:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594203?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594199?source=rss-漫画「メダリスト」しばらく休載",
       "title": "漫画「メダリスト」しばらく休載",
       "source": "Yahoo!ニュース エンタメ",
@@ -430,15 +457,6 @@
       "publishedAt": "2026-09-04T03:00:00.000Z",
       "description": "韓国のソウル大学校などに所属する研究者らが2022年に発表した論文「Consumption of 85% cocoa dark chocolate improves mood in association with gut microbial changes in healthy adults: a randomize...",
       "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001142/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594188?source=rss-27年度予算要求 過去最大143兆円",
-      "title": "27年度予算要求 過去最大143兆円",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-04T02:57:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594188?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/04/2000001161/-RIZAP社員、私用AIに顧客の個人情報入力 氏名や疾患、保険証番号など……同社が謝罪",
@@ -495,15 +513,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6594175?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594171?source=rss-最低賃金 政治圧力緩み競争が一服",
-      "title": "最低賃金 政治圧力緩み競争が一服",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-04T00:55:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594171?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594168?source=rss-大谷翔平の首に違和感 監督明かす",
       "title": "大谷翔平の首に違和感 監督明かす",
       "source": "Yahoo!ニュース スポーツ",
@@ -511,15 +520,6 @@
       "publishedAt": "2026-09-04T00:32:12.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594168?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594165?source=rss-不倫より残酷?Tシャツが乾くまで",
-      "title": "不倫より残酷?Tシャツが乾くまで",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-04T00:10:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594165?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/04/2000001118/-「おっぱい」の話ができるSNSと、できないSNS",
