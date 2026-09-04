@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T16:02:53.821Z",
+  "updatedAt": "2026-09-04T20:33:18.892Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594245?source=rss-屋久島町に土砂災害特別警報",
+      "title": "屋久島町に土砂災害特別警報",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-04T20:26:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594245?source=rss"
+    },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594243?source=rss-異例 任天堂2日連続新情報発表へ",
       "title": "異例 任天堂2日連続新情報発表へ",
@@ -547,15 +556,6 @@
       "publishedAt": "2026-09-03T23:19:48.000Z",
       "description": "OpenAIは新モデル「GPT-6 Astra」を公開した。サイバーセキュリティ能力が自社基準で最高の「Critical」に達した初のモデル。提供版は悪用防止のため防御用途に限定し、高度な機能は防御側支援プログラム「Daybreak」で段階的に開放する。数学やコーディング、PC操作など各領域で最高水準を記録した。",
       "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001153/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594153?source=rss-臨時国会 10月上旬に召集で調整",
-      "title": "臨時国会 10月上旬に召集で調整",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-03T22:16:03.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594153?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594110?source=rss-混雑状況を床投影 東京メトロ実証",
