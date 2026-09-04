@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T10:56:25.384Z",
+  "updatedAt": "2026-09-04T16:02:53.821Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,94 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594228?source=rss-大雨 週明けにかけ関東など拡大か",
-      "title": "大雨 週明けにかけ関東など拡大か",
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594243?source=rss-異例 任天堂2日連続新情報発表へ",
+      "title": "異例 任天堂2日連続新情報発表へ",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-09-04T14:44:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594243?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594240?source=rss-関東～九州 大雨の終わり見えず",
+      "title": "関東～九州 大雨の終わり見えず",
       "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-09-04T10:15:06.000Z",
+      "publishedAt": "2026-09-04T13:55:37.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594228?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6594240?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594239?source=rss-バスケ女子 マリに劇的な逆転勝ち",
+      "title": "バスケ女子 マリに劇的な逆転勝ち",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-04T13:43:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594239?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594238?source=rss-バレー男子 薄氷の白星スタート",
+      "title": "バレー男子 薄氷の白星スタート",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-04T13:26:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594238?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594237?source=rss-米8月雇用16.2万人増 予想上回る",
+      "title": "米8月雇用16.2万人増 予想上回る",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-04T13:21:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594237?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594235?source=rss-フィギュア 中井亜美SP首位発進",
+      "title": "フィギュア 中井亜美SP首位発進",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-04T12:44:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594235?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594234?source=rss-ショーのモデルに具志堅用高 歓声",
+      "title": "ショーのモデルに具志堅用高 歓声",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-04T12:36:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594234?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594232?source=rss-家事支援の国家資格化 懸念の声も",
+      "title": "家事支援の国家資格化 懸念の声も",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-04T12:32:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594232?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594231?source=rss-旧姓トルソワ復帰 子が演技見守る",
+      "title": "旧姓トルソワ復帰 子が演技見守る",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-04T11:07:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594231?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594230?source=rss-大阪高裁 Teamsに約6000人誤登録",
+      "title": "大阪高裁 Teamsに約6000人誤登録",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-09-04T11:02:17.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594230?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/04/2000001199/-新宿駅に「ごみ箱ロボット」出現 改札内を自動巡回 JR東が実証実験",
@@ -315,15 +396,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6594191?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594181?source=rss-VIVANT視聴率下げ止まり? 今後は",
-      "title": "VIVANT視聴率下げ止まり? 今後は",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-04T03:04:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594181?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/04/2000001163/-「三省堂書店池袋本店」閉店へ 11年の歴史に幕、惜しむ声続々",
       "title": "「三省堂書店池袋本店」閉店へ 11年の歴史に幕、惜しむ声続々",
       "source": "ITmedia NEWS",
@@ -358,15 +430,6 @@
       "publishedAt": "2026-09-04T02:57:11.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594188?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594183?source=rss-阪神で次世代育成 崖っぷちと島田",
-      "title": "阪神で次世代育成 崖っぷちと島田",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-04T02:34:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594183?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/04/2000001161/-RIZAP社員、私用AIに顧客の個人情報入力 氏名や疾患、保険証番号など……同社が謝罪",
@@ -432,15 +495,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6594171?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594170?source=rss-遠藤航CLメンバー外 厳しい現実",
-      "title": "遠藤航CLメンバー外 厳しい現実",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-04T00:49:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594170?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594168?source=rss-大谷翔平の首に違和感 監督明かす",
       "title": "大谷翔平の首に違和感 監督明かす",
       "source": "Yahoo!ニュース スポーツ",
@@ -504,42 +558,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6594153?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594152?source=rss-上田綺世 新天地でいきなりゴール",
-      "title": "上田綺世 新天地でいきなりゴール",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-03T21:55:03.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594152?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594150?source=rss-内閣改造 片山さつき財務相留任へ",
-      "title": "内閣改造 片山さつき財務相留任へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-03T21:27:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594150?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594146?source=rss-大和ハウス 一戸建ての部門再編へ",
-      "title": "大和ハウス 一戸建ての部門再編へ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-03T14:16:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594146?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594113?source=rss-男女のユニ「面積差」が物議 考察",
-      "title": "男女のユニ「面積差」が物議 考察",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-03T08:44:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594113?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594110?source=rss-混雑状況を床投影 東京メトロ実証",
       "title": "混雑状況を床投影 東京メトロ実証",
       "source": "Yahoo!ニュース IT",
@@ -556,24 +574,6 @@
       "publishedAt": "2026-09-03T04:00:18.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594089?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6593978?source=rss-LINEとPayPay 今夏の連携を延期",
-      "title": "LINEとPayPay 今夏の連携を延期",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-09-02T10:40:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593978?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6593969?source=rss-論文査読にAI活用 誤情報リスクも",
-      "title": "論文査読にAI活用 誤情報リスクも",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-09-02T04:55:56.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6593969?source=rss"
     }
   ]
 }
