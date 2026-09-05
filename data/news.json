@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T20:08:03.225Z",
+  "updatedAt": "2026-09-05T22:42:49.815Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594369?source=rss-広島監督の長男 プロ志望届提出へ",
+      "title": "広島監督の長男 プロ志望届提出へ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-05T22:17:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594369?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/06/2000001195/-「スーパーリアル麻雀 VR」でゲーセン通いの日々を思い出したマンガ家、ご褒美シーンの“限界突破“に驚愕",
+      "title": "「スーパーリアル麻雀 VR」でゲーセン通いの日々を思い出したマンガ家、ご褒美シーンの“限界突破“に驚愕",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-05T22:16:00.000Z",
+      "description": "8月27日に発売された麻雀ゲーム「スーパーリアル麻雀 Venus Returns」が、Steamの国内売上ランキングで5日連続1位を記録しました。かつてゲームセンターに通ったボクも試してみました。",
+      "url": "https://www.itmedia.co.jp/news/article/2609/06/2000001195/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594368?source=rss-大谷3戦連続スタメン外 移籍後初",
+      "title": "大谷3戦連続スタメン外 移籍後初",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-05T22:13:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594368?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594366?source=rss-悠仁さま20歳 成年皇族の歩み進め",
       "title": "悠仁さま20歳 成年皇族の歩み進め",
@@ -315,15 +342,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/05/2000001200/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594278?source=rss-サッカー日本代表 迫る「高齢化」",
-      "title": "サッカー日本代表 迫る「高齢化」",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-05T01:53:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594278?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594274?source=rss-住宅購入急ぐ若年層 リスクに警鐘",
       "title": "住宅購入急ぐ若年層 リスクに警鐘",
       "source": "Yahoo!ニュース 経済",
@@ -331,15 +349,6 @@
       "publishedAt": "2026-09-05T00:37:14.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594274?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594271?source=rss-大谷がIL入りの可能性 監督決断は",
-      "title": "大谷がIL入りの可能性 監督決断は",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-05T00:04:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594271?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594253?source=rss-物議の水ダウ ラーメン評論家苦言",
@@ -547,15 +556,6 @@
       "publishedAt": "2026-09-04T01:40:26.000Z",
       "description": "「4397328654844826923795068102505872571721883526553349659561256924505973939597593482272505698004801207988043088656411102133523080581 divides RSA-260」",
       "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001157/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/04/2000001118/-「おっぱい」の話ができるSNSと、できないSNS",
-      "title": "「おっぱい」の話ができるSNSと、できないSNS",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-04T00:00:00.000Z",
-      "description": "宣伝・マーケティング観点から見た主要SNSごとの規制のきつさ・ゆるさを、筆者による体験や同業者から聞いた話を基に比較してみる。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001118/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594163?source=rss-GPT-6発表 人間の監‌視を回避も",
