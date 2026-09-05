@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T14:53:09.378Z",
+  "updatedAt": "2026-09-05T17:13:20.826Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594366?source=rss-悠仁さま20歳 成年皇族の歩み進め",
+      "title": "悠仁さま20歳 成年皇族の歩み進め",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-05T15:30:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594366?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594365?source=rss-広島 延長戦の末に逆転負けの大敗",
+      "title": "広島 延長戦の末に逆転負けの大敗",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-05T15:07:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594365?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594362?source=rss-巨人 NPBタイ記録の10投手継投",
       "title": "巨人 NPBタイ記録の10投手継投",
@@ -153,15 +171,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6594340?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594336?source=rss-中日・福永 2試合連続の先頭弾",
-      "title": "中日・福永 2試合連続の先頭弾",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-05T10:41:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594336?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594335?source=rss-29年に中低所得者へ現金給付検討",
       "title": "29年に中低所得者へ現金給付検討",
       "source": "Yahoo!ニュース 国内",
@@ -259,15 +268,6 @@
       "publishedAt": "2026-09-05T05:34:13.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594300?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594299?source=rss-屋久島町の大雨 災害救助法を適用",
-      "title": "屋久島町の大雨 災害救助法を適用",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-05T05:15:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594299?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594297?source=rss-まんじゅうをネット転売 通常便で",
