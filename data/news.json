@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T20:12:47.560Z",
+  "updatedAt": "2026-09-06T22:48:22.913Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,49 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594480?source=rss-東京・新島村に特別警報 最新情報",
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594492?source=rss-東北新幹線一部見合わせ 人身事故",
+      "title": "東北新幹線一部見合わせ 人身事故",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-06T22:46:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594492?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/07/2000001178/-犬を飼うと認知症リスク48％減 東京に住む1万人以上を調査 国立環境研究所や東大など",
+      "title": "犬を飼うと認知症リスク48％減 東京に住む1万人以上を調査 国立環境研究所や東大など",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-06T22:00:00.000Z",
+      "description": "国立環境研究所や東京大学などに所属する研究者らが国際学術誌「International Journal of Environmental Research and Public Health」で発表した論文「Investigating the Potential Protective Effect of Dog Own...",
+      "url": "https://www.itmedia.co.jp/news/article/2609/07/2000001178/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594485?source=rss-旧姓トルソワ 愛息を抱き取材対応",
+      "title": "旧姓トルソワ 愛息を抱き取材対応",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-06T21:26:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594485?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594483?source=rss-関東 朝の通勤・通学を大雨直撃か",
+      "title": "関東 朝の通勤・通学を大雨直撃か",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-06T20:44:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594483?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594482?source=rss-東京・新島村に特別警報 最新情報",
       "title": "東京・新島村に特別警報 最新情報",
       "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-09-06T19:59:25.000Z",
+      "publishedAt": "2026-09-06T20:35:37.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594480?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6594482?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594479?source=rss-東京・新島村に土砂災害特別警報",
@@ -106,15 +142,6 @@
       "publishedAt": "2026-09-06T13:40:49.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594472?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594468?source=rss-東海-東北の太平洋側で大雨 警戒",
-      "title": "東海-東北の太平洋側で大雨 警戒",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-06T13:34:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594468?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594470?source=rss-坂口健太郎 一般女性との結婚発表",
@@ -234,15 +261,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6594432?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594428?source=rss-複数作業員に列車接近 JR西で3月",
-      "title": "複数作業員に列車接近 JR西で3月",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-06T07:18:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594428?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594425?source=rss-3連単5294万円 中山競馬場は騒然",
       "title": "3連単5294万円 中山競馬場は騒然",
       "source": "Yahoo!ニュース スポーツ",
@@ -349,15 +367,6 @@
       "publishedAt": "2026-09-06T00:31:03.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594388?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594382?source=rss-村上30号 日本選手新人で初の偉業",
-      "title": "村上30号 日本選手新人で初の偉業",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-05T23:56:09.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594382?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/06/2000001202/-OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-09-04T02:33:22.000Z",
       "description": "RIZAPの社員が、個人で使用している外部の生成AIサービスに、顧客の氏名や疾患などの個人情報・要配慮個人情報を誤ってアップロードしたという。",
       "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001161/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/04/2000001159/-開成の鉄研、寝台特急「サンライズ」での迷惑行為を謝罪 大声やラウンジ占拠など……旅行活動停止",
-      "title": "開成の鉄研、寝台特急「サンライズ」での迷惑行為を謝罪 大声やラウンジ占拠など……旅行活動停止",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-04T02:05:29.000Z",
-      "description": "個室での大声や、通路を塞ぐ行為、ラウンジの占拠・ゲームなどの迷惑行為があり、乗務員や乗客から注意を受けていたことを、合宿参加者への聞き取りで確認したという。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001159/"
     }
   ]
 }
