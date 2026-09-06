@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T03:51:21.165Z",
+  "updatedAt": "2026-09-06T10:36:38.974Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,166 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594405?source=rss-関東・東海1都6県 線状降水帯恐れ",
-      "title": "関東・東海1都6県 線状降水帯恐れ",
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594448?source=rss-東北・関東・東海 線状降水帯恐れ",
+      "title": "東北・関東・東海 線状降水帯恐れ",
       "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-09-06T03:08:35.000Z",
+      "publishedAt": "2026-09-06T09:36:31.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594405?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6594448?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594443?source=rss-岡田准一 玉木宏の柔術3位を祝福",
+      "title": "岡田准一 玉木宏の柔術3位を祝福",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-06T09:13:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594443?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594441?source=rss-長期金利上昇 市場が積極財政警戒",
+      "title": "長期金利上昇 市場が積極財政警戒",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-06T08:36:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594441?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594440?source=rss-鈴木P ジブリ風AI画は面白くない",
+      "title": "鈴木P ジブリ風AI画は面白くない",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-09-06T08:32:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594440?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594435?source=rss-G田中将大抹消 2戦連続白星なし",
+      "title": "G田中将大抹消 2戦連続白星なし",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-06T07:55:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594435?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594434?source=rss-松坂桃李「VIVANT」トークを連発",
+      "title": "松坂桃李「VIVANT」トークを連発",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-06T07:44:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594434?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594432?source=rss-包丁の保有率 20代女性で9割切る",
+      "title": "包丁の保有率 20代女性で9割切る",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-06T07:25:31.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594432?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594428?source=rss-複数作業員に列車接近 JR西で3月",
+      "title": "複数作業員に列車接近 JR西で3月",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-06T07:18:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594428?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594426?source=rss-映画「踊る」完成イベ 雨で中止",
+      "title": "映画「踊る」完成イベ 雨で中止",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-06T06:58:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594426?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594425?source=rss-3連単5294万円 中山競馬場は騒然",
+      "title": "3連単5294万円 中山競馬場は騒然",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-06T06:47:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594425?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594423?source=rss-乃木坂46卒業生の結婚出産相次ぐ",
+      "title": "乃木坂46卒業生の結婚出産相次ぐ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-06T06:41:01.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594423?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594424?source=rss-くら寿司巡る騒動 割引で収まる?",
+      "title": "くら寿司巡る騒動 割引で収まる?",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-06T06:34:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594424?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594421?source=rss-玉木宏 柔術世界大会で3位",
+      "title": "玉木宏 柔術世界大会で3位",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-06T06:15:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594421?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594419?source=rss-国民民主党の代表選 玉木氏が3選",
+      "title": "国民民主党の代表選 玉木氏が3選",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-06T05:24:51.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594419?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594415?source=rss-安青錦の優勝パレード中止 悪天候",
+      "title": "安青錦の優勝パレード中止 悪天候",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-06T05:13:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594415?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594418?source=rss-西山茉希語る 過酷なCanCam時代",
+      "title": "西山茉希語る 過酷なCanCam時代",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-06T04:59:53.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594418?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594416?source=rss-くら寿司コラボ中止 客は落胆の声",
+      "title": "くら寿司コラボ中止 客は落胆の声",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-06T04:51:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594416?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594410?source=rss-萩谷慧悟&渡辺みり愛 結婚を公表",
+      "title": "萩谷慧悟&渡辺みり愛 結婚を公表",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-06T04:13:26.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594410?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594404?source=rss-菊池雄星が今季10戦目で初勝利",
@@ -70,15 +223,6 @@
       "publishedAt": "2026-09-06T02:51:47.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594402?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594401?source=rss-松山千春がTUBE公演に 夢叶った",
-      "title": "松山千春がTUBE公演に 夢叶った",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-06T02:06:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594401?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594399?source=rss-コラボ中止のくら寿司 割引を発表",
@@ -117,15 +261,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6594393?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594391?source=rss-子供の「憧れの島」佐渡島が話題",
-      "title": "子供の「憧れの島」佐渡島が話題",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-06T00:37:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594391?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594388?source=rss-電子図書館 全国自治体3割超導入",
       "title": "電子図書館 全国自治体3割超導入",
       "source": "Yahoo!ニュース IT",
@@ -142,15 +277,6 @@
       "publishedAt": "2026-09-05T23:56:09.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594382?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594376?source=rss-出版業の倒産急増 利益が悪化傾向",
-      "title": "出版業の倒産急増 利益が悪化傾向",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-05T23:07:27.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594376?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594375?source=rss-内閣改造 林芳正氏の去就焦点",
@@ -207,15 +333,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6594366?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594365?source=rss-広島 延長戦の末に逆転負けの大敗",
-      "title": "広島 延長戦の末に逆転負けの大敗",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-05T15:07:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594365?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594361?source=rss-露に対日戦勝碑 首相が撤去を要請",
       "title": "露に対日戦勝碑 首相が撤去を要請",
       "source": "Yahoo!ニュース 国内",
@@ -225,51 +342,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6594361?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594359?source=rss-くら寿司コラボ中止 従業員が不正",
-      "title": "くら寿司コラボ中止 従業員が不正",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-05T13:39:27.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594359?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594358?source=rss-福島大巡る発言 wakatte.tvが謝罪",
-      "title": "福島大巡る発言 wakatte.tvが謝罪",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-05T13:28:41.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594358?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594354?source=rss-盛んな国も 実在する「時間銀行」",
-      "title": "盛んな国も 実在する「時間銀行」",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-05T13:07:36.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594354?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594355?source=rss-復活の石井大智 51試合連続無失点",
-      "title": "復活の石井大智 51試合連続無失点",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-05T12:53:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594355?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594349?source=rss-姓も名も同じ夫婦 日常トラブルは",
-      "title": "姓も名も同じ夫婦 日常トラブルは",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-05T12:40:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594349?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594346?source=rss-コナン初の参加型アニメ制作決定",
       "title": "コナン初の参加型アニメ制作決定",
       "source": "Yahoo!ニュース エンタメ",
@@ -277,24 +349,6 @@
       "publishedAt": "2026-09-05T11:52:22.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594346?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594347?source=rss-寝たきりの13歳 映画に出演し変化",
-      "title": "寝たきりの13歳 映画に出演し変化",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-05T11:48:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594347?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594343?source=rss-獺祭が1億円寄付 豪雨被災地など",
-      "title": "獺祭が1億円寄付 豪雨被災地など",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-05T11:19:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594343?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594340?source=rss-ワリエワの中立資格取り消し 報道",
@@ -324,33 +378,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/05/2000001201/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594329?source=rss-メダリスト休載に理解 時代の変化",
-      "title": "メダリスト休載に理解 時代の変化",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-05T09:10:45.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594329?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594322?source=rss-テレ東「バス旅」シリーズ 再開へ",
-      "title": "テレ東「バス旅」シリーズ 再開へ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-05T08:27:01.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594322?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594320?source=rss-両津役声優に落合福嗣 父から電話",
-      "title": "両津役声優に落合福嗣 父から電話",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-05T08:03:26.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594320?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594300?source=rss-SNS「setlog」若者になぜ刺さる",
       "title": "SNS「setlog」若者になぜ刺さる",
       "source": "Yahoo!ニュース IT",
@@ -358,24 +385,6 @@
       "publishedAt": "2026-09-05T05:34:13.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594300?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594296?source=rss-全米OP 選手が大麻のにおい訴え",
-      "title": "全米OP 選手が大麻のにおい訴え",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-05T04:27:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594296?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594291?source=rss-こち亀 新アニメ両津役は落合福嗣",
-      "title": "こち亀 新アニメ両津役は落合福嗣",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-05T03:29:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594291?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/05/2000001200/-OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か 研究団体が報告書公開",
@@ -529,15 +538,6 @@
       "publishedAt": "2026-09-04T05:30:38.000Z",
       "description": "虹色文字や3D円グラフなどの“ダサ素材”を並べ、懐かしいダサさのスライドを作れる無料のブラウザツール「ダサスラ★メーカー」が登場した。PNG画像として保存できるほか、点滅やぐるぐるなどの動きが付いたHTMLとしても書き出せる。",
       "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001174/"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594201?source=rss-TikTok音声でコメントできる機能",
-      "title": "TikTok音声でコメントできる機能",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-09-04T05:23:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594201?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/04/2000001163/-「三省堂書店池袋本店」閉店へ 11年の歴史に幕、惜しむ声続々",
