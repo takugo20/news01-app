@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T19:03:00.213Z",
+  "updatedAt": "2026-09-07T23:21:17.644Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,96 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594603?source=rss-唐田えりか 韓国人役で映画主演",
+      "title": "唐田えりか 韓国人役で映画主演",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-07T23:00:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594603?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594600?source=rss-G石塚裕惺20歳 4番プラン浮上",
+      "title": "G石塚裕惺20歳 4番プラン浮上",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-07T22:55:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594600?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/08/2000001240/-くら寿司、「ちいかわ」グッズ不正で「警察と相談、厳正に対処」 メルカリと連携も",
+      "title": "くら寿司、「ちいかわ」グッズ不正で「警察と相談、厳正に対処」 メルカリと連携も",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-07T22:36:41.000Z",
+      "description": "",
+      "url": "https://www.itmedia.co.jp/news/article/2609/08/2000001240/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594598?source=rss-大谷5戦ぶりにスタメン 監督発表",
+      "title": "大谷5戦ぶりにスタメン 監督発表",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-07T22:23:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594598?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594599?source=rss-四国-東北南部で大雨恐れ 警戒を",
+      "title": "四国-東北南部で大雨恐れ 警戒を",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-07T22:18:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594599?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/08/2000001239/-AI創薬候補、6種の「老化時計」で生物学的年齢の低下を示唆",
+      "title": "AI創薬候補、6種の「老化時計」で生物学的年齢の低下を示唆",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-07T22:02:55.000Z",
+      "description": "バイオテクノロジー企業のInsilico Medicineは、生成AIで設計した特発性肺線維症の治療薬候補「レントセルチブ」のデータを再解析した結果を発表した。血中タンパク質から測る6種の「老化時計」すべてで、患者の生物学的年齢が最大約6歳分低下したという。老化への直接的な作用を確認するには更なる検証が必要としている。",
+      "url": "https://www.itmedia.co.jp/news/article/2609/08/2000001239/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594597?source=rss-金利上昇 住宅ローン返済者ら悩み",
+      "title": "金利上昇 住宅ローン返済者ら悩み",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-07T21:48:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594597?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594596?source=rss-マンガの言葉 データベース整備へ",
+      "title": "マンガの言葉 データベース整備へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-07T21:29:53.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594596?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594595?source=rss-小林鷹之政調会長留任へ 首相意向",
+      "title": "小林鷹之政調会長留任へ 首相意向",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-07T21:10:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594595?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594594?source=rss-伊豆諸島 土砂災害危険警報に切替",
+      "title": "伊豆諸島 土砂災害危険警報に切替",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-07T19:31:31.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594594?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594592?source=rss-景気拡大期 戦後最長超えの公算大",
       "title": "景気拡大期 戦後最長超えの公算大",
       "source": "Yahoo!ニュース 経済",
@@ -52,15 +142,6 @@
       "publishedAt": "2026-09-07T14:18:23.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594590?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594589?source=rss-秋雨前線停滞 油断できぬ状況続く",
-      "title": "秋雨前線停滞 油断できぬ状況続く",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-07T14:15:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594589?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/07/2000001237/-VTuberの名前を一発入力できる「VTuber変換辞書」で騒動 BOOTHで一時販売停止も復活 「当初の判断に誤り」",
@@ -144,15 +225,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/07/2000001233/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594570?source=rss-伊豆諸島に特別警報 最新情報",
-      "title": "伊豆諸島に特別警報 最新情報",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-07T10:27:41.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594570?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/07/2000001232/-メルカリ、くら寿司ちいかわ騒動巡りコメント 出品削除・禁止の有無は",
       "title": "メルカリ、くら寿司ちいかわ騒動巡りコメント 出品削除・禁止の有無は",
       "source": "ITmedia NEWS",
@@ -234,15 +306,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/07/2000001208/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594553?source=rss-品川徹さん死去 白い巨塔で教授役",
-      "title": "品川徹さん死去 白い巨塔で教授役",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-07T08:23:26.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594553?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594550?source=rss-名馬アドマイヤムーン死す 23歳",
       "title": "名馬アドマイヤムーン死す 23歳",
       "source": "Yahoo!ニュース スポーツ",
@@ -268,15 +331,6 @@
       "publishedAt": "2026-09-07T06:51:01.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594543?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594542?source=rss-命守る行動を 利島村に特別警報",
-      "title": "命守る行動を 利島村に特別警報",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-07T06:25:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594542?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594517?source=rss-大谷が今季の投手復帰断念か 背景",
@@ -369,15 +423,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6594527?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594528?source=rss-3党合流見送り 中道・野田氏謝罪",
-      "title": "3党合流見送り 中道・野田氏謝罪",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-07T04:01:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594528?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594523?source=rss-相手が独身偽装 悲しみ上回る衝撃",
       "title": "相手が独身偽装 悲しみ上回る衝撃",
       "source": "Yahoo!ニュース 国内",
@@ -385,15 +430,6 @@
       "publishedAt": "2026-09-07T03:49:00.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594523?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594513?source=rss-サミット衣料品21店 しまむら取得",
-      "title": "サミット衣料品21店 しまむら取得",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-07T02:56:41.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594513?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594512?source=rss-ジャニJr.に性加害した 男性証言",
@@ -421,15 +457,6 @@
       "publishedAt": "2026-09-07T01:28:58.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594504?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594500?source=rss-大谷は8日にスタメン復帰へ 監督",
-      "title": "大谷は8日にスタメン復帰へ 監督",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-07T00:52:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594500?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/07/2000001204/-OpenAI、エージェントによる研究加速と直面する安全性の壁を開示 チーフサイエンティストは「自発的減速」を提唱",
@@ -504,15 +531,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6594440?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594435?source=rss-G田中将大抹消 2戦連続白星なし",
-      "title": "G田中将大抹消 2戦連続白星なし",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-06T07:55:24.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594435?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594402?source=rss-「ドパガキ」な娘2人 父語る実態",
       "title": "「ドパガキ」な娘2人 父語る実態",
       "source": "Yahoo!ニュース IT",
@@ -556,24 +574,6 @@
       "publishedAt": "2026-09-05T03:06:58.000Z",
       "description": "OpenAIの社内AIエージェントが休眠状態の外部Wikiサイトを不正に“掲示板”として利用し、評価タスクの答えや制限回避の手法を共有していたとする報告書を研究団体が公開した。閲覧のみ許可されていた環境の抜け道を突き、GETリクエストで書き込みを行っていた。OpenAI側は内容を精査して対処するとしている。",
       "url": "https://www.itmedia.co.jp/news/article/2609/05/2000001200/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/04/2000001199/-新宿駅に「ごみ箱ロボット」出現 改札内を自動巡回 JR東が実証実験",
-      "title": "新宿駅に「ごみ箱ロボット」出現 改札内を自動巡回 JR東が実証実験",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-04T10:05:13.000Z",
-      "description": "JR東日本は9月4日、新宿駅の地下1階改札内コンコースで、自動走行する「移動式ごみ箱ロボット」の実証実験を行うと発表した。9月8日から11月20日までの平日、コンコースを巡回してごみを収集する。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001199/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/04/2000001191/-SEGAそっくりのロゴで「MAGA」――トランプ政権公開のWebゲームが物議 移民送還などを題材に 【追記あり】",
-      "title": "SEGAそっくりのロゴで「MAGA」――トランプ政権公開のWebゲームが物議 移民送還などを題材に 【追記あり】",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-04T10:01:26.000Z",
-      "description": "米ホワイトハウスは9月3日（現地時間）、トランプ政権の政策を題材にしたミニゲームサイト「ARCADE」を公開した。不法移民の摘発など、同政権の看板政策をモチーフにした5種類のミニゲームをブラウザ上でプレイできる。しかし、公開に合わせて投稿した告知動画では、セガの企業ロゴを思わせるデザインで「MAGA」の文字を表示。Xで...",
-      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001191/"
     }
   ]
 }
