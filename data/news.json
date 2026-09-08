@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T16:21:04.217Z",
+  "updatedAt": "2026-09-08T20:55:54.587Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594692?source=rss-日本3分野トップ OECD学力調査",
+      "title": "日本3分野トップ OECD学力調査",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-08T16:29:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594692?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594691?source=rss-アンダーパス規制 対象拡大を検討",
       "title": "アンダーパス規制 対象拡大を検討",
@@ -79,15 +88,6 @@
       "publishedAt": "2026-09-08T12:44:16.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594685?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594683?source=rss-気象庁「直ちに身の安全確保を」",
-      "title": "気象庁「直ちに身の安全確保を」",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-08T12:24:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594683?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594684?source=rss-近畿9日昼前にかけ線状降水帯恐れ",
