@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T10:56:19.147Z",
+  "updatedAt": "2026-09-08T16:21:04.217Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,96 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594691?source=rss-アンダーパス規制 対象拡大を検討",
+      "title": "アンダーパス規制 対象拡大を検討",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-08T16:08:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594691?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594689?source=rss-愛知・岐阜の庄内川 氾濫注意報に",
+      "title": "愛知・岐阜の庄内川 氾濫注意報に",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-08T15:52:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594689?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594687?source=rss-アジア大会の複数施設も大雨被害",
+      "title": "アジア大会の複数施設も大雨被害",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-08T13:31:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594687?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594686?source=rss-松岡茉優 妊娠のみな実エスコート",
+      "title": "松岡茉優 妊娠のみな実エスコート",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-08T13:08:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594686?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594685?source=rss-周東がランニング満塁弾 27年ぶり",
+      "title": "周東がランニング満塁弾 27年ぶり",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-08T12:44:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594685?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594683?source=rss-気象庁「直ちに身の安全確保を」",
+      "title": "気象庁「直ちに身の安全確保を」",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-08T12:24:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594683?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594684?source=rss-近畿9日昼前にかけ線状降水帯恐れ",
+      "title": "近畿9日昼前にかけ線状降水帯恐れ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-08T12:19:31.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594684?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594682?source=rss-関東甲信・東海・四国 大雨の恐れ",
+      "title": "関東甲信・東海・四国 大雨の恐れ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-08T11:34:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594682?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594679?source=rss-日銀 今月の会合で利上げへ",
+      "title": "日銀 今月の会合で利上げへ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-08T11:16:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594679?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594680?source=rss-いったん不採用 犯罪組織の手口",
+      "title": "いったん不採用 犯罪組織の手口",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-08T11:04:23.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594680?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594665?source=rss-なぜ突然の円高に 背景と見通し",
       "title": "なぜ突然の円高に 背景と見通し",
       "source": "Yahoo!ニュース 経済",
@@ -43,15 +133,6 @@
       "publishedAt": "2026-09-08T10:53:51.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594665?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594675?source=rss-中継 特別警報受け気象庁など会見",
-      "title": "中継 特別警報受け気象庁など会見",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-08T10:20:24.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594675?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/08/2000001290/-「ペンギンを返して」 Suica新キャラ候補3案公開でSNSに戸惑いの声 一般投票は8日から",
@@ -79,15 +160,6 @@
       "publishedAt": "2026-09-08T09:32:24.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6593591?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594671?source=rss-愛知・岐阜の庄内川 氾濫特別警報",
-      "title": "愛知・岐阜の庄内川 氾濫特別警報",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-08T09:30:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594671?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/08/2000001256/-ChatGPT Workに“自分の文体”学習機能 GmailやSlackの文章から言い回しやクセを模倣",
@@ -153,24 +225,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6594663?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594661?source=rss-中道 立憲系と公明系議員が離党へ",
-      "title": "中道 立憲系と公明系議員が離党へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-08T08:20:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594661?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594660?source=rss-愛知・岐阜に「線状降水帯」発生",
-      "title": "愛知・岐阜に「線状降水帯」発生",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-08T07:56:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594660?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594643?source=rss-東国原英夫氏 義太夫さんを追悼",
       "title": "東国原英夫氏 義太夫さんを追悼",
       "source": "Yahoo!ニュース エンタメ",
@@ -178,15 +232,6 @@
       "publishedAt": "2026-09-08T07:38:01.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594643?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594655?source=rss-仮釈放中の性犯罪者にGPS 実験へ",
-      "title": "仮釈放中の性犯罪者にGPS 実験へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-08T07:34:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594655?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594654?source=rss-Suicaペンギンの後継 3候補発表",
@@ -225,15 +270,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/08/2000001271/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594651?source=rss-関東甲信9日にかけ線状降水帯恐れ",
-      "title": "関東甲信9日にかけ線状降水帯恐れ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-08T06:18:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594651?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/08/2000001269/-Duolingoの新アイコンが「気持ち悪い」 世界のユーザーから「元に戻して」の声",
       "title": "Duolingoの新アイコンが「気持ち悪い」 世界のユーザーから「元に戻して」の声",
       "source": "ITmedia NEWS",
@@ -241,15 +277,6 @@
       "publishedAt": "2026-09-08T06:15:50.000Z",
       "description": "SNSには「気持ち悪い」「汚い」といった不満の投稿が、日本語や英語、スペイン語など各国のユーザーから相次ぎ、「ホーム画面から消した」と報告する人もいる",
       "url": "https://www.itmedia.co.jp/news/article/2609/08/2000001269/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594624?source=rss-VIVANT視聴率 上昇基調への要点",
-      "title": "VIVANT視聴率 上昇基調への要点",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-08T05:46:15.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594624?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594646?source=rss-ビートたけし 義太夫さんを追悼",
@@ -423,15 +450,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/08/2000001240/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594613?source=rss-英JLR 従業員4000人を削減へ",
-      "title": "英JLR 従業員4000人を削減へ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-08T00:15:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594613?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/08/2000001241/-警察庁と日本MS、サイバー対策で協定 情報共有、教育で連携",
       "title": "警察庁と日本MS、サイバー対策で協定 情報共有、教育で連携",
       "source": "ITmedia NEWS",
@@ -513,15 +531,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6594560?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594550?source=rss-名馬アドマイヤムーン死す 23歳",
-      "title": "名馬アドマイヤムーン死す 23歳",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-07T07:52:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594550?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594531?source=rss-OpenAI 独でのAI「暴走」認める",
       "title": "OpenAI 独でのAI「暴走」認める",
       "source": "Yahoo!ニュース IT",
@@ -547,15 +556,6 @@
       "publishedAt": "2026-09-07T01:28:58.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594504?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594498?source=rss-監督辞任 阿部慎之助氏が騒動語る",
-      "title": "監督辞任 阿部慎之助氏が騒動語る",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-07T00:10:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594498?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594458?source=rss-IT各社 サイバー防御支援に商機",
