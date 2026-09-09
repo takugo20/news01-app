@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T16:16:01.669Z",
+  "updatedAt": "2026-09-09T20:44:01.968Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/10/2000001336/-iPhone 18シリーズ発表、今年はPro・Pro Maxのみ なんと“無印”なし 価格は21万9800円から",
+      "title": "iPhone 18シリーズ発表、今年はPro・Pro Maxのみ なんと“無印”なし 価格は21万9800円から",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-09T20:26:13.000Z",
+      "description": "米Appleは9月9日（現地時間）、iPhoneの最新モデル「iPhone 18」シリーズを発表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001336/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/10/2000001335/-「iPhone Duo」発表 Apple初の折りたたみスマホ 36万4800円から",
+      "title": "「iPhone Duo」発表 Apple初の折りたたみスマホ 36万4800円から",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-09T19:55:34.000Z",
+      "description": "米Appleは9月9日（現地時間）、同社初の折りたたみスマートフォン「iPhone Duo」を発表した。閉じれば5.4インチ、開けばiPhone史上最大の7.6インチの2画面構成。価格は36万4800円からで、10月23日に発売する。",
+      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001335/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/10/2000001339/-「AirPods 5」登場 ノイキャン性能向上、従来比でノイズを50％除去 2万3800円から",
+      "title": "「AirPods 5」登場 ノイキャン性能向上、従来比でノイズを50％除去 2万3800円から",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-09T17:53:15.000Z",
+      "description": "米Appleは9月9日（現地時間）、オープンイヤーイヤフォンの新モデル「AirPods 5」を発表した。ノイズキャンセル性能を向上し、従来モデル比でノイズを50％除去できるようになったほか、Siri AIへのハンズフリーアクセス、Apple Intelligenceによるリアルタイム翻訳などを提供する。",
+      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001339/"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594796?source=rss-星のカービィ新作 ニンダイまとめ",
       "title": "星のカービィ新作 ニンダイまとめ",
@@ -459,24 +486,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6594707?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/09/2000001297/-“地下神殿”への濁流動画をダウンロード公開 Xでの反響受け……「首都圏外郭放水路」に称賛",
-      "title": "“地下神殿”への濁流動画をダウンロード公開 Xでの反響受け……「首都圏外郭放水路」に称賛",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-08T23:27:30.000Z",
-      "description": "「地下神殿すごい」。7日に投稿された首都圏外郭放水路の動画に称賛が集まったことを受け、国交省はこの動画を、ダウンロード可能な形で再投稿した。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001297/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/09/2000001296/-Google DeepMind、90億通りの全塩基変異の影響を予測した「AlphaGenome Atlas」 学術向けに無償提供",
-      "title": "Google DeepMind、90億通りの全塩基変異の影響を予測した「AlphaGenome Atlas」 学術向けに無償提供",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-08T23:13:49.000Z",
-      "description": "Google DeepMindは、ヒトゲノムで起こり得る約90億通り全ての一塩基変異の影響を事前予測したデータベース「AlphaGenome Atlas」を公開した。影響度を数値化するスコアも導入し、未解明な非コード領域の変異解析を加速させる。学術研究向けにWebから無償提供する。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001296/"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594705?source=rss-長澤まさみ 22年ぶりゴジラ映画",
       "title": "長澤まさみ 22年ぶりゴジラ映画",
       "source": "Yahoo!ニュース エンタメ",
@@ -493,15 +502,6 @@
       "publishedAt": "2026-09-08T22:49:13.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594703?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/09/2000001295/-名古屋豪雨、冠水した道は今通れる？ トヨタ「通れた道マップ」で確認を",
-      "title": "名古屋豪雨、冠水した道は今通れる？ トヨタ「通れた道マップ」で確認を",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-08T22:35:46.000Z",
-      "description": "8日夕方以降は多くの道が冠水して通行できなかったようで、「通れた道マップが真っ赤だ」「マップが役に立った」といった声がSNSに相次いでいた。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001295/"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594699?source=rss-日ハム捕手・進藤「人生初」登板",
