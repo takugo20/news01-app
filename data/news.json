@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T20:44:01.968Z",
+  "updatedAt": "2026-09-09T23:04:59.818Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,121 @@
   "errors": [],
   "items": [
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/10/2000001336/-iPhone 18シリーズ発表、今年はPro・Pro Maxのみ なんと“無印”なし 価格は21万9800円から",
-      "title": "iPhone 18シリーズ発表、今年はPro・Pro Maxのみ なんと“無印”なし 価格は21万9800円から",
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594807?source=rss-有村治子氏を要職起用へ 手腕評価",
+      "title": "有村治子氏を要職起用へ 手腕評価",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-09T23:00:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594807?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594805?source=rss-タワマン宅配 駐車場不足嘆く業者",
+      "title": "タワマン宅配 駐車場不足嘆く業者",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-09T22:38:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594805?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594804?source=rss-米アップル新製品発表会 Xの反応",
+      "title": "米アップル新製品発表会 Xの反応",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-09-09T22:23:00.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594804?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594802?source=rss-M!LK吉田仁人 連続ドラマ初主演",
+      "title": "M!LK吉田仁人 連続ドラマ初主演",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-09T22:19:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594802?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/10/2000001343/-新型iPhone「高すぎ」「買えない」悲鳴……1台約22?57万円 「換算レート円安すぎ」の声も",
+      "title": "新型iPhone「高すぎ」「買えない」悲鳴……1台約22?57万円 「換算レート円安すぎ」の声も",
       "source": "ITmedia NEWS",
       "category": "IT",
-      "publishedAt": "2026-09-09T20:26:13.000Z",
+      "publishedAt": "2026-09-09T22:04:45.000Z",
+      "description": "「iPhone18」シリーズが発表されたが「高すぎて買えない」「『Duo』36万超えエグい」「うちの冷蔵庫より高い」といった声がXにあふれている。",
+      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001343/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594800?source=rss-東京都心は22℃予想 10月中旬並み",
+      "title": "東京都心は22℃予想 10月中旬並み",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-09T21:46:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594800?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594799?source=rss-当初70キロ 球速130キロ挑む62歳",
+      "title": "当初70キロ 球速130キロ挑む62歳",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-09T21:36:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594799?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/10/2000001342/-Anthropic在籍の研究者2人も同調──「AIが人類を滅ぼしかねないと本気で考えている」",
+      "title": "Anthropic在籍の研究者2人も同調──「AIが人類を滅ぼしかねないと本気で考えている」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-09T21:26:33.000Z",
+      "description": "Anthropicの研究幹部2人が、超知能開発への危機感を訴えて退社した研究員の主張に同意する見解を個人として投稿した。10年以内に人類が滅亡する確率を10％超と試算する声や、堅牢な安全制御手法がないまま開発競争が続いている実態を指摘し、減速の必要性を改めて訴えている。",
+      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001342/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/10/2000001341/-「iPhone 18」シリーズ徹底比較 「17」シリーズとの違いをチェック",
+      "title": "「iPhone 18」シリーズ徹底比較 「17」シリーズとの違いをチェック",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-09T21:23:21.000Z",
+      "description": "米Appleが「iPhone 18 Pro」「iPhone 18 Pro Max」を発表した。6.3インチのProと6.9インチのPro Maxの2機種で、今年はいわゆる“無印”モデルの発表がない異例のラインアップとなった。予約注文は9月12日午後9時から、発売は9月18日。従来モデルの「iPhone 17 Pro」「...",
+      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001341/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594798?source=rss-高野山の宿坊 集団申告漏れ指摘",
+      "title": "高野山の宿坊 集団申告漏れ指摘",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-09T21:22:26.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594798?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594797?source=rss-折りたためる「iPhone Duo」発表",
+      "title": "折りたためる「iPhone Duo」発表",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-09-09T21:10:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594797?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/10/2000001336/-iPhone 18シリーズ発表、今年はPro・Pro Maxのみ なんと“無印”なし 価格は21万9800円から【更新終了】",
+      "title": "iPhone 18シリーズ発表、今年はPro・Pro Maxのみ なんと“無印”なし 価格は21万9800円から【更新終了】",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-09T20:44:42.000Z",
       "description": "米Appleは9月9日（現地時間）、iPhoneの最新モデル「iPhone 18」シリーズを発表した。",
       "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001336/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/10/2000001340/-Apple、既存iPhoneを値上げ 17は14万2800円→15万9800円から Airや17eも",
+      "title": "Apple、既存iPhoneを値上げ 17は14万2800円→15万9800円から Airや17eも",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-09T20:31:39.000Z",
+      "description": "米Appleは9月9日（現地時間）、国内のApple Storeで既存のiPhoneシリーズを値上げした。値上げ幅はモデルや容量によって1万2000円?4万7000円となる。Apple WatchやAirPodsなどの価格は、現時点では変更していない。なお、同社は同日、新シリーズ「iPhone 18 Pro」と「iPh...",
+      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001340/"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/10/2000001335/-「iPhone Duo」発表 Apple初の折りたたみスマホ 36万4800円から",
@@ -288,15 +396,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6594753?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594747?source=rss-浸水の車 点検前エンジン始動NG",
-      "title": "浸水の車 点検前エンジン始動NG",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-09T05:56:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594747?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/09/2000001314/-Qualcomm、AmazonとAIデータセンターで複数世代にわたる協業 最大600億ドル購入でワラント付与",
       "title": "Qualcomm、AmazonとAIデータセンターで複数世代にわたる協業 最大600億ドル購入でワラント付与",
       "source": "ITmedia NEWS",
@@ -304,15 +403,6 @@
       "publishedAt": "2026-09-09T05:05:21.000Z",
       "description": "Qualcommは、大規模AIデータセンター向けカスタムシリコンや1.6T光接続技術を巡り、Amazonと複数世代にわたる協業を発表した。EDAへのAWS活用も深める。また、Amazonの購入実績に連動し最大2500万株を取得できる新株予約権を発行したこともSEC提出文書で明らかにした。",
       "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001314/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594744?source=rss-WEST.出演の新CM 7人で6月撮影",
-      "title": "WEST.出演の新CM 7人で6月撮影",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-09T04:59:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594744?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594734?source=rss-ゼルダ時のオカリナ発売へ 注目点",
@@ -351,15 +441,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001309/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594737?source=rss-売れ残った当せん宝くじ 法的解説",
-      "title": "売れ残った当せん宝くじ 法的解説",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-09T03:27:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594737?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/09/2000001306/-PayPay、身に覚えのない送金に注意 マルウェア感染で遠隔操作リスク",
       "title": "PayPay、身に覚えのない送金に注意 マルウェア感染で遠隔操作リスク",
       "source": "ITmedia NEWS",
@@ -387,24 +468,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6594732?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/09/2000001304/-PENTAX、現行の「Kシリーズ」終了、K100Dから20年……「新コンセプトの一眼レフ」開発中",
-      "title": "PENTAX、現行の「Kシリーズ」終了、K100Dから20年……「新コンセプトの一眼レフ」開発中",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-09T02:35:54.000Z",
-      "description": "「新製品が姿を現すまでには、まだ時間を要する」としている。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001304/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594724?source=rss-上田綺世 公式戦5試合連続ゴール",
-      "title": "上田綺世 公式戦5試合連続ゴール",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-09T02:13:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594724?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594721?source=rss-数学懸賞問題を解決 OpenAI発表",
       "title": "数学懸賞問題を解決 OpenAI発表",
       "source": "Yahoo!ニュース IT",
@@ -412,24 +475,6 @@
       "publishedAt": "2026-09-09T02:05:36.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594721?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/09/2000001303/-AI悪用犯罪の増加、約9割が予想 なりすまし対策には「合言葉」と「SNSの公開範囲限定」",
-      "title": "AI悪用犯罪の増加、約9割が予想 なりすまし対策には「合言葉」と「SNSの公開範囲限定」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-09T02:02:50.000Z",
-      "description": "生成AIで本人そっくりの偽映像・音声を作る「ディープフェイク」の悪用が広がるなか、セコムの意識調査で約9割がAI悪用犯罪の増加を見込む一方、4人に3人は家族間で対策を話し合っていない実態が分かった。専門家は「合言葉の共有」などを勧めている。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001303/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/09/2000001302/-「一般国道トレカ」ゼンリン一丸で制作、発売 「さすがにマニアックすぎるだろ!!!」",
-      "title": "「一般国道トレカ」ゼンリン一丸で制作、発売 「さすがにマニアックすぎるだろ!!!」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-09T01:54:39.000Z",
-      "description": "「ゼンリンが一丸となって制作した」という。Xでは同社自ら「さすがにマニアックすぎるだろ!!!」とXで紹介し、話題になっている。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001302/"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594716?source=rss-LIVゴルフ 米破産法の適用を申請",
@@ -441,15 +486,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6594716?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/09/2000001300/-OpenAI、ミレニアム懸賞問題「ナビエ・ストークス方程式」をAIが解決したと発表 数学者は経緯に反発",
-      "title": "OpenAI、ミレニアム懸賞問題「ナビエ・ストークス方程式」をAIが解決したと発表 数学者は経緯に反発",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-09T00:55:27.000Z",
-      "description": "OpenAIは、社内の未公開モデルがミレニアム懸賞問題の「ナビエ・ストークス方程式」の特異点発生を証明したと発表した。一方、先行研究を行っていた数学者は、自らの成果伝達後に着手され手法が酷似していると不正疑惑を主張。OpenAI側は反論しており、成果の検証と経緯を巡り論争が起きている。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001300/"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594711?source=rss-沖縄のPFAS 基地由来と推測と米",
       "title": "沖縄のPFAS 基地由来と推測と米",
       "source": "Yahoo!ニュース 国内",
@@ -457,24 +493,6 @@
       "publishedAt": "2026-09-09T00:25:15.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594711?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594712?source=rss-大阪メトロ 磁気切符を廃止へ",
-      "title": "大阪メトロ 磁気切符を廃止へ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-09T00:24:35.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594712?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594706?source=rss-折り畳み式iPhone 開発に約10年",
-      "title": "折り畳み式iPhone 開発に約10年",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-09-08T23:34:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594706?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594707?source=rss-入管庁 不法就労の摘発を強化へ",
@@ -511,15 +529,6 @@
       "publishedAt": "2026-09-08T22:31:18.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594699?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594692?source=rss-日本3分野トップ OECD学力調査",
-      "title": "日本3分野トップ OECD学力調査",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-08T16:29:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594692?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594679?source=rss-日銀 今月の会合で利上げへ",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-09-07T04:38:31.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594531?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594507?source=rss-病院へのサイバー攻撃 対策強化へ",
-      "title": "病院へのサイバー攻撃 対策強化へ",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-09-07T01:45:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594507?source=rss"
     }
   ]
 }
