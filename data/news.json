@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T20:39:06.037Z",
+  "updatedAt": "2026-09-10T23:00:52.927Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,67 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594906?source=rss-関東など 通勤時間帯に雷雨の恐れ",
-      "title": "関東など 通勤時間帯に雷雨の恐れ",
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594915?source=rss-3月導入のEVバス 早くも運行停止",
+      "title": "3月導入のEVバス 早くも運行停止",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-10T22:39:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594915?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594914?source=rss-脱衣所での撮影 TVとVlogの違い",
+      "title": "脱衣所での撮影 TVとVlogの違い",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-10T22:32:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594914?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594913?source=rss-給付制度の担当相 創設を検討",
+      "title": "給付制度の担当相 創設を検討",
       "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-09-10T14:28:13.000Z",
+      "publishedAt": "2026-09-10T22:23:43.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594906?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6594913?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594912?source=rss-秋雨前線 近畿-関東で激しい雨も",
+      "title": "秋雨前線 近畿-関東で激しい雨も",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-10T21:58:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594912?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594910?source=rss-平本蓮が涙の復活 判定勝ちで絶叫",
+      "title": "平本蓮が涙の復活 判定勝ちで絶叫",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-10T21:35:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594910?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594909?source=rss-紀子さま還暦60歳に 文章で感想",
+      "title": "紀子さま還暦60歳に 文章で感想",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-10T21:23:26.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594909?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594908?source=rss-日本ハム中島卓也 今季限りで引退",
+      "title": "日本ハム中島卓也 今季限りで引退",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-10T21:12:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6594908?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594902?source=rss-バスケ男子 アジア大会で白星発進",
@@ -79,15 +133,6 @@
       "publishedAt": "2026-09-10T12:20:55.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594900?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594882?source=rss-上田綺世 移籍で見えた「再現性」",
-      "title": "上田綺世 移籍で見えた「再現性」",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-10T11:48:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594882?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594896?source=rss-パンサー尾形の娘 モデルデビュー",
@@ -225,15 +270,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001376/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594869?source=rss-福岡の大学病院分院 閉院続く事情",
-      "title": "福岡の大学病院分院 閉院続く事情",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-10T08:06:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594869?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/10/2000001357/-新しいiPhoneバカ高いんだが？ 令和の日本人には厳しい件",
       "title": "新しいiPhoneバカ高いんだが？ 令和の日本人には厳しい件",
       "source": "ITmedia NEWS",
@@ -279,15 +315,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001335/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594860?source=rss-関口宏 張本勲さんに追悼コメント",
-      "title": "関口宏 張本勲さんに追悼コメント",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-10T06:40:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594860?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/10/2000001336/-iPhone 18シリーズ発表、今年はPro・Pro Maxのみ なんと“無印”なし 価格は21万9800円から",
       "title": "iPhone 18シリーズ発表、今年はPro・Pro Maxのみ なんと“無印”なし 価格は21万9800円から",
       "source": "ITmedia NEWS",
@@ -313,15 +340,6 @@
       "publishedAt": "2026-09-10T05:59:28.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6594858?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6594857?source=rss-大谷がIL入り ロバーツ監督明言",
-      "title": "大谷がIL入り ロバーツ監督明言",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-10T05:37:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594857?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6594844?source=rss-初代→Switch2へ ニンダイ注目点",
@@ -486,15 +504,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001345/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6594807?source=rss-有村治子氏を要職起用へ 手腕評価",
-      "title": "有村治子氏を要職起用へ 手腕評価",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-09T23:00:13.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594807?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/10/2000001344/-「めっちゃカメレオン」Switch 2版発売 2人で開発したインディゲー、3カ月で到達",
       "title": "「めっちゃカメレオン」Switch 2版発売 2人で開発したインディゲー、3カ月で到達",
       "source": "ITmedia NEWS",
@@ -529,15 +538,6 @@
       "publishedAt": "2026-09-09T21:23:21.000Z",
       "description": "米Appleが「iPhone 18 Pro」「iPhone 18 Pro Max」を発表した。6.3インチのProと6.9インチのPro Maxの2機種で、今年はいわゆる“無印”モデルの発表がない異例のラインアップとなった。予約注文は9月12日午後9時から、発売は9月18日。従来モデルの「iPhone 17 Pro」「...",
       "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001341/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594798?source=rss-高野山の宿坊 集団申告漏れ指摘",
-      "title": "高野山の宿坊 集団申告漏れ指摘",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-09T21:22:26.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594798?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594797?source=rss-折りたためる「iPhone Duo」発表",
