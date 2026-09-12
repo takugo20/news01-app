@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T20:22:01.908Z",
+  "updatedAt": "2026-09-12T22:54:06.014Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,51 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595108?source=rss-国対委員長に村井英樹氏 首相意向",
+      "title": "国対委員長に村井英樹氏 首相意向",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-12T22:48:12.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595108?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6595106?source=rss-AnthropicCEO AI開発の減速訴え",
+      "title": "AnthropicCEO AI開発の減速訴え",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-09-12T22:35:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595106?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595104?source=rss-ベネチア 日本作品は金獅子賞逃す",
+      "title": "ベネチア 日本作品は金獅子賞逃す",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-12T22:33:31.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595104?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595105?source=rss-北口榛花 日本新記録マークし優勝",
+      "title": "北口榛花 日本新記録マークし優勝",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-12T22:28:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595105?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/13/2000001423/-映画「バックルームズ」が怖くなかったマンガ家、基になったネット都市伝説にハマって本作の楽しみ方を理解する",
+      "title": "映画「バックルームズ」が怖くなかったマンガ家、基になったネット都市伝説にハマって本作の楽しみ方を理解する",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-12T22:16:00.000Z",
+      "description": "4日に日本でも公開された映画「バックルームズ」が、世界中で大ヒットしています。個人的にあまり怖くなかったのですが、基になった都市伝説を調べるうちに見方が変わりました。",
+      "url": "https://www.itmedia.co.jp/news/article/2609/13/2000001423/"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595100?source=rss-バレー男子イラン監督 日程に不満",
       "title": "バレー男子イラン監督 日程に不満",
@@ -207,15 +252,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6595069?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595066?source=rss-岡本が31号 松井氏の偉大さ称える",
-      "title": "岡本が31号 松井氏の偉大さ称える",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-12T07:36:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595066?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595067?source=rss-森本レオ氏 8月末までQさま参加",
       "title": "森本レオ氏 8月末までQさま参加",
       "source": "Yahoo!ニュース エンタメ",
@@ -306,15 +342,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6595021?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595009?source=rss-藤井竜王対局 1手1万円熊本に寄付",
-      "title": "藤井竜王対局 1手1万円熊本に寄付",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-11T23:23:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595009?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595007?source=rss-首相 裏金事件関与議員の入閣検討",
       "title": "首相 裏金事件関与議員の入閣検討",
       "source": "Yahoo!ニュース 国内",
@@ -331,15 +358,6 @@
       "publishedAt": "2026-09-11T23:06:23.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6595008?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595002?source=rss-森本レオさん 原因不明の突然死",
-      "title": "森本レオさん 原因不明の突然死",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-11T22:29:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595002?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/11/2000001427/-なぜ酒蔵の許諾なしに？ 「VTuberコラボ日本酒」騒動、主催者が経緯説明 仲介者による調整で「準備進んでいると認識」",
@@ -439,15 +457,6 @@
       "publishedAt": "2026-09-11T04:56:53.000Z",
       "description": "デジタル庁は9月11日、同庁が運用する「ガバメントソリューションサービス」（GSS）が外部から不正アクセスを受け、氏名やメールアドレスなど約24万6000件の個人情報が漏えいした可能性があると発表した。一般の人の個人情報は含まれていないという。",
       "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001406/"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594938?source=rss-人工超知能開発 なぜ研究者が警告",
-      "title": "人工超知能開発 なぜ研究者が警告",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-09-11T04:18:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594938?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594942?source=rss-政府職員らの情報 24万件漏えいか",
@@ -556,24 +565,6 @@
       "publishedAt": "2026-09-10T09:49:11.000Z",
       "description": "世界最大規模のヒト型ロボット運動会への出場を提案し、プロジェクトを統括したのは、新卒1年目の社員だった――。GMO AI&ロボティクス商事（東京都渋谷区）は9月8日、8月に中国・北京で開催された「第2回 世界ヒューマノイド運動会」への出場結果を報告した。発案者はこの春、GMOインターネットグループに入社したばかりの廣本...",
       "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001384/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/10/2000001385/-「婚活・恋活」にAI活用、20歳から39歳男女の3分の2 「模擬問答」で客観的意見求める",
-      "title": "「婚活・恋活」にAI活用、20歳から39歳男女の3分の2 「模擬問答」で客観的意見求める",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-10T09:16:59.000Z",
-      "description": "20?39歳の男女の3人に2人が、結婚や恋愛の相手を探すための活動「婚活・恋活」に、AIを利用しているー。そんな調査結果が公表された。悩みを打ち明ける相手として「AIは友人より相談しやすい」という人が85.7％にのぼった。AIが恋愛においても存在感を高めている様子が浮き彫りとなった。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001385/"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594865?source=rss-「グエー」呼んだ寄付 父親が感謝",
-      "title": "「グエー」呼んだ寄付 父親が感謝",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-09-10T07:39:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594865?source=rss"
     }
   ]
 }
