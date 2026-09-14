@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T04:13:57.589Z",
+  "updatedAt": "2026-09-14T12:17:54.776Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,249 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595292?source=rss-38社で1万1610人「国保逃れ」確認",
+      "title": "38社で1万1610人「国保逃れ」確認",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-14T11:30:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595292?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595291?source=rss-中部電の不正 経産相が厳しく批判",
+      "title": "中部電の不正 経産相が厳しく批判",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-14T11:19:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595291?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595278?source=rss-世界最高峰 ラグビー戦術の現在地",
+      "title": "世界最高峰 ラグビー戦術の現在地",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-14T11:12:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595278?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/14/2000001258/-「AIで効率化しても仕事が増えるだけ」──月○時間浮かせても報告しない社員たち 広がる“AI版静かな退職”",
+      "title": "「AIで効率化しても仕事が増えるだけ」──月○時間浮かせても報告しない社員たち 広がる“AI版静かな退職”",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-14T10:48:23.000Z",
+      "description": "AI活用の成果を隠す会社員が少なくなさそうだ。浮いた削減時間は労使どちらの手に……。",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001258/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/14/2000001445/-Appleの「iPhone Duo」は、折りたたみスマホの未来を開くのか、閉じるのか",
+      "title": "Appleの「iPhone Duo」は、折りたたみスマホの未来を開くのか、閉じるのか",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-14T10:46:48.000Z",
+      "description": "Apple初の折りたたみスマートフォン「iPhone Duo」。今回の製品発表では、日本のネット上で落胆の声も大きい。理由はいうまでもなく、価格設定だ。",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001445/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595289?source=rss-霊長類最強 吉田沙保里さん歌手に",
+      "title": "霊長類最強 吉田沙保里さん歌手に",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-14T10:44:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595289?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595286?source=rss-VIVANTに全力便乗 鳥取PRに反響",
+      "title": "VIVANTに全力便乗 鳥取PRに反響",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-14T10:43:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595286?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/14/2000001436/-「GPT Astraでゲーム開発＝ほぼソシャゲ」説を唱えたい 非エンジニアの挑戦は、廃課金への道か",
+      "title": "「GPT Astraでゲーム開発＝ほぼソシャゲ」説を唱えたい 非エンジニアの挑戦は、廃課金への道か",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-14T10:40:57.000Z",
+      "description": "待てば無料。課金すればガッと進む。これ、ソシャゲ？",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001436/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/14/2000001455/-マンガ数冊「105万円でSOLD」物議、メルカリ“マネロン疑惑”を否定「その価格で売れていない」……ならばなぜ？",
+      "title": "マンガ数冊「105万円でSOLD」物議、メルカリ“マネロン疑惑”を否定「その価格で売れていない」……ならばなぜ？",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-14T10:37:13.000Z",
+      "description": "「メルカリで、マンガの数冊のセットなど、数千円程度に見える多くの商品が『105万円』で販売済みになっている。マネーロンダリングなど、不正取引に利用されたのでは」――Xで拡散した疑惑にメルカリが回答した。",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001455/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/14/2000001460/-楽天モバイル、「ID未連携ユーザーの自動解約」を撤回 2週間で方針転換",
+      "title": "楽天モバイル、「ID未連携ユーザーの自動解約」を撤回 2週間で方針転換",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-14T09:56:47.000Z",
+      "description": "楽天モバイルは9月14日、楽天IDと連携していないユーザーの契約を11月30日で自動解約するとしていた方針を撤回すると発表した。これは8月31日の発表を見直したもので、同社は当初、「楽天IDと連携せずに楽天モバイルを利用できる機能」を利用するユーザーに向けて、期限までに「楽天会員へのアップグレード」などの手続きをしなけ...",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001460/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595283?source=rss-ヤクルト イベント当日中止を謝罪",
+      "title": "ヤクルト イベント当日中止を謝罪",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-14T09:51:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595283?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/14/2000001458/-古坂大魔王が8歳娘の手描きキャラをAIアニメ化→「良いパパ」「子どもの創造性損ねる」と賛否両論",
+      "title": "古坂大魔王が8歳娘の手描きキャラをAIアニメ化→「良いパパ」「子どもの創造性損ねる」と賛否両論",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-14T09:12:19.000Z",
+      "description": "タレントの古坂大魔王さんが9月13日、8歳の娘が描いたキャラクターを生成AIでアニメーション化した動画をXに投稿した。親子でAIを使った創作を楽しむ姿に好意的な反応が集まる一方、生成AIの利用や学習データを巡る議論も広がっている。",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001458/"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6595282?source=rss-メルカリ限定公開機能 悪用対策は",
+      "title": "メルカリ限定公開機能 悪用対策は",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-09-14T09:09:01.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595282?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6595279?source=rss-楽天モバ「ID未連携で解約」撤回",
+      "title": "楽天モバ「ID未連携で解約」撤回",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-09-14T08:41:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595279?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595271?source=rss-森衆院議長キーウ訪問 連帯表明へ",
+      "title": "森衆院議長キーウ訪問 連帯表明へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-14T08:05:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595271?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595273?source=rss-新たな台風発生へ 連休に影響恐れ",
+      "title": "新たな台風発生へ 連休に影響恐れ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-14T07:43:12.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595273?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6595272?source=rss-AIで面接応募者になりすまし 対策",
+      "title": "AIで面接応募者になりすまし 対策",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-09-14T07:40:12.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595272?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595268?source=rss-信長協奏曲が完結 2009年から連載",
+      "title": "信長協奏曲が完結 2009年から連載",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-14T07:27:26.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595268?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595265?source=rss-31年間皆勤の力士 30歳年下に勝利",
+      "title": "31年間皆勤の力士 30歳年下に勝利",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-14T06:47:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595265?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/14/2000001452/-“自動で耳コピ”アプリ、ヤマハが無料公開 音源読み込み→3分でピアノ譜に",
+      "title": "“自動で耳コピ”アプリ、ヤマハが無料公開 音源読み込み→3分でピアノ譜に",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-14T06:39:31.000Z",
+      "description": "標準的な楽曲なら約3分で楽譜にできるという。10月末までのβ期間は完全無料。",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001452/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595263?source=rss-「パスタ市場」競争さらに活発に",
+      "title": "「パスタ市場」競争さらに活発に",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-14T06:32:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595263?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595260?source=rss-中学生だけでの入店を拒否 違法?",
+      "title": "中学生だけでの入店を拒否 違法?",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-14T06:23:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595260?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595259?source=rss-24hマラソンに乱入者 日テレ言及",
+      "title": "24hマラソンに乱入者 日テレ言及",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-14T06:08:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595259?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595257?source=rss-佐川急便かたる不審電話 見分け方",
+      "title": "佐川急便かたる不審電話 見分け方",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-14T06:00:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595257?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595258?source=rss-浜岡原発 再稼働の申請取り下げ",
+      "title": "浜岡原発 再稼働の申請取り下げ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-14T05:27:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595258?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595255?source=rss-渡辺元智さんお別れ会 筒香ら弔問",
+      "title": "渡辺元智さんお別れ会 筒香ら弔問",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-14T04:57:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595255?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595250?source=rss-東北や北陸 土砂災害や浸水に注意",
+      "title": "東北や北陸 土砂災害や浸水に注意",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-14T04:24:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595250?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595231?source=rss-ガソスタ廃業加速 自治体どう支援",
       "title": "ガソスタ廃業加速 自治体どう支援",
       "source": "Yahoo!ニュース 経済",
@@ -43,6 +286,15 @@
       "publishedAt": "2026-09-14T04:03:52.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6595231?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/14/2000001440/-レベルファイブ発表会のAI演出が物議 「不自然」「内容よりAIが気になる」 日野社長「派手にしたかった」",
+      "title": "レベルファイブ発表会のAI演出が物議 「不自然」「内容よりAIが気になる」 日野社長「派手にしたかった」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-14T04:00:25.000Z",
+      "description": "「妖怪ウォッチ」「イナズマイレブン」などを手掛けるレベルファイブが、9月10日のオンライン発表会でAI生成映像を多用し、Xなどで物議を醸している。同社の日野晃博社長は9月12日、AI映像に不快感を示した視聴者に謝罪したうえで、自社が進めるAI活用の方針について説明。発表会を「派手にしたい」との狙いから、最新AIを使った...",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001440/"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595249?source=rss-松原のぶえさん死去 今月番組参加",
@@ -61,15 +313,6 @@
       "publishedAt": "2026-09-14T03:46:47.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6595248?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595247?source=rss-佐野岳&沢口けいこ 第1子が誕生",
-      "title": "佐野岳&沢口けいこ 第1子が誕生",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-14T03:30:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595247?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595244?source=rss-りくりゅう 婚約発表後初の公の場",
@@ -106,33 +349,6 @@
       "publishedAt": "2026-09-14T03:08:36.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6595242?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595243?source=rss-中部電力 データ不正で調査報告書",
-      "title": "中部電力 データ不正で調査報告書",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-14T03:07:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595243?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/14/2000001258/-「AIで効率化しても仕事が増えるだけ」──月○時間浮かせても報告しない社員たち 広がる“AI版静かな退職”",
-      "title": "「AIで効率化しても仕事が増えるだけ」──月○時間浮かせても報告しない社員たち 広がる“AI版静かな退職”",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-14T03:00:00.000Z",
-      "description": "AI活用の成果を隠す会社員が少なくなさそうだ。浮いた削減時間は労使どちらの手に……。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001258/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595240?source=rss-とうもろこし「もろ活」SNS話題",
-      "title": "とうもろこし「もろ活」SNS話題",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-14T02:55:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595240?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595237?source=rss-少年院に入る子ども増加傾向 背景",
@@ -234,33 +450,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6595221?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595219?source=rss-野口五郎 娘との紅白出演が濃厚",
-      "title": "野口五郎 娘との紅白出演が濃厚",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-13T23:40:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595219?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595217?source=rss-日本海側 激しい雨や落雷に注意",
-      "title": "日本海側 激しい雨や落雷に注意",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-13T23:17:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595217?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595216?source=rss-MF佐野航大 圧巻スーパーミドル",
-      "title": "MF佐野航大 圧巻スーパーミドル",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-13T23:16:45.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595216?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/14/2000001433/-トランプ政権のサックス氏、AI「ペース調整」論に苦言 「規制がなければできないふりをやめろ」",
       "title": "トランプ政権のサックス氏、AI「ペース調整」論に苦言 「規制がなければできないふりをやめろ」",
       "source": "ITmedia NEWS",
@@ -268,33 +457,6 @@
       "publishedAt": "2026-09-13T23:14:08.000Z",
       "description": "大統領科学技術諮問委員会のデビッド・サックス共同議長は、AnthropicとOpenAIのトップによるAI開発減速の提案を批判した。減速を望むなら規制や他者の許可を待たずに自ら実行すべきだと指摘。減速を条件に規制の枠組みを要求する姿勢は政治への脅迫に見えると述べ、利己的な動機を装うのをやめるよう求めた。",
       "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001433/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595212?source=rss-元裁判官「説諭率100%」のわけ",
-      "title": "元裁判官「説諭率100%」のわけ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-13T22:51:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595212?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595210?source=rss-アメフト試合中止 契約違反を巡り",
-      "title": "アメフト試合中止 契約違反を巡り",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-13T22:39:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595210?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595207?source=rss-維新・中司幹事長の入閣調整",
-      "title": "維新・中司幹事長の入閣調整",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-13T22:16:13.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595207?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/14/2000001430/-「死亡事故がゼロの世の中を」──苦節7年、危険な作業をAIで省力化 全国で稼働する「交通誘導AI」の現在地",
@@ -306,69 +468,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001430/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595204?source=rss-織田裕二が大阪登場 5000人大歓声",
-      "title": "織田裕二が大阪登場 5000人大歓声",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-13T21:30:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595204?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595203?source=rss-岡本和真が豪快32号 3者連続弾",
-      "title": "岡本和真が豪快32号 3者連続弾",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-13T21:21:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595203?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595196?source=rss-大河異例の特番ドラマ 全国放送へ",
-      "title": "大河異例の特番ドラマ 全国放送へ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-13T14:17:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595196?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595191?source=rss-張本美和が涙の優勝 中国勢を連破",
-      "title": "張本美和が涙の優勝 中国勢を連破",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-13T13:15:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595191?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595177?source=rss-日銀の利上げ公算大 家計への影響",
-      "title": "日銀の利上げ公算大 家計への影響",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-13T11:12:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595177?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595175?source=rss-性行為したくない 夫婦で言えぬ訳",
-      "title": "性行為したくない 夫婦で言えぬ訳",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-13T10:14:55.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595175?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595170?source=rss-オープンAIのCEO 年内IPOを否定",
-      "title": "オープンAIのCEO 年内IPOを否定",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-13T08:56:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595170?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6595158?source=rss-AI生成の料理写真 なぜ「不気味」",
       "title": "AI生成の料理写真 なぜ「不気味」",
       "source": "Yahoo!ニュース IT",
@@ -376,15 +475,6 @@
       "publishedAt": "2026-09-13T07:23:04.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6595158?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595142?source=rss-タッチパネル注文 利用者らの本音",
-      "title": "タッチパネル注文 利用者らの本音",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-13T04:43:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595142?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/13/2000001432/-AnthropicのアモデイCEO、AI開発の「ペース調整」訴えるエッセイ公開 アルトマン氏とマスク氏も賛同",
@@ -450,15 +540,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001424/"
     },
     {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594970?source=rss-レシートAI生成 経費不正防ぐには",
-      "title": "レシートAI生成 経費不正防ぐには",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-09-11T08:38:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594970?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/11/2000001409/-本物そっくり“AI生成レシート“が経費精算の脅威に マネフォ「自力で見破るのは難しい」 企業はどう備える？",
       "title": "本物そっくり“AI生成レシート“が経費精算の脅威に マネフォ「自力で見破るのは難しい」 企業はどう備える？",
       "source": "ITmedia NEWS",
@@ -477,15 +558,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001419/"
     },
     {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594964?source=rss-兵器開発にClaude利用の恐れ阻止",
-      "title": "兵器開発にClaude利用の恐れ阻止",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-09-11T07:49:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594964?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/11/2000001418/-OpenAI、最先端AI開発の減速を検討か アルトマンCEOが社員に説明と米報道",
       "title": "OpenAI、最先端AI開発の減速を検討か アルトマンCEOが社員に説明と米報道",
       "source": "ITmedia NEWS",
@@ -502,78 +574,6 @@
       "publishedAt": "2026-09-11T06:32:22.000Z",
       "description": "25年にノジマ傘下に入ったVAIO。これまで法人向けの保守的な製品が多かった同社だが、ノジマの後押しを受けて再び挑戦するという。",
       "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001417/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/11/2000001411/-「すばやさがあがるリュック」など……ドラクエ商品予約にアクセス集中、エラー連発→完売 グラニフ謝罪、追加受注へ",
-      "title": "「すばやさがあがるリュック」など……ドラクエ商品予約にアクセス集中、エラー連発→完売 グラニフ謝罪、追加受注へ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-11T05:26:52.000Z",
-      "description": "深夜に待機して買えなかった利用者から不満が続出した。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001411/"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6594950?source=rss-オープンAI 開発ペース緩める検討",
-      "title": "オープンAI 開発ペース緩める検討",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-09-11T05:12:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6594950?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/11/2000001406/-デジタル庁に不正アクセス、個人情報24.6万件漏えいか 各府省庁の職員情報など",
-      "title": "デジタル庁に不正アクセス、個人情報24.6万件漏えいか 各府省庁の職員情報など",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-11T04:56:53.000Z",
-      "description": "デジタル庁は9月11日、同庁が運用する「ガバメントソリューションサービス」（GSS）が外部から不正アクセスを受け、氏名やメールアドレスなど約24万6000件の個人情報が漏えいした可能性があると発表した。一般の人の個人情報は含まれていないという。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001406/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/11/2000001315/-「食事量は1日1200kcal以下、でも肥満」な人を14日間追跡調査 痩せない理由は……米コロンビア大などの研究",
-      "title": "「食事量は1日1200kcal以下、でも肥満」な人を14日間追跡調査 痩せない理由は……米コロンビア大などの研究",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-11T03:00:00.000Z",
-      "description": "米コロンビア大学などに所属する研究者らが1992年に発表した論文「Discrepancy between Self-Reported and Actual Caloric Intake and Exercise in Obese Subjects」は、1日1200kcal以下の食事制限を続けているのに一向に体重が減らな...",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001315/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/11/2000001398/-かっぱ寿司「配布前のコラボグッズ、フリマで買わないで」 プリキュアコラボ発表日に注意喚起",
-      "title": "かっぱ寿司「配布前のコラボグッズ、フリマで買わないで」 プリキュアコラボ発表日に注意喚起",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-11T02:58:17.000Z",
-      "description": "映画「名探偵プリキュア！ 不思議な庭と2人の秘密」のコラボキャンペーンを発表しており、これを念頭に置いた注意喚起とみられる。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001398/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/11/2000001401/-TypeScriptのコードを描いたスウェット発売、「HHKB」30周年記念 ZOZOのエンジニアが協力",
-      "title": "TypeScriptのコードを描いたスウェット発売、「HHKB」30周年記念 ZOZOのエンジニアが協力",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-11T02:48:42.000Z",
-      "description": "型レベルプログラミングで1つの英文を組み立て、読み解くとHHKBの哲学が浮かび上がる、“玄人好み”のデザインになっているという。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001401/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/11/2000001399/-Windows用「Gemini」アプリ提供開始 画面上に重ねて作業を中断せず利用可能に",
-      "title": "Windows用「Gemini」アプリ提供開始 画面上に重ねて作業を中断せず利用可能に",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-11T02:06:11.000Z",
-      "description": "Googleは、Windows向けデスクトップアプリ「Gemini app for Windows」を公開した。Windows 10および11に対応し、UIは日本語をサポートする。［Alt］＋［Space］で作業画面上に重ねて呼び出せるほか、自律型AIエージェント「Gemini Spark」や画像・動画生成もPC上で利...",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001399/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/10/2000001344/-「めっちゃカメレオン」Switch 2版発売 2人で開発したインディゲー、3カ月で到達",
-      "title": "「めっちゃカメレオン」Switch 2版発売 2人で開発したインディゲー、3カ月で到達",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-11T01:31:42.000Z",
-      "description": "6月10日にSteam（PC）向けに発売してからわずか3カ月でSwitch 2版の配信に至った。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001344/"
     }
   ]
 }
