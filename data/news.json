@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T12:17:54.776Z",
+  "updatedAt": "2026-09-14T19:46:16.204Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,87 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595303?source=rss-中村ゆりさん死去 MARIが追悼",
+      "title": "中村ゆりさん死去 MARIが追悼",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-14T14:14:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595303?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595302?source=rss-高市氏の人事調整 林氏の処遇焦点",
+      "title": "高市氏の人事調整 林氏の処遇焦点",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-14T13:41:47.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595302?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6595300?source=rss-AIの開発ペース「減速」は可能?",
+      "title": "AIの開発ペース「減速」は可能?",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-09-14T13:32:01.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595300?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595297?source=rss-中日投手・マラー 4打点&初完封",
+      "title": "中日投手・マラー 4打点&初完封",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-14T12:52:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595297?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595298?source=rss-光通信 レオパレス21にTOB実施",
+      "title": "光通信 レオパレス21にTOB実施",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-14T12:51:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595298?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595294?source=rss-すっかり広島県民 枡田アナは今",
+      "title": "すっかり広島県民 枡田アナは今",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-14T12:32:51.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595294?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/14/2000001465/-録画した番組を「Googleドライブ」「OneDrive」に保存 パナソニック新型「DIGA」で",
+      "title": "録画した番組を「Googleドライブ」「OneDrive」に保存 パナソニック新型「DIGA」で",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-14T12:24:01.000Z",
+      "description": "パナソニックが、録画した番組をMicrosoft OneDriveやGoogleドライブに保存できる「クラウド録画」対応のブルーレイディスクレコーダー「全自動ディーガ」5機種を、10月下旬に発売すると発表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001465/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595295?source=rss-俳優・中村ゆりさん死去 44歳",
+      "title": "俳優・中村ゆりさん死去 44歳",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-14T12:18:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595295?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/14/2000001436/-「GPT Astraでゲーム開発＝ほぼソシャゲ」説を唱えたい 非エンジニアの挑戦は、廃課金への道か",
+      "title": "「GPT Astraでゲーム開発＝ほぼソシャゲ」説を唱えたい 非エンジニアの挑戦は、廃課金への道か",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-14T12:09:55.000Z",
+      "description": "待てば無料。課金すればガッと進む。これ、ソシャゲ？",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001436/"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595292?source=rss-38社で1万1610人「国保逃れ」確認",
       "title": "38社で1万1610人「国保逃れ」確認",
@@ -97,15 +178,6 @@
       "publishedAt": "2026-09-14T10:43:32.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6595286?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/14/2000001436/-「GPT Astraでゲーム開発＝ほぼソシャゲ」説を唱えたい 非エンジニアの挑戦は、廃課金への道か",
-      "title": "「GPT Astraでゲーム開発＝ほぼソシャゲ」説を唱えたい 非エンジニアの挑戦は、廃課金への道か",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-14T10:40:57.000Z",
-      "description": "待てば無料。課金すればガッと進む。これ、ソシャゲ？",
-      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001436/"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/14/2000001455/-マンガ数冊「105万円でSOLD」物議、メルカリ“マネロン疑惑”を否定「その価格で売れていない」……ならばなぜ？",
@@ -189,15 +261,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6595272?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595268?source=rss-信長協奏曲が完結 2009年から連載",
-      "title": "信長協奏曲が完結 2009年から連載",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-14T07:27:26.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595268?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595265?source=rss-31年間皆勤の力士 30歳年下に勝利",
       "title": "31年間皆勤の力士 30歳年下に勝利",
       "source": "Yahoo!ニュース スポーツ",
@@ -270,15 +333,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6595255?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595250?source=rss-東北や北陸 土砂災害や浸水に注意",
-      "title": "東北や北陸 土砂災害や浸水に注意",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-14T04:24:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595250?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595231?source=rss-ガソスタ廃業加速 自治体どう支援",
       "title": "ガソスタ廃業加速 自治体どう支援",
       "source": "Yahoo!ニュース 経済",
@@ -322,24 +376,6 @@
       "publishedAt": "2026-09-14T03:29:53.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6595244?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595246?source=rss-松本人志 回復順調で手術前倒しへ",
-      "title": "松本人志 回復順調で手術前倒しへ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-14T03:23:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595246?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595241?source=rss-中国で「はま寿司」急拡大 背景",
-      "title": "中国で「はま寿司」急拡大 背景",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-14T03:22:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595241?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595242?source=rss-交通事故「魔の7歳」巡り識者警鐘",
@@ -414,15 +450,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6595226?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595227?source=rss-VIVANT人気声優6人起用 告知なし",
-      "title": "VIVANT人気声優6人起用 告知なし",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-14T00:51:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595227?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595225?source=rss-浦和レッズ 複数の体調不良者発生",
       "title": "浦和レッズ 複数の体調不良者発生",
       "source": "Yahoo!ニュース スポーツ",
@@ -439,15 +466,6 @@
       "publishedAt": "2026-09-14T00:42:34.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6595224?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595221?source=rss-テニスVの瞬間に選手が気づかず",
-      "title": "テニスVの瞬間に選手が気づかず",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-14T00:07:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595221?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/14/2000001433/-トランプ政権のサックス氏、AI「ペース調整」論に苦言 「規制がなければできないふりをやめろ」",
@@ -504,15 +522,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/13/2000001423/"
     },
     {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6595048?source=rss-ランサム被害を復元 警察庁が開発",
-      "title": "ランサム被害を復元 警察庁が開発",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-09-12T05:23:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595048?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/12/2000001428/-「壁紙DIY」とイマドキの超短焦点4Kプロジェクターを寝室で試したら検証が止められなくなった",
       "title": "「壁紙DIY」とイマドキの超短焦点4Kプロジェクターを寝室で試したら検証が止められなくなった",
       "source": "ITmedia NEWS",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-09-11T06:57:36.000Z",
       "description": "米Bloombergは9月11日、米OpenAIが最先端AIの開発ペースを緩めることを検討していると報じた。サム・アルトマンCEOが全社会議で従業員に説明したという。",
       "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001418/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/11/2000001417/-VAIOが再び“挑戦”する理由 ノジマが後押し、独自のマルチフリップ機構が復活へ",
-      "title": "VAIOが再び“挑戦”する理由 ノジマが後押し、独自のマルチフリップ機構が復活へ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-11T06:32:22.000Z",
-      "description": "25年にノジマ傘下に入ったVAIO。これまで法人向けの保守的な製品が多かった同社だが、ノジマの後押しを受けて再び挑戦するという。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001417/"
     }
   ]
 }
