@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T11:25:48.180Z",
+  "updatedAt": "2026-09-15T16:37:53.878Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,94 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595406?source=rss-広島・勝田成 頭部死球で緊急交代",
-      "title": "広島・勝田成 頭部死球で緊急交代",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595418?source=rss-頭部死球の広島・勝田 打撲と診断",
+      "title": "頭部死球の広島・勝田 打撲と診断",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-09-15T11:20:00.000Z",
+      "publishedAt": "2026-09-15T14:40:43.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595406?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6595418?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595421?source=rss-墜落推定の無人機 空自「任務中」",
+      "title": "墜落推定の無人機 空自「任務中」",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-15T14:33:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595421?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595420?source=rss-声優上坂すみれ SNS発信当面休止",
+      "title": "声優上坂すみれ SNS発信当面休止",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-15T14:04:23.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595420?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595416?source=rss-山本美憂52歳 ボクシング初勝利",
+      "title": "山本美憂52歳 ボクシング初勝利",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-15T14:04:17.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595416?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595415?source=rss-森衆院議長 ウの議会で異例の演説",
+      "title": "森衆院議長 ウの議会で異例の演説",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-15T14:00:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595415?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595414?source=rss-日経新聞 広告冊子の料金を水増し",
+      "title": "日経新聞 広告冊子の料金を水増し",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-15T13:18:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595414?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595411?source=rss-空自 大型無人偵察機は墜落と推定",
+      "title": "空自 大型無人偵察機は墜落と推定",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-15T12:43:12.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595411?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595410?source=rss-J2仙台マスコット 異例の謹慎処分",
+      "title": "J2仙台マスコット 異例の謹慎処分",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-15T12:22:31.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595410?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595409?source=rss-ちいかわグッズ騒動 JR東海回答",
+      "title": "ちいかわグッズ騒動 JR東海回答",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-15T11:50:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595409?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595408?source=rss-広島・勝田に頭部死球 動けず",
+      "title": "広島・勝田に頭部死球 動けず",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-15T11:39:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595408?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595403?source=rss-16日にかけ雨強まる 冠水など注意",
@@ -124,15 +205,6 @@
       "publishedAt": "2026-09-15T09:26:03.000Z",
       "description": "TBSの日曜劇場「VIVANT」のワンシーンがXで話題だ。SDカードを端子むき出しのまま素手で受け渡す描写に、映像制作者を中心に注目が集まっている。",
       "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001503/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595389?source=rss-通信途絶えた無人機の一部か 発見",
-      "title": "通信途絶えた無人機の一部か 発見",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-15T09:12:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595389?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595392?source=rss-自民役員人事 高市氏が陣容固める",
@@ -252,15 +324,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001483/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595365?source=rss-WEST.大阪のフェス出演見合わせ",
-      "title": "WEST.大阪のフェス出演見合わせ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-15T05:41:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595365?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595362?source=rss-金融庁 ソニー生命に立ち入り検査",
       "title": "金融庁 ソニー生命に立ち入り検査",
       "source": "Yahoo!ニュース 経済",
@@ -315,24 +378,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001479/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595353?source=rss-100歳以上 全国で初の10万人超",
-      "title": "100歳以上 全国で初の10万人超",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-15T03:07:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595353?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595351?source=rss-シルバーウィーク 台風動向に注意",
-      "title": "シルバーウィーク 台風動向に注意",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-15T03:01:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595351?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/15/2000001476/-Netflixとセガが提携、名作ゲームを続々映像化へ 第1弾は「クレイジータクシー」",
       "title": "Netflixとセガが提携、名作ゲームを続々映像化へ 第1弾は「クレイジータクシー」",
       "source": "ITmedia NEWS",
@@ -340,15 +385,6 @@
       "publishedAt": "2026-09-15T02:58:03.000Z",
       "description": "米Netflixとセガは9月15日、セガのゲーム作品を映像化するパートナーシップを発表した。第1弾として「クレイジータクシー」を実写コメディ映画化するほか、「ソニック・ザ・ヘッジホッグ」「STRANGER THAN HEAVEN」の映像化も進める。",
       "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001476/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595344?source=rss-「ナウル駅」の愛称 一転して継続",
-      "title": "「ナウル駅」の愛称 一転して継続",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-15T02:39:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595344?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595342?source=rss-岡本33号 日本の右打者で歴代最多",
@@ -414,15 +450,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001470/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595318?source=rss-米長期金利一時5%台 インフレ懸念",
-      "title": "米長期金利一時5%台 インフレ懸念",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-14T23:06:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595318?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/15/2000001450/-“ぼっちな生まれ”より“ぼっちな育ち”の方が他者と関わるのが苦手？ 京大がオタマジャクシの社会性を実験",
       "title": "“ぼっちな生まれ”より“ぼっちな育ち”の方が他者と関わるのが苦手？ 京大がオタマジャクシの社会性を実験",
       "source": "ITmedia NEWS",
@@ -468,15 +495,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6595300?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595297?source=rss-中日投手・マラー 4打点&初完封",
-      "title": "中日投手・マラー 4打点&初完封",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-14T12:52:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595297?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/14/2000001465/-録画した番組を「Googleドライブ」「OneDrive」に保存 パナソニック新型「DIGA」で",
       "title": "録画した番組を「Googleドライブ」「OneDrive」に保存 パナソニック新型「DIGA」で",
       "source": "ITmedia NEWS",
@@ -493,15 +511,6 @@
       "publishedAt": "2026-09-14T12:09:55.000Z",
       "description": "待てば無料。課金すればガッと進む。これ、ソシャゲ？",
       "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001436/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595278?source=rss-世界最高峰 ラグビー戦術の現在地",
-      "title": "世界最高峰 ラグビー戦術の現在地",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-14T11:12:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595278?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/14/2000001258/-「AIで効率化しても仕事が増えるだけ」──月○時間浮かせても報告しない社員たち 広がる“AI版静かな退職”",
@@ -547,15 +556,6 @@
       "publishedAt": "2026-09-14T07:40:12.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6595272?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595265?source=rss-31年間皆勤の力士 30歳年下に勝利",
-      "title": "31年間皆勤の力士 30歳年下に勝利",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-14T06:47:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595265?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6595235?source=rss-AI巡る懸念 トランプ氏は重視せず",
