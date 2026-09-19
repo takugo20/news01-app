@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T20:19:22.158Z",
+  "updatedAt": "2026-09-19T22:46:53.812Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,60 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595860?source=rss-最高裁調査官の報告書 見つかる",
+      "title": "最高裁調査官の報告書 見つかる",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-19T22:43:23.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595860?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595861?source=rss-鈴木彩艶 好セーブ連発&得点演出",
+      "title": "鈴木彩艶 好セーブ連発&得点演出",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-19T22:42:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595861?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595858?source=rss-timelesz 7人での活動は継続",
+      "title": "timelesz 7人での活動は継続",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-19T22:24:00.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595858?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595856?source=rss-大型で強い台風 21日に関東最接近",
+      "title": "大型で強い台風 21日に関東最接近",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-19T22:17:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595856?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595857?source=rss-中日・福敬登が今季限りで退団へ",
+      "title": "中日・福敬登が今季限りで退団へ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-19T22:17:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595857?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/20/2000001640/-新作「鬼武者」にハマったマンガ家が熱弁する、他とは違う“パリィ”の魅力とは？",
+      "title": "新作「鬼武者」にハマったマンガ家が熱弁する、他とは違う“パリィ”の魅力とは？",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-19T22:16:00.000Z",
+      "description": "いよいよシルバーウイーク。もし「ゆっくりゲームでも」と思っている方がいたら、ボクは20年ぶりに新作が登場した「鬼武者」をオススメします。",
+      "url": "https://www.itmedia.co.jp/news/article/2609/20/2000001640/"
+    },
+    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595855?source=rss-ラグビー日本 7年ぶりにPNC優勝",
       "title": "ラグビー日本 7年ぶりにPNC優勝",
       "source": "Yahoo!ニュース スポーツ",
@@ -43,15 +97,6 @@
       "publishedAt": "2026-09-19T14:54:29.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6595855?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595854?source=rss-大型の台風25号「強い」勢力に",
-      "title": "大型の台風25号「強い」勢力に",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-19T14:14:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595854?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595850?source=rss-中田ボタン氏死去 吐血しつつ舞台",
@@ -135,15 +180,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6595832?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595831?source=rss-DeNA松尾 脳しんとう特例で抹消",
-      "title": "DeNA松尾 脳しんとう特例で抹消",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-19T10:05:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595831?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595828?source=rss-コメ価格が急落 生産者に危機感",
       "title": "コメ価格が急落 生産者に危機感",
       "source": "Yahoo!ニュース 経済",
@@ -216,15 +252,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6595812?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595811?source=rss-力士の体重差100kg超 圧巻の一番",
-      "title": "力士の体重差100kg超 圧巻の一番",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-19T06:31:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595811?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595809?source=rss-美味しんぼ 新TVアニメ放送決定",
       "title": "美味しんぼ 新TVアニメ放送決定",
       "source": "Yahoo!ニュース エンタメ",
@@ -241,15 +268,6 @@
       "publishedAt": "2026-09-19T05:01:46.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6595800?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595798?source=rss-酒井法子 熊本の被災地で炊き出し",
-      "title": "酒井法子 熊本の被災地で炊き出し",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-19T04:44:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595798?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595795?source=rss-エホバ 他人の血の輸血一部解禁へ",
@@ -394,15 +412,6 @@
       "publishedAt": "2026-09-18T08:54:06.000Z",
       "description": "東急電鉄とパナソニック コネクトグループは9月16日、ワンマン運転の運転士がドアを閉める際の判断を支援する「乗務員支援ホーム監視AIシステム」を東横線に導入すると発表した。ホームのカメラ映像をAIで解析し、乗降客や介助が必要な利用者の検出結果を運転台のモニターに表示する。17日に綱島駅で運用を始め、代官山駅?横浜駅の計...",
       "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001637/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595712?source=rss-副大臣に今井絵理子氏ら 名簿発表",
-      "title": "副大臣に今井絵理子氏ら 名簿発表",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-18T07:53:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595712?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/18/2000001633/-生成AIで物議のレベルファイブ、東京ゲームショウ当日の様子は……現地を見てきた",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-09-17T10:36:13.000Z",
       "description": "木原稔官房長官は9月17日の記者会見で、第2次高市改造内閣の閣僚名簿を公表し、デジタル大臣に自民党の古川俊治参院議員（63）を起用すると明らかにした。古川氏は初入閣で、AI・デジタル改革推進やサイバー安全保障、人工知能戦略なども担当する。",
       "url": "https://www.itmedia.co.jp/news/article/2609/17/2000001594/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/17/2000001590/-ドローン攻撃を受けたAWS中東データセンター、半年の復旧作業の末に「一部データは回復不能」",
-      "title": "ドローン攻撃を受けたAWS中東データセンター、半年の復旧作業の末に「一部データは回復不能」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-17T08:53:31.000Z",
-      "description": "米Amazon Web Services（AWS）は9月15日（太平洋夏時間）、3月の軍事衝突に伴うドローン攻撃で被害を受けた中東のデータセンターについて、バーレーンリージョンとアラブ首長国連邦（UAE）リージョンの一部に保存されていたデータやリソースへのアクセスを復旧できないと発表した。両リージョンでは物理的な被害が...",
-      "url": "https://www.itmedia.co.jp/news/article/2609/17/2000001590/"
     }
   ]
 }
