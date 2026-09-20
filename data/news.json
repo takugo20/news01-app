@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T20:33:48.376Z",
+  "updatedAt": "2026-09-20T23:04:54.540Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,58 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595970?source=rss-関東南部など線状降水帯発生恐れ",
-      "title": "関東南部など線状降水帯発生恐れ",
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595973?source=rss-救命病棟24時 院長役に沢村一樹",
+      "title": "救命病棟24時 院長役に沢村一樹",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-20T22:36:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595973?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595975?source=rss-首相が国連初演説へ ICC言及焦点",
+      "title": "首相が国連初演説へ ICC言及焦点",
       "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-09-20T14:52:14.000Z",
+      "publishedAt": "2026-09-20T22:35:28.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595970?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6595975?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595974?source=rss-猪俣周杜容疑者 映画でも各所対応",
+      "title": "猪俣周杜容疑者 映画でも各所対応",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-20T22:34:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595974?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595972?source=rss-オリ山田修義 今季限りで引退へ",
+      "title": "オリ山田修義 今季限りで引退へ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-20T22:20:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595972?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595971?source=rss-台風21日午後に関東最接近 警戒を",
+      "title": "台風21日午後に関東最接近 警戒を",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-20T22:07:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595971?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/21/2000001665/-Googleの「Gemini」も能力テスト中に実在企業3社に侵入──WSJ報道",
+      "title": "Googleの「Gemini」も能力テスト中に実在企業3社に侵入──WSJ報道",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-20T21:50:52.000Z",
+      "description": "GoogleのAI「Gemini」が、サイバーセキュリティの評価テスト中に外部ネットワークへ接続し、実在する3社のシステムへ自律的に侵入していたことが判明した。架空なはずの社名が実存企業と一致したことやテスト環境の設定不備が原因。Googleは、Geminiが実在企業と認識した時点で侵入を中止しており、実害やミスアライ...",
+      "url": "https://www.itmedia.co.jp/news/article/2609/21/2000001665/"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595967?source=rss-油揚げの包装に職人名を記載 狙い",
@@ -198,15 +243,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6595925?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595921?source=rss-ソフトテニス女子団体 日本が金",
-      "title": "ソフトテニス女子団体 日本が金",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-20T08:02:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595921?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595917?source=rss-若林正恭 スクール革命!卒業発表",
       "title": "若林正恭 スクール革命!卒業発表",
       "source": "Yahoo!ニュース エンタメ",
@@ -297,15 +333,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6595893?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595889?source=rss-藤咲凪 第3子出産&マレーシア移住",
-      "title": "藤咲凪 第3子出産&マレーシア移住",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-20T02:53:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595889?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595885?source=rss-iPhone Duo経費にできる?注意点",
       "title": "iPhone Duo経費にできる?注意点",
       "source": "Yahoo!ニュース 経済",
@@ -324,15 +351,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6595882?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595873?source=rss-ニッポンの社長辻 唐突に結婚発表",
-      "title": "ニッポンの社長辻 唐突に結婚発表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-20T00:00:55.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595873?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6595864?source=rss-トランプ氏「AIフォース創設」",
       "title": "トランプ氏「AIフォース創設」",
       "source": "Yahoo!ニュース IT",
@@ -340,15 +358,6 @@
       "publishedAt": "2026-09-19T23:07:43.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6595864?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595860?source=rss-最高裁調査官の報告書 見つかる",
-      "title": "最高裁調査官の報告書 見つかる",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-19T22:43:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595860?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/20/2000001640/-新作「鬼武者」にハマったマンガ家が熱弁する、他とは違う“パリィ”の魅力とは？",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-09-17T21:46:04.000Z",
       "description": "NVIDIAとGoogleは新興企業Emerald AIとともに、電力網の状況に応じて消費電力を動的に制御する「柔軟なデータセンター」の普及を目指す新団体「AEMA」を設立した。送電網の容量不足や住民の電気料金高騰懸念がAIインフラ拡充の壁となる中、計算処理の分散や専用ソフトを活用し、既存電力網の効率運用と接続期間の短...",
       "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001599/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/17/2000001594/-デジタル相に古川俊治氏 AI戦略やサイバー安保も担当 外科医で弁護士、MBAも取得",
-      "title": "デジタル相に古川俊治氏 AI戦略やサイバー安保も担当 外科医で弁護士、MBAも取得",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-17T10:36:13.000Z",
-      "description": "木原稔官房長官は9月17日の記者会見で、第2次高市改造内閣の閣僚名簿を公表し、デジタル大臣に自民党の古川俊治参院議員（63）を起用すると明らかにした。古川氏は初入閣で、AI・デジタル改革推進やサイバー安全保障、人工知能戦略なども担当する。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/17/2000001594/"
     }
   ]
 }
