@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T04:16:31.166Z",
+  "updatedAt": "2026-09-20T10:59:16.939Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,193 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595896?source=rss-押尾コータロー Emでギター挫折",
-      "title": "押尾コータロー Emでギター挫折",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595943?source=rss-フィギュア鍵山優真 来季復帰明言",
+      "title": "フィギュア鍵山優真 来季復帰明言",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-20T10:43:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595943?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595944?source=rss-中田ボタンさん死去 ツッコミ名手",
+      "title": "中田ボタンさん死去 ツッコミ名手",
       "source": "Yahoo!ニュース エンタメ",
       "category": "エンタメ",
-      "publishedAt": "2026-09-20T04:04:55.000Z",
+      "publishedAt": "2026-09-20T10:29:44.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595896?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6595944?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595941?source=rss-速報バレー女子 日本vs台湾",
+      "title": "速報バレー女子 日本vs台湾",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-20T10:21:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595941?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595939?source=rss-台風 21日午後が雨風のピーク",
+      "title": "台風 21日午後が雨風のピーク",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-20T10:13:29.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595939?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6595935?source=rss-道徳的問い AI反論で3割判断覆す",
+      "title": "道徳的問い AI反論で3割判断覆す",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-09-20T09:28:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595935?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595929?source=rss-カバディ漫画 日本代表ほぼ既読",
+      "title": "カバディ漫画 日本代表ほぼ既読",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-20T09:22:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595929?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595930?source=rss-「美味しんぼ」新作アニメ なぜ今",
+      "title": "「美味しんぼ」新作アニメ なぜ今",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-20T09:21:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595930?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595928?source=rss-65歳以上の割合が29.6% 最高更新",
+      "title": "65歳以上の割合が29.6% 最高更新",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-20T08:46:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595928?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595925?source=rss-墜落の空自無人偵察機 一部回収",
+      "title": "墜落の空自無人偵察機 一部回収",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-20T08:42:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595925?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595920?source=rss-44歳の内藤寛太郎 涙のツアー初V",
+      "title": "44歳の内藤寛太郎 涙のツアー初V",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-20T08:25:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595920?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595921?source=rss-ソフトテニス女子団体 日本が金",
+      "title": "ソフトテニス女子団体 日本が金",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-20T08:02:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595921?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595917?source=rss-若林正恭 スクール革命!卒業発表",
+      "title": "若林正恭 スクール革命!卒業発表",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-20T07:38:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595917?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595914?source=rss-アジア大会 国歌演奏を一時中止か",
+      "title": "アジア大会 国歌演奏を一時中止か",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-20T06:58:26.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595914?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595913?source=rss-台風影響 21日のイベ中止相次ぐ",
+      "title": "台風影響 21日のイベ中止相次ぐ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-20T06:30:00.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595913?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595907?source=rss-損保ジャパン 望まない転勤廃止へ",
+      "title": "損保ジャパン 望まない転勤廃止へ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-20T06:02:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595907?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595906?source=rss-岡田克也氏 新党への参加を明言",
+      "title": "岡田克也氏 新党への参加を明言",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-20T05:37:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595906?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595905?source=rss-香取慎吾ブランド コラボ巡り声明",
+      "title": "香取慎吾ブランド コラボ巡り声明",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-20T05:34:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595905?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595901?source=rss-希良梨が活動再開 昨年に引退発表",
+      "title": "希良梨が活動再開 昨年に引退発表",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-20T05:13:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595901?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595897?source=rss-タイパ無視 ひたすら石を磨く90分",
+      "title": "タイパ無視 ひたすら石を磨く90分",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-20T04:35:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595897?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595899?source=rss-乱調のスクバル ベンチで怒り爆発",
+      "title": "乱調のスクバル ベンチで怒り爆発",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-20T04:23:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595899?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595898?source=rss-JR 21日一部で始発から見合わせ",
+      "title": "JR 21日一部で始発から見合わせ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-20T04:18:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6595898?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595893?source=rss-沖縄知事選受け 自衛隊南西シフト",
@@ -63,15 +243,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6595889?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595887?source=rss-ロッキン21日の中止発表 台風影響",
-      "title": "ロッキン21日の中止発表 台風影響",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-20T02:23:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595887?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595885?source=rss-iPhone Duo経費にできる?注意点",
       "title": "iPhone Duo経費にできる?注意点",
       "source": "Yahoo!ニュース 経済",
@@ -90,24 +261,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6595882?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595884?source=rss-関東と東海 今夜道路冠水の恐れも",
-      "title": "関東と東海 今夜道路冠水の恐れも",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-20T01:29:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595884?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595879?source=rss-TBSバース・デイ 20年超歴史に幕",
-      "title": "TBSバース・デイ 20年超歴史に幕",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-20T01:02:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595879?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595880?source=rss-中日 サノーと来季契約で大筋合意",
       "title": "中日 サノーと来季契約で大筋合意",
       "source": "Yahoo!ニュース スポーツ",
@@ -115,15 +268,6 @@
       "publishedAt": "2026-09-20T01:00:02.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6595880?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595878?source=rss-大谷 異例のベースランニング実施",
-      "title": "大谷 異例のベースランニング実施",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-20T00:33:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595878?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595873?source=rss-ニッポンの社長辻 唐突に結婚発表",
@@ -142,15 +286,6 @@
       "publishedAt": "2026-09-19T23:54:27.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6595871?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595869?source=rss-亀梨ソロツアー 開演遅れに神対応",
-      "title": "亀梨ソロツアー 開演遅れに神対応",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-19T23:47:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595869?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595865?source=rss-犬猫の保護依頼増 飼い主が高齢化",
@@ -180,15 +315,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6595860?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595861?source=rss-鈴木彩艶 好セーブ連発&得点演出",
-      "title": "鈴木彩艶 好セーブ連発&得点演出",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-19T22:42:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595861?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595858?source=rss-timelesz 7人での活動は継続",
       "title": "timelesz 7人での活動は継続",
       "source": "Yahoo!ニュース エンタメ",
@@ -198,15 +324,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6595858?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595857?source=rss-中日・福敬登が今季限りで退団へ",
-      "title": "中日・福敬登が今季限りで退団へ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-19T22:17:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595857?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/20/2000001640/-新作「鬼武者」にハマったマンガ家が熱弁する、他とは違う“パリィ”の魅力とは？",
       "title": "新作「鬼武者」にハマったマンガ家が熱弁する、他とは違う“パリィ”の魅力とは？",
       "source": "ITmedia NEWS",
@@ -214,51 +331,6 @@
       "publishedAt": "2026-09-19T22:16:00.000Z",
       "description": "いよいよシルバーウイーク。もし「ゆっくりゲームでも」と思っている方がいたら、ボクは20年ぶりに新作が登場した「鬼武者」をオススメします。",
       "url": "https://www.itmedia.co.jp/news/article/2609/20/2000001640/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595855?source=rss-ラグビー日本 7年ぶりにPNC優勝",
-      "title": "ラグビー日本 7年ぶりにPNC優勝",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-19T14:54:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595855?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595850?source=rss-中田ボタン氏死去 吐血しつつ舞台",
-      "title": "中田ボタン氏死去 吐血しつつ舞台",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-19T13:53:47.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595850?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595845?source=rss-井原良太郎 BD王座奪還も即返上",
-      "title": "井原良太郎 BD王座奪還も即返上",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-19T12:41:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595845?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595842?source=rss-アジア大会の開会式 空席目立つ",
-      "title": "アジア大会の開会式 空席目立つ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-19T11:56:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595842?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595832?source=rss-元参議院議員 星川保松さん死去",
-      "title": "元参議院議員 星川保松さん死去",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-19T10:33:03.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595832?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595828?source=rss-コメ価格が急落 生産者に危機感",
@@ -279,15 +351,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6595827?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595824?source=rss-連休のイベント中止続出 台風影響",
-      "title": "連休のイベント中止続出 台風影響",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-19T08:45:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595824?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595821?source=rss-外務省テロ訓練 衣装への批判続く",
       "title": "外務省テロ訓練 衣装への批判続く",
       "source": "Yahoo!ニュース 国内",
@@ -295,15 +358,6 @@
       "publishedAt": "2026-09-19T08:29:17.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6595821?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595822?source=rss-日ハム柴田獅子 衝撃のプロ初HR",
-      "title": "日ハム柴田獅子 衝撃のプロ初HR",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-19T08:12:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595822?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6595818?source=rss-Anthropic アクセンチュアと提携",
@@ -324,15 +378,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6595800?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595795?source=rss-エホバ 他人の血の輸血一部解禁へ",
-      "title": "エホバ 他人の血の輸血一部解禁へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-19T04:29:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595795?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/19/2000001639/-東京ゲームショウと生成AI ゲームの祭典で商談見込むベンダーたち",
       "title": "東京ゲームショウと生成AI ゲームの祭典で商談見込むベンダーたち",
       "source": "ITmedia NEWS",
@@ -340,42 +385,6 @@
       "publishedAt": "2026-09-19T03:00:00.000Z",
       "description": "ゲームでのAI活用と言えば、オンライン発表会での動画生成AI使用が物議を醸したレベルファイブをはじめ、まだまだユーザー側の拒否感が強い領域でもある。こうした状況下で、ベンダーはどういったソリューションを、どんな企業にプッシュしようとしているのか。TGS2026現地で何社かに話を聞いてみた。",
       "url": "https://www.itmedia.co.jp/news/article/2609/19/2000001639/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595787?source=rss-障害者雇用ビジネス巡り労災認定",
-      "title": "障害者雇用ビジネス巡り労災認定",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-19T01:41:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595787?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595786?source=rss-八重洲口前再開発 残ったビル2棟",
-      "title": "八重洲口前再開発 残ったビル2棟",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-19T01:29:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595786?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595776?source=rss-内閣支持率が59%に上昇 読売調査",
-      "title": "内閣支持率が59%に上昇 読売調査",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-19T00:09:47.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595776?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595773?source=rss-弁当店の倒産急増 過去最多見通し",
-      "title": "弁当店の倒産急増 過去最多見通し",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-19T00:05:35.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595773?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6595748?source=rss-日販 Anthropicに書籍大量販売か",
@@ -493,15 +502,6 @@
       "publishedAt": "2026-09-18T04:43:35.000Z",
       "description": "コンピュータエンターテインメント協会（CESA）は9月17日、年次レポート「CESAゲーム産業レポート2026 プレビュー版」を発刊した。初の独自調査で、ゲーム開発者の85.8％が生成AIを業務で活用していると分かった。",
       "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001618/"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6595684?source=rss-東京ゲームショウ大混雑 背景は",
-      "title": "東京ゲームショウ大混雑 背景は",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-09-18T03:51:41.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595684?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/18/2000001612/-メインで使うスマホ、Androidが54.1％でiPhoneを上回る 40代以上の最多シリーズは「AQUOS」",
