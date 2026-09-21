@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T04:13:53.258Z",
+  "updatedAt": "2026-09-21T12:25:33.861Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,22 +36,175 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596007?source=rss-東京・大島町に特別警報 最新情報",
-      "title": "東京・大島町に特別警報 最新情報",
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596059?source=rss-千葉県を中心に停電発生 最新状況",
+      "title": "千葉県を中心に停電発生 最新状況",
       "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-09-21T04:07:36.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596007?source=rss"
+      "publishedAt": "2026-09-21T11:35:24.000Z",
+      "description": "どこで停電が起きているか、都道府県ごとに地図上で表示する。",
+      "url": "https://news.yahoo.co.jp/pickup/6596059?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596006?source=rss-東京・大島町に土砂災害特別警報",
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596057?source=rss-国民・玉木氏がウ訪問 野党党首初",
+      "title": "国民・玉木氏がウ訪問 野党党首初",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-21T11:01:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596057?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596055?source=rss-速報バレー女子 日本vs.韓国",
+      "title": "速報バレー女子 日本vs.韓国",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-21T11:01:17.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596055?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596054?source=rss-40歳・長友佑都 大怪我に「衝撃」",
+      "title": "40歳・長友佑都 大怪我に「衝撃」",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-21T10:36:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596054?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596053?source=rss-コヤソニを「終える」小籔の覚悟",
+      "title": "コヤソニを「終える」小籔の覚悟",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-21T10:30:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596053?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596051?source=rss-阪神 大山の劇的サヨナラ弾でM10",
+      "title": "阪神 大山の劇的サヨナラ弾でM10",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-21T10:25:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596051?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596048?source=rss-台風 最新情報や避難のポイント",
+      "title": "台風 最新情報や避難のポイント",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-21T10:02:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596048?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596046?source=rss-日ハム柴田&オリ山口「レオ」対決",
+      "title": "日ハム柴田&オリ山口「レオ」対決",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-21T09:36:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596046?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596045?source=rss-大橋信17歳 100m平泳ぎで金メダル",
+      "title": "大橋信17歳 100m平泳ぎで金メダル",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-21T09:19:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596045?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596044?source=rss-台風が関東最接近 夜にかけピーク",
+      "title": "台風が関東最接近 夜にかけピーク",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-21T09:04:01.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596044?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596040?source=rss-ベーグル店「VIVANT」別パン人気",
+      "title": "ベーグル店「VIVANT」別パン人気",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-21T08:17:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596040?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596039?source=rss-体操個人総合 岡が銀、橋本は銅",
+      "title": "体操個人総合 岡が銀、橋本は銅",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-21T08:09:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596039?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596034?source=rss-YOSHIKI 26年ぶり月9出演",
+      "title": "YOSHIKI 26年ぶり月9出演",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-21T07:47:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596034?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596032?source=rss-DeNA監督に度会のファウルが直撃",
+      "title": "DeNA監督に度会のファウルが直撃",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-21T07:36:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596032?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596025?source=rss-気象庁「22日明け方まで警戒を」",
+      "title": "気象庁「22日明け方まで警戒を」",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-21T06:43:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596025?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596018?source=rss-映画ちいかわ 興収158億円を突破",
+      "title": "映画ちいかわ 興収158億円を突破",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-21T05:32:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596018?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596013?source=rss-食事も「キャンセル」若者の実態",
+      "title": "食事も「キャンセル」若者の実態",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-21T05:19:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596013?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596012?source=rss-東京・大島町に土砂災害特別警報",
       "title": "東京・大島町に土砂災害特別警報",
       "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-09-21T03:48:26.000Z",
+      "publishedAt": "2026-09-21T04:44:03.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596006?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6596012?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594476?source=rss-全国の鉄道・フライト 最新情報",
+      "title": "全国の鉄道・フライト 最新情報",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-21T04:26:51.000Z",
+      "description": "最新の鉄道運行情報、フライト情報。災害による交通機関への影響を確認。",
+      "url": "https://news.yahoo.co.jp/pickup/6594476?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596001?source=rss-GTO 生徒役オーディションの価値",
@@ -72,15 +225,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6595999?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595997?source=rss-台風が関東接近 雨量増加に警戒を",
-      "title": "台風が関東接近 雨量増加に警戒を",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-21T02:35:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595997?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595995?source=rss-学年上がり自転車事故増 識者指摘",
       "title": "学年上がり自転車事故増 識者指摘",
       "source": "Yahoo!ニュース 国内",
@@ -90,15 +234,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6595995?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595996?source=rss-代表合流直前 DF冨安健洋が負傷",
-      "title": "代表合流直前 DF冨安健洋が負傷",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-21T02:18:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595996?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595993?source=rss-音楽フェス 台風で30組超出演辞退",
       "title": "音楽フェス 台風で30組超出演辞退",
       "source": "Yahoo!ニュース エンタメ",
@@ -106,15 +241,6 @@
       "publishedAt": "2026-09-21T01:46:15.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6595993?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595992?source=rss-台風25号 空の便にも大きな影響",
-      "title": "台風25号 空の便にも大きな影響",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-21T01:27:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595992?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595990?source=rss-富士山頂の混雑で転倒懸念 検証へ",
@@ -135,15 +261,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/21/2000001666/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595988?source=rss-改造内閣「革命的人事」の舞台裏",
-      "title": "改造内閣「革命的人事」の舞台裏",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-21T00:32:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595988?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595986?source=rss-映画踊る 示したシリーズ原点回帰",
       "title": "映画踊る 示したシリーズ原点回帰",
       "source": "Yahoo!ニュース エンタメ",
@@ -151,15 +268,6 @@
       "publishedAt": "2026-09-21T00:24:21.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6595986?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595982?source=rss-朗希POはリリーフに 監督が明言",
-      "title": "朗希POはリリーフに 監督が明言",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-20T23:54:47.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595982?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595983?source=rss-アジア大会で問題続発 今後に懸念",
@@ -171,15 +279,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6595983?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595981?source=rss-中東エネ巡る支援 首相が表明へ",
-      "title": "中東エネ巡る支援 首相が表明へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-20T23:29:56.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595981?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595978?source=rss-渋谷で若者離れ? 人流データ分析",
       "title": "渋谷で若者離れ? 人流データ分析",
       "source": "Yahoo!ニュース 経済",
@@ -187,33 +286,6 @@
       "publishedAt": "2026-09-20T23:05:01.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6595978?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595973?source=rss-救命病棟24時 院長役に沢村一樹",
-      "title": "救命病棟24時 院長役に沢村一樹",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-20T22:36:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595973?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6595975?source=rss-首相が国連初演説へ ICC言及焦点",
-      "title": "首相が国連初演説へ ICC言及焦点",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-20T22:35:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595975?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595972?source=rss-オリ山田修義 今季限りで引退へ",
-      "title": "オリ山田修義 今季限りで引退へ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-20T22:20:35.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595972?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/21/2000001665/-Googleの「Gemini」も能力テスト中に実在企業3社に侵入──WSJ報道",
@@ -225,15 +297,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/21/2000001665/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595967?source=rss-油揚げの包装に職人名を記載 狙い",
-      "title": "油揚げの包装に職人名を記載 狙い",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-20T13:57:15.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595967?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595968?source=rss-timeleszが謝罪「言葉失った」",
       "title": "timeleszが謝罪「言葉失った」",
       "source": "Yahoo!ニュース エンタメ",
@@ -241,24 +304,6 @@
       "publishedAt": "2026-09-20T13:56:01.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6595968?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595965?source=rss-判定巡る確認 相川監督に虎党非難",
-      "title": "判定巡る確認 相川監督に虎党非難",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-20T13:45:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595965?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595964?source=rss-ニアジョイ藤沢 バセドウ病を公表",
-      "title": "ニアジョイ藤沢 バセドウ病を公表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-20T13:36:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595964?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6595957?source=rss-米大統領 なぜAIの名称変更を提案",
@@ -279,24 +324,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6595955?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595953?source=rss-バレー女子日本4強入り 台湾撃破",
-      "title": "バレー女子日本4強入り 台湾撃破",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-20T11:53:55.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595953?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595945?source=rss-バスケ韓国 決勝当日に練習できず",
-      "title": "バスケ韓国 決勝当日に練習できず",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-20T11:07:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595945?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6595935?source=rss-道徳的問い AI反論で3割判断覆す",
       "title": "道徳的問い AI反論で3割判断覆す",
       "source": "Yahoo!ニュース IT",
@@ -304,24 +331,6 @@
       "publishedAt": "2026-09-20T09:28:27.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6595935?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6595929?source=rss-カバディ漫画 日本代表ほぼ既読",
-      "title": "カバディ漫画 日本代表ほぼ既読",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-20T09:22:58.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595929?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6595930?source=rss-「美味しんぼ」新作アニメ なぜ今",
-      "title": "「美味しんぼ」新作アニメ なぜ今",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-20T09:21:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595930?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595907?source=rss-損保ジャパン 望まない転勤廃止へ",
@@ -349,15 +358,6 @@
       "publishedAt": "2026-09-20T04:35:30.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6595897?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595885?source=rss-iPhone Duo経費にできる?注意点",
-      "title": "iPhone Duo経費にできる?注意点",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-20T01:50:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595885?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6595864?source=rss-トランプ氏「AIフォース創設」",
