@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T12:25:33.861Z",
+  "updatedAt": "2026-09-21T19:54:27.585Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,60 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596077?source=rss-首相 国連で「拉致問題訴えたい」",
+      "title": "首相 国連で「拉致問題訴えたい」",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-21T14:21:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596077?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596081?source=rss-大島町 土砂災害危険警報に切替",
+      "title": "大島町 土砂災害危険警報に切替",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-21T14:14:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596081?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596075?source=rss-台風が連休直撃 観光客からため息",
+      "title": "台風が連休直撃 観光客からため息",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-21T13:52:51.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596075?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596068?source=rss-バレー女子 48年ぶり金メダル王手",
+      "title": "バレー女子 48年ぶり金メダル王手",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-21T12:58:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596068?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596067?source=rss-なでしこ3戦20得点 GS首位通過",
+      "title": "なでしこ3戦20得点 GS首位通過",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-21T12:51:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596067?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596066?source=rss-NHK 戸別訪問営業の外部委託再開",
+      "title": "NHK 戸別訪問営業の外部委託再開",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-21T12:47:53.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596066?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596059?source=rss-千葉県を中心に停電発生 最新状況",
       "title": "千葉県を中心に停電発生 最新状況",
       "source": "Yahoo!ニュース 国内",
@@ -52,15 +106,6 @@
       "publishedAt": "2026-09-21T11:01:59.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6596057?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596055?source=rss-速報バレー女子 日本vs.韓国",
-      "title": "速報バレー女子 日本vs.韓国",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-21T11:01:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596055?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596054?source=rss-40歳・長友佑都 大怪我に「衝撃」",
@@ -117,15 +162,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6596045?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596044?source=rss-台風が関東最接近 夜にかけピーク",
-      "title": "台風が関東最接近 夜にかけピーク",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-21T09:04:01.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596044?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596040?source=rss-ベーグル店「VIVANT」別パン人気",
       "title": "ベーグル店「VIVANT」別パン人気",
       "source": "Yahoo!ニュース 経済",
@@ -153,24 +189,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6596034?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596032?source=rss-DeNA監督に度会のファウルが直撃",
-      "title": "DeNA監督に度会のファウルが直撃",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-21T07:36:13.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596032?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596025?source=rss-気象庁「22日明け方まで警戒を」",
-      "title": "気象庁「22日明け方まで警戒を」",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-21T06:43:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596025?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596018?source=rss-映画ちいかわ 興収158億円を突破",
       "title": "映画ちいかわ 興収158億円を突破",
       "source": "Yahoo!ニュース エンタメ",
@@ -187,15 +205,6 @@
       "publishedAt": "2026-09-21T05:19:58.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6596013?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596012?source=rss-東京・大島町に土砂災害特別警報",
-      "title": "東京・大島町に土砂災害特別警報",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-21T04:44:03.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596012?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6594476?source=rss-全国の鉄道・フライト 最新情報",
@@ -349,15 +358,6 @@
       "publishedAt": "2026-09-20T05:34:33.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6595905?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6595897?source=rss-タイパ無視 ひたすら石を磨く90分",
-      "title": "タイパ無視 ひたすら石を磨く90分",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-20T04:35:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595897?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6595864?source=rss-トランプ氏「AIフォース創設」",
