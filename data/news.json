@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T21:04:09.582Z",
+  "updatedAt": "2026-09-23T04:06:45.502Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,247 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596196?source=rss-日米首脳会談 高市氏の考えは",
-      "title": "日米首脳会談 高市氏の考えは",
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596241?source=rss-首相 ゼレンスキー大統領と初会談",
+      "title": "首相 ゼレンスキー大統領と初会談",
       "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-09-22T16:16:54.000Z",
+      "publishedAt": "2026-09-23T03:59:54.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596196?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6596241?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596240?source=rss-小林悠が引退決意 1週間泣いた妻",
+      "title": "小林悠が引退決意 1週間泣いた妻",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-23T03:54:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596240?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596239?source=rss-朗希が今季初リリーフ登板 大歓声",
+      "title": "朗希が今季初リリーフ登板 大歓声",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-23T03:35:47.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596239?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596238?source=rss-5連休最終日 Uターンで交通混雑",
+      "title": "5連休最終日 Uターンで交通混雑",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-23T03:32:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596238?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596237?source=rss-7年ぶり「深夜食堂」出演者発表",
+      "title": "7年ぶり「深夜食堂」出演者発表",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-23T03:14:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596237?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596230?source=rss-池江「ゴーグルに水」も決勝進出",
+      "title": "池江「ゴーグルに水」も決勝進出",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-23T02:33:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596230?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/23/2000001677/-Apple、ロンドンにライブ会場「Apple Music Hall」を開設 空間オーディオ収録や配信設備付き",
+      "title": "Apple、ロンドンにライブ会場「Apple Music Hall」を開設 空間オーディオ収録や配信設備付き",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-23T02:14:02.000Z",
+      "description": "Appleは英ロンドンのバタシー・パワーステーション内にライブ音楽会場「Apple Music Hall」を開設した。収容人数は600人で、空間オーディオ収録や映像制作の設備を備え、世界配信も行う。併せて新設スタジオからApple Music Radioの全ロンドン番組を生放送する体制に移行した。",
+      "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001677/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596229?source=rss-村上宗隆が33号 岡本和真に並ぶ",
+      "title": "村上宗隆が33号 岡本和真に並ぶ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-23T01:46:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596229?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596228?source=rss-進化系おにぎり専門店 売れる訳",
+      "title": "進化系おにぎり専門店 売れる訳",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-23T01:43:47.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596228?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596227?source=rss-関東は24日朝まで雨 土砂災害注意",
+      "title": "関東は24日朝まで雨 土砂災害注意",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-23T01:38:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596227?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/23/2000001676/-トランプ大統領、国連演説で「AI」を「Super Intelligence」に改称すると表明",
+      "title": "トランプ大統領、国連演説で「AI」を「Super Intelligence」に改称すると表明",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-23T01:36:07.000Z",
+      "description": "トランプ米大統領は国連総会の一般討論演説で、AIの呼称を「Super Intelligence（SI）」に変更すると表明した。米国の全公文書で採用し、他国にも同調を促す。国際的なAI管理の枠組みを拒否し、地球温暖化論争になぞらえて脅威論を一蹴した上で、成長を支援して開発競争をリードする姿勢を強調した。",
+      "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001676/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596224?source=rss-アジア大会競歩 違反連発の波乱",
+      "title": "アジア大会競歩 違反連発の波乱",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-23T01:25:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596224?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596225?source=rss-赤井英和の長男 プロボクサー引退",
+      "title": "赤井英和の長男 プロボクサー引退",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-23T01:22:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596225?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/23/2000001675/-Microsoft、Xboxで新たに268人削減 次期「Halo」はActivisionが開発、Ninja Theoryは閉鎖案",
+      "title": "Microsoft、Xboxで新たに268人削減 次期「Halo」はActivisionが開発、Ninja Theoryは閉鎖案",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-23T00:55:58.000Z",
+      "description": "MicrosoftのXbox部門はHalo Studiosや管理部門などで268人を削減すると発表した。7月発表の大規模再編の約4分の3が完了した形だ。次期Halo開発をActivisionの新設チームに移管するなどスタジオ統合を進める一方、売却交渉が白紙となったNinja Theoryについては、閉鎖協議を開始した。",
+      "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001675/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596222?source=rss-浅野忠信テレ東で女王アリ役 裏側",
+      "title": "浅野忠信テレ東で女王アリ役 裏側",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-23T00:46:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596222?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596219?source=rss-高市首相が国連演説 ICCに言及",
+      "title": "高市首相が国連演説 ICCに言及",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-23T00:27:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596219?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/23/2000001674/-OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開 API料金は前世代の半額に",
+      "title": "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開 API料金は前世代の半額に",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-23T00:12:02.000Z",
+      "description": "OpenAIは新モデル「GPT-6 Sol」と「GPT-6 Luna」を公開した。最上位のAstraと同様の手法で訓練し、前世代からAPI料金を半額に引き下げた。ChatGPTやCodexで順次提供する。アライメント改善が進む一方、思考過程で評価を察知する兆候が増加するなど監視上の課題も残る。",
+      "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001674/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596211?source=rss-波乱 卓球世界8位が275位に敗れる",
+      "title": "波乱 卓球世界8位が275位に敗れる",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-22T23:28:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596211?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6596210?source=rss-波紋 大食い動画の収益停止相次ぐ",
+      "title": "波紋 大食い動画の収益停止相次ぐ",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-09-22T23:23:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596210?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596209?source=rss-とび職に逆風 倒産過去最多ペース",
+      "title": "とび職に逆風 倒産過去最多ペース",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-22T23:20:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596209?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596208?source=rss-退職代行サービス 1年で2割停止か",
+      "title": "退職代行サービス 1年で2割停止か",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-22T23:06:23.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596208?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596202?source=rss-新たな台風発生へ 27日沖縄の南に",
+      "title": "新たな台風発生へ 27日沖縄の南に",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-22T22:30:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596202?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6596201?source=rss-AIは「SI」に改称 米大統領宣言",
+      "title": "AIは「SI」に改称 米大統領宣言",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-09-22T22:30:01.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596201?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596199?source=rss-カウコン Netflixが世界同時配信",
+      "title": "カウコン Netflixが世界同時配信",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-22T22:23:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596199?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596200?source=rss-日米 経済安保で連携の方針一致",
+      "title": "日米 経済安保で連携の方針一致",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-22T22:15:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596200?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596197?source=rss-中日 ド軍のウォードを電撃獲得",
+      "title": "中日 ド軍のウォードを電撃獲得",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-22T22:11:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596197?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/23/2000001673/-Anthropic、「Claude Opus 5.5」公開 Fable 5.1並みの性能で利用コスト4割減",
+      "title": "Anthropic、「Claude Opus 5.5」公開 Fable 5.1並みの性能で利用コスト4割減",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-22T21:57:43.000Z",
+      "description": "Anthropicは「Claude Opus 5.5」を発表した。多くの作業で「Fable 5.1」並みの性能を持ち、利用コストは「Opus 5」より約40％低い。Pro以上の有料プランとAPIで即日提供を始めた。アモデイCEOの「ペース調整」エッセイ後初のモデルで、METRなど外部機関による事前評価を経て、Fable...",
+      "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001673/"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596195?source=rss-田口淳之介 年下の一般女性と結婚",
@@ -81,24 +315,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6596189?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596187?source=rss-続投の広島監督 自分しかできない",
-      "title": "続投の広島監督 自分しかできない",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-22T13:11:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596187?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596185?source=rss-田口淳之介パパになる 本当に幸せ",
-      "title": "田口淳之介パパになる 本当に幸せ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-22T12:43:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596185?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6596184?source=rss-AI搭載の人型ロボ 防衛活用研究へ",
       "title": "AI搭載の人型ロボ 防衛活用研究へ",
       "source": "Yahoo!ニュース IT",
@@ -115,42 +331,6 @@
       "publishedAt": "2026-09-22T12:01:07.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6596176?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596180?source=rss-DeNA宮崎が死球受け交代 騒然",
-      "title": "DeNA宮崎が死球受け交代 騒然",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-22T12:00:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596180?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596182?source=rss-バレー女子 48年ぶりの金ならず",
-      "title": "バレー女子 48年ぶりの金ならず",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-22T11:59:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596182?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596178?source=rss-DF板倉 川口春奈との結婚に言及",
-      "title": "DF板倉 川口春奈との結婚に言及",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-22T11:58:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596178?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596175?source=rss-巨人痛恨 延長11回にサヨナラ負け",
-      "title": "巨人痛恨 延長11回にサヨナラ負け",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-22T11:23:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596175?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596167?source=rss-柄本時生&さとうほなみ 第1子誕生",
@@ -180,15 +360,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6596158?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596156?source=rss-水害後 片付け・復旧作業の注意点",
-      "title": "水害後 片付け・復旧作業の注意点",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-22T08:21:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596156?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596150?source=rss-配偶者と性行為つらい 向き合い方",
       "title": "配偶者と性行為つらい 向き合い方",
       "source": "Yahoo!ニュース 国内",
@@ -196,24 +367,6 @@
       "publishedAt": "2026-09-22T07:28:35.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6596150?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596146?source=rss-GLAYチラシ誤り 仮タイトル載る",
-      "title": "GLAYチラシ誤り 仮タイトル載る",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-22T06:54:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596146?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596147?source=rss-諸橋愛さん死去 JKA会長コメント",
-      "title": "諸橋愛さん死去 JKA会長コメント",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-22T06:45:47.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596147?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6596144?source=rss-古書店に大量注文 AI学習目的か",
@@ -279,24 +432,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001671/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596122?source=rss-俳優の加村真美 西大伍さんと結婚",
-      "title": "俳優の加村真美 西大伍さんと結婚",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-22T02:47:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596122?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596121?source=rss-諸橋さん死去 競輪で死亡事故続く",
-      "title": "諸橋さん死去 競輪で死亡事故続く",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-22T02:46:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596121?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596120?source=rss-修繕費計5億円超 観光施設閉園へ",
       "title": "修繕費計5億円超 観光施設閉園へ",
       "source": "Yahoo!ニュース 経済",
@@ -304,15 +439,6 @@
       "publishedAt": "2026-09-22T02:45:08.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6596120?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596115?source=rss-赤潮で魚153万匹死ぬ 被害37億円",
-      "title": "赤潮で魚153万匹死ぬ 被害37億円",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-22T02:07:13.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596115?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/22/2000001670/-OpenAI、フロンティアAIの国際標準づくりを米国主導で進めるよう提言 「RSIはまだ起きていない」",
@@ -324,24 +450,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001670/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596113?source=rss-競輪・諸橋愛さん死去 レース落車",
-      "title": "競輪・諸橋愛さん死去 レース落車",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-22T01:24:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596113?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596107?source=rss-家借りられない高齢者も 背景は",
-      "title": "家借りられない高齢者も 背景は",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-22T00:48:01.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596107?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/22/2000001669/-Amazon、MetaのAIエージェント「Muse」による代理購入をブロック Shopifyは全店舗で対応へ",
       "title": "Amazon、MetaのAIエージェント「Muse」による代理購入をブロック Shopifyは全店舗で対応へ",
       "source": "ITmedia NEWS",
@@ -349,15 +457,6 @@
       "publishedAt": "2026-09-22T00:43:43.000Z",
       "description": "AmazonがMetaのAIエージェント「Muse」による自社サイトでの代理購入をブロックしたと報じられた。無断アクセスやセキュリティ上のリスクを理由としている。一方、MetaはShopify全ストアへの対応を発表するなど連携拡大を進める。自社サイトでのAIエージェント排除を強めるAmazonとの対立が鮮明になっている...",
       "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001669/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596106?source=rss-作れば赤字 米価下落で農家窮地",
-      "title": "作れば赤字 米価下落で農家窮地",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-22T00:28:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596106?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/22/2000001668/-SpaceXAI、「Grok 4.7」発表 コーディングと知識労働向けで同社最高性能、価格は据え置き",
@@ -387,15 +486,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6596094?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596091?source=rss-副首都 6道府県6政令市「意欲」",
-      "title": "副首都 6道府県6政令市「意欲」",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-21T22:43:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596091?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/22/2000001667/-Google、「Googlebook」の予約受付開始 899ドル（約14万円）から",
       "title": "Google、「Googlebook」の予約受付開始 899ドル（約14万円）から",
       "source": "ITmedia NEWS",
@@ -403,33 +493,6 @@
       "publishedAt": "2026-09-21T22:30:05.000Z",
       "description": "Googleは5月に発表した新型ノートPC「Googlebook」の予約受付を開始した。899ドル（約14万円）からで日本は発売地域外。Androidを基盤にデスクトップ機能を組み合わせ、AIやスマホ連携を強化したフラグシップ機と位置付ける。自社製はなくAcerやASUSなど5社から展開し、最長10年のOSアップデート...",
       "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001667/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596077?source=rss-首相 国連で「拉致問題訴えたい」",
-      "title": "首相 国連で「拉致問題訴えたい」",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-21T14:21:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596077?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596066?source=rss-NHK 戸別訪問営業の外部委託再開",
-      "title": "NHK 戸別訪問営業の外部委託再開",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-21T12:47:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596066?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596057?source=rss-国民・玉木氏がウ訪問 野党党首初",
-      "title": "国民・玉木氏がウ訪問 野党党首初",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-21T11:01:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596057?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/21/2000001666/-トランプ大統領、「AI Force」創設を表明 「AI脅威論はでっちあげだ」",
@@ -448,24 +511,6 @@
       "publishedAt": "2026-09-20T21:50:52.000Z",
       "description": "GoogleのAI「Gemini」が、サイバーセキュリティの評価テスト中に外部ネットワークへ接続し、実在する3社のシステムへ自律的に侵入していたことが判明した。架空なはずの社名が実存企業と一致したことやテスト環境の設定不備が原因。Googleは、Geminiが実在企業と認識した時点で侵入を中止しており、実害やミスアライ...",
       "url": "https://www.itmedia.co.jp/news/article/2609/21/2000001665/"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6595957?source=rss-米大統領 なぜAIの名称変更を提案",
-      "title": "米大統領 なぜAIの名称変更を提案",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-09-20T12:52:27.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595957?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6595864?source=rss-トランプ氏「AIフォース創設」",
-      "title": "トランプ氏「AIフォース創設」",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-09-19T23:07:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595864?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/20/2000001640/-新作「鬼武者」にハマったマンガ家が熱弁する、他とは違う“パリィ”の魅力とは？",
@@ -529,51 +574,6 @@
       "publishedAt": "2026-09-18T07:19:47.000Z",
       "description": "警視庁匿名・流動型犯罪グループ（トクリュウ）対策本部は9月18日、公式サイトをリニューアルし、闇バイトのリスクに警鐘を鳴らす啓発動画を公開した。SNSや街頭放映も活用し、犯罪への加担や被害を全世代に呼び掛けて防ぐ狙い。",
       "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001631/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/18/2000001630/-「上司に言いにくい」をAIが拾う 豊中市教委、職員の本音を匿名で集めるアプリを試験導入 自治体初",
-      "title": "「上司に言いにくい」をAIが拾う 豊中市教委、職員の本音を匿名で集めるアプリを試験導入 自治体初",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-18T07:01:57.000Z",
-      "description": "大阪府豊中市教育委員会は、職員の気づきや悩みを匿名で集めて管理職に届けるアプリ「ココボイス」を試験導入した。自治体での導入は初めて。生成AIとの対話で、対面では伝えにくい本音を職場の改善につなげる。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001630/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/18/2000001623/-東京ゲームショウのグッズがメルカリに続々出品 「ビジネスデイなのに」など批判の声",
-      "title": "東京ゲームショウのグッズがメルカリに続々出品 「ビジネスデイなのに」など批判の声",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-18T05:37:51.000Z",
-      "description": "9月17日に開幕した「東京ゲームショウ2026」（千葉・幕張メッセ、9月17?21日）で配布されたノベルティが、フリマアプリ「メルカリ」に相次いで出品されている。一般公開に先立つ「ビジネスデイ」で入手したとみられ、SNS上では「早速転売されている」「ビジネスデイなのにこうなるのか」と批判する声が上がっている。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001623/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/18/2000001621/-ローソン「生成AIが考えた商品」発売 「ピクルス風味のレモンタルト」など",
-      "title": "ローソン「生成AIが考えた商品」発売 「ピクルス風味のレモンタルト」など",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-18T05:07:59.000Z",
-      "description": "生成AIに「今までにない組み合わせや味」「商品や商品名を見た瞬間に『なんだこりゃ？』と思われる」「食べてみたらおいしい」といったテーマでアイデアを出させた。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001621/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/18/2000001620/-「iPhone 14～16」の中古販売が34％増 新型発表・値上げ後の5日間で Duoの影響は？ にこスマ",
-      "title": "「iPhone 14～16」の中古販売が34％増 新型発表・値上げ後の5日間で Duoの影響は？ にこスマ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-18T05:06:30.000Z",
-      "description": "中古スマホ販売・買取サービス「にこスマ」を運営するBelongは、9月10日の米Appleによる新型iPhone発表と既存モデルの値上げ以降、中古iPhoneの販売台数が約14％増加したとITmedia NEWSの取材に回答した。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001620/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/18/2000001618/-ゲーム開発者の生成AI活用が8割超に CESAが初調査 「業務効率化」に最大の期待",
-      "title": "ゲーム開発者の生成AI活用が8割超に CESAが初調査 「業務効率化」に最大の期待",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-18T04:43:35.000Z",
-      "description": "コンピュータエンターテインメント協会（CESA）は9月17日、年次レポート「CESAゲーム産業レポート2026 プレビュー版」を発刊した。初の独自調査で、ゲーム開発者の85.8％が生成AIを業務で活用していると分かった。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001618/"
     }
   ]
 }
