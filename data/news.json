@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T16:29:58.850Z",
+  "updatedAt": "2026-09-23T21:18:54.948Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596317?source=rss-DeNA藤浪晋太郎 来季戦力構想外",
+      "title": "DeNA藤浪晋太郎 来季戦力構想外",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-23T21:06:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596317?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596316?source=rss-ANA機が空港に緊急着陸 乗客脱出",
       "title": "ANA機が空港に緊急着陸 乗客脱出",
@@ -259,15 +268,6 @@
       "publishedAt": "2026-09-23T03:59:54.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6596241?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596240?source=rss-小林悠が引退決意 1週間泣いた妻",
-      "title": "小林悠が引退決意 1週間泣いた妻",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-23T03:54:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596240?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596237?source=rss-7年ぶり「深夜食堂」出演者発表",
