@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T16:50:18.118Z",
+  "updatedAt": "2026-09-24T21:20:09.210Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596429?source=rss-阪神・西勇輝 今季限りで現役引退",
+      "title": "阪神・西勇輝 今季限りで現役引退",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-24T21:16:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596429?source=rss"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596427?source=rss-WEST.ファンと対面イベなく解散",
       "title": "WEST.ファンと対面イベなく解散",
@@ -331,15 +340,6 @@
       "publishedAt": "2026-09-24T05:33:35.000Z",
       "description": "",
       "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001694/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596365?source=rss-由伸が9敗目 復帰の大谷は1安打",
-      "title": "由伸が9敗目 復帰の大谷は1安打",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-24T05:33:09.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596365?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596359?source=rss-イオンが送風機自主回収 発火恐れ",
