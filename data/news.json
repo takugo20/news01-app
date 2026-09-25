@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T11:30:35.010Z",
+  "updatedAt": "2026-09-25T16:54:31.076Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,69 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6596558?source=rss-中国で「AI俳優」が急成長 影響は",
+      "title": "中国で「AI俳優」が急成長 影響は",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-09-25T14:46:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596558?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596552?source=rss-泉健太氏 2人で衆院会派を結成へ",
+      "title": "泉健太氏 2人で衆院会派を結成へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-25T14:12:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596552?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596553?source=rss-阪神森下に死球 直近3試合で3個目",
+      "title": "阪神森下に死球 直近3試合で3個目",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-25T13:59:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596553?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596550?source=rss-ラジオNIKKEI第2 今週末短波休止",
+      "title": "ラジオNIKKEI第2 今週末短波休止",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-25T13:42:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596550?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596548?source=rss-墜落の無人機か 一部を海中で発見",
+      "title": "墜落の無人機か 一部を海中で発見",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-25T13:12:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596548?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596547?source=rss-ジャングリア 追加融資などを要請",
+      "title": "ジャングリア 追加融資などを要請",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-25T13:02:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596547?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596543?source=rss-小3-中3授業 国算など3～4%削減へ",
+      "title": "小3-中3授業 国算など3～4%削減へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-25T12:23:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596543?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596533?source=rss-パパイヤら 芸能界相次ぐ体調不良",
       "title": "パパイヤら 芸能界相次ぐ体調不良",
       "source": "Yahoo!ニュース エンタメ",
@@ -43,6 +106,15 @@
       "publishedAt": "2026-09-25T11:13:46.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6596533?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/25/2000001772/-Gyazoへの不正アクセス、新たに約1.74億件の画像メタデータ流出",
+      "title": "Gyazoへの不正アクセス、新たに約1.74億件の画像メタデータ流出",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-25T11:13:14.000Z",
+      "description": "Helpfeelは9月25日、画像共有サービス「Gyazo」への不正アクセスに関する第二報を公開し、ユーザーが過去に削除した画像のメタデータ約1億7400万件も流出していたと発表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001772/"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596532?source=rss-ドンキ 10月からPBビール値下げ",
@@ -97,15 +169,6 @@
       "publishedAt": "2026-09-25T09:43:30.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6596526?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596522?source=rss-西小野皓大が金 200m背泳ぎ男子",
-      "title": "西小野皓大が金 200m背泳ぎ男子",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-25T09:34:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596522?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596523?source=rss-池江50mバタで銅 本当にうれしい",
@@ -297,15 +360,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001749/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596476?source=rss-中部電 浜岡の再稼働申請取り下げ",
-      "title": "中部電 浜岡の再稼働申請取り下げ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-25T04:19:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596476?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/25/2000001747/-「退職代行」サービス停止、1年で2割超 「モームリ」摘発も影響か",
       "title": "「退職代行」サービス停止、1年で2割超 「モームリ」摘発も影響か",
       "source": "ITmedia NEWS",
@@ -333,15 +387,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6596472?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596467?source=rss-トランプ氏が円安けん制 会談で",
-      "title": "トランプ氏が円安けん制 会談で",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-25T02:49:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596467?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/25/2000001741/-窓口での待ち時間のイライラ、AI作成のBGMで軽減なるか 東京・港区が実証実験",
       "title": "窓口での待ち時間のイライラ、AI作成のBGMで軽減なるか 東京・港区が実証実験",
       "source": "ITmedia NEWS",
@@ -367,15 +412,6 @@
       "publishedAt": "2026-09-25T02:24:24.000Z",
       "description": "クラウド会計ソフト「freee会計」などを提供するフリー（freee）のサービスで25日朝、ログインやサインアップができない障害が発生した。同社は回復を確認し、安定稼働に向けたモニタリングを実施している。",
       "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001739/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596459?source=rss-両陛下 29日に熊本地震被災地訪問",
-      "title": "両陛下 29日に熊本地震被災地訪問",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-25T02:01:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596459?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/25/2000001735/-「日経ソフトウエア」休刊 「29年間の感謝をこめて『ありがとう』」",
@@ -486,33 +522,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6596415?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/24/2000001717/-中国旅行の支払いをApple Payやクレカで Tencent、訪中客向け決済アプリ「TenPayGo」発表",
-      "title": "中国旅行の支払いをApple Payやクレカで Tencent、訪中客向け決済アプリ「TenPayGo」発表",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-24T13:13:35.000Z",
-      "description": "中国Tencentは9月24日、海外から中国を訪れる旅行者向けの決済アプリ「TenPayGo」をローンチした。同社のメッセージアプリ「WeChat」の決済サービス「Weixin Pay」の機能を利用したアプリで、Apple Payや国際ブランドのクレジットカード・デビットカード、対象の電子ウォレットを使って、中国国内の...",
-      "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001717/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596414?source=rss-誤情報で民放批判 維新藤田氏謝罪",
-      "title": "誤情報で民放批判 維新藤田氏謝罪",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-24T12:52:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596414?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596373?source=rss-防災庁 もし熊本地震前にあったら",
-      "title": "防災庁 もし熊本地震前にあったら",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-24T09:15:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596373?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6596342?source=rss-AIエージェント 豪政府サイト侵入",
       "title": "AIエージェント 豪政府サイト侵入",
       "source": "Yahoo!ニュース IT",
@@ -520,15 +529,6 @@
       "publishedAt": "2026-09-24T02:39:06.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6596342?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6596338?source=rss-中国でAI俳優が急成長 負の影響も",
-      "title": "中国でAI俳優が急成長 負の影響も",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-09-24T01:29:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596338?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6596337?source=rss-Meta 100gの超軽量VRグラス発表",
