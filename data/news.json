@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T11:05:22.300Z",
+  "updatedAt": "2026-09-26T16:05:46.226Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,130 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596638?source=rss-速報サッカー男子 日本vs.北朝鮮",
-      "title": "速報サッカー男子 日本vs.北朝鮮",
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596672?source=rss-WEST.のラジオ終了 全員で発表",
+      "title": "WEST.のラジオ終了 全員で発表",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-26T15:26:47.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596672?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596669?source=rss-齋藤飛鳥 アナザースカイの新MC",
+      "title": "齋藤飛鳥 アナザースカイの新MC",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-26T14:37:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596669?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596668?source=rss-パラ銀メダリスト 追突事故で死去",
+      "title": "パラ銀メダリスト 追突事故で死去",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-09-26T10:30:11.000Z",
+      "publishedAt": "2026-09-26T14:06:55.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596638?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6596668?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596667?source=rss-トキエア再延期 県からの融資返済",
+      "title": "トキエア再延期 県からの融資返済",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-26T14:03:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596667?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596663?source=rss-陸上の泉谷 予選でアキレス腱断裂",
+      "title": "陸上の泉谷 予選でアキレス腱断裂",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-26T13:47:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596663?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596665?source=rss-首相 米と電話会談で「連携確認」",
+      "title": "首相 米と電話会談で「連携確認」",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-26T13:45:00.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596665?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596660?source=rss-北朝鮮が整列拒否 サッカー男子",
+      "title": "北朝鮮が整列拒否 サッカー男子",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-26T13:11:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596660?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596657?source=rss-町田啓太&玄理に第1子 心境つづる",
+      "title": "町田啓太&玄理に第1子 心境つづる",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-26T12:47:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596657?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596656?source=rss-サッカー男子 北朝鮮に1-0で勝利",
+      "title": "サッカー男子 北朝鮮に1-0で勝利",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-26T12:33:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596656?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596654?source=rss-引退のオリ西野が二塁打 涙あふれ",
+      "title": "引退のオリ西野が二塁打 涙あふれ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-26T12:26:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596654?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596653?source=rss-犬猫の保護依頼増 保護団体の苦悩",
+      "title": "犬猫の保護依頼増 保護団体の苦悩",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-26T12:07:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596653?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/26/2000001672/-アニメを支える外国人材に“逆風” 日本在住の声優・アニメーターが抱く「不安の正体」とは",
+      "title": "アニメを支える外国人材に“逆風” 日本在住の声優・アニメーターが抱く「不安の正体」とは",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-26T11:56:00.000Z",
+      "description": "日本のアニメのクレジットには、外国出身のスタッフの名前が数多く並ぶ。しかし永住許可の手数料は10月から一気に20倍へ引き上げられる。ロシア出身で来日20年近いベテラン声優と、フランスから来て7カ月の新人アニメーター。2人に話を聞くと、AIへの向き合い方も、日本の制度への思いも、それぞれの立場から浮かび上がってきた。",
+      "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001672/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596649?source=rss-「超エルニーニョ」経済的損失は",
+      "title": "「超エルニーニョ」経済的損失は",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-26T11:33:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596649?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596644?source=rss-つげ義春さんの未発表インタ 確認",
+      "title": "つげ義春さんの未発表インタ 確認",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-26T11:06:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596644?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596641?source=rss-張本智和ぼう然 世界344位に敗退",
@@ -90,15 +207,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6596634?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596630?source=rss-豊川悦司&山口智子 30年ぶり再会",
-      "title": "豊川悦司&山口智子 30年ぶり再会",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-26T08:43:41.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596630?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596628?source=rss-ぷよぷよ栗原 報奨金出ない見通し",
       "title": "ぷよぷよ栗原 報奨金出ない見通し",
       "source": "Yahoo!ニュース スポーツ",
@@ -144,15 +252,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6596621?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596620?source=rss-横川尚隆 世界最高峰の舞台で7位",
-      "title": "横川尚隆 世界最高峰の舞台で7位",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-26T07:34:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596620?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596619?source=rss-コメ下落「大盛り」値下げの動き",
       "title": "コメ下落「大盛り」値下げの動き",
       "source": "Yahoo!ニュース 経済",
@@ -162,15 +261,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6596619?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596618?source=rss-朗希が圧巻リリーフ 大谷は3三振",
-      "title": "朗希が圧巻リリーフ 大谷は3三振",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-26T07:23:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596618?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596616?source=rss-未成年選挙運動巡る判決 識者見解",
       "title": "未成年選挙運動巡る判決 識者見解",
       "source": "Yahoo!ニュース 国内",
@@ -178,15 +268,6 @@
       "publishedAt": "2026-09-26T07:16:18.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6596616?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596614?source=rss-野球の台湾-中国戦タオル巡り騒ぎ",
-      "title": "野球の台湾-中国戦タオル巡り騒ぎ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-26T07:14:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596614?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596615?source=rss-松ケン 撮影地で俳優3人暮らし",
@@ -207,15 +288,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6596612?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596611?source=rss-憲法改正巡り 注目される自民布陣",
-      "title": "憲法改正巡り 注目される自民布陣",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-26T06:23:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596611?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596607?source=rss-ぷよぷよ「金」栗原 驚異の15連鎖",
       "title": "ぷよぷよ「金」栗原 驚異の15連鎖",
       "source": "Yahoo!ニュース スポーツ",
@@ -232,24 +304,6 @@
       "publishedAt": "2026-09-26T05:06:55.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6596604?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596599?source=rss-ぷよぷよ11歳の栗原悠輝 金メダル",
-      "title": "ぷよぷよ11歳の栗原悠輝 金メダル",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-26T03:56:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596599?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596591?source=rss-台風が沖縄へ接近 影響長期化恐れ",
-      "title": "台風が沖縄へ接近 影響長期化恐れ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-26T03:00:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596591?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/26/2000001711/-ナッツを多く食べる人、認知テストで高成績の傾向 豪州チームが1700人以上を分析",
@@ -288,15 +342,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6596590?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/26/2000001672/-アニメを支える外国人材に“逆風” 日本在住の声優・アニメーターが抱く「不安の正体」とは",
-      "title": "アニメを支える外国人材に“逆風” 日本在住の声優・アニメーターが抱く「不安の正体」とは",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-26T02:00:00.000Z",
-      "description": "日本のアニメのクレジットには、外国出身のスタッフの名前が数多く並ぶ。しかし永住許可の手数料は10月から一気に20倍へ引き上げられる。ロシア出身で来日20年近いベテラン声優と、フランスから来て7カ月の新人アニメーター。2人に話を聞くと、AIへの向き合い方も、日本の制度への思いも、それぞれの立場から浮かび上がってきた。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001672/"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6596583?source=rss-OpenAI意図せぬ外部接続「数十」",
       "title": "OpenAI意図せぬ外部接続「数十」",
       "source": "Yahoo!ニュース IT",
@@ -304,24 +349,6 @@
       "publishedAt": "2026-09-26T01:32:40.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6596583?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596579?source=rss-澤部佑 いじりに傷ついた高校時代",
-      "title": "澤部佑 いじりに傷ついた高校時代",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-26T01:17:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596579?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596582?source=rss-元AKB阿部マリア 結婚&妊娠発表",
-      "title": "元AKB阿部マリア 結婚&妊娠発表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-26T01:13:56.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596582?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596570?source=rss-望まぬ妊娠の可能性3割経験 調査",
@@ -405,15 +432,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001771/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596531?source=rss-フジ社長 ちいかわ原作者は天才",
-      "title": "フジ社長 ちいかわ原作者は天才",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-25T10:42:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596531?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/25/2000001768/-テラドローン、JAXAの有人機サブシステム開発業務を落札 無人機の支援に続き",
       "title": "テラドローン、JAXAの有人機サブシステム開発業務を落札 無人機の支援に続き",
       "source": "ITmedia NEWS",
@@ -421,15 +439,6 @@
       "publishedAt": "2026-09-25T08:53:15.000Z",
       "description": "テラドローンは9月25日、宇宙航空研究開発機構（JAXA）が公募する「災害・緊急時等に活用可能な小型無人機を含めた運航安全管理技術」のうち、「有人機サブシステム（地上部）」の開発業務を落札したと発表した。",
       "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001768/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596512?source=rss-市販ナビ ストラーダ生産終了へ",
-      "title": "市販ナビ ストラーダ生産終了へ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-25T08:40:26.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596512?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/25/2000001763/-パナソニックが市販カーナビ生産終了へ 30年以上の歴史に幕、スマホナビの普及など受け",
@@ -448,15 +457,6 @@
       "publishedAt": "2026-09-25T08:05:50.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6596506?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596507?source=rss-姫路独協大 徳洲会に経営権譲渡へ",
-      "title": "姫路独協大 徳洲会に経営権譲渡へ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-25T08:05:35.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596507?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/25/2000001761/-アジア大会、11歳がeスポーツ「ぷよぷよ」で決勝へ 日本選手団最年少",
