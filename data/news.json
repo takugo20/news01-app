@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T20:51:21.571Z",
+  "updatedAt": "2026-09-26T23:26:17.199Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,42 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596677?source=rss-Netflix美容整形ドラマ 話題の訳",
+      "title": "Netflix美容整形ドラマ 話題の訳",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-26T23:13:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596677?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596676?source=rss-FRUITS ZIPPER 迷惑行為に警告",
+      "title": "FRUITS ZIPPER 迷惑行為に警告",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-26T22:58:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596676?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596674?source=rss-九州4県に「線状降水帯」直前予測",
+      "title": "九州4県に「線状降水帯」直前予測",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-26T22:27:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596674?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/27/2000001769/-映画「SEKIRO」にホロリときたマンガ家、賛否両論の“原作ゲーム改変”が悪くないと思った理由とは？",
+      "title": "映画「SEKIRO」にホロリときたマンガ家、賛否両論の“原作ゲーム改変”が悪くないと思った理由とは？",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-26T22:16:00.000Z",
+      "description": "ゲームを題材にした映画「SEKIRO:NO DEFEAT」の追加公開が決定しました。フロム・ソフトウェアの名作をアニメ化したこの作品、ネットの評価はイマイチですが、実際に見てボクは原作改変部分も悪くないと思いました。",
+      "url": "https://www.itmedia.co.jp/news/article/2609/27/2000001769/"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596672?source=rss-WEST.のラジオ終了 全員で発表",
       "title": "WEST.のラジオ終了 全員で発表",
@@ -153,15 +189,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6596649?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596644?source=rss-つげ義春さんの未発表インタ 確認",
-      "title": "つげ義春さんの未発表インタ 確認",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-26T11:06:15.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596644?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596641?source=rss-張本智和ぼう然 世界344位に敗退",
       "title": "張本智和ぼう然 世界344位に敗退",
       "source": "Yahoo!ニュース スポーツ",
@@ -178,15 +205,6 @@
       "publishedAt": "2026-09-26T09:54:34.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6596639?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596637?source=rss-町田啓太&玄理 第1子誕生を発表",
-      "title": "町田啓太&玄理 第1子誕生を発表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-26T09:31:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596637?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6596633?source=rss-AI調達巡る政府決定 米高裁が支持",
@@ -349,15 +367,6 @@
       "publishedAt": "2026-09-26T01:32:40.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6596583?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596570?source=rss-望まぬ妊娠の可能性3割経験 調査",
-      "title": "望まぬ妊娠の可能性3割経験 調査",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-25T23:40:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596570?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596569?source=rss-外国人の起業 制度厳格化で急減",
@@ -547,15 +556,6 @@
       "publishedAt": "2026-09-25T02:24:24.000Z",
       "description": "クラウド会計ソフト「freee会計」などを提供するフリー（freee）のサービスで25日朝、ログインやサインアップができない障害が発生した。同社は回復を確認し、安定稼働に向けたモニタリングを実施している。",
       "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001739/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/25/2000001735/-「日経ソフトウエア」休刊 「29年間の感謝をこめて『ありがとう』」",
-      "title": "「日経ソフトウエア」休刊 「29年間の感謝をこめて『ありがとう』」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-25T01:41:54.000Z",
-      "description": "11月号の表紙には「最終号」「29年間の感謝をこめて『ありがとう』」の文字を入れた。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001735/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6596342?source=rss-AIエージェント 豪政府サイト侵入",
