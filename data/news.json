@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T19:52:33.678Z",
+  "updatedAt": "2026-09-30T00:11:23.197Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,132 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/30/2000001871/-AI企業トップらと昼食会のトランプ米大統領、政府内で「AI」を「SI」と呼び替える大統領令に署名",
+      "title": "AI企業トップらと昼食会のトランプ米大統領、政府内で「AI」を「SI」と呼び替える大統領令に署名",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-29T23:56:35.000Z",
+      "description": "トランプ大統領はIT首脳らと昼食会を開き、行政機関で「人工知能（AI）」に代わり「超知能（SI）」の呼称使用を命じる大統領令に署名した。主要各社は自主的安全合意「White House Accord on Super Intelligence」に署名。米連邦政府は行政窓口サイト「America.gov」の創設も発表した...",
+      "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001871/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/30/2000001870/-ドラッグ＆ドロップ操作ミスで……TOPPAN、損保ジャパン契約者17万人分のデータを他社に誤送付",
+      "title": "ドラッグ＆ドロップ操作ミスで……TOPPAN、損保ジャパン契約者17万人分のデータを他社に誤送付",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-29T23:44:22.000Z",
+      "description": "",
+      "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001870/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6597019?source=rss-早朝の高速バス乗り場に行列 千葉",
+      "title": "早朝の高速バス乗り場に行列 千葉",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-29T23:38:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597019?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597018?source=rss-巨人・板東湧梧 今季限りで引退へ",
+      "title": "巨人・板東湧梧 今季限りで引退へ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-29T23:31:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597018?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6597017?source=rss-中国念頭 鉄鋼う回輸出監視強化へ",
+      "title": "中国念頭 鉄鋼う回輸出監視強化へ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-29T23:25:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597017?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6597016?source=rss-「スマホ農場」取材で見えた一端",
+      "title": "「スマホ農場」取材で見えた一端",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-09-29T23:11:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597016?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597015?source=rss-台風 あす八丈島など直撃見込み",
+      "title": "台風 あす八丈島など直撃見込み",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-29T23:10:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597015?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597011?source=rss-原菜乃華 ChatGPTは身近な友達",
+      "title": "原菜乃華 ChatGPTは身近な友達",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-29T22:46:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597011?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597012?source=rss-UTA ZIP!水曜パーソナリティーに",
+      "title": "UTA ZIP!水曜パーソナリティーに",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-29T22:44:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597012?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/30/2000001869/-OpenAI、豪政府サイトへの不正アクセスで謝罪 最先端AI学習の安全指針も公開",
+      "title": "OpenAI、豪政府サイトへの不正アクセスで謝罪 最先端AI学習の安全指針も公開",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-29T22:41:40.000Z",
+      "description": "OpenAIは、学習中のAIモデルが豪政府サイトへ不正アクセスした問題で、通知の遅れを認め謝罪した。ネットワーク制限の強化や最上位モデルの学習停止に加え、航空や原子力分野にならい学習前に安全性を体系的に検証する仕組みを導入する。豪議会の特別委員会にも出席し、一連の経緯を説明する。",
+      "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001869/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6597009?source=rss-東京メトロ東西線 運転を再開",
+      "title": "東京メトロ東西線 運転を再開",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-29T22:27:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597009?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6597003?source=rss-ノジマ バイト大学生2人を店長に",
+      "title": "ノジマ バイト大学生2人を店長に",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-09-29T21:43:47.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597003?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/30/2000001868/-OpenAIの「DevDay 2026」で発表された主なことまとめ",
+      "title": "OpenAIの「DevDay 2026」で発表された主なことまとめ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-09-29T21:36:34.000Z",
+      "description": "OpenAIは、年次開発者会議「DevDay 2026」で20件以上の新機能を発表した。常時稼働エージェント「dots」、新モデル「GPT-6.1 Sol」、最大8倍高速な有料枠「Ultrafast」を投入。Codexのクラウド実行やチーム向け協働空間「ChatGPT Space」も公開した。",
+      "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001868/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597001?source=rss-戦力外通告の田口麗斗 海外挑戦へ",
+      "title": "戦力外通告の田口麗斗 海外挑戦へ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-09-29T21:16:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597001?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597000?source=rss-修繕談合で再発防止を要請 国交省",
       "title": "修繕談合で再発防止を要請 国交省",
@@ -90,15 +216,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6596990?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596989?source=rss-TDL新ショー プレビュー公演取材",
-      "title": "TDL新ショー プレビュー公演取材",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-29T12:39:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596989?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596988?source=rss-29日 4球団が28選手に戦力外通告",
       "title": "29日 4球団が28選手に戦力外通告",
       "source": "Yahoo!ニュース スポーツ",
@@ -115,15 +232,6 @@
       "publishedAt": "2026-09-29T11:52:41.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6596987?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596971?source=rss-ミスド上海は成功するか 識者見解",
-      "title": "ミスド上海は成功するか 識者見解",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-29T11:03:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596971?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596981?source=rss-日本の総人口2.5%減 1億2297万人",
@@ -180,15 +288,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001858/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596980?source=rss-ニデック岸田社長が辞任 不正巡り",
-      "title": "ニデック岸田社長が辞任 不正巡り",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-29T09:59:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596980?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/29/2000001859/-ヤマト運輸「クロネコ代金後払い」、不正アクセスでサービス停止、宅急便などは通常通り",
       "title": "ヤマト運輸「クロネコ代金後払い」、不正アクセスでサービス停止、宅急便などは通常通り",
       "source": "ITmedia NEWS",
@@ -205,24 +304,6 @@
       "publishedAt": "2026-09-29T09:29:12.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6596977?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596973?source=rss-30日も関東は雨続く 台風の進路は",
-      "title": "30日も関東は雨続く 台風の進路は",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-29T09:12:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596973?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596975?source=rss-中日監督 自分が辞めるのがベスト",
-      "title": "中日監督 自分が辞めるのがベスト",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-29T09:09:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596975?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/29/2000001816/-斜めの屋根、三角形の家……なぜ「フシギな物件」は存在するのか",
@@ -315,15 +396,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001835/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6596960?source=rss-10月の電気ガス 全国的に値上がり",
-      "title": "10月の電気ガス 全国的に値上がり",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-09-29T07:37:45.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596960?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596961?source=rss-中日監督 辞任を球団に申し入れ",
       "title": "中日監督 辞任を球団に申し入れ",
       "source": "Yahoo!ニュース スポーツ",
@@ -376,15 +448,6 @@
       "publishedAt": "2026-09-29T05:39:29.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6596954?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6596953?source=rss-藤浪と青柳構想外 来季舞台あるか",
-      "title": "藤浪と青柳構想外 来季舞台あるか",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-29T05:34:58.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596953?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/29/2000001842/-SpaceXの大型ロケット「Starship」、初めて地球周回軌道に到達 次世代Starlink衛星26基を投入",
@@ -450,15 +513,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001830/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596940?source=rss-timelesz寺西 猪俣周杜の騒動謝罪",
-      "title": "timelesz寺西 猪俣周杜の騒動謝罪",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-29T03:11:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596940?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/29/2000001785/-出社日 vs. 在宅日、運動量はこれだけ違う??ハイブリッドワーカー100人弱の太ももにデバイス装着し計測",
       "title": "出社日 vs. 在宅日、運動量はこれだけ違う??ハイブリッドワーカー100人弱の太ももにデバイス装着し計測",
       "source": "ITmedia NEWS",
@@ -466,15 +520,6 @@
       "publishedAt": "2026-09-29T03:00:00.000Z",
       "description": "フィンランドのトゥルク大学などに所属する研究者らがInternational Journal of Behavioral Nutrition and Physical Activityで発表した論文「How composition of device-measured 24-h movement behaviors d...",
       "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001785/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/29/2000001783/-“期限切れクレカ”を蘇らせ、不正にタッチ決済する「ゾンビカード攻撃」 米研究チームが検証",
-      "title": "“期限切れクレカ”を蘇らせ、不正にタッチ決済する「ゾンビカード攻撃」 米研究チームが検証",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-29T03:00:00.000Z",
-      "description": "米マサチューセッツ大学アマースト校に所属する研究者らがセキュリティ分野の国際会議「USENIX Security Symposium 2026」で発表した論文「Zombie Cards Back Online: Reviving Expired Credit Cards for Contactless Payments...",
-      "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001783/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6596936?source=rss-セコマ 57万件の個人情報漏えいか",
@@ -495,33 +540,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6596938?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/29/2000001831/-ホンダのカーシェア「Honda EveryGo」終了へ 開始から10年弱",
-      "title": "ホンダのカーシェア「Honda EveryGo」終了へ 開始から10年弱",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-29T02:28:43.000Z",
-      "description": "都市部の“クルマ離れ”を受け、ホンダ車に気軽に乗れるサービスとして2017年に開始。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001831/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596935?source=rss-WEST.のTBS冠番組 10/26で終了",
-      "title": "WEST.のTBS冠番組 10/26で終了",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-29T02:27:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596935?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6596933?source=rss-オープンAI 新モデル公開取りやめ",
-      "title": "オープンAI 新モデル公開取りやめ",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-09-29T02:23:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6596933?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6596934?source=rss-俳優・甲斐翔真 結婚を発表",
       "title": "俳優・甲斐翔真 結婚を発表",
       "source": "Yahoo!ニュース エンタメ",
@@ -531,15 +549,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6596934?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/29/2000001825/-「Yahoo!きっず」終了へ 29年の歴史に幕 「プニキ」は6年前に終了",
-      "title": "「Yahoo!きっず」終了へ 29年の歴史に幕 「プニキ」は6年前に終了",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-29T02:16:46.000Z",
-      "description": "小学校のPC室などに設置された端末のポータルサイトとしても利用されてきたが、子どものネット環境は変化してきた。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001825/"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596926?source=rss-中学の合唱コンなぜ続く 識者語る",
       "title": "中学の合唱コンなぜ続く 識者語る",
       "source": "Yahoo!ニュース 国内",
@@ -547,15 +556,6 @@
       "publishedAt": "2026-09-29T02:10:32.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6596926?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2609/29/2000001829/-Meta、企業向けAI事業「Meta Enterprise Platform」を開始 責任者としてMongoDBのCEO引き抜き",
-      "title": "Meta、企業向けAI事業「Meta Enterprise Platform」を開始 責任者としてMongoDBのCEO引き抜き",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-09-29T02:05:46.000Z",
-      "description": "Metaは、企業向けの新AI事業「Meta Enterprise Platform」を発表した。AIモデルやエージェント群を企業や開発者向けに提供する。責任者にはMongoDBの社長兼CEOを即日退任したチランタン・デサイ氏が就任した。セキュリティを組み込み、年内には自社もデータ参照できない専用VMの提供を予定する。",
-      "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001829/"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6596903?source=rss-中国 首相の「台湾発言」是正要求",
