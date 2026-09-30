@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T17:49:47.108Z",
+  "updatedAt": "2026-09-30T22:02:23.744Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597124?source=rss-台風が関東接近へ 千葉は大雨恐れ",
+      "title": "台風が関東接近へ 千葉は大雨恐れ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-09-30T21:42:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597124?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597123?source=rss-WEST.が活動に幕 7人が胸中吐露",
+      "title": "WEST.が活動に幕 7人が胸中吐露",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-30T21:30:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597123?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597122?source=rss-おぼっちゃまくん 35年ぶり復活へ",
+      "title": "おぼっちゃまくん 35年ぶり復活へ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-09-30T21:23:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597122?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597118?source=rss-オリ野上さん急逝 球団本部長が涙",
       "title": "オリ野上さん急逝 球団本部長が涙",
@@ -169,15 +196,6 @@
       "publishedAt": "2026-09-30T09:55:40.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6597100?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597098?source=rss-25年度の介護費用 高齢化で最大に",
-      "title": "25年度の介護費用 高齢化で最大に",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-09-30T09:48:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597098?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597099?source=rss-オリックス野上士耀さん死去 19歳",
@@ -502,24 +520,6 @@
       "publishedAt": "2026-09-29T23:11:54.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6597016?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597011?source=rss-原菜乃華 ChatGPTは身近な友達",
-      "title": "原菜乃華 ChatGPTは身近な友達",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-29T22:46:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597011?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597012?source=rss-UTA ZIP!水曜パーソナリティーに",
-      "title": "UTA ZIP!水曜パーソナリティーに",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-29T22:44:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597012?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6597003?source=rss-ノジマ バイト大学生2人を店長に",
