@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T12:47:36.226Z",
+  "updatedAt": "2026-10-01T20:13:16.025Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,42 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597219?source=rss-猪狩ともか 仮面女子から卒業発表",
+      "title": "猪狩ともか 仮面女子から卒業発表",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-01T14:22:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597219?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597218?source=rss-PK止めた鈴木彩艶 大声援に感謝",
+      "title": "PK止めた鈴木彩艶 大声援に感謝",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-01T14:13:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597218?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597215?source=rss-芸能界 活動進退の報告が相次ぐ",
+      "title": "芸能界 活動進退の報告が相次ぐ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-01T13:22:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597215?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597214?source=rss-timelesz 解散の文字出なかった",
+      "title": "timelesz 解散の文字出なかった",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-01T12:53:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597214?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597213?source=rss-森保J エクアドルにPK戦の末勝利",
       "title": "森保J エクアドルにPK戦の末勝利",
@@ -396,15 +432,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001901/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597150?source=rss-名誉都民のタモリ 顕彰式わかせる",
-      "title": "名誉都民のタモリ 顕彰式わかせる",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-01T02:29:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597150?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597144?source=rss-バレー元代表 大友愛さん離婚発表",
       "title": "バレー元代表 大友愛さん離婚発表",
       "source": "Yahoo!ニュース スポーツ",
@@ -441,15 +468,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001906/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597139?source=rss-timelesz猪俣氏 事務所が契約解除",
-      "title": "timelesz猪俣氏 事務所が契約解除",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-01T00:26:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597139?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597135?source=rss-農相 地元自治体の予算カット発言",
       "title": "農相 地元自治体の予算カット発言",
       "source": "Yahoo!ニュース 国内",
@@ -484,24 +502,6 @@
       "publishedAt": "2026-09-30T22:33:31.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6597128?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597122?source=rss-おぼっちゃまくん 35年ぶり復活へ",
-      "title": "おぼっちゃまくん 35年ぶり復活へ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-09-30T21:23:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597122?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597118?source=rss-オリ野上さん急逝 球団本部長が涙",
-      "title": "オリ野上さん急逝 球団本部長が涙",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-09-30T15:03:35.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597118?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597092?source=rss-世界大学ランキング 東北大に注目",
