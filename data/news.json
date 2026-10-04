@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T12:03:05.558Z",
+  "updatedAt": "2026-10-04T18:35:07.259Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597559?source=rss-凱旋門賞 武豊12度目挑戦も夢散",
+      "title": "凱旋門賞 武豊12度目挑戦も夢散",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-04T14:16:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597559?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597555?source=rss-ロッテ一條力真 通算1試合で引退",
+      "title": "ロッテ一條力真 通算1試合で引退",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-04T13:25:26.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597555?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597550?source=rss-HKT メンバー装う偽アカ巡り注意",
+      "title": "HKT メンバー装う偽アカ巡り注意",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-04T12:27:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597550?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597546?source=rss-アジア大会 マツケンサンバで終幕",
       "title": "アジア大会 マツケンサンバで終幕",
@@ -79,15 +106,6 @@
       "publishedAt": "2026-10-04T09:35:18.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6597535?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597531?source=rss-ロッテ5選手に戦力外 一條は引退",
-      "title": "ロッテ5選手に戦力外 一條は引退",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-04T09:23:03.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597531?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6597529?source=rss-サザン関口氏会社 申告漏れを謝罪",
@@ -288,15 +306,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001978/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597458?source=rss-韓国サッカー男子V 国旗揚がらず",
-      "title": "韓国サッカー男子V 国旗揚がらず",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-03T14:51:27.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597458?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6597453?source=rss-米国産ジャガイモ解禁 前倒し浮上",
       "title": "米国産ジャガイモ解禁 前倒し浮上",
       "source": "Yahoo!ニュース 経済",
@@ -358,15 +367,6 @@
       "publishedAt": "2026-10-03T10:14:29.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6597426?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597422?source=rss-伊東四朗 報道陣40人に「驚いた」",
-      "title": "伊東四朗 報道陣40人に「驚いた」",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-03T09:28:36.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597422?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6597415?source=rss-食品消費税1%に賛否 減税効果は",
