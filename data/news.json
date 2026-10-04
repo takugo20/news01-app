@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T23:37:44.037Z",
+  "updatedAt": "2026-10-04T05:10:13.730Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,87 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597496?source=rss-米兵逮捕 外務省が米側に強く抗議",
+      "title": "米兵逮捕 外務省が米側に強く抗議",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-04T04:05:53.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597496?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597494?source=rss-「命削った」虎監督 連覇の舞台裏",
+      "title": "「命削った」虎監督 連覇の舞台裏",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-04T03:54:51.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597494?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597491?source=rss-台風27号 東北〜関東でも高波注意",
+      "title": "台風27号 東北〜関東でも高波注意",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-04T03:28:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597491?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/04/2000001987/-個人向けGeminiのモデル選択が厳格化 無料ユーザーが使えるのは「Flash-Lite」のみに",
+      "title": "個人向けGeminiのモデル選択が厳格化 無料ユーザーが使えるのは「Flash-Lite」のみに",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-04T02:27:25.000Z",
+      "description": "Googleは、個人向けGeminiで利用可能なモデルを契約プランごとに見直すと告知した。無料ユーザーは利用可能モデルが「Flash-Lite」のみに制限され、「Flash」は「AI Plus」以上、「Pro」は「AI Pro」以上の契約が必要となる。無料枠には順次適用され、個人アカウントのモデル選択肢が階層化される。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001987/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597486?source=rss-檜山沙耶 退社の経緯や結婚を語る",
+      "title": "檜山沙耶 退社の経緯や結婚を語る",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-04T01:54:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597486?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597485?source=rss-夫婦の性行為は義務? 法学者見解",
+      "title": "夫婦の性行為は義務? 法学者見解",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-04T01:44:31.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597485?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597477?source=rss-新代表選出の公明 難路の再出発",
+      "title": "新代表選出の公明 難路の再出発",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-04T00:52:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597477?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6597479?source=rss-「出前一丁」香港で独自進化 背景",
+      "title": "「出前一丁」香港で独自進化 背景",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-04T00:51:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597479?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597470?source=rss-阪神祝福の岡田氏 巨人2位に仰天",
+      "title": "阪神祝福の岡田氏 巨人2位に仰天",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-03T23:52:26.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597470?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597467?source=rss-村上信五 政界進出今年は1万%ない",
       "title": "村上信五 政界進出今年は1万%ない",
       "source": "Yahoo!ニュース エンタメ",
@@ -70,15 +151,6 @@
       "publishedAt": "2026-10-03T23:03:58.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6597466?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597463?source=rss-台風27号 小笠原諸島の近海へ北上",
-      "title": "台風27号 小笠原諸島の近海へ北上",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-03T22:52:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597463?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6597461?source=rss-サザン関口氏会社5.8億円申告漏れ",
@@ -135,15 +207,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6597455?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597456?source=rss-広島監督 試合後にファンへ謝罪",
-      "title": "広島監督 試合後にファンへ謝罪",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-03T14:06:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597456?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6597453?source=rss-米国産ジャガイモ解禁 前倒し浮上",
       "title": "米国産ジャガイモ解禁 前倒し浮上",
       "source": "Yahoo!ニュース 経済",
@@ -169,15 +232,6 @@
       "publishedAt": "2026-10-03T12:52:45.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6597441?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597446?source=rss-阪神がセ・リーグ連覇 球団史上初",
-      "title": "阪神がセ・リーグ連覇 球団史上初",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-03T12:41:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597446?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597443?source=rss-サッカー男子 韓国に敗れ銀メダル",
@@ -288,15 +342,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6597398?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597377?source=rss-衆院の定数削減 自民に先送り論",
-      "title": "衆院の定数削減 自民に先送り論",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-03T04:16:36.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597377?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6597376?source=rss-「こどもNISA」注意点 専門家解説",
       "title": "「こどもNISA」注意点 専門家解説",
       "source": "Yahoo!ニュース 経済",
@@ -396,15 +441,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6597346?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597340?source=rss-副首都となる要件 4道府県満たす",
-      "title": "副首都となる要件 4道府県満たす",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-02T22:46:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597340?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597341?source=rss-福原遥結婚 芸能界から祝福相次ぐ",
       "title": "福原遥結婚 芸能界から祝福相次ぐ",
       "source": "Yahoo!ニュース エンタメ",
@@ -414,15 +450,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6597341?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597339?source=rss-上司を「さん」呼びが増加 調査",
-      "title": "上司を「さん」呼びが増加 調査",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-02T22:31:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597339?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6597333?source=rss-第一ライフG 従業員情報漏えいか",
       "title": "第一ライフG 従業員情報漏えいか",
       "source": "Yahoo!ニュース IT",
@@ -430,24 +457,6 @@
       "publishedAt": "2026-10-02T14:44:23.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6597333?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597331?source=rss-都築謹慎の四千頭身 コンビでM-1",
-      "title": "都築謹慎の四千頭身 コンビでM-1",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-02T14:12:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597331?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6597329?source=rss-プルデンシャルの処分検討 金融庁",
-      "title": "プルデンシャルの処分検討 金融庁",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-02T14:04:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597329?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6597326?source=rss-情報漏えい相次ぐ「異様」と識者",
@@ -556,15 +565,6 @@
       "publishedAt": "2026-10-02T04:30:47.000Z",
       "description": "JICCがシステムメンテナンスを終え、スマホアプリによる「本人申告コメント」と「本人開示」の申し込みを順次受け付けていると発表した。",
       "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001959/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/02/2000001953/-履修修正の締め切り当日にシステム障害、大阪公立大 全授業を休講する事態に",
-      "title": "履修修正の締め切り当日にシステム障害、大阪公立大 全授業を休講する事態に",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-02T03:34:06.000Z",
-      "description": "大阪公立大学は10月2日、基盤システムに大規模な障害が発生したため、全キャンパスで同日の授業を終日休講にすると発表した。履修登録や教材の閲覧に使うシステムのほか、公式アプリや教職員向けのシステムなど、学内の幅広いサービスに影響が出ている。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001953/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6597255?source=rss-流行語ドパガキどう広がった 分析",
