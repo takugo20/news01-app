@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T14:06:24.792Z",
+  "updatedAt": "2026-10-05T21:54:26.880Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,51 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597689?source=rss-阿部兄妹そろって優勝 世界柔道",
+      "title": "阿部兄妹そろって優勝 世界柔道",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-05T21:18:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597689?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597687?source=rss-久保建英 妻の観戦初めてじゃない",
+      "title": "久保建英 妻の観戦初めてじゃない",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-05T14:50:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597687?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/05/2000002018/-大阪公立大の大規模システム障害、サイバー攻撃が原因か 13万人超の個人情報流出恐れ",
+      "title": "大阪公立大の大規模システム障害、サイバー攻撃が原因か 13万人超の個人情報流出恐れ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-05T14:28:36.000Z",
+      "description": "大阪公立大は5日、2日から続く大規模システム障害についてランサムウェアによる攻撃を受けた可能性が高いと発表した。在学生や卒業生ら13万人超の個人情報が流出した恐れがあるとして、流出の有無を調べている。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002018/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6597685?source=rss-塩野義 米バイオ医薬品企業買収へ",
+      "title": "塩野義 米バイオ医薬品企業買収へ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-05T14:24:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597685?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597684?source=rss-森保監督 退任後のキャリアに言及",
+      "title": "森保監督 退任後のキャリアに言及",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-05T14:07:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597684?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597683?source=rss-DeNA大量の戦力外通告 驚きの声",
       "title": "DeNA大量の戦力外通告 驚きの声",
       "source": "Yahoo!ニュース スポーツ",
@@ -43,15 +88,6 @@
       "publishedAt": "2026-10-05T13:52:11.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6597683?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597682?source=rss-久保建英 妻・福原遥の応援に笑み",
-      "title": "久保建英 妻・福原遥の応援に笑み",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-05T13:41:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597682?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597678?source=rss-初音ミク公式「KAITO」巡り見解",
@@ -270,15 +306,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6597637?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597636?source=rss-11歳ぷよぷよ金 学校生活変わらず",
-      "title": "11歳ぷよぷよ金 学校生活変わらず",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-05T08:08:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597636?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/05/2000002008/-「大起水産アプリ」に不正アクセス、17万人の個人情報漏えいか 大阪の回転寿司チェーン",
       "title": "「大起水産アプリ」に不正アクセス、17万人の個人情報漏えいか 大阪の回転寿司チェーン",
       "source": "ITmedia NEWS",
@@ -286,15 +313,6 @@
       "publishedAt": "2026-10-05T07:41:05.000Z",
       "description": "退会者含む17万4933人の個人情報が漏えいした可能性。",
       "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002008/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597634?source=rss-オリ頓宮を戦力外 育成契約見込み",
-      "title": "オリ頓宮を戦力外 育成契約見込み",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-05T07:39:03.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597634?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597633?source=rss-アニメーターの桂憲一郎さん死去",
@@ -459,15 +477,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/05/2000001995/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6597586?source=rss-フィジカルAIで異業種連携相次ぐ",
-      "title": "フィジカルAIで異業種連携相次ぐ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-05T02:05:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597586?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/05/2000001994/-日経社員のGoogle Workspaceに不正ログイン 1646人分の個人情報漏えいか",
       "title": "日経社員のGoogle Workspaceに不正ログイン 1646人分の個人情報漏えいか",
       "source": "ITmedia NEWS",
@@ -556,15 +565,6 @@
       "publishedAt": "2026-10-03T23:05:47.000Z",
       "description": "OpenAIで安全性報告の執筆を統括したデビッド・ロビンソン氏が退社し、企業文化の崩壊を訴える記事を寄稿した。現行の反復開発手法は失敗を前提としており、能力向上に伴いリスクが拡大すると指摘。原子力や航空分野の安全知見の導入や、未監視下の安全性を担保する新たな科学の確立を求めた。",
       "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/04/2000001978/-再び浮上した「クレカ表現規制問題」 クリスタやpixiv FANBOXの騒動からマンガ家が感じた不安と焦り",
-      "title": "再び浮上した「クレカ表現規制問題」 クリスタやpixiv FANBOXの騒動からマンガ家が感じた不安と焦り",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-03T22:16:00.000Z",
-      "description": "9月下旬にボクたちイラストやマンガを生業とする人間にとって、不安になってしまう出来事が立て続けにありました。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001978/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6597451?source=rss-米政府のAI 都合の悪い質問を拒否",
