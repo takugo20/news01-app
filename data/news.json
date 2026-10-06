@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T13:04:49.180Z",
+  "updatedAt": "2026-10-06T20:05:31.457Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,87 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597806?source=rss-沖縄の米軍関係者 48時間活動停止",
+      "title": "沖縄の米軍関係者 48時間活動停止",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-06T14:54:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597806?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6597805?source=rss-台風で高波 西湘バイパス通行止め",
+      "title": "台風で高波 西湘バイパス通行止め",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-06T14:43:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597805?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6597804?source=rss-旭化成子会社 55万人分情報流出か",
+      "title": "旭化成子会社 55万人分情報流出か",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-06T14:36:26.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597804?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597803?source=rss-M!LKの冠番組 レギュラー化決定",
+      "title": "M!LKの冠番組 レギュラー化決定",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-06T14:28:47.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597803?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6597802?source=rss-日販 米AI企業への書籍販売認める",
+      "title": "日販 米AI企業への書籍販売認める",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-06T14:18:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597802?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597800?source=rss-パ全日程終了 各部門タイトル一覧",
+      "title": "パ全日程終了 各部門タイトル一覧",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-06T14:13:31.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597800?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597798?source=rss-西武平良 防御率1.36でタイトル",
+      "title": "西武平良 防御率1.36でタイトル",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-06T14:03:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597798?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597796?source=rss-首相 米に日朝首脳会談の仲介要請",
+      "title": "首相 米に日朝首脳会談の仲介要請",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-06T13:19:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597796?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/06/2000002037/-Adobeツールの代替に？ オープンソースの無料クリエイティブソフト「Crafting Apps」公開",
+      "title": "Adobeツールの代替に？ オープンソースの無料クリエイティブソフト「Crafting Apps」公開",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-06T12:53:03.000Z",
+      "description": "画像・動画制作ソフト「ArtCraft」の開発チームが10月上旬、無料ソフト集「Crafting Apps」をGitHubで公開した。画像・動画編集やPDF操作などに対応する7つのアプリの初版で、Xなどでは「Adobe製品の代替になるのでは」と期待する声が上がっている。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002037/"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597791?source=rss-ハローキティ 初のレゴブロック化",
       "title": "ハローキティ 初のレゴブロック化",
@@ -108,15 +189,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6597781?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6597777?source=rss-AI企業に書籍販売か 日販に質問状",
-      "title": "AI企業に書籍販売か 日販に質問状",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-06T09:54:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597777?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/06/2000002060/-相次ぐ不正アクセス受け、古川デジタル相がコメント 国民に3つのサイバー対策呼び掛け",
       "title": "相次ぐ不正アクセス受け、古川デジタル相がコメント 国民に3つのサイバー対策呼び掛け",
       "source": "ITmedia NEWS",
@@ -133,15 +205,6 @@
       "publishedAt": "2026-10-06T09:33:46.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6597776?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597778?source=rss-避難所ガチャ「TKB」現地の課題",
-      "title": "避難所ガチャ「TKB」現地の課題",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-06T09:18:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597778?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597775?source=rss-ソフトバンク 大江ら4選手戦力外",
@@ -288,15 +351,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6597752?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597751?source=rss-不明邦人捜索継続 ネパールに要請",
-      "title": "不明邦人捜索継続 ネパールに要請",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-06T05:32:09.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597751?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6597749?source=rss-居酒屋倒産 初の年間200件超視野",
       "title": "居酒屋倒産 初の年間200件超視野",
       "source": "Yahoo!ニュース 経済",
@@ -423,15 +477,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002013/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597708?source=rss-ホワイトソックス PS無傷の4連勝",
-      "title": "ホワイトソックス PS無傷の4連勝",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-06T00:28:45.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597708?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597704?source=rss-庵野監督のヤマト新作 制作決定",
       "title": "庵野監督のヤマト新作 制作決定",
       "source": "Yahoo!ニュース エンタメ",
@@ -477,15 +522,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002019/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6597701?source=rss-セブン インドの全31店舗を閉店",
-      "title": "セブン インドの全31店舗を閉店",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-05T23:16:09.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597701?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597687?source=rss-久保建英 妻の観戦初めてじゃない",
       "title": "久保建英 妻の観戦初めてじゃない",
       "source": "Yahoo!ニュース スポーツ",
@@ -504,15 +540,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002018/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597684?source=rss-森保監督 退任後のキャリアに言及",
-      "title": "森保監督 退任後のキャリアに言及",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-05T14:07:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597684?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597678?source=rss-初音ミク公式「KAITO」巡り見解",
       "title": "初音ミク公式「KAITO」巡り見解",
       "source": "Yahoo!ニュース エンタメ",
@@ -522,15 +549,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6597678?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597667?source=rss-「H×H」作者 心身不調で仕事制限",
-      "title": "「H×H」作者 心身不調で仕事制限",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-05T11:59:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597667?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/05/2000002016/-ホワイトエッセンス、約105万アカウントの個人情報流出 8月発表の不正アクセス調査で判明",
       "title": "ホワイトエッセンス、約105万アカウントの個人情報流出 8月発表の不正アクセス調査で判明",
       "source": "ITmedia NEWS",
@@ -538,15 +556,6 @@
       "publishedAt": "2026-10-05T10:34:48.000Z",
       "description": "歯のホワイトニングサービスなどを展開するホワイトエッセンス（東京都渋谷区）は10月5日、8月に公表した予約サイトと基幹システムへの不正アクセスにより、約105万アカウント分の個人情報が漏えいしたと発表した。対象には利用者のほか、加盟院の関係者や本部社員なども含まれる。",
       "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002016/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/05/2000002017/-巨大化を指南！？ AI活用で身近になる植物栽培 健康や仕事に「緑の効用」の識者に聞く",
-      "title": "巨大化を指南！？ AI活用で身近になる植物栽培 健康や仕事に「緑の効用」の識者に聞く",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-05T10:29:40.000Z",
-      "description": "スマホのAI機能で栽培方法が手軽にわかるようになり、植物を育てるハードルが下がっている。緑が心身に与える効果を研究する千葉大大学院の岩崎寛教授に、植物と人の関係や東京都が進める緑活用の取り組みを聞いた。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002017/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6597644?source=rss-焼肉きんぐ 1078万人分の情報流出",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-10-05T08:23:29.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6597638?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6597639?source=rss-大阪公立大 サイバー攻撃受け障害",
-      "title": "大阪公立大 サイバー攻撃受け障害",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-05T08:23:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597639?source=rss"
     }
   ]
 }
