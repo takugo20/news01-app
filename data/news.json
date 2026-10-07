@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T10:01:29.265Z",
+  "updatedAt": "2026-10-07T18:41:45.588Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,123 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597935?source=rss-西勇輝引退 山本由伸がメッセージ",
+      "title": "西勇輝引退 山本由伸がメッセージ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-07T14:55:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597935?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597934?source=rss-簗農相 衆院選巡り公選法違反疑い",
+      "title": "簗農相 衆院選巡り公選法違反疑い",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-07T14:47:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597934?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6597933?source=rss-サンケイビル売却 入札額1兆円超",
+      "title": "サンケイビル売却 入札額1兆円超",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-07T14:33:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597933?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597930?source=rss-立憲 食料品消費税ゼロから転換",
+      "title": "立憲 食料品消費税ゼロから転換",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-07T14:33:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597930?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6597928?source=rss-複数の自治体など HP閲覧できず",
+      "title": "複数の自治体など HP閲覧できず",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-07T13:44:42.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597928?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/07/2000002107/-IDCFクラウドへのランサム攻撃、495の企業・自治体に影響 一部には「復元難しい」との通達も",
+      "title": "IDCFクラウドへのランサム攻撃、495の企業・自治体に影響 一部には「復元難しい」との通達も",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-07T13:09:04.000Z",
+      "description": "ソフトバンク子会社のIDCフロンティアは10月7日、法人向けクラウドサービス「IDCFクラウド」で起きている障害について、第三者によるランサムウェア攻撃が原因だったと明かし、影響範囲は495の企業・自治体に及ぶと発表した。これを受け、同日朝から利用企業によるサービス停止や一部機能の不具合の公表が相次いでいる。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002107/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/07/2000002105/-富山県立大にまた不正アクセス 学生のMicrosoft 365アカウントから1092件の迷惑メール 送信は8月末",
+      "title": "富山県立大にまた不正アクセス 学生のMicrosoft 365アカウントから1092件の迷惑メール 送信は8月末",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-07T11:28:35.000Z",
+      "description": "富山県立大学は10月7日、学生1人が利用する「Microsoft 365」のアカウントに不正アクセスがあり、同アカウントから計1092件の迷惑メールが送信されたと発表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002105/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597920?source=rss-尾崎紀世彦さん新曲 AIで歌声生成",
+      "title": "尾崎紀世彦さん新曲 AIで歌声生成",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-07T11:27:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597920?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597919?source=rss-首相を中国側呼び捨て 外務省批判",
+      "title": "首相を中国側呼び捨て 外務省批判",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-07T11:13:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597919?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/07/2000002106/-IDCFクラウドへの不正アクセス、ランサムウェア攻撃と明らかに 運営会社が回答",
+      "title": "IDCFクラウドへの不正アクセス、ランサムウェア攻撃と明らかに 運営会社が回答",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-07T11:08:01.000Z",
+      "description": "ソフトバンク子会社のIDCフロンティア（東京都千代田区）が提供する法人向けクラウドサービス「IDCFクラウド」の障害が、ランサムウェア攻撃によるものだったことが10月7日、ITmedia NEWSの取材で分かった。同社は同日、福島県白河市にある「東日本第1リージョン」が不正アクセスを受け、システムに障害が発生していると...",
+      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002106/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/07/2000002090/-HIS子会社からパスポート情報流出か、最大627人分 昨年の不正アクセスを公表",
+      "title": "HIS子会社からパスポート情報流出か、最大627人分 昨年の不正アクセスを公表",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-07T10:24:45.000Z",
+      "description": "パスポートのアルファベットの氏名、署名欄の名前、性別、生年月日、パスポート番号、有効期限と、アレルギー情報が含まれていたという。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002090/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/07/2000002104/-みずほ証券、国内金融業界初の直接液冷サーバ導入へ",
+      "title": "みずほ証券、国内金融業界初の直接液冷サーバ導入へ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-07T10:13:48.000Z",
+      "description": "みずほ証券は、金融シミュレーションの計算基盤として、液冷データセンターを新たに構築し、直接液冷方式のサーバ「HPE Cray XD2000」を採用する。両社によると、国内金融業界では初の導入という。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002104/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597911?source=rss-中1初の100m10秒台 特技はピアノ",
+      "title": "中1初の100m10秒台 特技はピアノ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-07T10:10:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597911?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6597890?source=rss-トラブル相次ぐ歯の自由診療 なぜ",
       "title": "トラブル相次ぐ歯の自由診療 なぜ",
@@ -99,15 +216,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6597894?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597895?source=rss-選挙運動巡る判決 高校生らが控訴",
-      "title": "選挙運動巡る判決 高校生らが控訴",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-07T08:31:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597895?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/07/2000002098/-「FDEが開発したAIエージェントの7割は使われず、単なるコンサルティングが販売される」 ガートナー予測",
       "title": "「FDEが開発したAIエージェントの7割は使われず、単なるコンサルティングが販売される」 ガートナー予測",
       "source": "ITmedia NEWS",
@@ -135,15 +243,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6597889?source=rss"
     },
     {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6597884?source=rss-茨城県・茨城県警のHP 閲覧不可",
-      "title": "茨城県・茨城県警のHP 閲覧不可",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-07T07:38:13.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597884?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597882?source=rss-簗氏が別会合でも同様の発言 証言",
       "title": "簗氏が別会合でも同様の発言 証言",
       "source": "Yahoo!ニュース 国内",
@@ -162,15 +261,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002093/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6597879?source=rss-「〇〇レディー」呼称 変化広がり",
-      "title": "「〇〇レディー」呼称 変化広がり",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-07T06:46:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597879?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597878?source=rss-芸人・阿曽山大噴火 難病と診断",
       "title": "芸人・阿曽山大噴火 難病と診断",
       "source": "Yahoo!ニュース エンタメ",
@@ -178,15 +268,6 @@
       "publishedAt": "2026-10-07T06:42:48.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6597878?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/07/2000002090/-HIS子会社からパスポート情報流出か、最大627人分 昨年の不正アクセスを公表",
-      "title": "HIS子会社からパスポート情報流出か、最大627人分 昨年の不正アクセスを公表",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-07T06:40:35.000Z",
-      "description": "パスポートのアルファベットの氏名、署名欄の名前、性別、生年月日、パスポート番号、有効期限と、アレルギー情報が含まれていたという。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002090/"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/07/2000002088/-関西国際大に不正アクセス、学生の記録などが外部流出か 授業や手続きにも支障",
@@ -214,15 +295,6 @@
       "publishedAt": "2026-10-07T06:08:37.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6597876?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597870?source=rss-侍J新ユニ発表 マーク刷新「SJ」",
-      "title": "侍J新ユニ発表 マーク刷新「SJ」",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-07T05:56:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597870?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/07/2000002087/-IDCFクラウドに不正アクセス 東日本の第1リージョンで障害",
@@ -378,15 +450,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002078/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597846?source=rss-大舞台で7回10K 由伸を監督絶賛",
-      "title": "大舞台で7回10K 由伸を監督絶賛",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-07T02:34:45.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597846?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597844?source=rss-政府 第2次補正予算編成を検討",
       "title": "政府 第2次補正予算編成を検討",
       "source": "Yahoo!ニュース 国内",
@@ -441,33 +504,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6597837?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/07/2000002072/-「応用情報技術者試験」申込初日にアクセス集中、「地域選べない」「決済できない」……IPAが謝罪",
-      "title": "「応用情報技術者試験」申込初日にアクセス集中、「地域選べない」「決済できない」……IPAが謝罪",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-07T00:51:16.000Z",
-      "description": "「受験地域を選べない」「決済できない」――初のCBTとなる「応用情報技術者試験」申込初日にアクセス集中。IT技術者が受ける試験の申し込みで不具合が起きたことを皮肉る投稿も。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002072/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/07/2000002071/-OpenAI、社内AIがリーマン予想の関連難問を証明と主張 論文722本をGitHubで公開",
-      "title": "OpenAI、社内AIがリーマン予想の関連難問を証明と主張 論文722本をGitHubで公開",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-07T00:32:40.000Z",
-      "description": "OpenAIは、社内のフロンティアモデルが生み出した数学の成果722本をGitHubで公開した。多くに証明支援系「Lean」による形式証明が付く。数学者らの独立組織AGMAIの提言を参考にしたもので、計算量や推論過程の要約も開示。過去の発表を巡る論争を踏まえ、数学界との対話や理解促進に向けた支援も進める。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002071/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/07/2000002070/-旭化成子会社、約51万人分の個人情報漏えいか 医療関係者向けサイトに不正アクセス",
-      "title": "旭化成子会社、約51万人分の個人情報漏えいか 医療関係者向けサイトに不正アクセス",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-07T00:05:10.000Z",
-      "description": "旧旭化成ファーマの医療関係者向け情報サイトに不正アクセス。医療従事者の氏名、所属施設名、施設住所、職種、診療科などが漏えいした可能性。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002070/"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597827?source=rss-新浜レオンが被災地ボラ 住宅訪問",
       "title": "新浜レオンが被災地ボラ 住宅訪問",
       "source": "Yahoo!ニュース エンタメ",
@@ -484,15 +520,6 @@
       "publishedAt": "2026-10-06T23:04:30.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6597822?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/07/2000002069/-Paramount、Warner Bros. Discoveryの買収を完了 新社名は「Skydance」に",
-      "title": "Paramount、Warner Bros. Discoveryの買収を完了 新社名は「Skydance」に",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-06T22:36:11.000Z",
-      "description": "Paramount Skydanceは、Warner Bros. Discoveryの買収を完了し、新社名をSkydanceとした。Netflixとの争奪戦を経て映画・配信・放送事業を網羅する巨大複合メディアが誕生した。今後は配信サービスの統合や年間30本以上の劇場公開を進め、3年間で60億ドル以上のシナジー創出を目指...",
-      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002069/"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6597815?source=rss-攻撃で情報漏洩被害 今年500件超",
@@ -531,15 +558,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6597809?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597806?source=rss-沖縄の米軍関係者 48時間活動停止",
-      "title": "沖縄の米軍関係者 48時間活動停止",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-06T14:54:27.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597806?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6597804?source=rss-旭化成子会社 55万人分情報流出か",
       "title": "旭化成子会社 55万人分情報流出か",
       "source": "Yahoo!ニュース IT",
@@ -547,24 +565,6 @@
       "publishedAt": "2026-10-06T14:36:26.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6597804?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597788?source=rss-トム・クルーズ 銀座のKK線闊歩",
-      "title": "トム・クルーズ 銀座のKK線闊歩",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-06T11:31:55.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597788?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597773?source=rss-デジ相 情報は自分で守る意識を",
-      "title": "デジ相 情報は自分で守る意識を",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-06T09:05:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597773?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6597759?source=rss-モバイルSuicaのteppay 20日開始",
