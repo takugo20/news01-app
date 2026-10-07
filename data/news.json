@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T20:05:31.457Z",
+  "updatedAt": "2026-10-07T00:29:39.725Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,105 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597827?source=rss-新浜レオンが被災地ボラ 住宅訪問",
+      "title": "新浜レオンが被災地ボラ 住宅訪問",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-06T23:41:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597827?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6597819?source=rss-視力落ち鉄道運転士失職 業界課題",
+      "title": "視力落ち鉄道運転士失職 業界課題",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-06T23:31:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597819?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6597822?source=rss-シャウエッセンのX投稿 なぜ炎上",
+      "title": "シャウエッセンのX投稿 なぜ炎上",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-06T23:04:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597822?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/07/2000002069/-Paramount、Warner Bros. Discoveryの買収を完了 新社名は「Skydance」に",
+      "title": "Paramount、Warner Bros. Discoveryの買収を完了 新社名は「Skydance」に",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-06T22:36:11.000Z",
+      "description": "Paramount Skydanceは、Warner Bros. Discoveryの買収を完了し、新社名をSkydanceとした。Netflixとの争奪戦を経て映画・配信・放送事業を網羅する巨大複合メディアが誕生した。今後は配信サービスの統合や年間30本以上の劇場公開を進め、3年間で60億ドル以上のシナジー創出を目指...",
+      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002069/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597816?source=rss-速報 ブレーブスvs.ドジャース",
+      "title": "速報 ブレーブスvs.ドジャース",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-06T22:31:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597816?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6597815?source=rss-攻撃で情報漏洩被害 今年500件超",
+      "title": "攻撃で情報漏洩被害 今年500件超",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-06T22:31:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597815?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597814?source=rss-舞台4日遅れ TOBE滝沢社長が謝罪",
+      "title": "舞台4日遅れ TOBE滝沢社長が謝罪",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-06T22:22:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597814?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597813?source=rss-自衛隊に原潜導入 検討案が浮上",
+      "title": "自衛隊に原潜導入 検討案が浮上",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-06T22:15:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597813?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/07/2000002068/-Google、原発大手Constellationと20年の電力購入契約 「他の電力利用者に負担なし」",
+      "title": "Google、原発大手Constellationと20年の電力購入契約 「他の電力利用者に負担なし」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-06T21:55:42.000Z",
+      "description": "Googleと原発大手Constellation Energyは、既存の原発11基の出力増強により送電網に890MWを追加する20年間の電力契約を締結した。AI拡大に伴う電力需要を支える狙いで、他利用者にコスト負担をかけない枠組みを採用する。あわせて原発運用へのGemini導入など技術提携も拡大する。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002068/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597811?source=rss-C・ロナウド 代表離脱を巡り激白",
+      "title": "C・ロナウド 代表離脱を巡り激白",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-06T21:50:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597811?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597809?source=rss-大谷を5番DHに降格 監督が説明",
+      "title": "大谷を5番DHに降格 監督が説明",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-06T21:27:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6597809?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597806?source=rss-沖縄の米軍関係者 48時間活動停止",
       "title": "沖縄の米軍関係者 48時間活動停止",
@@ -126,15 +225,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6597791?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597790?source=rss-岩貞祐太が登板 万雷のコール背に",
-      "title": "岩貞祐太が登板 万雷のコール背に",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-06T11:55:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597790?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/06/2000002067/-シチズン時計、委託先への不正アクセスで約10万人分の個人情報漏えいか 大和証券と同じサービスが原因に",
       "title": "シチズン時計、委託先への不正アクセスで約10万人分の個人情報漏えいか 大和証券と同じサービスが原因に",
       "source": "ITmedia NEWS",
@@ -178,15 +268,6 @@
       "publishedAt": "2026-10-06T10:19:49.000Z",
       "description": "ノルウェー政府は5日、公園や海水浴場など、公共の場で人工知能（AI）を搭載したスマートグラス（AI眼鏡）の使用を規制する法案を提出する計画を明らかにしたと、英Reutersが報じた。",
       "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002064/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6597781?source=rss-海上に台風 関東7日まで高波警戒",
-      "title": "海上に台風 関東7日まで高波警戒",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-06T10:02:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597781?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/06/2000002060/-相次ぐ不正アクセス受け、古川デジタル相がコメント 国民に3つのサイバー対策呼び掛け",
@@ -351,15 +432,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6597752?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6597749?source=rss-居酒屋倒産 初の年間200件超視野",
-      "title": "居酒屋倒産 初の年間200件超視野",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-06T05:22:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597749?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/06/2000002034/-スーパーホテルがAI経理代行に参入へ 自社ノウハウ外販、目指すは「稼げる経理」",
       "title": "スーパーホテルがAI経理代行に参入へ 自社ノウハウ外販、目指すは「稼げる経理」",
       "source": "ITmedia NEWS",
@@ -459,15 +531,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002026/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597711?source=rss-大谷の打順降格 監督が可能性示唆",
-      "title": "大谷の打順降格 監督が可能性示唆",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-06T01:04:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597711?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/06/2000002013/-不正アクセスなぜ急増 原因はAIか、それとも…… 専門家の見解は",
       "title": "不正アクセスなぜ急増 原因はAIか、それとも…… 専門家の見解は",
       "source": "ITmedia NEWS",
@@ -504,15 +567,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002010/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597699?source=rss-「キャプテン翼」最新作 連載再開",
-      "title": "「キャプテン翼」最新作 連載再開",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-05T23:29:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597699?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/06/2000002019/-スタディサプリの「仕様不備」突く不正アクセス ユーザーのメアド3687件を第三者が特定か",
       "title": "スタディサプリの「仕様不備」突く不正アクセス ユーザーのメアド3687件を第三者が特定か",
       "source": "ITmedia NEWS",
@@ -520,60 +574,6 @@
       "publishedAt": "2026-10-05T23:24:13.000Z",
       "description": "「アカウント列挙」と呼ばれる攻撃を受けたとみられる。",
       "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002019/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6597687?source=rss-久保建英 妻の観戦初めてじゃない",
-      "title": "久保建英 妻の観戦初めてじゃない",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-05T14:50:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597687?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/05/2000002018/-大阪公立大の大規模システム障害、サイバー攻撃が原因か 13万人超の個人情報流出恐れ",
-      "title": "大阪公立大の大規模システム障害、サイバー攻撃が原因か 13万人超の個人情報流出恐れ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-05T14:28:36.000Z",
-      "description": "大阪公立大は5日、2日から続く大規模システム障害についてランサムウェアによる攻撃を受けた可能性が高いと発表した。在学生や卒業生ら13万人超の個人情報が流出した恐れがあるとして、流出の有無を調べている。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002018/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6597678?source=rss-初音ミク公式「KAITO」巡り見解",
-      "title": "初音ミク公式「KAITO」巡り見解",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-05T13:24:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597678?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/05/2000002016/-ホワイトエッセンス、約105万アカウントの個人情報流出 8月発表の不正アクセス調査で判明",
-      "title": "ホワイトエッセンス、約105万アカウントの個人情報流出 8月発表の不正アクセス調査で判明",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-05T10:34:48.000Z",
-      "description": "歯のホワイトニングサービスなどを展開するホワイトエッセンス（東京都渋谷区）は10月5日、8月に公表した予約サイトと基幹システムへの不正アクセスにより、約105万アカウント分の個人情報が漏えいしたと発表した。対象には利用者のほか、加盟院の関係者や本部社員なども含まれる。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002016/"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6597644?source=rss-焼肉きんぐ 1078万人分の情報流出",
-      "title": "焼肉きんぐ 1078万人分の情報流出",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-05T08:43:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597644?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6597638?source=rss-Codex「今後28日間は毎日改善」",
-      "title": "Codex「今後28日間は毎日改善」",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-05T08:23:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6597638?source=rss"
     }
   ]
 }
