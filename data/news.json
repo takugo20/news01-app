@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T10:15:39.747Z",
+  "updatedAt": "2026-10-09T18:10:44.328Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,168 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598193?source=rss-文科相 議員会館内でパーティーか",
+      "title": "文科相 議員会館内でパーティーか",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-09T14:22:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598193?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598192?source=rss-ビール4社担当者 価格協議認める",
+      "title": "ビール4社担当者 価格協議認める",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-09T14:20:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598192?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598189?source=rss-簗大臣お支えチーム 農水省新設",
+      "title": "簗大臣お支えチーム 農水省新設",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-09T13:40:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598189?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598188?source=rss-イオン系食品スーパー100店閉店へ",
+      "title": "イオン系食品スーパー100店閉店へ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-09T13:39:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598188?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598187?source=rss-白菜高騰「鍋できない」と客困惑",
+      "title": "白菜高騰「鍋できない」と客困惑",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-09T13:29:23.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598187?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6598186?source=rss-個人情報巡る対策 政府が緊急要請",
+      "title": "個人情報巡る対策 政府が緊急要請",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-09T13:13:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598186?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598185?source=rss-令和版落合監督? 工藤氏への期待",
+      "title": "令和版落合監督? 工藤氏への期待",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-09T12:58:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598185?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598181?source=rss-作新学院の野球部監督 体罰で謹慎",
+      "title": "作新学院の野球部監督 体罰で謹慎",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-09T12:44:31.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598181?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598182?source=rss-試合数短縮などMLB改革案 狙いは",
+      "title": "試合数短縮などMLB改革案 狙いは",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-09T12:29:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598182?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598180?source=rss-簗氏「国交省にやらせる」 24年に",
+      "title": "簗氏「国交省にやらせる」 24年に",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-09T12:19:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598180?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/09/2000002184/-「お前たちのクラウドはわれわれのもの」 IDCFクラウドの管理画面に出た攻撃者のメッセージ 内容に運営元は",
+      "title": "「お前たちのクラウドはわれわれのもの」 IDCFクラウドの管理画面に出た攻撃者のメッセージ 内容に運営元は",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-09T12:17:21.000Z",
+      "description": "ランサムウェア攻撃を受けた「IDCFクラウド」を巡り、攻撃者を名乗る人物のメッセージが管理コンソールに表示されたとする画像が、10月7日からX上で拡散している。画像には、攻撃者によるものとみられる英語のメッセージや、被害規模を示す具体的な数字が記されている。ITmedia NEWSは運営元のIDCフロンティアに、画像の...",
+      "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002184/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598178?source=rss-松屋 牛めし全品を20円値上げへ",
+      "title": "松屋 牛めし全品を20円値上げへ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-09T12:01:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598178?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/09/2000002178/-ヤマハ・スズキも漏えいか 交流サイト基盤「コミューン」不正アクセス、計30万会員に影響の恐れ",
+      "title": "ヤマハ・スズキも漏えいか 交流サイト基盤「コミューン」不正アクセス、計30万会員に影響の恐れ",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-09T11:51:33.000Z",
+      "description": "オンラインコミュニティー作成サービスを手掛けるコミューン（東京都品川区）は10月9日、「Commune」「Commune for Work」といったサービスが不正アクセスを受け、約30万7000会員分の情報が漏えいした可能性があると発表した。同社のサービスを使って交流サイトを運営していたスズキやヤマハもそれぞれ影響を公...",
+      "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002178/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/09/2000002175/-NewsPicks、メアド32.3万件やクレカ情報の一部36.2万件漏えいか【訂正あり】",
+      "title": "NewsPicks、メアド32.3万件やクレカ情報の一部36.2万件漏えいか【訂正あり】",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-09T11:13:47.000Z",
+      "description": "ユーザベースは10月9日、「NewsPicks」の管理ツールへの不正アクセスについて、漏えいした可能性のある情報の最大件数を公表した。クレジットカード情報の一部が約36万2000件、メールアドレスが約32万3000件に上り、氏名や住所、勤務先も含まれる。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002175/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598172?source=rss-クーリッシュに血液 原因は未特定",
+      "title": "クーリッシュに血液 原因は未特定",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-09T11:03:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598172?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6598171?source=rss-齋藤飛鳥 一人でファミレスに行く",
+      "title": "齋藤飛鳥 一人でファミレスに行く",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-09T10:49:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598171?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/09/2000002176/-韓国の銀行狙ったサイバー攻撃、犯人は「中国在住の26歳」か Claudeで作られた“履歴書”から浮上",
+      "title": "韓国の銀行狙ったサイバー攻撃、犯人は「中国在住の26歳」か Claudeで作られた“履歴書”から浮上",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-09T10:08:10.000Z",
+      "description": "米CrowdStrikeは10月7日（現地時間）、韓国の金融機関を狙ったサイバー攻撃の攻撃者が、中国在住の26歳の人物である可能性を示す分析結果を公表した。攻撃者が使ったAIツールの履歴に、本人のものとみられる個人情報が残っていたという。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002176/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/09/2000002179/-山中で遭難の16歳少年、登山計画に生成AI「Claude」利用 救助隊は「ルートの妄信」警鐘",
+      "title": "山中で遭難の16歳少年、登山計画に生成AI「Claude」利用 救助隊は「ルートの妄信」警鐘",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-09T10:02:28.000Z",
+      "description": "カナダ西部ブリティッシュコロンビア州の山中で遭難した16歳の少年が登山計画に生成AIを利用していたことが物議をかもしている。少年はAIの利用を認めつつ、遭難の原因はAIではないとしているが、救助隊はAIが示すルートを妄信しないよう警鐘を鳴らしている。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002179/"
+    },
+    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/09/2000002177/-ドコモの顧客情報1億件超がダークウェブに？ 同社「流出は確認していない」",
       "title": "ドコモの顧客情報1億件超がダークウェブに？ 同社「流出は確認していない」",
       "source": "ITmedia NEWS",
@@ -45,15 +207,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002177/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598163?source=rss-騒動相次ぐ 韓国サッカー界の現状",
-      "title": "騒動相次ぐ 韓国サッカー界の現状",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-09T09:47:03.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598163?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6598161?source=rss-大学教授がAI使い著書に誤り 絶版",
       "title": "大学教授がAI使い著書に誤り 絶版",
       "source": "Yahoo!ニュース IT",
@@ -61,15 +214,6 @@
       "publishedAt": "2026-10-09T09:44:26.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6598161?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/09/2000002176/-韓国の銀行を狙ったサイバー攻撃、犯人は「中国在住の26歳」か Claudeで作った“犯行実績入り履歴書“から浮上",
-      "title": "韓国の銀行を狙ったサイバー攻撃、犯人は「中国在住の26歳」か Claudeで作った“犯行実績入り履歴書“から浮上",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-09T09:29:55.000Z",
-      "description": "米CrowdStrikeは10月7日（現地時間）、韓国の金融機関を狙ったサイバー攻撃の攻撃者が、中国在住の26歳の人物である可能性を示す分析結果を公表した。攻撃者が使ったAIツールの履歴に、本人のものとみられる個人情報が残っていたという。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002176/"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598159?source=rss-カープ監督 来季の笑顔解禁を宣言",
@@ -88,15 +232,6 @@
       "publishedAt": "2026-10-09T09:12:24.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6598155?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/09/2000002175/-NewsPicks、最大117万件漏えいか クレカ情報も一部対象に",
-      "title": "NewsPicks、最大117万件漏えいか クレカ情報も一部対象に",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-09T09:05:09.000Z",
-      "description": "ユーザベースは10月9日、「NewsPicks」の管理ツールへの不正アクセスについて、漏えいした可能性のある情報の最大件数を公表した。クレジットカード情報の一部が約36万2000件、メールアドレスが約32万3000件に上り、氏名や住所、勤務先も含まれる。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002175/"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/09/2000002171/-JR東日本、「えきねっと」「ビューカード」などで漏えいか メルアドなど最大609万件 IDCFへの不正アクセスで【追記あり】",
@@ -153,15 +288,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6598146?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598147?source=rss-女性着飾る理由に「推し活」見解",
-      "title": "女性着飾る理由に「推し活」見解",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-09T08:21:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598147?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598144?source=rss-小園海斗に米移籍の可能性 米記者",
       "title": "小園海斗に米移籍の可能性 米記者",
       "source": "Yahoo!ニュース スポーツ",
@@ -189,15 +315,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6598143?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598141?source=rss-通信制なのに全寮制 高校が開校へ",
-      "title": "通信制なのに全寮制 高校が開校へ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-09T07:50:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598141?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6598137?source=rss-JR東 個人情報のべ206万件漏洩か",
       "title": "JR東 個人情報のべ206万件漏洩か",
       "source": "Yahoo!ニュース IT",
@@ -205,33 +322,6 @@
       "publishedAt": "2026-10-09T07:19:11.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6598137?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598132?source=rss-参院野党 農相の問責決議案検討へ",
-      "title": "参院野党 農相の問責決議案検討へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-09T07:13:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598132?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598131?source=rss-元防衛庁長官 斉藤斗志二さん死去",
-      "title": "元防衛庁長官 斉藤斗志二さん死去",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-09T06:56:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598131?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598127?source=rss-佐藤輝明の三冠王 バース氏が祝福",
-      "title": "佐藤輝明の三冠王 バース氏が祝福",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-09T06:31:09.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598127?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598129?source=rss-プルデンシャル 一部業務停止命令",
@@ -268,15 +358,6 @@
       "publishedAt": "2026-10-09T05:27:24.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6598124?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598119?source=rss-警視庁「自動運転企画室」設置へ",
-      "title": "警視庁「自動運転企画室」設置へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-09T05:03:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598119?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6598120?source=rss-INI・佐野雄大 適応障害を公表",
@@ -360,15 +441,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002121/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598110?source=rss-ヤクルト 1軍コーチ2人の退団発表",
-      "title": "ヤクルト 1軍コーチ2人の退団発表",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-09T03:18:09.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598110?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/09/2000002160/-新gTLD申請、日本からも多数 講談社「.manga」、東映アニメ「.anime」、ドコモ「.docomo」など",
       "title": "新gTLD申請、日本からも多数 講談社「.manga」、東映アニメ「.anime」、ドコモ「.docomo」など",
       "source": "ITmedia NEWS",
@@ -421,15 +493,6 @@
       "publishedAt": "2026-10-09T02:41:00.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6598104?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598103?source=rss-国家公務員の給与 5年連続増",
-      "title": "国家公務員の給与 5年連続増",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-09T02:37:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598103?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/09/2000002159/-トランプ大統領、マスク氏やフアン氏ら6人に米国家科学賞と国家技術革新賞を授与",
@@ -486,15 +549,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002155/"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/09/2000002154/-ビッグエコー会員ら872万件の個人情報漏えいか 第一興商、委託先PCがマルウェア感染",
-      "title": "ビッグエコー会員ら872万件の個人情報漏えいか 第一興商、委託先PCがマルウェア感染",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-09T01:16:31.000Z",
-      "description": "個人情報の取り扱いを委託している日本コロムビアグループの従業員の端末がマルウェアに感染したことが原因。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002154/"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6598089?source=rss-ブックオフ 約643万件情報流出か",
       "title": "ブックオフ 約643万件情報流出か",
       "source": "Yahoo!ニュース IT",
@@ -513,15 +567,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6598085?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/09/2000002153/-NewsPicksユーザーの個人情報漏えいか 勤務先やカード番号下4桁も……管理ツールに不正アクセス",
-      "title": "NewsPicksユーザーの個人情報漏えいか 勤務先やカード番号下4桁も……管理ツールに不正アクセス",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-09T00:47:46.000Z",
-      "description": "漏えいした可能性がある情報は、ユーザーの氏名、勤務先、メールアドレス、住所、電話番号、クレジットカード名義、クレジットカード番号の下3ケタまたは下4ケタなど。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002153/"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598086?source=rss-医療業界 精神障害の労災3倍に",
       "title": "医療業界 精神障害の労災3倍に",
       "source": "Yahoo!ニュース 国内",
@@ -529,51 +574,6 @@
       "publishedAt": "2026-10-09T00:43:57.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6598086?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/09/2000002150/-ブックオフに不正アクセス、最大約643万件の個人情報流出 氏名、住所、ハッシュ化パスワードなど",
-      "title": "ブックオフに不正アクセス、最大約643万件の個人情報流出 氏名、住所、ハッシュ化パスワードなど",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-09T00:26:53.000Z",
-      "description": "流出した可能性があるのは、氏名、生年月日、性別、メールアドレス、電話番号、郵便番号・住所、パスワードのハッシュ値、ポイントカード番号、会員番号。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002150/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6598083?source=rss-水曜どうでしょう30年 なぜ人気",
-      "title": "水曜どうでしょう30年 なぜ人気",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-09T00:25:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598083?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598068?source=rss-米スタバ メキシコ料理買収を検討",
-      "title": "米スタバ メキシコ料理買収を検討",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-08T21:49:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598068?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598063?source=rss-プルデンシャル 不正巡り64人解雇",
-      "title": "プルデンシャル 不正巡り64人解雇",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-08T15:06:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598063?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6598056?source=rss-ローソン 約215万件の情報漏えい",
-      "title": "ローソン 約215万件の情報漏えい",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-08T13:00:36.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598056?source=rss"
     }
   ]
 }
