@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T12:25:14.688Z",
+  "updatedAt": "2026-10-11T19:24:40.915Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,94 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6598421?source=rss-パンサー尾形 長女とランウェイ",
-      "title": "パンサー尾形 長女とランウェイ",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598440?source=rss-鎌田大地 待望のプレミア初ゴール",
+      "title": "鎌田大地 待望のプレミア初ゴール",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-11T14:23:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598440?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6598436?source=rss-藤田ニコル 不妊治療の裏側を語る",
+      "title": "藤田ニコル 不妊治療の裏側を語る",
       "source": "Yahoo!ニュース エンタメ",
       "category": "エンタメ",
-      "publishedAt": "2026-10-11T12:11:16.000Z",
+      "publishedAt": "2026-10-11T13:58:25.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598421?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6598436?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598435?source=rss-停車前にTXドア開く 客が操作か",
+      "title": "停車前にTXドア開く 客が操作か",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-11T13:42:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598435?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598434?source=rss-錦織圭さんイベ 客席に役所広司ら",
+      "title": "錦織圭さんイベ 客席に役所広司ら",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-11T13:34:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598434?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598430?source=rss-定数削減 自民幹事長の腹案に波紋",
+      "title": "定数削減 自民幹事長の腹案に波紋",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-11T13:14:12.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598430?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598428?source=rss-山下美夢有 欧州ツアー高額大会V",
+      "title": "山下美夢有 欧州ツアー高額大会V",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-11T12:59:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598428?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598427?source=rss-防衛関連経費で鉄道整備検討 政府",
+      "title": "防衛関連経費で鉄道整備検討 政府",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-11T12:54:23.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598427?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6598426?source=rss-鈴木光司さん偲ぶ会 貞子が登場",
+      "title": "鈴木光司さん偲ぶ会 貞子が登場",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-11T12:54:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598426?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598424?source=rss-オウム信者だった母 女性の苦難",
+      "title": "オウム信者だった母 女性の苦難",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-11T12:47:26.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598424?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6598425?source=rss-娘とランウェイ 尾形貴弘は感無量",
+      "title": "娘とランウェイ 尾形貴弘は感無量",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-11T12:28:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598425?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598419?source=rss-松島輝空が快挙 WTT最高峰大会V",
@@ -153,15 +234,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6598401?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598393?source=rss-GK痛恨 ブンデス史上最速の失点",
-      "title": "GK痛恨 ブンデス史上最速の失点",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-11T08:30:15.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598393?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598395?source=rss-DeNA 競り勝ちCSファイナル進出",
       "title": "DeNA 競り勝ちCSファイナル進出",
       "source": "Yahoo!ニュース スポーツ",
@@ -169,15 +241,6 @@
       "publishedAt": "2026-10-11T08:13:31.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6598395?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598391?source=rss-錦織圭さんイベ フェデラー氏登場",
-      "title": "錦織圭さんイベ フェデラー氏登場",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-11T07:55:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598391?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598392?source=rss-物流業界 外国人運転手の採用拡大",
@@ -207,15 +270,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6598379?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6598374?source=rss-i☆Ris 2027年末で活動終了へ",
-      "title": "i☆Ris 2027年末で活動終了へ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-11T05:39:15.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598374?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598370?source=rss-消費減税方針は全くぶれず 片山氏",
       "title": "消費減税方針は全くぶれず 片山氏",
       "source": "Yahoo!ニュース 国内",
@@ -232,15 +286,6 @@
       "publishedAt": "2026-10-11T04:17:08.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6598361?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598358?source=rss-村上ベンチで呆然 大一番で4三振",
-      "title": "村上ベンチで呆然 大一番で4三振",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-11T03:29:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598358?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6598348?source=rss-せいや 出演予定だったフェス欠席",
@@ -270,15 +315,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6598339?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598337?source=rss-幼児の新幹線自由席利用 広報見解",
-      "title": "幼児の新幹線自由席利用 広報見解",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-11T00:49:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598337?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6598335?source=rss-生放送中に名探偵津田が始動 話題",
       "title": "生放送中に名探偵津田が始動 話題",
       "source": "Yahoo!ニュース エンタメ",
@@ -306,15 +342,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6598326?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6598324?source=rss-「ナルト」新作漫画&アニメを発表",
-      "title": "「ナルト」新作漫画&アニメを発表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-10T23:21:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598324?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598316?source=rss-障害者50人 9カ月で雇用打ち切り",
       "title": "障害者50人 9カ月で雇用打ち切り",
       "source": "Yahoo!ニュース 経済",
@@ -331,33 +358,6 @@
       "publishedAt": "2026-10-10T22:15:00.000Z",
       "description": "日本でも公開された「バイオハザード」の新作映画。海外では公開3日で興行収入が約6000万ドル（約95億円）を超え、原作であるゲームシリーズの販売にも影響したようです。ボクも見てきました。",
       "url": "https://www.itmedia.co.jp/news/article/2610/11/2000002191/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598307?source=rss-外相 赤根・ルビオ両氏と電話協議",
-      "title": "外相 赤根・ルビオ両氏と電話協議",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-10T13:59:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598307?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598301?source=rss-分電盤点検商法 トラブルが激増",
-      "title": "分電盤点検商法 トラブルが激増",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-10T13:20:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598301?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598285?source=rss-首相のG7欠席 野党から苦言続出",
-      "title": "首相のG7欠席 野党から苦言続出",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-10T09:44:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598285?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/09/2000002184/-「お前たちのクラウドはわれわれのもの」 IDCFクラウドの管理画面に出た攻撃者のメッセージ 内容に運営元は",
