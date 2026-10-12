@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:29:01.938Z",
+  "updatedAt": "2026-10-12T21:06:24.526Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,22 +36,184 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598533?source=rss-日ハム連勝 新庄監督がナイン称賛",
-      "title": "日ハム連勝 新庄監督がナイン称賛",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598518?source=rss-速報 ドジャースvs.ブリュワーズ",
+      "title": "速報 ドジャースvs.ブリュワーズ",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-10-12T09:59:39.000Z",
+      "publishedAt": "2026-10-12T20:57:28.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598533?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6598518?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598532?source=rss-早大が出雲駅伝快勝 他校が危機感",
-      "title": "早大が出雲駅伝快勝 他校が危機感",
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598563?source=rss-財務相 世銀IMF合同開発委議長に",
+      "title": "財務相 世銀IMF合同開発委議長に",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-12T14:27:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598563?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6598561?source=rss-ひばりさんの「謝罪」の手紙 公開",
+      "title": "ひばりさんの「謝罪」の手紙 公開",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-12T14:09:29.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598561?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598559?source=rss-西武本部長 MLB志望の平良に言及",
+      "title": "西武本部長 MLB志望の平良に言及",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-10-12T09:36:43.000Z",
+      "publishedAt": "2026-10-12T14:09:00.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598532?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6598559?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6598562?source=rss-マイクロソフト 新型AI半導体発表",
+      "title": "マイクロソフト 新型AI半導体発表",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-12T14:08:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598562?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598560?source=rss-マンション高騰 売れ残り値下げも",
+      "title": "マンション高騰 売れ残り値下げも",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-12T14:00:00.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598560?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598555?source=rss-中露朝が連動し日本批判 政府警戒",
+      "title": "中露朝が連動し日本批判 政府警戒",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-12T13:33:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598555?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6598553?source=rss-東海オンエアのりょう 結婚を報告",
+      "title": "東海オンエアのりょう 結婚を報告",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-12T13:18:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598553?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6598554?source=rss-中国 AI作品のショートドラマ急増",
+      "title": "中国 AI作品のショートドラマ急増",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-12T13:15:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598554?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598551?source=rss-国立大でコスメ学ぶ訳 1期生の声",
+      "title": "国立大でコスメ学ぶ訳 1期生の声",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-12T13:08:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598551?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6598552?source=rss-齊藤京子 ソロ歌手デビューを発表",
+      "title": "齊藤京子 ソロ歌手デビューを発表",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-12T13:05:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598552?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6598548?source=rss-setlog流行 日常を切り取るリスク",
+      "title": "setlog流行 日常を切り取るリスク",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-12T12:39:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598548?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598547?source=rss-西武ファン 日ハムに異例のエール",
+      "title": "西武ファン 日ハムに異例のエール",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-12T12:27:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598547?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598546?source=rss-新庄氏 大一番で偽装スクイズ成功",
+      "title": "新庄氏 大一番で偽装スクイズ成功",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-12T12:04:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598546?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598544?source=rss-共産党 野党共闘路線を転換方針",
+      "title": "共産党 野党共闘路線を転換方針",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-12T11:47:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598544?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598543?source=rss-旅行は夏→秋へシフト? 動き加速",
+      "title": "旅行は夏→秋へシフト? 動き加速",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-12T11:41:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598543?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6598541?source=rss-映画バイオ 公開3日で興収6.2億円",
+      "title": "映画バイオ 公開3日で興収6.2億円",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-12T11:21:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598541?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598540?source=rss-藤井六冠 29連勝は奇跡だったなと",
+      "title": "藤井六冠 29連勝は奇跡だったなと",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-12T10:59:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598540?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598538?source=rss-ノーベル経済学賞 米大教授2人に",
+      "title": "ノーベル経済学賞 米大教授2人に",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-12T10:42:51.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598538?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6598536?source=rss-情報流出に政府苦慮 打つ手乏しく",
+      "title": "情報流出に政府苦慮 打つ手乏しく",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-12T10:32:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598536?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598527?source=rss-日ハム 3年連続CSファイナル進出",
@@ -70,24 +232,6 @@
       "publishedAt": "2026-10-12T08:22:35.000Z",
       "description": "初めての一眼にフルサイズを選びたい、でも高価で重いのは困る――そんな人に最もバランスが取れた1台がこれかもしれない。キヤノン「EOS R8 Mark II」はボディ内手ブレ補正や秒40コマ連写、マルチコントローラーを備え、日本独自の45mm F1.2レンズキットも用意した。実写で見えた実力と、F1.2を晴天下で使うとき...",
       "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002196/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598520?source=rss-渋谷駅で事故 山手線一時見合わせ",
-      "title": "渋谷駅で事故 山手線一時見合わせ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-12T07:42:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598520?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598521?source=rss-藤井六冠 自己認識は「普通の人」",
-      "title": "藤井六冠 自己認識は「普通の人」",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-12T07:42:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598521?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598517?source=rss-休校いつまで クマ対応に学校苦慮",
@@ -124,15 +268,6 @@
       "publishedAt": "2026-10-12T06:07:00.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6598511?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598509?source=rss-卓球・松島 フラッシュ妨害に言及",
-      "title": "卓球・松島 フラッシュ妨害に言及",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-12T05:59:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598509?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598505?source=rss-公明・岡本氏 自民含め連携目指す",
@@ -180,24 +315,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6598500?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598496?source=rss-巨人 FA行使に備え広島3選手調査",
-      "title": "巨人 FA行使に備え広島3選手調査",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-12T04:52:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598496?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598493?source=rss-1週間天気 高温傾向が続く見込み",
-      "title": "1週間天気 高温傾向が続く見込み",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-12T04:36:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598493?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6598487?source=rss-misono 夫への妊娠報告はLINE",
       "title": "misono 夫への妊娠報告はLINE",
       "source": "Yahoo!ニュース エンタメ",
@@ -205,24 +322,6 @@
       "publishedAt": "2026-10-12T03:37:31.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6598487?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598478?source=rss-原潜導入論 政治主導で議論曲折も",
-      "title": "原潜導入論 政治主導で議論曲折も",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-12T02:23:45.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598478?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598477?source=rss-エスカレーター 歩くひとの意見",
-      "title": "エスカレーター 歩くひとの意見",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-12T02:05:45.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598477?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/12/2000002195/-MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言",
@@ -270,24 +369,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6598459?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6598455?source=rss-観る→解く→観る VIVANTの考察",
-      "title": "観る→解く→観る VIVANTの考察",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-11T23:08:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598455?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598448?source=rss-重要医療機器の備蓄 企業に補助へ",
-      "title": "重要医療機器の備蓄 企業に補助へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-11T22:28:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598448?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598445?source=rss-巨人 阿部前監督に球団復帰を要請",
       "title": "巨人 阿部前監督に球団復帰を要請",
       "source": "Yahoo!ニュース スポーツ",
@@ -306,15 +387,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6598447?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6598436?source=rss-藤田ニコル 不妊治療の裏側を語る",
-      "title": "藤田ニコル 不妊治療の裏側を語る",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-11T13:58:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598436?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598435?source=rss-停車前にTXドア開く 客が操作か",
       "title": "停車前にTXドア開く 客が操作か",
       "source": "Yahoo!ニュース 経済",
@@ -322,42 +394,6 @@
       "publishedAt": "2026-10-11T13:42:08.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6598435?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6598426?source=rss-鈴木光司さん偲ぶ会 貞子が登場",
-      "title": "鈴木光司さん偲ぶ会 貞子が登場",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-11T12:54:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598426?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6598425?source=rss-娘とランウェイ 尾形貴弘は感無量",
-      "title": "娘とランウェイ 尾形貴弘は感無量",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-11T12:28:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598425?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598418?source=rss-個人M&Aで多額損失「恋は盲目」",
-      "title": "個人M&Aで多額損失「恋は盲目」",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-11T11:34:55.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598418?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598413?source=rss-TSMC進出 高給目当て人材流出も",
-      "title": "TSMC進出 高給目当て人材流出も",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-11T10:27:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598413?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6598410?source=rss-Bitcoin大暴落1年 流動性回復か",
@@ -432,15 +468,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002190/"
     },
     {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6598211?source=rss-サイバー攻撃 なぜ日本が標的に",
-      "title": "サイバー攻撃 なぜ日本が標的に",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-09T23:42:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598211?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/10/2000002189/-OpenAI、安全性研究者3人を解雇 本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
       "title": "OpenAI、安全性研究者3人を解雇 本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
       "source": "ITmedia NEWS",
@@ -495,15 +522,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002147/"
     },
     {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6598186?source=rss-個人情報巡る対策 政府が緊急要請",
-      "title": "個人情報巡る対策 政府が緊急要請",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-09T13:13:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598186?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/09/2000002178/-ヤマハ・スズキも漏えいか 交流サイト基盤「コミューン」不正アクセス、計30万会員に影響の恐れ",
       "title": "ヤマハ・スズキも漏えいか 交流サイト基盤「コミューン」不正アクセス、計30万会員に影響の恐れ",
       "source": "ITmedia NEWS",
@@ -549,15 +567,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002177/"
     },
     {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6598161?source=rss-大学教授がAI使い著書に誤り 絶版",
-      "title": "大学教授がAI使い著書に誤り 絶版",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-09T09:44:26.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598161?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/09/2000002171/-JR東日本、「えきねっと」「ビューカード」などで漏えいか メルアドなど最大609万件 IDCFへの不正アクセスで【追記あり】",
       "title": "JR東日本、「えきねっと」「ビューカード」などで漏えいか メルアドなど最大609万件 IDCFへの不正アクセスで【追記あり】",
       "source": "ITmedia NEWS",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-10-09T08:58:28.000Z",
       "description": "JR東日本は10月9日、列車予約サービス「えきねっと」と会員制サービス「大人の休日倶楽部」のにおいて、最大約206万件の利用者情報が漏えいした可能性があると発表した。7日にIDCフロンティアが公表した不正アクセスが原因で、メール配信用の外部サービスに保存していた利用者の情報が第三者に閲覧・取得された恐れがあるという。",
       "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002171/"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6598152?source=rss-SpaceX 全米規模の周波数帯取得",
-      "title": "SpaceX 全米規模の周波数帯取得",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-09T08:44:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598152?source=rss"
     }
   ]
 }
