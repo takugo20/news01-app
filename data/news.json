@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T16:52:22.955Z",
+  "updatedAt": "2026-10-14T21:26:16.426Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598797?source=rss-ネトフリ 従業員約1000人を削減へ",
+      "title": "ネトフリ 従業員約1000人を削減へ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-14T21:20:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598797?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598796?source=rss-織田翔希 MLB挑戦の意向固めたか",
+      "title": "織田翔希 MLB挑戦の意向固めたか",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-14T21:09:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6598796?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598795?source=rss-万博未払い アンゴラ異例対応の訳",
       "title": "万博未払い アンゴラ異例対応の訳",
@@ -270,15 +288,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6598744?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598740?source=rss-サイゼ メニューを平均6%値上げへ",
-      "title": "サイゼ メニューを平均6%値上げへ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-14T07:50:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598740?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/14/2000002268/-化粧品販売「アエナ」約81万人分の個人情報流出か 氏名やクレカ下4ケタ・有効期限など",
       "title": "化粧品販売「アエナ」約81万人分の個人情報流出か 氏名やクレカ下4ケタ・有効期限など",
       "source": "ITmedia NEWS",
@@ -430,15 +439,6 @@
       "publishedAt": "2026-10-14T01:27:55.000Z",
       "description": "642万7735件の会員データが外部に送信されたことを確認したと発表。メールアドレスで名寄せした対象者は638万3279人。うち21万2371人は退会者だった。",
       "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002243/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598696?source=rss-大谷翔平 不振の原因を明かす",
-      "title": "大谷翔平 不振の原因を明かす",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-14T01:08:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598696?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/14/2000002240/-「Google Play」、AI Studioで作った自作アプリを自分の端末で実行可能に AIでゲームを探す機能も",
