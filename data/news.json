@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T11:02:42.432Z",
+  "updatedAt": "2026-10-16T16:21:48.325Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,157 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599020?source=rss-阪神・前川に死球 顔ゆがめ交代",
-      "title": "阪神・前川に死球 顔ゆがめ交代",
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599049?source=rss-テスラ新型車 空を飛び宙返り実演",
+      "title": "テスラ新型車 空を飛び宙返り実演",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-16T15:17:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599049?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599045?source=rss-佐藤輝明 17日出場まだわからない",
+      "title": "佐藤輝明 17日出場まだわからない",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-10-16T10:42:55.000Z",
+      "publishedAt": "2026-10-16T14:01:46.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599020?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6599045?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599041?source=rss-ゴルフ鶴岡果恋 第1子妊娠を報告",
+      "title": "ゴルフ鶴岡果恋 第1子妊娠を報告",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-16T13:48:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599041?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599043?source=rss-浜田雅功 単独バンドライブ開催へ",
+      "title": "浜田雅功 単独バンドライブ開催へ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-16T13:41:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599043?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599040?source=rss-ニデック 永守氏らへの訴訟を検討",
+      "title": "ニデック 永守氏らへの訴訟を検討",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-16T13:20:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599040?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599039?source=rss-ショップサーブの流出 2335万人分",
+      "title": "ショップサーブの流出 2335万人分",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-16T13:04:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599039?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599033?source=rss-流出個人情報を売買 闇サイト実態",
+      "title": "流出個人情報を売買 闇サイト実態",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-16T12:53:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599033?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599037?source=rss-日本郵便のメアドから迷惑メール",
+      "title": "日本郵便のメアドから迷惑メール",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-16T12:37:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599037?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599036?source=rss-阪神悪夢 死球の前川右京は骨折",
+      "title": "阪神悪夢 死球の前川右京は骨折",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-16T12:30:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599036?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599029?source=rss-ガスト・サイゼ・ロイホ 戦略比較",
+      "title": "ガスト・サイゼ・ロイホ 戦略比較",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-16T12:27:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599029?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599035?source=rss-DeNA 日本シリーズ進出に王手",
+      "title": "DeNA 日本シリーズ進出に王手",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-16T12:17:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599035?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599034?source=rss-ソフトバンク 3年連続日本S進出",
+      "title": "ソフトバンク 3年連続日本S進出",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-16T12:12:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599034?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599028?source=rss-自公再連立巡り 斉藤元代表が含み",
+      "title": "自公再連立巡り 斉藤元代表が含み",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-16T11:50:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599028?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599024?source=rss-グッズが許可なく店に 堂本剛声明",
+      "title": "グッズが許可なく店に 堂本剛声明",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-16T11:42:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599024?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599022?source=rss-簗氏巡り 自民鶴保氏が首相に苦言",
+      "title": "簗氏巡り 自民鶴保氏が首相に苦言",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-16T11:24:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599022?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/16/2000002336/-コードを書かずに“自分専用IME” 日英を自動切り替えできる「Meltype」にAI変換を載せてみた",
+      "title": "コードを書かずに“自分専用IME” 日英を自動切り替えできる「Meltype」にAI変換を載せてみた",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-16T11:17:02.000Z",
+      "description": "日本語の文章に英単語を混ぜるたび、入力モードを切り替えたりF10キーを押したり――。そんな日本語入力の“宿命”を、変換エンジンに手を入れずに解消しようとする常駐ツール「Meltype」が登場した。試してみると便利さと同時に弱点も見えてきたため、筆者はAIにビルドを任せ、自分好みの改造に踏み込んだ。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002336/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599021?source=rss-意識回復の川上審判員 復帰に意欲",
+      "title": "意識回復の川上審判員 復帰に意欲",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-16T11:06:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599021?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599019?source=rss-緊急地震速報 ドコモで配信されず",
@@ -81,15 +225,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002345/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599016?source=rss-昔ながらの「ゲーセン」減る背景",
-      "title": "昔ながらの「ゲーセン」減る背景",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-16T09:49:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599016?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599017?source=rss-トヨタ 30年までに全車種をSDVに",
       "title": "トヨタ 30年までに全車種をSDVに",
       "source": "Yahoo!ニュース 経済",
@@ -117,24 +252,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6599014?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599006?source=rss-速報CS ソフトバンクvs.日本ハム",
-      "title": "速報CS ソフトバンクvs.日本ハム",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-16T09:00:15.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599006?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599007?source=rss-速報CSファイナル 阪神vs.DeNA",
-      "title": "速報CSファイナル 阪神vs.DeNA",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-16T09:00:15.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599007?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599011?source=rss-簗前農相 運動員への支払い指示か",
       "title": "簗前農相 運動員への支払い指示か",
       "source": "Yahoo!ニュース 国内",
@@ -151,15 +268,6 @@
       "publishedAt": "2026-10-16T08:48:15.000Z",
       "description": "仏ベルサイユで開かれた計量単位などを決める国際会議「国際度量衡総会」は15日（現地時間）、時刻調整に使う「うるう秒」を27年5月20日に廃止する決議を採択した。1972年の導入以来27回実施してきた仕組みが半世紀余りで役目を終える。",
       "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002343/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599010?source=rss-阪神 佐藤と森下がスタメン外",
-      "title": "阪神 佐藤と森下がスタメン外",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-16T08:45:08.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599010?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599003?source=rss-攻撃受け 県メアドから迷惑メール",
@@ -234,15 +342,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002337/"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/16/2000002336/-コードを書かずに“自分専用IME” 日英を自動切り替えできる「Meltype」にAI変換を載せてみた",
-      "title": "コードを書かずに“自分専用IME” 日英を自動切り替えできる「Meltype」にAI変換を載せてみた",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-16T07:51:19.000Z",
-      "description": "日本語の文章に英単語を混ぜるたび、入力モードを切り替えたりF10キーを押したり――。そんな日本語入力の“宿命”を、変換エンジンに手を入れずに解消しようとする常駐ツール「Meltype」が登場した。試してみると便利さと同時に弱点も見えてきたため、筆者はAIにビルドを任せ、自分好みの改造に踏み込んだ。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002336/"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599000?source=rss-バット直撃の川上審判員 意識回復",
       "title": "バット直撃の川上審判員 意識回復",
       "source": "Yahoo!ニュース スポーツ",
@@ -250,24 +349,6 @@
       "publishedAt": "2026-10-16T07:46:37.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6599000?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598998?source=rss-ド軍敗退 WS3年ぶり日本勢不在",
-      "title": "ド軍敗退 WS3年ぶり日本勢不在",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-16T07:40:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598998?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598997?source=rss-武部農水相 父・勤氏が喜んでいた",
-      "title": "武部農水相 父・勤氏が喜んでいた",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-16T07:31:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598997?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/16/2000002335/-ゴジラ到達までに25万人をどう逃がす──富士通の避難誘導シミュを体験 記者は市民を救えたか",
@@ -315,15 +396,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002332/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598987?source=rss-ヤマト運輸 個人情報530万件流出",
-      "title": "ヤマト運輸 個人情報530万件流出",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-16T05:40:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598987?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/16/2000002329/-ACCESS台湾子会社のEC支援サービスに不正アクセス 通販顧客15万件、クレカのセキュリティコードも一部流出",
       "title": "ACCESS台湾子会社のEC支援サービスに不正アクセス 通販顧客15万件、クレカのセキュリティコードも一部流出",
       "source": "ITmedia NEWS",
@@ -340,15 +412,6 @@
       "publishedAt": "2026-10-16T05:04:43.000Z",
       "description": "気象庁は10月16日午後0時40分ごろ、同0時36分ごろに千島列島でマグニチュード9.9、予想最大震度7の地震が発生したとして、緊急地震速報を発表した。しかし約8分後の午後0時48分ごろに速報を取り消し。同庁によると、この時間帯には北海道の渡島地方東部で地震があったが、震度1で津波の心配はないという。",
       "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002327/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598984?source=rss-テスラ新型車 空中旋回を実演",
-      "title": "テスラ新型車 空中旋回を実演",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-16T05:01:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598984?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6598981?source=rss-倖田來未が第2子出産を発表",
@@ -486,15 +549,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6598956?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6598957?source=rss-大谷が絶叫3ラン 116打席ぶり一発",
-      "title": "大谷が絶叫3ラン 116打席ぶり一発",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-16T00:59:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598957?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6598952?source=rss-ソニー 93万円のウォークマン発表",
       "title": "ソニー 93万円のウォークマン発表",
       "source": "Yahoo!ニュース 経済",
@@ -502,15 +556,6 @@
       "publishedAt": "2026-10-16T00:05:49.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6598952?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6598942?source=rss-金融所得を医療費に反映 29年8月",
-      "title": "金融所得を医療費に反映 29年8月",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-15T22:29:26.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598942?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6598937?source=rss-ウォーターボーイズ新作 放送へ",
@@ -529,51 +574,6 @@
       "publishedAt": "2026-10-15T21:09:16.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6598935?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6598934?source=rss-コミックシーモア 一時停止を発表",
-      "title": "コミックシーモア 一時停止を発表",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-15T14:53:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598934?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6598923?source=rss-櫻井翔 難民報道ディレクター就任",
-      "title": "櫻井翔 難民報道ディレクター就任",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-15T12:51:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598923?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6598915?source=rss-ぺえ 体調不良のため活動休止",
-      "title": "ぺえ 体調不良のため活動休止",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-15T11:33:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598915?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6598913?source=rss-ソースネクスト 2千万件超流出か",
-      "title": "ソースネクスト 2千万件超流出か",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-15T11:09:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598913?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6598889?source=rss-バーガーキング 約1118万件漏えい",
-      "title": "バーガーキング 約1118万件漏えい",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-15T08:55:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6598889?source=rss"
     }
   ]
 }
