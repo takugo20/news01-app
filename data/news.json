@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T10:40:54.223Z",
+  "updatedAt": "2026-10-18T15:38:01.455Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,105 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599296?source=rss-「県1位校」相次ぎ敗退 高校野球",
+      "title": "「県1位校」相次ぎ敗退 高校野球",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-18T14:27:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599296?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599294?source=rss-カーセンサーの利用停止 復旧未定",
+      "title": "カーセンサーの利用停止 復旧未定",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-18T13:44:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599294?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599291?source=rss-アジアパラ大会開会式 空席目立つ",
+      "title": "アジアパラ大会開会式 空席目立つ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-18T13:39:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599291?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599290?source=rss-「すとぷり」今後は4人体制で活動",
+      "title": "「すとぷり」今後は4人体制で活動",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-18T13:32:26.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599290?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599288?source=rss-内閣支持率ほぼ横ばい57% 読売",
+      "title": "内閣支持率ほぼ横ばい57% 読売",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-18T13:21:29.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599288?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599287?source=rss-コミックシーモア 再開見通せず",
+      "title": "コミックシーモア 再開見通せず",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-18T13:16:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599287?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599286?source=rss-橋本愛とユニット復活 のんが希望",
+      "title": "橋本愛とユニット復活 のんが希望",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-18T12:37:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599286?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599285?source=rss-ホリプロTSC 田淵幸一氏の孫優勝",
+      "title": "ホリプロTSC 田淵幸一氏の孫優勝",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-18T12:27:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599285?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599282?source=rss-SBが3年連続の日本Sへ なぜ強い",
+      "title": "SBが3年連続の日本Sへ なぜ強い",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-18T11:53:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599282?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599279?source=rss-長雨や日照不足の影響 農家苦悩",
+      "title": "長雨や日照不足の影響 農家苦悩",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-18T11:31:01.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599279?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599277?source=rss-19日大気不安定 激しい雨など注意",
+      "title": "19日大気不安定 激しい雨など注意",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-18T10:52:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599277?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599274?source=rss-のん&橋本愛ユニット 久慈で復活",
       "title": "のん&橋本愛ユニット 久慈で復活",
       "source": "Yahoo!ニュース エンタメ",
@@ -43,24 +142,6 @@
       "publishedAt": "2026-10-18T10:37:06.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6599274?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599273?source=rss-すとぷり ななもり&さとみ卒業へ",
-      "title": "すとぷり ななもり&さとみ卒業へ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-18T10:19:45.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599273?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599272?source=rss-田沢純一が選手兼任GM 埼玉武蔵",
-      "title": "田沢純一が選手兼任GM 埼玉武蔵",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-18T10:19:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599272?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599269?source=rss-漏えい急増は中国製LLM起因 指摘",
@@ -97,15 +178,6 @@
       "publishedAt": "2026-10-18T08:59:14.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6599264?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599260?source=rss-内閣支持49%で発足以来最低 共同",
-      "title": "内閣支持49%で発足以来最低 共同",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-18T08:45:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599260?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599259?source=rss-不動産取引のマネロン点検強化へ",
@@ -180,15 +252,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6599241?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599240?source=rss-女子駅伝選手倒れ棄権 熱中症疑い",
-      "title": "女子駅伝選手倒れ棄権 熱中症疑い",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-18T05:50:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599240?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599236?source=rss-皇居初のカフェも 開業へ大詰め",
       "title": "皇居初のカフェも 開業へ大詰め",
       "source": "Yahoo!ニュース 国内",
@@ -243,15 +306,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6599226?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599222?source=rss-レイヤマダ 堺雅人からの一言に涙",
-      "title": "レイヤマダ 堺雅人からの一言に涙",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-18T03:18:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599222?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599215?source=rss-東大も新設「デザイン学部」とは",
       "title": "東大も新設「デザイン学部」とは",
       "source": "Yahoo!ニュース 経済",
@@ -268,15 +322,6 @@
       "publishedAt": "2026-10-18T02:29:18.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6599214?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599211?source=rss-進化系も 人気広がるシートマスク",
-      "title": "進化系も 人気広がるシートマスク",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-18T01:48:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599211?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599206?source=rss-「日本昔ばなし」公式配信を準備",
@@ -315,15 +360,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6599193?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599190?source=rss-閣僚更迭「高市1強」の弱点露呈",
-      "title": "閣僚更迭「高市1強」の弱点露呈",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-17T22:58:09.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599190?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599185?source=rss-息子が赤ランドセル希望 母の不安",
       "title": "息子が赤ランドセル希望 母の不安",
       "source": "Yahoo!ニュース 国内",
@@ -331,15 +367,6 @@
       "publishedAt": "2026-10-17T22:35:05.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6599185?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599184?source=rss-佐藤輝明のメジャー移籍 容認へ",
-      "title": "佐藤輝明のメジャー移籍 容認へ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-17T22:19:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599184?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/18/2000002348/-祝・連載再開！ 「キャプテン翼」大好きマンガ家による最新家庭用ゲーム“魂のプレゼン”",
@@ -369,15 +396,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6599176?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599173?source=rss-ジェラードンV 元相方に呼びかけ",
-      "title": "ジェラードンV 元相方に呼びかけ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-17T13:38:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599173?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599170?source=rss-ドコモの緊急地震速報 不具合解消",
       "title": "ドコモの緊急地震速報 不具合解消",
       "source": "Yahoo!ニュース IT",
@@ -385,24 +403,6 @@
       "publishedAt": "2026-10-17T13:11:40.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6599170?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599161?source=rss-情報漏えい 識者は「氷山の一角」",
-      "title": "情報漏えい 識者は「氷山の一角」",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-17T11:55:15.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599161?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599119?source=rss-故人のサブスク解約で苦労 注意点",
-      "title": "故人のサブスク解約で苦労 注意点",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-17T06:46:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599119?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/17/2000002350/-「skyticket」クレカ情報も流出、カード番号など最大6140人分 「流出なし」の初報を訂正",
