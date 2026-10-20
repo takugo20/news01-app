@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T19:04:20.838Z",
+  "updatedAt": "2026-10-20T23:41:20.370Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,114 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599543?source=rss-SpaceXとテスラ 経営統合を検討",
+      "title": "SpaceXとテスラ 経営統合を検討",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-20T23:22:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599543?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599542?source=rss-巨人・浅野翔吾 悲壮な覚悟明かす",
+      "title": "巨人・浅野翔吾 悲壮な覚悟明かす",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-20T23:19:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599542?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599541?source=rss-支援金の対象者の案 首相が答弁",
+      "title": "支援金の対象者の案 首相が答弁",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-20T22:57:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599541?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/21/2000002442/-「お名前.com デスクトップクラウド」不正プログラム設置で全プラン停止 FX用VPS、2万6739サーバに影響か",
+      "title": "「お名前.com デスクトップクラウド」不正プログラム設置で全プラン停止 FX用VPS、2万6739サーバに影響か",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-20T22:55:36.000Z",
+      "description": "FX自動売買向けのVPS「お名前.com デスクトップクラウド」で第三者による不正アクセスが発生し、一部の利用者のサーバ環境に不正なプログラムが設置されたことを確認。全プランのサーバを停止している。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002442/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599539?source=rss-大阪・名古屋・東京 30℃以上予想",
+      "title": "大阪・名古屋・東京 30℃以上予想",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-20T22:50:56.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599539?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/21/2000002441/-マスクCEO、SpaceXとTeslaが合併協議で特別委員会を設置と明かす",
+      "title": "マスクCEO、SpaceXとTeslaが合併協議で特別委員会を設置と明かす",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-20T22:39:56.000Z",
+      "description": "SpaceXのマスクCEOは決算説明会で、Teslaとの合併に向け両社が特別委員会を設置したと明らかにした。統合利点に超知能（SI）開発や半導体工場、Starlink連携を挙げた一方、合意の保証はなくTesla側で全発行済み株式の過半数賛成が必要などハードルは高いと説明した。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002441/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/21/2000002440/-岩井コスモ証券、顧客口座で「意図しない売買」成立 売買管理システムにサイバー攻撃",
+      "title": "岩井コスモ証券、顧客口座で「意図しない売買」成立 売買管理システムにサイバー攻撃",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-20T22:33:46.000Z",
+      "description": "漏えいした個人情報が利用されたものではないという。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002440/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599536?source=rss-粗品 大晦日に「ツッコミスター」",
+      "title": "粗品 大晦日に「ツッコミスター」",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-20T22:25:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599536?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/21/2000002439/-SpaceX、純利益44億ドルで黒字転換 売上高161％増、AIから改称の「SI」事業が830％増",
+      "title": "SpaceX、純利益44億ドルで黒字転換 売上高161％増、AIから改称の「SI」事業が830％増",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-20T22:09:01.000Z",
+      "description": "SpaceXは7?9月期決算で、売上高が161％増の145億ドル超となり純損益も黒字転換した。名称変更したAI部門「SI」が全社売上の半分超を占め急成長を牽引した。Cursor買収やStarlinkの成長も寄与した。Starshipは初の商業軌道投入に成功し、新発射拠点の建設計画も公表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002439/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599535?source=rss-22府県の警察 個人情報流出の恐れ",
+      "title": "22府県の警察 個人情報流出の恐れ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-20T21:53:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599535?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599533?source=rss-世界体操の男子団体 日本が連覇",
+      "title": "世界体操の男子団体 日本が連覇",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-20T21:35:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599533?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599531?source=rss-土田大さん死去 ディズニーが追悼",
+      "title": "土田大さん死去 ディズニーが追悼",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-20T21:21:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599531?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599528?source=rss-武部農相 献金巡り公選法違反疑い",
       "title": "武部農相 献金巡り公選法違反疑い",
       "source": "Yahoo!ニュース 国内",
@@ -54,15 +162,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6599527?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599524?source=rss-中道に政党交付金 階猛氏が言及",
-      "title": "中道に政党交付金 階猛氏が言及",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-20T14:08:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599524?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599523?source=rss-岩井コスモ証券にサイバー攻撃",
       "title": "岩井コスモ証券にサイバー攻撃",
       "source": "Yahoo!ニュース IT",
@@ -70,15 +169,6 @@
       "publishedAt": "2026-10-20T13:57:57.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6599523?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599518?source=rss-台風30号 本州付近に来週接近恐れ",
-      "title": "台風30号 本州付近に来週接近恐れ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-20T13:29:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599518?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599514?source=rss-フラット35 全国で不適正利用64件",
@@ -171,15 +261,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6599498?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599492?source=rss-21日 東京・大阪などで真夏日予想",
-      "title": "21日 東京・大阪などで真夏日予想",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-20T09:09:36.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599492?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599493?source=rss-五郎丸歩氏 ラグビーから離れた今",
       "title": "五郎丸歩氏 ラグビーから離れた今",
       "source": "Yahoo!ニュース スポーツ",
@@ -259,15 +340,6 @@
       "publishedAt": "2026-10-20T07:40:51.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6599476?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599477?source=rss-楽天に昨オフ加入の伊藤光 戦力外",
-      "title": "楽天に昨オフ加入の伊藤光 戦力外",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-20T07:39:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599477?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/20/2000002426/-「侵入経路塞いだが、バックドアから……」不正アクセス105時間の攻防、分単位で報告 防災メールのアルカディア",
@@ -468,51 +540,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002408/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599426?source=rss-「あと1球コール」阪神OBの見解",
-      "title": "「あと1球コール」阪神OBの見解",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-19T23:47:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599426?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599424?source=rss-妻夫木 憧れのハイスタと名曲熱唱",
-      "title": "妻夫木 憧れのハイスタと名曲熱唱",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-19T23:42:55.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599424?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/20/2000002406/-音源販売「SONICWIRE」不正アクセス、「Mythosで状況把握」 会員情報最大42万件漏えいか",
-      "title": "音源販売「SONICWIRE」不正アクセス、「Mythosで状況把握」 会員情報最大42万件漏えいか",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-19T23:08:04.000Z",
-      "description": "運営元は「Claude Mythos」（クロード ミュトス）を活用して状況を把握。「安全な復旧に努めている」という。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002406/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/20/2000002405/-米国土安全保障省、中国DeepSeek製品を連邦民間機関から排除する命令",
-      "title": "米国土安全保障省、中国DeepSeek製品を連邦民間機関から排除する命令",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-19T22:07:09.000Z",
-      "description": "米国土安全保障省は、中国DeepSeekの製品および関連サービスを連邦民間機関の調達とITシステムから排除する命令を官報で公示した。自社製だけでなく、同社の実装を用いた第三者製品も排除対象とする。連邦調達サプライチェーン安全法に基づく措置で、勧告と証拠を検討した上で発令された。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002405/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/20/2000002404/-Apple、10月28日にイベント開催へ タッチスクリーン「MacBook Pro」など発表か",
-      "title": "Apple、10月28日にイベント開催へ タッチスクリーン「MacBook Pro」など発表か",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-19T21:32:03.000Z",
-      "description": "Appleは、「Pro and tell.」と題した製品発表イベントをロサンゼルスで開催する。グレッグ・ジョズウィアック上級副社長のX投稿やメディアが公開した招待状で明らかになった。タッチ操作対応のOLED搭載「MacBook Pro」や新型「iPad mini」などの発表が予想されている。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002404/"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599409?source=rss-研修にブラインドサッカー 企業増",
       "title": "研修にブラインドサッカー 企業増",
       "source": "Yahoo!ニュース 経済",
@@ -520,33 +547,6 @@
       "publishedAt": "2026-10-19T14:42:59.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6599409?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599398?source=rss-平日時間できた宮根アナ 被災地に",
-      "title": "平日時間できた宮根アナ 被災地に",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-19T13:10:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599398?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/19/2000002399/-ニフティ、54万件超漏えいの可能性 光回線の申し込みシステムに不正アクセス",
-      "title": "ニフティ、54万件超漏えいの可能性 光回線の申し込みシステムに不正アクセス",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-19T10:34:36.000Z",
-      "description": "ニフティが、同社の回線申し込みや受付管理に関するシステムが不正アクセスを受け、最大54万2513件の情報が漏えいした可能性があると発表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002399/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599375?source=rss-ユニクロ ソックス3点990円終了へ",
-      "title": "ユニクロ ソックス3点990円終了へ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-19T09:36:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599375?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599336?source=rss-電子コミック サービス停止相次ぐ",
