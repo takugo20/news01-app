@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T20:26:59.770Z",
+  "updatedAt": "2026-10-20T00:09:34.750Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,78 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/20/2000002408/-マスク氏、米国のすべての子供にSpaceX株を1株ずつ贈与すると宣言 「Trump Account」経由か",
+      "title": "マスク氏、米国のすべての子供にSpaceX株を1株ずつ贈与すると宣言 「Trump Account」経由か",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-19T23:55:56.000Z",
+      "description": "SpaceXのイーロン・マスクCEOは、米国のすべての子供に自身の保有する同社株を1株ずつ贈ると表明した。総額約105億ドル規模となる見込み。トランプ政権が導入した子供向け投資口座制度「Trump Account」を通じた配布が有力視されているが、具体的な時期や方法は明らかにしていない。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002408/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599426?source=rss-「あと1球コール」阪神OBの見解",
+      "title": "「あと1球コール」阪神OBの見解",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-19T23:47:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599426?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599424?source=rss-妻夫木 憧れのハイスタと名曲熱唱",
+      "title": "妻夫木 憧れのハイスタと名曲熱唱",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-19T23:42:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599424?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599423?source=rss-上皇后さま92歳に 穏やかな日々",
+      "title": "上皇后さま92歳に 穏やかな日々",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-19T23:37:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599423?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/20/2000002406/-音源販売「SONICWIRE」不正アクセス、「Mythosで状況把握」 会員情報最大42万件漏えいか",
+      "title": "音源販売「SONICWIRE」不正アクセス、「Mythosで状況把握」 会員情報最大42万件漏えいか",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-19T23:08:04.000Z",
+      "description": "運営元は「Claude Mythos」（クロード ミュトス）を活用して状況を把握。「安全な復旧に努めている」という。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002406/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/20/2000002405/-米国土安全保障省、中国DeepSeek製品を連邦民間機関から排除する命令",
+      "title": "米国土安全保障省、中国DeepSeek製品を連邦民間機関から排除する命令",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-19T22:07:09.000Z",
+      "description": "米国土安全保障省は、中国DeepSeekの製品および関連サービスを連邦民間機関の調達とITシステムから排除する命令を官報で公示した。自社製だけでなく、同社の実装を用いた第三者製品も排除対象とする。連邦調達サプライチェーン安全法に基づく措置で、勧告と証拠を検討した上で発令された。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002405/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599415?source=rss-香取×シソンヌ 来年コントライブ",
+      "title": "香取×シソンヌ 来年コントライブ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-19T21:41:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599415?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/20/2000002404/-Apple、10月28日にイベント開催へ タッチスクリーン「MacBook Pro」など発表か",
+      "title": "Apple、10月28日にイベント開催へ タッチスクリーン「MacBook Pro」など発表か",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-19T21:32:03.000Z",
+      "description": "Appleは、「Pro and tell.」と題した製品発表イベントをロサンゼルスで開催する。グレッグ・ジョズウィアック上級副社長のX投稿やメディアが公開した招待状で明らかになった。タッチ操作対応のOLED搭載「MacBook Pro」や新型「iPad mini」などの発表が予想されている。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002404/"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599413?source=rss-JAL便に小動物 サイズは猫以下か",
       "title": "JAL便に小動物 サイズは猫以下か",
@@ -441,15 +513,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6599319?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599317?source=rss-公明「打倒高市」後 描く政界再編",
-      "title": "公明「打倒高市」後 描く政界再編",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-18T23:43:24.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599317?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/19/2000002355/-サッカー協会公式アプリに不正アクセス 「JFA Passport」一部機能停止、「ログアウト控えて」",
       "title": "サッカー協会公式アプリに不正アクセス 「JFA Passport」一部機能停止、「ログアウト控えて」",
       "source": "ITmedia NEWS",
@@ -457,24 +520,6 @@
       "publishedAt": "2026-10-18T23:33:01.000Z",
       "description": "利用者に対して当面の間、アプリからのログアウト、再ログイン、再インストールなどの操作を控えるよう求めている。",
       "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002355/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/19/2000002354/-「カーセンサー」停止、不審なアクセス検知 リクルートの中古車情報サイト",
-      "title": "「カーセンサー」停止、不審なアクセス検知 リクルートの中古車情報サイト",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-18T23:14:03.000Z",
-      "description": "カーセンサーは、2026年9月時点で約52万台の中古車情報を掲載する日本最大級の中古車情報サイト。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002354/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/19/2000002353/-Anthropic、社内でAIエージェントの稼働時間が人間の6倍に 技術系初級職の採用比率は27％→9％に激減",
-      "title": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に 技術系初級職の採用比率は27％→9％に激減",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-18T23:02:13.000Z",
-      "description": "Anthropicは、社内雇用の変化と一般市民とのAI予測格差に関する調査を公開した。AnthropicではAI稼働時間が人間を上回り、技術系初級職の採用比率が急減した。自身の業務の自動化予測は、Anthropic従業員の75％に対し、米労働者は28％と大きな開きが出たが、自動化と失業率上昇を結びつける労働観は共通して...",
-      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599309?source=rss-中村敬斗ぼう然 9分で一発レッド",
@@ -504,33 +549,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6599305?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599302?source=rss-阪神に激震 藤本総合コーチが退団",
-      "title": "阪神に激震 藤本総合コーチが退団",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-18T21:26:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599302?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599290?source=rss-「すとぷり」今後は4人体制で活動",
-      "title": "「すとぷり」今後は4人体制で活動",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-18T13:32:26.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599290?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599286?source=rss-橋本愛とユニット復活 のんが希望",
-      "title": "橋本愛とユニット復活 のんが希望",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-18T12:37:50.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599286?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599238?source=rss-広がるAI面接「察して」通用せず",
       "title": "広がるAI面接「察して」通用せず",
       "source": "Yahoo!ニュース IT",
@@ -556,24 +574,6 @@
       "publishedAt": "2026-10-18T05:13:27.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6599232?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/18/2000002348/-祝・連載再開！ 「キャプテン翼」大好きマンガ家による最新家庭用ゲーム“魂のプレゼン”",
-      "title": "祝・連載再開！ 「キャプテン翼」大好きマンガ家による最新家庭用ゲーム“魂のプレゼン”",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-17T22:16:00.000Z",
-      "description": "これまでちゃんとメディア化されてこなかった原作の「ワールドユース編」を題材にしてくれてありがとう！ というわけで、今回は家庭用ゲーム「キャプテン翼2 WORLD FIGHTERS」について、キャプ翼大好きなボクが熱く語ります。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/18/2000002348/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/17/2000002350/-「skyticket」クレカ情報も流出、カード番号など最大6140人分 「流出なし」の初報を訂正",
-      "title": "「skyticket」クレカ情報も流出、カード番号など最大6140人分 「流出なし」の初報を訂正",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-17T01:42:34.000Z",
-      "description": "9日の初報では「カード情報の流出はない」としていたが、その後の調査で流出を確認し、訂正した。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/17/2000002350/"
     }
   ]
 }
