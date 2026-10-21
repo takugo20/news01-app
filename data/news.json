@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T11:27:16.775Z",
+  "updatedAt": "2026-10-21T16:54:32.380Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,60 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/22/2000002480/-PHPの「緊急」レベルの脆弱性、開発元が修正バージョン公開 「直ちにアップデートを」",
+      "title": "PHPの「緊急」レベルの脆弱性、開発元が修正バージョン公開 「直ちにアップデートを」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-21T15:53:13.000Z",
+      "description": "PHPの開発プロジェクトは、「緊急」レベルの脆弱性2件を修正したPHP 8.5.12／8.4.27／8.3.36／8.2.35を公開した。20日に予告していたアップデートで、リモートコード実行に関する脆弱性を修正したという。公式サイトでは「全てのPHPユーザーは、直ちにアップデートすることを強く推奨する」と案内している...",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002480/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599642?source=rss-EVの補助金引き下げ 27年1月から",
+      "title": "EVの補助金引き下げ 27年1月から",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-21T14:37:56.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599642?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599640?source=rss-パンサー向井 交際質問にタジタジ",
+      "title": "パンサー向井 交際質問にタジタジ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-21T14:32:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599640?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599637?source=rss-PHPに重大欠陥 Webの7割で使用",
+      "title": "PHPに重大欠陥 Webの7割で使用",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-21T13:52:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599637?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599626?source=rss-氾濫巡り気象庁 直ちに安全確保を",
+      "title": "氾濫巡り気象庁 直ちに安全確保を",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-21T12:44:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599626?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599613?source=rss-ドラフト 織田強行指名されたら?",
+      "title": "ドラフト 織田強行指名されたら?",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-21T12:43:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599613?source=rss"
+    },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599612?source=rss-大食い動画規制の動き 投稿者動揺",
       "title": "大食い動画規制の動き 投稿者動揺",
@@ -306,15 +360,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002421/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599566?source=rss-外務省局長 露に記者の解放要求",
-      "title": "外務省局長 露に記者の解放要求",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-21T02:57:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599566?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599557?source=rss-粗品がスポニチへ発信 記者の見解",
       "title": "粗品がスポニチへ発信 記者の見解",
       "source": "Yahoo!ニュース エンタメ",
@@ -486,24 +531,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6599536?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/21/2000002439/-SpaceX、純利益44億ドルで黒字転換 売上高161％増、AIから改称の「SI」事業が830％増",
-      "title": "SpaceX、純利益44億ドルで黒字転換 売上高161％増、AIから改称の「SI」事業が830％増",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-20T22:09:01.000Z",
-      "description": "SpaceXは7?9月期決算で、売上高が161％増の145億ドル超となり純損益も黒字転換した。名称変更したAI部門「SI」が全社売上の半分超を占め急成長を牽引した。Cursor買収やStarlinkの成長も寄与した。Starshipは初の商業軌道投入に成功し、新発射拠点の建設計画も公表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002439/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599533?source=rss-世界体操の男子団体 日本が連覇",
-      "title": "世界体操の男子団体 日本が連覇",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-20T21:35:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599533?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599531?source=rss-土田大さん死去 ディズニーが追悼",
       "title": "土田大さん死去 ディズニーが追悼",
       "source": "Yahoo!ニュース エンタメ",
@@ -540,15 +567,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6599514?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599512?source=rss-旅客機で発見の小動物 正体はヘビ",
-      "title": "旅客機で発見の小動物 正体はヘビ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-20T12:28:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599512?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599501?source=rss-ふるさとチョイス 445万件が流出",
       "title": "ふるさとチョイス 445万件が流出",
       "source": "Yahoo!ニュース IT",
@@ -556,24 +574,6 @@
       "publishedAt": "2026-10-20T10:52:44.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6599501?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599463?source=rss-永野芽郁主演ドラマ キャスト発表",
-      "title": "永野芽郁主演ドラマ キャスト発表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-20T05:14:13.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599463?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599449?source=rss-ロボ悪用し性的嫌がらせ 法的責任",
-      "title": "ロボ悪用し性的嫌がらせ 法的責任",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-20T05:10:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599449?source=rss"
     }
   ]
 }
