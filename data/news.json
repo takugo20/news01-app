@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T16:54:32.380Z",
+  "updatedAt": "2026-10-21T21:26:17.248Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,33 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599646?source=rss-コミックシーモア最大420万件流出",
+      "title": "コミックシーモア最大420万件流出",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-21T21:22:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599646?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599645?source=rss-異例 阪神・上本打撃コーチが退団",
+      "title": "異例 阪神・上本打撃コーチが退団",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-21T21:12:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599645?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599633?source=rss-自民 衆院定数の削減幅を31で調整",
+      "title": "自民 衆院定数の削減幅を31で調整",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-21T17:42:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599633?source=rss"
+    },
+    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/22/2000002480/-PHPの「緊急」レベルの脆弱性、開発元が修正バージョン公開 「直ちにアップデートを」",
       "title": "PHPの「緊急」レベルの脆弱性、開発元が修正バージョン公開 「直ちにアップデートを」",
       "source": "ITmedia NEWS",
@@ -70,15 +97,6 @@
       "publishedAt": "2026-10-21T13:52:02.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6599637?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599626?source=rss-氾濫巡り気象庁 直ちに安全確保を",
-      "title": "氾濫巡り気象庁 直ちに安全確保を",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-21T12:44:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599626?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599613?source=rss-ドラフト 織田強行指名されたら?",
@@ -486,15 +504,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6599543?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599542?source=rss-巨人・浅野翔吾 悲壮な覚悟明かす",
-      "title": "巨人・浅野翔吾 悲壮な覚悟明かす",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-20T23:19:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599542?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/21/2000002442/-「お名前.com デスクトップクラウド」不正プログラム設置で全プラン停止 FX用VPS、2万6739サーバに影響か",
       "title": "「お名前.com デスクトップクラウド」不正プログラム設置で全プラン停止 FX用VPS、2万6739サーバに影響か",
       "source": "ITmedia NEWS",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-10-20T12:57:14.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6599514?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599501?source=rss-ふるさとチョイス 445万件が流出",
-      "title": "ふるさとチョイス 445万件が流出",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-20T10:52:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599501?source=rss"
     }
   ]
 }
