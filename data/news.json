@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T21:26:17.248Z",
+  "updatedAt": "2026-10-22T04:02:39.122Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,312 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599682?source=rss-織田翔希MLB挑戦表明 現地評価は",
+      "title": "織田翔希MLB挑戦表明 現地評価は",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-22T03:48:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599682?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599684?source=rss-天海祐希 イチロー氏を「尊敬」",
+      "title": "天海祐希 イチロー氏を「尊敬」",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-22T03:29:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599684?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/22/2000002501/-「GitLab」に深刻度“最大”の脆弱性 認証なしで任意のコード実行の恐れ、修正版適用を CVSS「10.0」",
+      "title": "「GitLab」に深刻度“最大”の脆弱性 認証なしで任意のコード実行の恐れ、修正版適用を CVSS「10.0」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-22T03:27:02.000Z",
+      "description": "12日に公表したCVSS 10.0の脆弱性とは別の脆弱性が新たに見つかった。約12年前に公開された「GitLab CE／EE 7.0」以降の広範なバージョンが影響を受ける。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002501/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599683?source=rss-PHP問題 政府機関の被害報告なし",
+      "title": "PHP問題 政府機関の被害報告なし",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-22T03:24:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599683?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/22/2000002500/-コミックシーモア、流出は最大約420万件に メールアドレスや生年月日など 不正アクセスの経路特定・遮断は完了",
+      "title": "コミックシーモア、流出は最大約420万件に メールアドレスや生年月日など 不正アクセスの経路特定・遮断は完了",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-22T03:17:50.000Z",
+      "description": "電子書籍ストア「コミックシーモア」を運営するNTTソルマーレは10月21日、不正アクセスによる情報流出の影響範囲について発表した。最大約420万件の会員情報の流出を確認したとしている。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002500/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599681?source=rss-ミセス×ガスト特典 不正対策は",
+      "title": "ミセス×ガスト特典 不正対策は",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-22T03:09:01.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599681?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599679?source=rss-PHP巡り 企業など対応に追われる",
+      "title": "PHP巡り 企業など対応に追われる",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-22T03:06:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599679?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/22/2000002498/-Anthropic、Claudeでソフトウェアのアタックサーフェスを洗い出し・縮小する研究を公開 OpenSSHの修正にも貢献",
+      "title": "Anthropic、Claudeでソフトウェアのアタックサーフェスを洗い出し・縮小する研究を公開 OpenSSHの修正にも貢献",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-22T02:48:47.000Z",
+      "description": "Anthropicは、AIモデル「Claude」でソフトウェアの攻撃対象領域を分析・縮小する研究結果を公開した。オープンソース25件を分析し、設定矛盾など493件の問題を特定。「OpenSSH」では、認証前に到達可能なコードを約5分の1削減し、最新版に対策が反映された。手法は脆弱性検出サービス「OSS Scanner」...",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002498/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599675?source=rss-異例のドラフト1位公表ゼロ なぜ",
+      "title": "異例のドラフト1位公表ゼロ なぜ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-22T02:36:29.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599675?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599676?source=rss-青切符 キャッシュレスで納付可へ",
+      "title": "青切符 キャッシュレスで納付可へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-22T02:36:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599676?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599674?source=rss-PHPの脆弱性 10年以上発見されず",
+      "title": "PHPの脆弱性 10年以上発見されず",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-22T02:33:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599674?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599673?source=rss-平成の玩具アイロンビーズ 再注目",
+      "title": "平成の玩具アイロンビーズ 再注目",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-22T02:33:05.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599673?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/22/2000002493/-旅行ゲーム「ワールドクエスト」、PHP脆弱性で即日サービス終了 「古い仕組みのため対策とれず」",
+      "title": "旅行ゲーム「ワールドクエスト」、PHP脆弱性で即日サービス終了 「古い仕組みのため対策とれず」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-22T02:03:41.000Z",
+      "description": "旅行ゲーム「ワールドクエスト」の運営は10月21日、同日をもってサービスを終了すると発表した。PHPの深刻な脆弱性に対し「古い仕組みのため十分な対策がとれない」とし、利用者の情報を守ることを理由に挙げた。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002493/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/22/2000002468/-「スーパーの冷蔵設備が50度に」フランスの店舗襲ったサイバー攻撃の正体 弱点だらけだったセキュリティ対策",
+      "title": "「スーパーの冷蔵設備が50度に」フランスの店舗襲ったサイバー攻撃の正体 弱点だらけだったセキュリティ対策",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-22T02:00:00.000Z",
+      "description": "フランスのスーパーマーケットで大量の食品が廃棄される事態を招いた大規模なサイバー攻撃。狙われたのは、冷蔵・冷凍設備の遠隔管理システムだった。今回の事件は、同様のシステムのセキュリティ対策がほとんど置き去りにされてきた実態を見せつけている。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002468/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/22/2000002492/-NVIDIA、AIファクトリーをコンテナで届ける「DSX POD」発表 アヒル型ロボット「Microduck」も登壇──GTC Berlin基調講演",
+      "title": "NVIDIA、AIファクトリーをコンテナで届ける「DSX POD」発表 アヒル型ロボット「Microduck」も登壇──GTC Berlin基調講演",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-22T01:56:01.000Z",
+      "description": "NVIDIAは年次会議で「Vera Rubin」採用のコンテナ型AI工場設計「DSX POD」や、安全なAIエージェント基盤「OpenShell」を発表した。欧州エコシステムへの投資も表明。新型オープンモデル群の拡充に加え、研究用ヒューマノイド「Agile ONE SN」や自動運転対応車種も公開した。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002492/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/22/2000002491/-大阪大、学生など7.8万人の情報漏えい NECが無断で協力会社とデータ共有",
+      "title": "大阪大、学生など7.8万人の情報漏えい NECが無断で協力会社とデータ共有",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-22T01:11:54.000Z",
+      "description": "",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002491/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599666?source=rss-韓国発大容量カフェ なぜ日本上陸",
+      "title": "韓国発大容量カフェ なぜ日本上陸",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-22T00:48:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599666?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599665?source=rss-仕事探し困難「通信困窮」の実態",
+      "title": "仕事探し困難「通信困窮」の実態",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-22T00:46:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599665?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/22/2000002489/-Meta決算、売上高26％増も営業益37％減 AIエージェント「Muse」は1000万人超が利用開始",
+      "title": "Meta決算、売上高26％増も営業益37％減 AIエージェント「Muse」は1000万人超が利用開始",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-22T00:43:02.000Z",
+      "description": "Metaの7?9月期決算は、売上高が26％増の646億ドルと伸長した一方、若者のSNS利用を巡る州司法長官らとの巨額和解費用を計上したことで営業利益は37％減となった。AIエージェント「Muse」は利用者が1000万人を突破。無議決権株の創設による実質的な株式分割も発表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002489/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599664?source=rss-社会人向け新教職課程 創設の方針",
+      "title": "社会人向け新教職課程 創設の方針",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-22T00:35:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599664?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599663?source=rss-米メタ 7-9月期決算で26%増収",
+      "title": "米メタ 7-9月期決算で26%増収",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-22T00:28:29.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599663?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599661?source=rss-情報抜き取りに15秒 悪用指摘のAI",
+      "title": "情報抜き取りに15秒 悪用指摘のAI",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-22T00:04:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599661?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/22/2000002488/-Tesla決算、営業益56％減 FSD契約は67％増の174万件 SpaceX合併は「昨日すべて話した」とマスク氏",
+      "title": "Tesla決算、営業益56％減 FSD契約は67％増の174万件 SpaceX合併は「昨日すべて話した」とマスク氏",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-22T00:02:00.000Z",
+      "description": "Teslaの7?9月期決算は、売上高が前年並みの280億ドル、純利益は43％減の7.8億ドルとなった。SI研究開発費の急増や株式報酬が利益を圧迫した。一方、FSD有効契約は67％増と伸長し、Cybercabによる無人タクシーも稼働を開始した。注目のSpaceXとの合併についてマスク氏は新規の言及を避けた。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002488/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599660?source=rss-G7TV会議を首相欠席 与野党波紋",
+      "title": "G7TV会議を首相欠席 与野党波紋",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-21T23:55:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599660?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/22/2000002485/-Adobeそっくり「ArtCraft」の動画編集ツールを試す AIで挙動を再現した“クローンソフト”はアリなのか",
+      "title": "Adobeそっくり「ArtCraft」の動画編集ツールを試す AIで挙動を再現した“クローンソフト”はアリなのか",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-21T23:43:14.000Z",
+      "description": "Photoshop、Premiere、Excel――定番ソフトをAIで“そっくり”に作り直す動きが出てきた。米ArtCraftの動画編集ソフト「FilmCraft」は、ソースを流用せず、仕様と挙動の解析だけでPremiereを再実装したという。試すと、未完成ながらダッキングや字幕まで備える。ソースを盗まないクローンは、...",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002485/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/22/2000002486/-PHPの「重大」脆弱性はAIが見つけた 「GPT-5.6 Solで発見」とOpenAI 「今後、AIによる脆弱性発見が急増」",
+      "title": "PHPの「重大」脆弱性はAIが見つけた 「GPT-5.6 Solで発見」とOpenAI 「今後、AIによる脆弱性発見が急増」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-21T23:27:53.000Z",
+      "description": "",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002486/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599656?source=rss-高橋塁 ゲイ公表までの葛藤を語る",
+      "title": "高橋塁 ゲイ公表までの葛藤を語る",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-21T23:15:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599656?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599657?source=rss-世界体操女子団体 日本が銅メダル",
+      "title": "世界体操女子団体 日本が銅メダル",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-21T23:01:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599657?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599655?source=rss-柳楽優弥 日曜劇場に初出演で主演",
+      "title": "柳楽優弥 日曜劇場に初出演で主演",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-21T23:00:52.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599655?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/22/2000002484/-Meta、Cambridge Analytica問題巡る訴訟で250億ドルの支払い命令",
+      "title": "Meta、Cambridge Analytica問題巡る訴訟で250億ドルの支払い命令",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-21T22:39:42.000Z",
+      "description": "ニューメキシコ州の裁判所はFacebookを巡るCAスキャンダルの訴訟でMetaに対し250億ドル（約3兆9500億円）の民事制裁金支払いを命じた。陪審が個人情報の取り扱いやヘイトスピーチ対応に関する虚偽説明など約4390万件の故意の違反を認定。企業への金銭的制裁として米国史上最大級となる。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002484/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599654?source=rss-台風 23日から沖縄先島諸島に接近",
+      "title": "台風 23日から沖縄先島諸島に接近",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-21T22:38:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599654?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599651?source=rss-PHPの脆弱性 米OpenAIのAIで発見",
+      "title": "PHPの脆弱性 米OpenAIのAIで発見",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-21T22:32:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599651?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599647?source=rss-大谷は手術回避へ 編成本部長明言",
+      "title": "大谷は手術回避へ 編成本部長明言",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-21T21:35:56.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599647?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/22/2000002483/-高市総理「大至急、PHPパッチ適用を」Xで異例の要請 エンジニアは評価「経営層に伝わる」",
+      "title": "高市総理「大至急、PHPパッチ適用を」Xで異例の要請 エンジニアは評価「経営層に伝わる」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-21T21:31:02.000Z",
+      "description": "首相が個別のソフトウェア脆弱性について、Xで直接対応を呼び掛けるのは異例。エンジニアからは「総理が発信したことにより、経営層にもリスクが認知される」など一定の評価が出ている。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002483/"
+    },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599646?source=rss-コミックシーモア最大420万件流出",
       "title": "コミックシーモア最大420万件流出",
@@ -126,15 +432,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6599598?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599610?source=rss-コンセントで感電 子供の事故注意",
-      "title": "コンセントで感電 子供の事故注意",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-21T10:17:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599610?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599609?source=rss-復興相の事務所数 公選法違反疑い",
       "title": "復興相の事務所数 公選法違反疑い",
       "source": "Yahoo!ニュース 国内",
@@ -171,15 +468,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6599606?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599604?source=rss-台風30号 24日九州で警報級大雨か",
-      "title": "台風30号 24日九州で警報級大雨か",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-21T09:12:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599604?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/21/2000002472/-著名ITサービス相次いで緊急メンテへ コドモン、シャドバ、BASE、さくらのレンタルサーバなど 「PHP」脆弱性に起因か",
       "title": "著名ITサービス相次いで緊急メンテへ コドモン、シャドバ、BASE、さくらのレンタルサーバなど 「PHP」脆弱性に起因か",
       "source": "ITmedia NEWS",
@@ -187,24 +475,6 @@
       "publishedAt": "2026-10-21T08:47:19.000Z",
       "description": "保育園向けSaaS「コドモン」、ゲーム「Shadowverse: Worlds Beyond」「さくらのレンタルサーバ」といった著名サービスが相次いで緊急メンテナンスに入ったり、同日午後11時ごろからのメンテナンスを予告したりしている。Web開発で広く使われるプログラミング言語「PHP」で緊急性の高い脆弱性が見つかった...",
       "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002472/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599599?source=rss-G矢野コーチが退任 今オフ3人目",
-      "title": "G矢野コーチが退任 今オフ3人目",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-21T08:43:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599599?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599594?source=rss-佐藤輝明 甲子園の大歓声は世界一",
-      "title": "佐藤輝明 甲子園の大歓声は世界一",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-21T08:18:24.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599594?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599592?source=rss-マック390円セット 全国販売開始",
@@ -216,15 +486,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6599592?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599589?source=rss-巨人 ドラフト1位指名候補は12人",
-      "title": "巨人 ドラフト1位指名候補は12人",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-21T07:24:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599589?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/21/2000002469/-au PAY「使えるお店」、個人事業主約46万人分の情報を無断掲載か 個人情報保護法抵触のおそれも",
       "title": "au PAY「使えるお店」、個人事業主約46万人分の情報を無断掲載か 個人情報保護法抵触のおそれも",
       "source": "ITmedia NEWS",
@@ -234,15 +495,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002469/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599586?source=rss-政権発足1年受け首相が意気込み",
-      "title": "政権発足1年受け首相が意気込み",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-21T06:44:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599586?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/21/2000002451/-不正アクセス急増は“SaaS離れ”を招くか？ 露呈したもう1つの「SaaS is Dead」リスク",
       "title": "不正アクセス急増は“SaaS離れ”を招くか？ 露呈したもう1つの「SaaS is Dead」リスク",
       "source": "ITmedia NEWS",
@@ -250,33 +502,6 @@
       "publishedAt": "2026-10-21T06:00:00.000Z",
       "description": "不正アクセス急増に伴い再燃する「SaaS is Dead」を巡る議論。ただ、これまでとは少々事情が違うようだ。",
       "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002451/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599584?source=rss-米ネトフリ純利益44%増 7～9月期",
-      "title": "米ネトフリ純利益44%増 7～9月期",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-21T05:50:45.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599584?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599582?source=rss-電気ガス料金 1～3月分の補助検討",
-      "title": "電気ガス料金 1～3月分の補助検討",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-21T05:15:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599582?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599579?source=rss-カフェインレスコーヒー 市場拡大",
-      "title": "カフェインレスコーヒー 市場拡大",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-21T05:08:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599579?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599581?source=rss-ウマ娘の米公演ビザ巡り中止 背景",
@@ -324,33 +549,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002437/"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/21/2000002456/-「カーセンサー」などに不正アクセス、最大371万件の個人情報漏えいか 問い合わせ客の氏名・住所など",
-      "title": "「カーセンサー」などに不正アクセス、最大371万件の個人情報漏えいか 問い合わせ客の氏名・住所など",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-21T03:41:07.000Z",
-      "description": "リクルートは10月21日、中古車情報サイト「カーセンサーnet」などへの不正アクセスにより、最大約371万件の個人情報が漏えいした可能性があると発表した。中古車販売店に問い合わせた利用者の氏名や住所などが対象で、販売店側の情報も含まれる。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002456/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/21/2000002455/-「都市鉱山」でパソコンも対象に 東京都が小型電子機器内のレアアースなどの回収を強化",
-      "title": "「都市鉱山」でパソコンも対象に 東京都が小型電子機器内のレアアースなどの回収を強化",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-21T03:35:38.000Z",
-      "description": "東京都は、家庭に眠るスマートフォンなどからレアアースや希少金属を確保する「希少資源緊急回収プロジェクト」で、新たにパソコンを対象に加えて再資源化に取り組む。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002455/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599570?source=rss-一場靖弘氏 オフ休めず壊れた右肩",
-      "title": "一場靖弘氏 オフ休めず壊れた右肩",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-21T03:30:45.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599570?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599567?source=rss-「カーセンサーnet」情報漏えいか",
       "title": "「カーセンサーnet」情報漏えいか",
       "source": "Yahoo!ニュース IT",
@@ -358,24 +556,6 @@
       "publishedAt": "2026-10-21T03:06:11.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6599567?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/21/2000002422/-人に注射を打てる「サイボーグゴキブリ」の群れが、がれき下の被災者を救助？ 実験成功率72％",
-      "title": "人に注射を打てる「サイボーグゴキブリ」の群れが、がれき下の被災者を救助？ 実験成功率72％",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-21T03:00:00.000Z",
-      "description": "オーストラリアのクイーンズランド大学とニューサウスウェールズ大学に所属する研究者らがAdvanced Scienceで発表した論文「Paraborg: Paramedic Cyborg Insects for In Situ Emergency Drug‐Delivery」は、遠隔操作で被災者に薬液を投与することを目的...",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002422/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/21/2000002421/-AIに200万円渡してネットショップを1年運営させてみた──Alibabaの研究者らがシミュレーション 資産14倍の例も",
-      "title": "AIに200万円渡してネットショップを1年運営させてみた──Alibabaの研究者らがシミュレーション 資産14倍の例も",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-21T03:00:00.000Z",
-      "description": "中国AlibabaのQwenチームや香港科技大学（HKUST）などに所属する研究者らが発表した論文「E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation」は、AIモデルに1年間のネットショップ経営を任せ...",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002421/"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599557?source=rss-粗品がスポニチへ発信 記者の見解",
@@ -387,150 +567,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6599557?source=rss"
     },
     {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599561?source=rss-フジ 番宣システムに不正アクセス",
-      "title": "フジ 番宣システムに不正アクセス",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-21T02:32:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599561?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/21/2000002449/-フジテレビに不正アクセス、メディア関係者の個人情報最大730件漏えいか 番組宣伝システムが被害",
-      "title": "フジテレビに不正アクセス、メディア関係者の個人情報最大730件漏えいか 番組宣伝システムが被害",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-21T02:06:04.000Z",
-      "description": "フジテレビは10月20日、番組宣伝システムが第三者による不正アクセスを受け、メディア関係者の個人情報が最大730件漏えいした可能性があると発表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002449/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599555?source=rss-国仲涼子 朝ドラ母役に泣いて喜び",
-      "title": "国仲涼子 朝ドラ母役に泣いて喜び",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-21T01:36:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599555?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/21/2000002447/-OpenAI、「COBOL」など学習リソースの少ない言語でのコーディング能力が大幅向上 COBOL移行の正解率は最大97.9％に",
-      "title": "OpenAI、「COBOL」など学習リソースの少ない言語でのコーディング能力が大幅向上 COBOL移行の正解率は最大97.9％に",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-21T01:35:42.000Z",
-      "description": "OpenAIは、学習データの少ない「COBOL」や「Fortran」などの言語について、最新モデルの開発・移行能力が大幅に向上したと発表した。「GPT-6 Astra」は20言語でのエンジン構築評価で平均87.4％の合格率を達成。COBOLから現代言語への移行テストでも高い正解率を記録した。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002447/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599553?source=rss-ドラフト 公表ゼロなら13年ぶり",
-      "title": "ドラフト 公表ゼロなら13年ぶり",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-21T01:17:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599553?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/21/2000002446/-PHPに「緊急」レベルの脆弱性2件 修正版を日本時間21日深夜に公開へ、事前準備を呼び掛け",
-      "title": "PHPに「緊急」レベルの脆弱性2件 修正版を日本時間21日深夜に公開へ、事前準備を呼び掛け",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-21T00:50:24.000Z",
-      "description": "PHPの開発プロジェクトは最大深刻度「Critical」の2件の重大な脆弱性を修正するアップデートの公開を予告した。リモートコード実行の恐れがあり、旧バージョンを含む広範な環境が影響を受ける可能性がある。専門組織は事前準備や、即時適用が困難な場合は外部からの切り離しを推奨している。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002446/"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599549?source=rss-マネックス証券 口座開設一時停止",
-      "title": "マネックス証券 口座開設一時停止",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-21T00:43:58.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599549?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/21/2000002445/-Google Cloud障害で英国が混乱「ATMで引き出せない」「裁判延期」……ロンドン拠点の電源不具合、約8時間にわたり",
-      "title": "Google Cloud障害で英国が混乱「ATMで引き出せない」「裁判延期」……ロンドン拠点の電源不具合、約8時間にわたり",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-21T00:32:07.000Z",
-      "description": "障害の影響により、英国の複数の大手銀行で、顧客が送金やカード決済などができなくなった他、裁判所の遠隔審理システムが利用できなくなり、審理が延期されるといった影響が出たという。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002445/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599548?source=rss-Z世代人気の無人カフェ 拡大の訳",
-      "title": "Z世代人気の無人カフェ 拡大の訳",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-21T00:26:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599548?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/21/2000002444/-認証局eMudhraの中間証明書、秘密鍵が「数ミリ秒」で復元可能な脆弱性 大手各社が緊急遮断",
-      "title": "認証局eMudhraの中間証明書、秘密鍵が「数ミリ秒」で復元可能な脆弱性 大手各社が緊急遮断",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-21T00:17:27.000Z",
-      "description": "インドの認証局eMudhraの中間証明書8件で、秘密鍵が第三者でも瞬時に復元可能な状態だったと判明した。悪用されればWebサイトのなりすましが可能になる。主要Webブラウザは遮断し悪用は確認されていないが、失効検証機能が標準で働かない非ブラウザ環境向けにGo開発チームなどが緊急修正を配布した。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002444/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599546?source=rss-北海道職員が「就活セクハラ」か",
-      "title": "北海道職員が「就活セクハラ」か",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-20T23:44:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599546?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/21/2000002443/-マネックス証券、委託先に第三者がアクセス試行の形跡 口座の新規開設を一時停止",
-      "title": "マネックス証券、委託先に第三者がアクセス試行の形跡 口座の新規開設を一時停止",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-20T23:43:43.000Z",
-      "description": "口座開設システムのうち、外部委託先が管理する部分について、第三者がアクセスを試みた形跡を確認したため、「予防的措置」として止めた。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002443/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599543?source=rss-SpaceXとテスラ 経営統合を検討",
-      "title": "SpaceXとテスラ 経営統合を検討",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-20T23:22:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599543?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/21/2000002442/-「お名前.com デスクトップクラウド」不正プログラム設置で全プラン停止 FX用VPS、2万6739サーバに影響か",
-      "title": "「お名前.com デスクトップクラウド」不正プログラム設置で全プラン停止 FX用VPS、2万6739サーバに影響か",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-20T22:55:36.000Z",
-      "description": "FX自動売買向けのVPS「お名前.com デスクトップクラウド」で第三者による不正アクセスが発生し、一部の利用者のサーバ環境に不正なプログラムが設置されたことを確認。全プランのサーバを停止している。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002442/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/21/2000002441/-マスクCEO、SpaceXとTeslaが合併協議で特別委員会を設置と明かす",
-      "title": "マスクCEO、SpaceXとTeslaが合併協議で特別委員会を設置と明かす",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-20T22:39:56.000Z",
-      "description": "SpaceXのマスクCEOは決算説明会で、Teslaとの合併に向け両社が特別委員会を設置したと明らかにした。統合利点に超知能（SI）開発や半導体工場、Starlink連携を挙げた一方、合意の保証はなくTesla側で全発行済み株式の過半数賛成が必要などハードルは高いと説明した。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002441/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/21/2000002440/-岩井コスモ証券、顧客口座で「意図しない売買」成立 売買管理システムにサイバー攻撃",
-      "title": "岩井コスモ証券、顧客口座で「意図しない売買」成立 売買管理システムにサイバー攻撃",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-20T22:33:46.000Z",
-      "description": "漏えいした個人情報が利用されたものではないという。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002440/"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599536?source=rss-粗品 大晦日に「ツッコミスター」",
       "title": "粗品 大晦日に「ツッコミスター」",
       "source": "Yahoo!ニュース エンタメ",
@@ -538,42 +574,6 @@
       "publishedAt": "2026-10-20T22:25:24.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6599536?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599531?source=rss-土田大さん死去 ディズニーが追悼",
-      "title": "土田大さん死去 ディズニーが追悼",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-20T21:21:44.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599531?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599528?source=rss-武部農相 献金巡り公選法違反疑い",
-      "title": "武部農相 献金巡り公選法違反疑い",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-20T14:56:15.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599528?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599523?source=rss-岩井コスモ証券にサイバー攻撃",
-      "title": "岩井コスモ証券にサイバー攻撃",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-20T13:57:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599523?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599514?source=rss-フラット35 全国で不適正利用64件",
-      "title": "フラット35 全国で不適正利用64件",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-20T12:57:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599514?source=rss"
     }
   ]
 }
