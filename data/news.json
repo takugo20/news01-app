@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T16:54:28.420Z",
+  "updatedAt": "2026-10-22T21:21:21.950Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599753?source=rss-阪神激震 梵コーチも辞意申し入れ",
+      "title": "阪神激震 梵コーチも辞意申し入れ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-22T21:05:29.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6599753?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599752?source=rss-強行指名の織田翔希 気持ちぶれず",
       "title": "強行指名の織田翔希 気持ちぶれず",
@@ -97,15 +106,6 @@
       "publishedAt": "2026-10-22T12:11:22.000Z",
       "description": "保育・教育施設向けITサービス「コドモン」を運営するコドモンは10月22日、ITmedia NEWSの取材に対し、21日からの全サービス停止はPHPの「緊急」レベルの脆弱性2件への予防措置だったと明らかにした。不正アクセスや情報漏えいは確認されていないという。",
       "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002528/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6599736?source=rss-巨人 14歳の中学生を育成5位指名",
-      "title": "巨人 14歳の中学生を育成5位指名",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-22T11:48:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599736?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599733?source=rss-漢字検定X「祭」の漢字間違える",
