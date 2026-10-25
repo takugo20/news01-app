@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T20:37:17.081Z",
+  "updatedAt": "2026-10-25T23:06:05.665Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,78 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6600138?source=rss-コニカミノルタ「社内副業」狙い",
+      "title": "コニカミノルタ「社内副業」狙い",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-25T23:02:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600138?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600137?source=rss-VIVANTにダイアン津田登場 話題",
+      "title": "VIVANTにダイアン津田登場 話題",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-25T22:49:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600137?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600135?source=rss-ソフトバンク秋広優人 来季構想外",
+      "title": "ソフトバンク秋広優人 来季構想外",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-25T22:34:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600135?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6600130?source=rss-次の首相「高市氏」27% 毎日調査",
+      "title": "次の首相「高市氏」27% 毎日調査",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-25T21:58:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600130?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600129?source=rss-VIVANTにダイアン津田 設計の妙",
+      "title": "VIVANTにダイアン津田 設計の妙",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-25T21:51:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600129?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6600128?source=rss-関東-九州激しい雨 夜にピークも",
+      "title": "関東-九州激しい雨 夜にピークも",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-25T21:45:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600128?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6600127?source=rss-チャイルドシートの義務拡大 検討",
+      "title": "チャイルドシートの義務拡大 検討",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-25T21:26:47.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600127?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600126?source=rss-阪神 矢野謙次氏をコーチに招へい",
+      "title": "阪神 矢野謙次氏をコーチに招へい",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-25T21:06:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600126?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600125?source=rss-SB山川「どすこい」復活に前向き",
       "title": "SB山川「どすこい」復活に前向き",
@@ -81,15 +153,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6600117?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6600115?source=rss-台風30号は温帯低気圧に 大雨警戒",
-      "title": "台風30号は温帯低気圧に 大雨警戒",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-25T13:45:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600115?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6600116?source=rss-AI投資に巨額マネー 実態と展望",
       "title": "AI投資に巨額マネー 実態と展望",
       "source": "Yahoo!ニュース 経済",
@@ -115,15 +178,6 @@
       "publishedAt": "2026-10-25T13:21:19.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6600114?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600112?source=rss-SBが2戦連続の延長戦制す 日本S",
-      "title": "SBが2戦連続の延長戦制す 日本S",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-25T12:49:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600112?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600108?source=rss-高城れに 初のフルマラソン完走",
@@ -162,15 +216,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6600102?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6600099?source=rss-内閣支持率45%で横ばい 毎日調査",
-      "title": "内閣支持率45%で横ばい 毎日調査",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-25T11:05:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600099?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600090?source=rss-今田美桜 公式FC閉鎖の理由説明",
       "title": "今田美桜 公式FC閉鎖の理由説明",
       "source": "Yahoo!ニュース エンタメ",
@@ -196,15 +241,6 @@
       "publishedAt": "2026-10-25T08:30:23.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6600078?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600073?source=rss-武豊が勝利 空気読まず申し訳ない",
-      "title": "武豊が勝利 空気読まず申し訳ない",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-25T08:04:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600073?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6600069?source=rss-脆弱性発見 混乱期の始まりと識者",
@@ -250,15 +286,6 @@
       "publishedAt": "2026-10-25T06:32:24.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6600059?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600053?source=rss-貴島明日香 妊娠の喜びや不安語る",
-      "title": "貴島明日香 妊娠の喜びや不安語る",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-25T05:22:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600053?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6600052?source=rss-議員外交「潤滑油」の機能目立つ",
@@ -351,15 +378,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6599999?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599997?source=rss-「軍民両用」産業育成へ 年内策定",
-      "title": "「軍民両用」産業育成へ 年内策定",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-24T22:52:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599997?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599996?source=rss-「Used in Japan」世界注目 なぜ",
       "title": "「Used in Japan」世界注目 なぜ",
       "source": "Yahoo!ニュース 経済",
@@ -378,15 +396,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6599992?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6599991?source=rss-VIVANT 最終回直前に2h特番放送",
-      "title": "VIVANT 最終回直前に2h特番放送",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-24T22:20:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599991?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/25/2000002559/-B級感がたまらない？ 映画「ストリートファイター」の魅力と原作ゲームの歴史、ゲーマーマンガ家が熱弁",
       "title": "B級感がたまらない？ 映画「ストリートファイター」の魅力と原作ゲームの歴史、ゲーマーマンガ家が熱弁",
       "source": "ITmedia NEWS",
@@ -403,15 +412,6 @@
       "publishedAt": "2026-10-24T12:40:35.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6599979?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599969?source=rss-大阪IR ディーラー人材確保に課題",
-      "title": "大阪IR ディーラー人材確保に課題",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-24T11:34:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599969?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599967?source=rss-自殺予防にAI 厚労省が効果検証へ",
