@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T11:01:03.544Z",
+  "updatedAt": "2026-10-25T15:49:48.623Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,31 +36,139 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600096?source=rss-長崎MF翁長 試合で蜂に刺される",
-      "title": "長崎MF翁長 試合で蜂に刺される",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600125?source=rss-SB山川「どすこい」復活に前向き",
+      "title": "SB山川「どすこい」復活に前向き",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-10-25T10:53:36.000Z",
+      "publishedAt": "2026-10-25T14:54:01.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600096?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6600125?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600094?source=rss-速報・日本S第2戦 DeNA対SB",
-      "title": "速報・日本S第2戦 DeNA対SB",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600123?source=rss-伊東純也 ゴールの内側からゴール",
+      "title": "伊東純也 ゴールの内側からゴール",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-10-25T10:24:56.000Z",
+      "publishedAt": "2026-10-25T14:44:26.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600094?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6600123?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6600093?source=rss-台風 温帯低気圧になっても警戒を",
-      "title": "台風 温帯低気圧になっても警戒を",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600120?source=rss-張本智和が快挙 アジア選手権連覇",
+      "title": "張本智和が快挙 アジア選手権連覇",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-25T14:22:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600120?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6600119?source=rss-不正アクセス GMO代表が謝罪",
+      "title": "不正アクセス GMO代表が謝罪",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-25T14:05:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600119?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6600117?source=rss-ブルアカ 日本向け運営全面移管へ",
+      "title": "ブルアカ 日本向け運営全面移管へ",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-25T13:48:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600117?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6600115?source=rss-台風30号は温帯低気圧に 大雨警戒",
+      "title": "台風30号は温帯低気圧に 大雨警戒",
       "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-10-25T10:22:34.000Z",
+      "publishedAt": "2026-10-25T13:45:25.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600093?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6600115?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6600116?source=rss-AI投資に巨額マネー 実態と展望",
+      "title": "AI投資に巨額マネー 実態と展望",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-25T13:45:23.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600116?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600113?source=rss-決勝弾SB川村 通算1HRの「伏兵」",
+      "title": "決勝弾SB川村 通算1HRの「伏兵」",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-25T13:22:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600113?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6600114?source=rss-ドコモ 「エリアメール」完全再開",
+      "title": "ドコモ 「エリアメール」完全再開",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-25T13:21:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600114?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600112?source=rss-SBが2戦連続の延長戦制す 日本S",
+      "title": "SBが2戦連続の延長戦制す 日本S",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-25T12:49:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600112?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600108?source=rss-高城れに 初のフルマラソン完走",
+      "title": "高城れに 初のフルマラソン完走",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-25T12:05:12.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600108?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6600103?source=rss-不正アクセス 官邸主導で対策急ぐ",
+      "title": "不正アクセス 官邸主導で対策急ぐ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-25T11:51:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600103?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/25/2000002569/-「5年でバッテリーが使い物にならなくなる」は本当か テスラ「モデル3」5年目点検で分かったこと",
+      "title": "「5年でバッテリーが使い物にならなくなる」は本当か テスラ「モデル3」5年目点検で分かったこと",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-25T11:37:30.000Z",
+      "description": "納車から5年、4万km余りを走った筆者のTesla「Model 3」が2回目の車検を迎えました。ユーザー車検に臨む前に点検整備を受けたところ、バッテリーの状態や維持費に具体的な数字が出ました。欧州車を30年乗り継ぎ、トラブルと出費に身構えてきた筆者には、同じ距離を走った前の愛車との違いが際立って見えます。アプリを軸に進...",
+      "url": "https://www.itmedia.co.jp/news/article/2610/25/2000002569/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600102?source=rss-菊花賞 騎手に制裁4件相次ぐ",
+      "title": "菊花賞 騎手に制裁4件相次ぐ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-25T11:20:38.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600102?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6600099?source=rss-内閣支持率45%で横ばい 毎日調査",
+      "title": "内閣支持率45%で横ばい 毎日調査",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-25T11:05:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600099?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600090?source=rss-今田美桜 公式FC閉鎖の理由説明",
@@ -72,15 +180,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6600090?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600089?source=rss-北斗の拳OP作詞 中村公晴氏死去",
-      "title": "北斗の拳OP作詞 中村公晴氏死去",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-25T09:58:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600089?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600087?source=rss-織田の国際アマFA受理 横浜監督",
       "title": "織田の国際アマFA受理 横浜監督",
       "source": "Yahoo!ニュース スポーツ",
@@ -88,15 +187,6 @@
       "publishedAt": "2026-10-25T09:34:53.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6600087?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6600084?source=rss-25日 鹿児島などで最も遅い真夏日",
-      "title": "25日 鹿児島などで最も遅い真夏日",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-25T09:23:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600084?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600078?source=rss-モデル・鈴木えみ 離婚していた",
@@ -117,15 +207,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6600073?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600070?source=rss-G浅野を自由契約 育成契約打診か",
-      "title": "G浅野を自由契約 育成契約打診か",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-25T07:51:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600070?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6600069?source=rss-脆弱性発見 混乱期の始まりと識者",
       "title": "脆弱性発見 混乱期の始まりと識者",
       "source": "Yahoo!ニュース IT",
@@ -133,15 +214,6 @@
       "publishedAt": "2026-10-25T07:44:14.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6600069?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600068?source=rss-吉田優利 米女子ツアー悲願の初V",
-      "title": "吉田優利 米女子ツアー悲願の初V",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-25T07:28:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600068?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6600063?source=rss-Suicaペンギンなぜ「卒業」解説",
@@ -198,15 +270,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6600052?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600050?source=rss-中井亜美 完璧演技で右拳突き上げ",
-      "title": "中井亜美 完璧演技で右拳突き上げ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-25T04:59:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600050?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6600048?source=rss-退職代行「バブル」崩壊? なぜ今",
       "title": "退職代行「バブル」崩壊? なぜ今",
       "source": "Yahoo!ニュース 経済",
@@ -214,15 +277,6 @@
       "publishedAt": "2026-10-25T04:55:39.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6600048?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600045?source=rss-巨人 ドラ1浅野翔吾を自由契約",
-      "title": "巨人 ドラ1浅野翔吾を自由契約",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-25T04:28:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600045?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6600038?source=rss-10月FOMCは金利据え置きか 焦点",
@@ -342,15 +396,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/25/2000002559/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6599983?source=rss-小林鷹之氏 ガソリン補助縮小必要",
-      "title": "小林鷹之氏 ガソリン補助縮小必要",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-24T13:15:45.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599983?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599979?source=rss-能動サイバー防御要請 政府側慎重",
       "title": "能動サイバー防御要請 政府側慎重",
       "source": "Yahoo!ニュース IT",
@@ -378,15 +423,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6599967?source=rss"
     },
     {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599958?source=rss-お店の食品ロス削減へ アプリ導入",
-      "title": "お店の食品ロス削減へ アプリ導入",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-24T09:30:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599958?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/24/2000002567/-GMO、「能動的サイバー防御」発動を政府に要請 「お名前.com」FX用VPSへの攻撃で",
       "title": "GMO、「能動的サイバー防御」発動を政府に要請 「お名前.com」FX用VPSへの攻撃で",
       "source": "ITmedia NEWS",
@@ -403,33 +439,6 @@
       "publishedAt": "2026-10-24T08:51:04.000Z",
       "description": "全ユーザーに「お見舞金」として5000円を支払う他、不正取引で発生した損失を補償する。「攻撃者からの要求には応じない」",
       "url": "https://www.itmedia.co.jp/news/article/2610/24/2000002566/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6599952?source=rss-OKURA不適切還付 追徴額5.8億円",
-      "title": "OKURA不適切還付 追徴額5.8億円",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-24T08:26:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599952?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599943?source=rss-個人情報売買 ダークウェブの実態",
-      "title": "個人情報売買 ダークウェブの実態",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-24T07:32:35.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599943?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6599891?source=rss-PHP問題 災害情報メールにも影響",
-      "title": "PHP問題 災害情報メールにも影響",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-23T23:37:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6599891?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/24/2000002564/-「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-10-23T03:07:39.000Z",
       "description": "生成AIがコードを書く時代、エンジニア派遣は不要になるのか。10月21～23日に幕張メッセで開催中の「Japan IT Week 秋 2026」には、派遣・紹介サービスを手掛ける企業が複数出展。エンジニア派遣の需要について、疑問を各社にぶつけてみた。",
       "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002527/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/23/2000002513/-“あいまいな指示”を入力されたAIは安全なコーディングができない？ 香港科技大などが調査",
-      "title": "“あいまいな指示”を入力されたAIは安全なコーディングができない？ 香港科技大などが調査",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-23T03:00:00.000Z",
-      "description": "香港科技大学などに所属する研究者らが7月に発表した論文「Coding Agents Are Guessing: Measuring Action-Boundary Violations in Underspecified DevOps Instructions」は、あいまいな指示を受けたコーディングAIがどのような振る...",
-      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002513/"
     }
   ]
 }
