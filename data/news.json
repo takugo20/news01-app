@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T20:21:39.499Z",
+  "updatedAt": "2026-10-27T00:16:40.899Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,177 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6600262?source=rss-新iPad mini発表 防水を初搭載",
+      "title": "新iPad mini発表 防水を初搭載",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-27T00:01:50.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600262?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600261?source=rss-FWケイン 妻は最大のサポーター",
+      "title": "FWケイン 妻は最大のサポーター",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-26T23:52:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600261?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6600259?source=rss-バズは狙わない「ちふれ」の工夫",
+      "title": "バズは狙わない「ちふれ」の工夫",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-26T23:38:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600259?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600258?source=rss-ケイン 念願のバロンドール初受賞",
+      "title": "ケイン 念願のバロンドール初受賞",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-26T23:28:17.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600258?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6600257?source=rss-立ち飲み 若者中心に新たなブーム",
+      "title": "立ち飲み 若者中心に新たなブーム",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-26T23:14:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600257?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600254?source=rss-プリキュア 新作は不穏な雰囲気",
+      "title": "プリキュア 新作は不穏な雰囲気",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-26T23:08:56.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600254?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/27/2000002608/-「一番くじ ONLINE」の配送情報漏えいか バンダイナムコの物流子会社に不正アクセス",
+      "title": "「一番くじ ONLINE」の配送情報漏えいか バンダイナムコの物流子会社に不正アクセス",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-26T23:07:15.000Z",
+      "description": "バンダイロジパルが管理するシステムが不正アクセスを受け、「一番くじ ONLINE」の配送情報が漏えいした可能性。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002608/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/27/2000002607/-Apple、「iPad mini」を大幅刷新 8.5インチOLEDとA20 Pro搭載、防水にも対応 11万9800円から",
+      "title": "Apple、「iPad mini」を大幅刷新 8.5インチOLEDとA20 Pro搭載、防水にも対応 11万9800円から",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-26T22:59:29.000Z",
+      "description": "Appleは、「iPad mini」の新モデルを発表した。8.5インチ有機ELディスプレイや最新2nmチップ「A20 Pro」を搭載し、薄型・軽量化とともにシリーズ初のIP67耐水・防塵に対応する。次世代Apple IntelligenceやWi-Fi 7もサポートし、Wi-Fiモデルは11万9800円から。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002607/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/27/2000002606/-「楽天トラベル」に不正アクセス 顧客情報最大約260万件など流出か 予約者約3.6万件のクレカ情報も",
+      "title": "「楽天トラベル」に不正アクセス 顧客情報最大約260万件など流出か 予約者約3.6万件のクレカ情報も",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-26T22:44:55.000Z",
+      "description": "海外予約サイトの一部ページと、楽天グループが運営する多言語予約サイトが対象。最大約3万6000件の予約者のクレジットカード下4ケタや名義、有効期限などの情報が流出した可能性。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002606/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6600250?source=rss-ウイスキー1本4億円超で落札 なぜ",
+      "title": "ウイスキー1本4億円超で落札 なぜ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-26T22:34:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600250?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600249?source=rss-オリ 今季引退西野がコーチ就任へ",
+      "title": "オリ 今季引退西野がコーチ就任へ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-26T22:27:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600249?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6600248?source=rss-米MS 6万人に退職パッケージ提示",
+      "title": "米MS 6万人に退職パッケージ提示",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-26T22:27:23.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600248?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/27/2000002605/-Meta、AI投資拡大に向け最大950億ドル規模の株式発行計画 NVIDIA、AMD、Broadcomも出資に関心",
+      "title": "Meta、AI投資拡大に向け最大950億ドル規模の株式発行計画 NVIDIA、AMD、Broadcomも出資に関心",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-26T22:26:55.000Z",
+      "description": "Metaは、AIインフラとパーソナル超知能への投資を支えるため、総額約950億ドル（約15兆円）規模の株式発行による資金調達計画を発表した。まず普通株式と預託株式で約350億ドルを公募し、NVIDIAなど半導体3社も出資意向を示す。2027年には最大600億ドルの段階的売却プログラムも計画する。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002605/"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6600246?source=rss-iPhone Duo画面不具合 交換対応",
+      "title": "iPhone Duo画面不具合 交換対応",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-26T21:58:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600246?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/27/2000002604/-Microsoft、約6万人対象の希望退職制度を発表 巨額のAI投資で経費抑制か",
+      "title": "Microsoft、約6万人対象の希望退職制度を発表 巨額のAI投資で経費抑制か",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-26T21:53:53.000Z",
+      "description": "Microsoftは、金銭やキャリア形成を支援する新たな希望退職制度を米英加印で導入すると発表した。対象は特定部門の一定職位以下で、報道によると全従業員の約27％に当たる約6万人規模。巨額のAI設備投資が続く中での経費抑制策とみられるが、同社はAI投資との関係を公表していない。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002604/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600243?source=rss-WEST.全番組終了 7人で最後の姿",
+      "title": "WEST.全番組終了 7人で最後の姿",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-26T21:30:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600243?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/27/2000002603/-Anthropic、IPOを正式申請 上半期売上高は約14倍、純損失807億ドル",
+      "title": "Anthropic、IPOを正式申請 上半期売上高は約14倍、純損失807億ドル",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-26T21:28:38.000Z",
+      "description": "AnthropicはSECにForm S-1を提出し、NasdaqへのIPOを正式申請した。ティッカーは「ANT」。2026年上半期の売上高は前年同期比約14倍の163億ドルに急伸した。上場後も創業者グループが50.1％の議決権を保持し、長期利益信託が取締役選任権を持つガバナンス体制を継続する。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002603/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600242?source=rss-アニメ・BLEACH 22年の歴史に幕",
+      "title": "アニメ・BLEACH 22年の歴史に幕",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-26T21:20:27.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600242?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6600241?source=rss-GMOに予告 正午に顧客情報公開",
+      "title": "GMOに予告 正午に顧客情報公開",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-26T21:08:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600241?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6600240?source=rss-米Anthropic IPO申請書類を公開",
       "title": "米Anthropic IPO申請書類を公開",
@@ -72,24 +243,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6600235?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6600237?source=rss-「弁当男子」増 力入れる食品業界",
-      "title": "「弁当男子」増 力入れる食品業界",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-26T13:59:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600237?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6600234?source=rss-豪生保 第一ライフによる買収拒否",
-      "title": "豪生保 第一ライフによる買収拒否",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-26T13:03:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600234?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6600231?source=rss-福田康夫さん死去 親子2代で首相",
       "title": "福田康夫さん死去 親子2代で首相",
       "source": "Yahoo!ニュース 国内",
@@ -115,15 +268,6 @@
       "publishedAt": "2026-10-26T11:49:19.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6600226?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6600228?source=rss-ユミルリンク 延べ5162万件漏えい",
-      "title": "ユミルリンク 延べ5162万件漏えい",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-26T11:29:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600228?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/26/2000002601/-ジョーシンへの不正アクセス、最大623万件漏えいか 運転免許証2件・マイナカード1件なども",
@@ -243,15 +387,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002591/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600204?source=rss-デニス植野行雄 第1子誕生を報告",
-      "title": "デニス植野行雄 第1子誕生を報告",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-26T08:45:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600204?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600206?source=rss-阪神・高橋遥人が沢村賞を初受賞",
       "title": "阪神・高橋遥人が沢村賞を初受賞",
       "source": "Yahoo!ニュース スポーツ",
@@ -277,15 +412,6 @@
       "publishedAt": "2026-10-26T07:39:53.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6600191?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600190?source=rss-阪神2軍コーチに就任 的場氏が涙",
-      "title": "阪神2軍コーチに就任 的場氏が涙",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-26T06:49:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600190?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6600189?source=rss-福田元首相が死去 高市首相が談話",
@@ -315,15 +441,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6600186?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600185?source=rss-炎鵬 一度はプロポーズを断られる",
-      "title": "炎鵬 一度はプロポーズを断られる",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-26T06:10:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600185?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600179?source=rss-50歳でパパに アンガ田中の育児",
       "title": "50歳でパパに アンガ田中の育児",
       "source": "Yahoo!ニュース エンタメ",
@@ -340,15 +457,6 @@
       "publishedAt": "2026-10-26T04:56:46.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6600180?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6600178?source=rss-ドクターイエロー後継 客乗せ走行",
-      "title": "ドクターイエロー後継 客乗せ走行",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-26T04:29:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600178?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6600166?source=rss-退職倒産が最多 中小企業どう対応",
@@ -369,15 +477,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002577/"
     },
     {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6600167?source=rss-Netflix会員 アプリ利用頻度低下",
-      "title": "Netflix会員 アプリ利用頻度低下",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-26T03:26:33.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600167?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600172?source=rss-元AKB横山由依 第1子出産を発表",
       "title": "元AKB横山由依 第1子出産を発表",
       "source": "Yahoo!ニュース エンタメ",
@@ -385,15 +484,6 @@
       "publishedAt": "2026-10-26T03:25:02.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6600172?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600171?source=rss-オリックス 5投手に戦力外通告",
-      "title": "オリックス 5投手に戦力外通告",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-26T03:23:55.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600171?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/23/2000002527/-「AIでエンジニア派遣は不要になる」のか？ 各社に肌感を聞いた 求められる人材、明確に変化",
@@ -477,33 +567,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002573/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600152?source=rss-VIVANT高視聴率 日本S中継影響か",
-      "title": "VIVANT高視聴率 日本S中継影響か",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-26T00:59:15.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600152?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6600145?source=rss-新局面 漏洩被害者に迫る「脅威」",
-      "title": "新局面 漏洩被害者に迫る「脅威」",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-26T00:27:36.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600145?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6600144?source=rss-電車が駅で140m過ぎて停車 戻らず",
-      "title": "電車が駅で140m過ぎて停車 戻らず",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-25T23:50:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600144?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/26/2000002570/-Google、プライバシーポリシーに「Gmail」「Googleフォト」のデータを広告に使う例外を追加 回避方法は",
       "title": "Google、プライバシーポリシーに「Gmail」「Googleフォト」のデータを広告に使う例外を追加 回避方法は",
       "source": "ITmedia NEWS",
@@ -511,69 +574,6 @@
       "publishedAt": "2026-10-25T23:28:28.000Z",
       "description": "Googleはプライバシーポリシーを更新し、検索やGeminiにGmailやフォトなどのアクセスを許可した場合、そのデータが広告のパーソナライズに使われる例外規定を明記した。背景には「パーソナルインテリジェンス」機能があり、連携を解除しても検索履歴に残ったデータは削除されない。",
       "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002570/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600137?source=rss-VIVANTにダイアン津田登場 話題",
-      "title": "VIVANTにダイアン津田登場 話題",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-25T22:49:27.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600137?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/25/2000002569/-「5年でバッテリーが使い物にならなくなる」は本当か テスラ「モデル3」5年目点検で分かったこと",
-      "title": "「5年でバッテリーが使い物にならなくなる」は本当か テスラ「モデル3」5年目点検で分かったこと",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-25T11:37:30.000Z",
-      "description": "納車から5年、4万km余りを走った筆者のTesla「Model 3」が2回目の車検を迎えました。ユーザー車検に臨む前に点検整備を受けたところ、バッテリーの状態や維持費に具体的な数字が出ました。欧州車を30年乗り継ぎ、トラブルと出費に身構えてきた筆者には、同じ距離を走った前の愛車との違いが際立って見えます。アプリを軸に進...",
-      "url": "https://www.itmedia.co.jp/news/article/2610/25/2000002569/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/25/2000002568/-たばこ休憩なき時代の“一服”をどう取るか 温熱と“聞こえない音”で休む、JT子会社のアイマスクを試す",
-      "title": "たばこ休憩なき時代の“一服”をどう取るか 温熱と“聞こえない音”で休む、JT子会社のアイマスクを試す",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-25T01:00:00.000Z",
-      "description": "仕事の合間のリフレッシュといえば、かつては「たばこ休憩」だった。では、たばこを吸わなくなった今、私たちはどう休めばいいのか。JTのグループ会社が出した答えは、耳に聞こえない超高周波音と温熱で目元を包む“スピード休息アイマスク”だった。10分の休憩と二度寝の場面で1週間試してみると、確かな手応えと同時に、惜しい点も見えて...",
-      "url": "https://www.itmedia.co.jp/news/article/2610/25/2000002568/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/25/2000002559/-B級感がたまらない？ 映画「ストリートファイター」の魅力と原作ゲームの歴史、ゲーマーマンガ家が熱弁",
-      "title": "B級感がたまらない？ 映画「ストリートファイター」の魅力と原作ゲームの歴史、ゲーマーマンガ家が熱弁",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-24T22:15:00.000Z",
-      "description": "映画「ストリートファイター／ザ・ムービー」を見てきました。今回は原作ゲームの歴史と共に、映画の面白さを解説します。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/25/2000002559/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/24/2000002567/-GMO、「能動的サイバー防御」発動を政府に要請 「お名前.com」FX用VPSへの攻撃で",
-      "title": "GMO、「能動的サイバー防御」発動を政府に要請 「お名前.com」FX用VPSへの攻撃で",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-24T09:10:34.000Z",
-      "description": "「お名前.com デスクトップクラウド」の不正アクセスが、「一般国民の取引口座を標的とした不正操作・資産き損」という「極めて悪質かつ前例のない手口」と主張している。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/24/2000002567/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/24/2000002566/-GMO、不正取引の被害額を補償へ 見舞金5000円も 「お名前.com」FX用VPSへのサイバー攻撃で",
-      "title": "GMO、不正取引の被害額を補償へ 見舞金5000円も 「お名前.com」FX用VPSへのサイバー攻撃で",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-24T08:51:04.000Z",
-      "description": "全ユーザーに「お見舞金」として5000円を支払う他、不正取引で発生した損失を補償する。「攻撃者からの要求には応じない」",
-      "url": "https://www.itmedia.co.jp/news/article/2610/24/2000002566/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/24/2000002564/-「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
-      "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-23T22:28:08.000Z",
-      "description": "Anthropicと英AI安全保障研究所AISIは、「Claude Mythos 5」がサイバー能力評価中に実在の開発者を標的とした事案の分析報告を公開した。GitHub経由で無許可の攻撃を行い偽身元で承認を迫った経緯を報告。実在の人物と認識しても攻撃を正当化して続行する傾向が確認され、評価手法の見直しが進む。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/"
     }
   ]
 }
