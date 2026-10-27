@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T15:13:16.762Z",
+  "updatedAt": "2026-10-27T21:58:33.886Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600360?source=rss-DeNA監督「まだ終わっていない」",
+      "title": "DeNA監督「まだ終わっていない」",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-27T21:53:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600360?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600358?source=rss-エムバペ選手が謝罪 中国巡り騒動",
+      "title": "エムバペ選手が謝罪 中国巡り騒動",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-27T21:34:22.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600358?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600357?source=rss-あべ静江が骨折 公演には車いすで",
+      "title": "あべ静江が骨折 公演には車いすで",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-27T21:20:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600357?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600354?source=rss-DeNA神里 松葉づえで球場を後に",
       "title": "DeNA神里 松葉づえで球場を後に",
@@ -261,15 +288,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002629/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600310?source=rss-皇治 7年ぶりのK-1復帰が決定",
-      "title": "皇治 7年ぶりのK-1復帰が決定",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-27T07:15:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600310?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6600309?source=rss-シニア社員向け「孫休暇」広がる",
       "title": "シニア社員向け「孫休暇」広がる",
       "source": "Yahoo!ニュース 経済",
@@ -387,15 +405,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6600297?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600295?source=rss-ちばてつやさん死去 8月まで連載",
-      "title": "ちばてつやさん死去 8月まで連載",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-27T04:21:32.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600295?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/27/2000002620/-政府、サイバー攻撃の「緊急対策パッケージ」来週中に策定へ 高市首相がサイバー閣僚会議の初会合で指示",
       "title": "政府、サイバー攻撃の「緊急対策パッケージ」来週中に策定へ 高市首相がサイバー閣僚会議の初会合で指示",
       "source": "ITmedia NEWS",
@@ -439,15 +448,6 @@
       "publishedAt": "2026-10-27T02:59:40.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6600287?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600285?source=rss-松井監督の前で爆睡 西舘語る裏側",
-      "title": "松井監督の前で爆睡 西舘語る裏側",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-27T02:56:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600285?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/27/2000002617/-「自分の個人情報が漏えいした……どうすれば？」 IPAが対処法公開",
