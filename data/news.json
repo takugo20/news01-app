@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T20:08:54.897Z",
+  "updatedAt": "2026-10-29T00:40:12.222Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,22 +36,175 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6600489?source=rss-千葉県で震度5弱 津波の心配なし",
-      "title": "千葉県で震度5弱 津波の心配なし",
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6600512?source=rss-盗撮「カメレオンカメラ」巧妙化",
+      "title": "盗撮「カメレオンカメラ」巧妙化",
       "source": "Yahoo!ニュース 国内",
       "category": "国内",
-      "publishedAt": "2026-10-28T15:19:26.000Z",
+      "publishedAt": "2026-10-29T00:35:20.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600489?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6600512?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600488?source=rss-DeNA球団社長 筒香&牧の去就言及",
-      "title": "DeNA球団社長 筒香&牧の去就言及",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600513?source=rss-FW塩貝が2発&後藤も2発 ドイツ杯",
+      "title": "FW塩貝が2発&後藤も2発 ドイツ杯",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-10-28T14:44:30.000Z",
+      "publishedAt": "2026-10-29T00:35:00.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600488?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6600513?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6600510?source=rss-米FRBが政策金利を据え置き",
+      "title": "米FRBが政策金利を据え置き",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-29T00:13:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600510?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6600509?source=rss-タッチ対応「MacBook Pro」発表",
+      "title": "タッチ対応「MacBook Pro」発表",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-29T00:12:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600509?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600508?source=rss-大谷 選手会選出のMVP受賞ならず",
+      "title": "大谷 選手会選出のMVP受賞ならず",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-29T00:06:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600508?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/29/2000002692/-「ツイキャス」不正アクセスで停止 復旧までに「相応の時間」",
+      "title": "「ツイキャス」不正アクセスで停止 復旧までに「相応の時間」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-28T23:56:59.000Z",
+      "description": "ツイキャスのサーバに第三者による不正アクセスが行われた形跡を確認した。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002692/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6600506?source=rss-教員「特別免許」の基準明確化へ",
+      "title": "教員「特別免許」の基準明確化へ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-28T23:39:26.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600506?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6600504?source=rss-本や雑誌発売日 大阪も1日遅れに",
+      "title": "本や雑誌発売日 大阪も1日遅れに",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-10-28T23:34:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600504?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6600505?source=rss-多くで今季一冷え込み 東京10℃台",
+      "title": "多くで今季一冷え込み 東京10℃台",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-10-28T23:20:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600505?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/29/2000002691/-Microsoft、7?9月期は19％増収 Azureは48％増、AI需要が成長けん引",
+      "title": "Microsoft、7?9月期は19％増収 Azureは48％増、AI需要が成長けん引",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-28T23:19:34.000Z",
+      "description": "Microsoftの7?9月期決算は、売上高が前年同期比19％増、純利益が32％増と好調だった。事業部門を2つに再編し、クラウド主体の部門でAzureが48％増と成長が加速。CopilotやAI開発基盤の利用も拡大する一方、次期は設備投資を500億ドル超に引き上げる見通し。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002691/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600501?source=rss-水卜アナ 気象予報士合格を生報告",
+      "title": "水卜アナ 気象予報士合格を生報告",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-28T22:58:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600501?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600499?source=rss-なにわ男子 初の単独カウコン発表",
+      "title": "なにわ男子 初の単独カウコン発表",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-10-28T22:45:51.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600499?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600497?source=rss-DeNA筒香 海外FA権行使を検討",
+      "title": "DeNA筒香 海外FA権行使を検討",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-28T22:37:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600497?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600495?source=rss-楽天 小笠原道大氏をコーチ招へい",
+      "title": "楽天 小笠原道大氏をコーチ招へい",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-28T22:19:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600495?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/29/2000002690/-Google、「Gemini 4 Carbon」発表 「Argon」公開から2週間、サイバー防御能力などを強化",
+      "title": "Google、「Gemini 4 Carbon」発表 「Argon」公開から2週間、サイバー防御能力などを強化",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-28T22:13:47.000Z",
+      "description": "Googleは、フロンティアAIモデル「Gemini 4 Carbon」を発表した。サイバーセキュリティや長時間に及ぶ自律作業能力を強化し、ベンチマーク首位を獲得。ハルシネーションや不正操作への耐性も向上させた。まず一部のサイバー防御組織に限定提供し、順次公開範囲を広げる方針だ。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002690/"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6600494?source=rss-GMO脅迫サイト 国が遮断を要請",
+      "title": "GMO脅迫サイト 国が遮断を要請",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-10-28T21:55:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600494?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/29/2000002689/-Apple、初のタッチ対応「MacBook Pro」発表 新型OLED搭載、国内価格は49万9800円から",
+      "title": "Apple、初のタッチ対応「MacBook Pro」発表 新型OLED搭載、国内価格は49万9800円から",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-10-28T21:32:01.000Z",
+      "description": "Appleは、Mac初のタッチ操作に対応した新型「MacBook Pro」を発表した。タンデムOLED採用の「PROLED XDRディスプレイ」やDynamic Islandを搭載し、14インチと16インチで展開。チップはM5 Pro／Maxを採用し、大幅な薄型・軽量化を実現した。11月6日発売で49万9800円から。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002689/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600492?source=rss-天心参戦の路上プロレス 一転中止",
+      "title": "天心参戦の路上プロレス 一転中止",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-28T21:24:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600492?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600491?source=rss-巨人ヘッドCに高橋由伸氏決定",
+      "title": "巨人ヘッドCに高橋由伸氏決定",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-10-28T21:09:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6600491?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600485?source=rss-古巣撃破のSB山本祐大 本音語る",
@@ -79,15 +232,6 @@
       "publishedAt": "2026-10-28T13:28:21.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6600481?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600482?source=rss-日本シリーズMVPにSB正木智也",
-      "title": "日本シリーズMVPにSB正木智也",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-28T13:26:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600482?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6600480?source=rss-中道代表 政党交付金の使途を回答",
@@ -126,15 +270,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6600474?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600471?source=rss-レアル エムバペの騒動で謝罪声明",
-      "title": "レアル エムバペの騒動で謝罪声明",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-28T12:14:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600471?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/28/2000002687/-JALの予約システムに不正アクセス 約9万人分の予約情報が漏えい 一部ではパスポート番号も",
       "title": "JALの予約システムに不正アクセス 約9万人分の予約情報が漏えい 一部ではパスポート番号も",
       "source": "ITmedia NEWS",
@@ -142,15 +277,6 @@
       "publishedAt": "2026-10-28T11:52:00.000Z",
       "description": "日本航空（JAL）と日本トランスオーシャン航空（JTA）は10月28日、予約や搭乗手続きなどを管理するシステムの提供元が不正アクセスを受け、利用者約9万2000人の予約情報が外部から閲覧された形跡があったと発表した。",
       "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002687/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600472?source=rss-ソフトバンクが2年連続日本一",
-      "title": "ソフトバンクが2年連続日本一",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-28T11:43:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600472?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/28/2000002686/-NEC、委託先の情報漏えいで謝罪 「セキュリティ事業を手掛ける企業として反省」",
@@ -180,24 +306,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6600453?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600462?source=rss-水卜アナ 気象予報士試験に合格",
-      "title": "水卜アナ 気象予報士試験に合格",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-28T10:02:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600462?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6600461?source=rss-29日朝 各地で今季一番の冷え込み",
-      "title": "29日朝 各地で今季一番の冷え込み",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-28T09:51:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600461?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/28/2000002681/-Oracle CloudがGoogle TPU導入へ 2027年に提供を開始",
       "title": "Oracle CloudがGoogle TPU導入へ 2027年に提供を開始",
       "source": "ITmedia NEWS",
@@ -225,15 +333,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6600451?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600455?source=rss-岡田武史氏 JFA副会長を電撃辞任",
-      "title": "岡田武史氏 JFA副会長を電撃辞任",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-28T08:54:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600455?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600449?source=rss-本田紗来 姉・望結と同居で安心感",
       "title": "本田紗来 姉・望結と同居で安心感",
       "source": "Yahoo!ニュース エンタメ",
@@ -259,15 +358,6 @@
       "publishedAt": "2026-10-28T08:11:52.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6600444?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6600438?source=rss-日米防衛相 中国抑止へ協力で一致",
-      "title": "日米防衛相 中国抑止へ協力で一致",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-10-28T07:41:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600438?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/28/2000002670/-「推しがそばにいる日常」を ソニー、5万円台の裸眼3Dディスプレイ アニメ公式コンテンツに対応",
@@ -313,15 +403,6 @@
       "publishedAt": "2026-10-28T05:14:57.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6600424?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6600422?source=rss-阪神ドラ3常深 珍しい名字に悩み",
-      "title": "阪神ドラ3常深 珍しい名字に悩み",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-10-28T04:58:36.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600422?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6600420?source=rss-飲食店 テイクアウトに慎重な理由",
@@ -414,15 +495,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6600402?source=rss"
     },
     {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6600397?source=rss-GMOを攻撃した集団のサイト停止",
-      "title": "GMOを攻撃した集団のサイト停止",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-28T02:34:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600397?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600394?source=rss-山本里菜アナ TBS退社のきっかけ",
       "title": "山本里菜アナ TBS退社のきっかけ",
       "source": "Yahoo!ニュース エンタメ",
@@ -450,15 +522,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002656/"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6600390?source=rss-不正アクセス GMOの急成長に影",
-      "title": "不正アクセス GMOの急成長に影",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-28T01:33:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600390?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/28/2000002655/-IDCFクラウドのランサム被害、OSSの脆弱性悪用される サーバ内データ流出なし 再発防止へSBOM化",
       "title": "IDCFクラウドのランサム被害、OSSの脆弱性悪用される サーバ内データ流出なし 再発防止へSBOM化",
       "source": "ITmedia NEWS",
@@ -475,33 +538,6 @@
       "publishedAt": "2026-10-28T01:08:21.000Z",
       "description": "GMOインターネットグループが、傘下のGMOインターネットが提供するFX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡り、事態を解明する情報に総額100万ドル（約1億5000万円）の報奨金を支払う懸賞金制度を始めると発表した。",
       "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002642/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6600385?source=rss-昆布・かつお節が高騰 飲食店悲鳴",
-      "title": "昆布・かつお節が高騰 飲食店悲鳴",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-10-28T01:00:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600385?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/28/2000002653/-AndurilとQualcomm、米国製PC「BlueChip」を発表 Snapdragon X搭載、2027年に受注開始へ",
-      "title": "AndurilとQualcomm、米国製PC「BlueChip」を発表 Snapdragon X搭載、2027年に受注開始へ",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-28T00:48:10.000Z",
-      "description": "Anduril IndustriesとQualcommは、米国製コンピュータ製造基盤の再構築を目指す製品ライン「BlueChip」を共同発表した。第1弾として「Snapdragon X」シリーズ搭載ノートPCを開発し、2027年に受注を開始する。筐体や基板組み立てを国内で行い、海外供給網への依存脱却を図る。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002653/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/28/2000002651/-NVIDIAとAMD、MetaとのAI分野での提携拡大を発表 「Muse」の強化や次世代インフラ構築で協力",
-      "title": "NVIDIAとAMD、MetaとのAI分野での提携拡大を発表 「Muse」の強化や次世代インフラ構築で協力",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-27T23:55:26.000Z",
-      "description": "NVIDIAとAMDは、MetaとのAI分野における戦略的提携拡大をそれぞれ発表した。AIエージェント「Muse」の開発・運用支援や次世代インフラ構築で協力し、Metaへの出資（NVIDIAが30億ドル、AMDが10億ドル）も表明。Metaは自社チップ開発と外部調達の両輪でインフラを強化する。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002651/"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600374?source=rss-おかやまはじめ「年の差婚」発表",
@@ -531,15 +567,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6600371?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/28/2000002650/-auメールで朝から障害 全国で利用しづらい状況に",
-      "title": "auメールで朝から障害 全国で利用しづらい状況に",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-27T22:51:10.000Z",
-      "description": "原因は調査中。音声通話とデータ通信は問題なく利用できる。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002650/"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6600364?source=rss-GMO攻撃 被害者は「恐怖しか」",
       "title": "GMO攻撃 被害者は「恐怖しか」",
       "source": "Yahoo!ニュース IT",
@@ -547,33 +574,6 @@
       "publishedAt": "2026-10-27T22:40:24.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6600364?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/28/2000002649/-Apple、M6搭載の14インチ「MacBook Pro」発表 AI性能向上、33万9800円から",
-      "title": "Apple、M6搭載の14インチ「MacBook Pro」発表 AI性能向上、33万9800円から",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-27T22:30:52.000Z",
-      "description": "Appleは、新型チップ「M6」を搭載した14インチ「MacBook Pro」を発表した。M6はCPU・GPUともに12コアで、AI処理やグラフィックス性能が向上。Wi-Fi 7対応や最大24時間のバッテリー駆動を実現した。日本での販売価格は33万9800円からで、11月6日発売の予定だ。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002649/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6600359?source=rss-草間リチャード舞台復帰 頭下げる",
-      "title": "草間リチャード舞台復帰 頭下げる",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-10-27T22:22:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600359?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6600338?source=rss-So-netなど258万件超が漏えい",
-      "title": "So-netなど258万件超が漏えい",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-10-27T11:46:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6600338?source=rss"
     }
   ]
 }
