@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T14:00:52.642Z",
+  "updatedAt": "2026-11-03T20:50:46.536Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,60 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601237?source=rss-山手線外回りが運転再開 駅で発煙",
+      "title": "山手線外回りが運転再開 駅で発煙",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-11-03T20:36:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601237?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6601235?source=rss-長澤まさみ ボロボロ姿に充実感",
+      "title": "長澤まさみ ボロボロ姿に充実感",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-11-03T15:22:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601235?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6601234?source=rss-アソビュー 1500万件超の情報流出",
+      "title": "アソビュー 1500万件超の情報流出",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-11-03T14:59:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601234?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601233?source=rss-タイ 輸入EVの物品税引き上げへ",
+      "title": "タイ 輸入EVの物品税引き上げへ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-11-03T14:40:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601233?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6601231?source=rss-カワラボ メンバーの個人Xを休止",
+      "title": "カワラボ メンバーの個人Xを休止",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-11-03T14:14:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601231?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6601229?source=rss-夫婦漫才で安保広報に工夫 政府",
+      "title": "夫婦漫才で安保広報に工夫 政府",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-11-03T14:03:56.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601229?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601225?source=rss-アジア杯延期 森保氏去就どうなる",
       "title": "アジア杯延期 森保氏去就どうなる",
@@ -126,15 +180,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6601204?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6601203?source=rss-簗氏の出陣式で鉢巻きを無償配布",
-      "title": "簗氏の出陣式で鉢巻きを無償配布",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-11-03T09:32:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601203?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6601201?source=rss-盤上に虫 藤井竜王思わず席を立つ",
       "title": "盤上に虫 藤井竜王思わず席を立つ",
       "source": "Yahoo!ニュース 国内",
@@ -178,15 +223,6 @@
       "publishedAt": "2026-11-03T07:47:41.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6601192?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6601191?source=rss-長澤まさみ 汚されるシーンは好き",
-      "title": "長澤まさみ 汚されるシーンは好き",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-11-03T07:44:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601191?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601189?source=rss-サッカーアジア杯 1年延期へ",
@@ -369,15 +405,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/03/2000002831/"
     },
     {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6601115?source=rss-GMO会見で「命の砂時計」 意味",
-      "title": "GMO会見で「命の砂時計」 意味",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-11-02T22:33:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601115?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/03/2000002830/-Marvell、光通信技術のLumentumを約18兆円で買収 AIデータセンターの高速化に対応",
       "title": "Marvell、光通信技術のLumentumを約18兆円で買収 AIデータセンターの高速化に対応",
       "source": "ITmedia NEWS",
@@ -394,15 +421,6 @@
       "publishedAt": "2026-11-02T13:43:53.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6601105?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6601099?source=rss-岡崎体育が活動再開へ 年明けから",
-      "title": "岡崎体育が活動再開へ 年明けから",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-11-02T12:13:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601099?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/02/2000002828/-「命の砂時計」連呼のGMO会見──熊谷代表の発言にXではツッコミ続出",
@@ -441,15 +459,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6601082?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601077?source=rss-SBIとフジHDが資本業務提携 発表",
-      "title": "SBIとフジHDが資本業務提携 発表",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-11-02T09:03:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601077?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/02/2000002800/-山岳救助を迅速化へ 兵庫県警が登山アプリ「ヤマップ」と協定締結",
       "title": "山岳救助を迅速化へ 兵庫県警が登山アプリ「ヤマップ」と協定締結",
       "source": "ITmedia NEWS",
@@ -466,15 +475,6 @@
       "publishedAt": "2026-11-02T05:40:09.000Z",
       "description": "「@cosme共通ID」に登録された会員情報の一部・約300万人分が漏えいした。名前や住所、生年月日、肌質、髪質などが含まれている。",
       "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002795/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601048?source=rss-フラット35 金利3.81%で過去2番目",
-      "title": "フラット35 金利3.81%で過去2番目",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-11-02T03:39:43.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601048?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/02/2000002786/-ニコニコレンタカー、免許証画像の事前登録を廃止 保存済み画像も全削除 サイバー攻撃の増加受け",
