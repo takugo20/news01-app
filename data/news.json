@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T20:50:46.536Z",
+  "updatedAt": "2026-11-04T01:07:30.322Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,148 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601237?source=rss-山手線外回りが運転再開 駅で発煙",
-      "title": "山手線外回りが運転再開 駅で発煙",
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6601264?source=rss-1兆円盗難 バイナンスが手口公表",
+      "title": "1兆円盗難 バイナンスが手口公表",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-11-04T00:49:15.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601264?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6601261?source=rss-米津「Lemon」MV10億回再生突破",
+      "title": "米津「Lemon」MV10億回再生突破",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-11-04T00:39:12.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601261?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601258?source=rss-自治体システム移行費巡り調査へ",
+      "title": "自治体システム移行費巡り調査へ",
       "source": "Yahoo!ニュース 経済",
       "category": "経済",
-      "publishedAt": "2026-11-03T20:36:21.000Z",
+      "publishedAt": "2026-11-04T00:20:10.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601237?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6601258?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/04/2000002852/-セブン-イレブン「7NOW」の利用者情報16万件超漏えい 配達委託先に不正アクセス、出前館でも約800件",
+      "title": "セブン-イレブン「7NOW」の利用者情報16万件超漏えい 配達委託先に不正アクセス、出前館でも約800件",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-04T00:09:00.000Z",
+      "description": "登録ドライバーから条件に合う人を選び、配送を依頼できるプラットフォーム「ピックゴー」が不正アクセスを受けた。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002852/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601251?source=rss-異例抜擢 マリナーズ新監督に36歳",
+      "title": "異例抜擢 マリナーズ新監督に36歳",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-03T23:37:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601251?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/04/2000002851/-Microsoft、メモリ8GBのWindows 11 PCを高速化 マルチタスク処理は最大40％向上",
+      "title": "Microsoft、メモリ8GBのWindows 11 PCを高速化 マルチタスク処理は最大40％向上",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-03T23:33:38.000Z",
+      "description": "Microsoftは、メモリ容量8GBの「Windows 11」搭載PCを対象としたパフォーマンス改善を発表した。メモリ圧縮の最適化やバックグラウンド処理の抑制により、操作の応答速度やマルチタスク処理が大幅に向上する。これらの改善を利用するには、Windows 11バージョン26H2のビルド26300.9818以降に更...",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002851/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6601253?source=rss-関東一部 5日朝に警報級大雨恐れ",
+      "title": "関東一部 5日朝に警報級大雨恐れ",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-11-03T23:23:21.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601253?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/04/2000002850/-GMOペイメント、決済支援システムで「不正なユーザーによる行為」 「Vプリカ」69件漏えい、3件はセキュリティコードも",
+      "title": "GMOペイメント、決済支援システムで「不正なユーザーによる行為」 「Vプリカ」69件漏えい、3件はセキュリティコードも",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-03T23:22:40.000Z",
+      "description": "3件は、クレジットカード番号に相当する「Vプリカ番号」（16桁）と、専用のセキュリティコード、有効期限、氏名がそろって盗み取られた可能性がある。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002850/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601250?source=rss-パーソナルトレ トラブル急増",
+      "title": "パーソナルトレ トラブル急増",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-11-03T23:16:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601250?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6601245?source=rss-「アンメット」続編決定 来年放送",
+      "title": "「アンメット」続編決定 来年放送",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-11-03T22:32:13.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601245?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/04/2000002849/-Google、学校の生徒向けAI機能を原則オフへ 「AIなしのGoogle検索」は選べず批判も",
+      "title": "Google、学校の生徒向けAI機能を原則オフへ 「AIなしのGoogle検索」は選べず批判も",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-03T22:31:04.000Z",
+      "description": "Googleは、K-12（幼稚園から高校まで）の生徒向けアカウントで生成AI「Gemini」や「Google検索」などを原則オフにすると発表した。管理者が有効化できるが、検索のAI機能のみを無効にはできず、AIを禁じる学校では検索自体が利用不可となる点が批判を集めている。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002849/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/04/2000002848/-ノジマオンライン、会員情報約700万件漏えい 不正アクセスでサイト休止、再開未定",
+      "title": "ノジマオンライン、会員情報約700万件漏えい 不正アクセスでサイト休止、再開未定",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-03T22:04:35.000Z",
+      "description": "",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002848/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601242?source=rss-森保J 集大成の場なく年内に幕か",
+      "title": "森保J 集大成の場なく年内に幕か",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-03T21:55:23.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601242?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601241?source=rss-広島・森下がFA決断 争奪戦確実",
+      "title": "広島・森下がFA決断 争奪戦確実",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-03T21:44:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601241?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/04/2000002847/-Aterm設定画面、「PHP使ってないのに.php」なぜ？ NECに聞いた",
+      "title": "Aterm設定画面、「PHP使ってないのに.php」なぜ？ NECに聞いた",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-03T21:32:05.000Z",
+      "description": "PHPから移行したわけでもなく、「過去にPHPを使っていた名残」との見方も否定した。では、なぜ？",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002847/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601238?source=rss-阪神・木浪が残留決断 複数年合意",
+      "title": "阪神・木浪が残留決断 複数年合意",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-03T21:13:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601238?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6601235?source=rss-長澤まさみ ボロボロ姿に充実感",
@@ -90,15 +225,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6601229?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601225?source=rss-アジア杯延期 森保氏去就どうなる",
-      "title": "アジア杯延期 森保氏去就どうなる",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-03T13:45:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601225?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6601223?source=rss-緊急要請 備蓄1週間分並べてみた",
       "title": "緊急要請 備蓄1週間分並べてみた",
       "source": "Yahoo!ニュース 国内",
@@ -133,15 +259,6 @@
       "publishedAt": "2026-11-03T12:45:25.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6601220?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6601216?source=rss-関東 4日夜-5日に激しい雨の恐れ",
-      "title": "関東 4日夜-5日に激しい雨の恐れ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-11-03T11:26:01.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601216?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601215?source=rss-松井秀喜監督「擬音語」で指導",
@@ -225,15 +342,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6601192?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601189?source=rss-サッカーアジア杯 1年延期へ",
-      "title": "サッカーアジア杯 1年延期へ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-03T07:24:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601189?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6601181?source=rss-ダークウェブ 日本人の情報流出増",
       "title": "ダークウェブ 日本人の情報流出増",
       "source": "Yahoo!ニュース IT",
@@ -259,15 +367,6 @@
       "publishedAt": "2026-11-03T04:50:05.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6601164?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6601165?source=rss-佐野勇斗 トラブルでも場和ませる",
-      "title": "佐野勇斗 トラブルでも場和ませる",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-11-03T04:41:38.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601165?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601151?source=rss-きのこの山イヤホン 再販時の配慮",
@@ -297,15 +396,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6601143?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601142?source=rss-カブス 鈴木誠也に単年36億円提示",
-      "title": "カブス 鈴木誠也に単年36億円提示",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-03T01:35:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601142?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601141?source=rss-安いもやし限界 5年で13社消える",
       "title": "安いもやし限界 5年で13社消える",
       "source": "Yahoo!ニュース 経済",
@@ -322,15 +412,6 @@
       "publishedAt": "2026-11-03T01:02:59.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6601138?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6601137?source=rss-ゴジラ-0.0公開 監督が続編に意欲",
-      "title": "ゴジラ-0.0公開 監督が続編に意欲",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-11-03T00:55:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601137?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601135?source=rss-子どものセルフレジ操作 SNS賛否",
@@ -369,15 +450,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6601133?source=rss"
     },
     {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6601132?source=rss-GMO 侵入から2カ月なぜ気付かず",
-      "title": "GMO 侵入から2カ月なぜ気付かず",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-11-03T00:06:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601132?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/03/2000002829/-渦中のGMO記者会見、責任の所在はどこに？ 熊谷代表が語った“グループ内の力関係”",
       "title": "渦中のGMO記者会見、責任の所在はどこに？ 熊谷代表が語った“グループ内の力関係”",
       "source": "ITmedia NEWS",
@@ -385,15 +457,6 @@
       "publishedAt": "2026-11-03T00:00:00.000Z",
       "description": "GMOインターネットグループが11月2日に開いた記者会見では、過去に指摘された脆弱性への対応の遅れや、熊谷正寿代表のSNS発信、経営責任などを巡り質問が相次いだ。報道陣の質問に経営陣はどう答えたのか。",
       "url": "https://www.itmedia.co.jp/news/article/2611/03/2000002829/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601128?source=rss-大谷 4年連続MVPへ最終候補入り",
-      "title": "大谷 4年連続MVPへ最終候補入り",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-02T23:46:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601128?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/03/2000002831/-Anthropic、IPO申請書を修正 7?9月売上高は約170億ドル、インフラ契約額は約8954億ドル",
@@ -412,15 +475,6 @@
       "publishedAt": "2026-11-02T22:07:56.000Z",
       "description": "半導体大手のMarvell Technologyは、光通信関連製品を手掛けるLumentum Holdingsを買収することで合意したと発表した。買収額は約1150億ドル。AIデータセンターで急増するデータ通信需要に対応するため、自社の半導体技術とLumentumの光通信技術を統合し、次世代AI接続技術の提供を目指す。",
       "url": "https://www.itmedia.co.jp/news/article/2611/03/2000002830/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601105?source=rss-TDL内に野良猫 運営会社の対応は",
-      "title": "TDL内に野良猫 運営会社の対応は",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-11-02T13:43:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601105?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/02/2000002828/-「命の砂時計」連呼のGMO会見──熊谷代表の発言にXではツッコミ続出",
@@ -520,60 +574,6 @@
       "publishedAt": "2026-11-02T01:23:14.000Z",
       "description": "顧客情報を含む一時ファイルなどを、ロゴ画像と同じ公開領域に保存する設計になっていたことで、約9年間にわたり外部から取得できる状態だったことが原因。",
       "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002780/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/02/2000002779/-Google、宇宙のTPUから初のAI応答を受信 「Project Suncatcher」試作衛星で「Gemma 4」が俳句を詠む",
-      "title": "Google、宇宙のTPUから初のAI応答を受信 「Project Suncatcher」試作衛星で「Gemma 4」が俳句を詠む",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-01T23:59:31.000Z",
-      "description": "Googleは、宇宙AIデータセンター構想「Project Suncatcher」の試作衛星に搭載したTPUから、AIによる最初の応答を受信したと発表した。軌道上のオープンモデル「Gemma 4」にプロンプトを送信し、応答を確認した。今後は宇宙空間でのTPUの動作評価試験を進める。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002779/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/02/2000002778/-FBI、Binanceからの60億ドル超の暗号資産窃盗は北朝鮮「TraderTraitor」の犯行と発表",
-      "title": "FBI、Binanceからの60億ドル超の暗号資産窃盗は北朝鮮「TraderTraitor」の犯行と発表",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-01T22:28:21.000Z",
-      "description": "FBIは、暗号資産取引所Binanceから60億ドル超の暗号資産が盗まれた事件を北朝鮮のサイバー攻撃活動「TraderTraitor」による犯行と発表した。FBIなどは民間事業者に資金洗浄の阻止を要請。なお、Binance Japanは日本の顧客資産は安全に保管されていると報告し、影響はないとしている。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002778/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/02/2000002777/-Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更 月200ドルで5時間ごとの利用制限を撤廃",
-      "title": "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更 月200ドルで5時間ごとの利用制限を撤廃",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-01T22:00:23.000Z",
-      "description": "Anthropicは、「Claude」の個人向け有料プランの名称を変更し、月額100ドルの「Max 5x」を「Max」に、月額200ドルの「Max 20x」を「Ultra」にした。料金は据え置き。Ultraでは確認済みアカウントを対象に、5時間ごとの利用制限を撤廃した。週ごとの制限は変わらない。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002777/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/01/2000002776/-AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明",
-      "title": "AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-31T23:31:07.000Z",
-      "description": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/30/2000002765/-総務省、GMO攻撃者サイトの「ブロッキング」を通信各社に要請 報道",
-      "title": "総務省、GMO攻撃者サイトの「ブロッキング」を通信各社に要請 報道",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-31T10:02:50.000Z",
-      "description": "総務省が10月27日付で、GMOインターネットへの不正アクセス問題を巡り、攻撃者のものとみられるWebサイトの「ブロッキング」を通信事業者に要請していたことが、朝日新聞や読売新聞などの報道で分かった。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002765/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2610/31/2000002775/-Binanceの約1兆円流出、北朝鮮ハッカー集団「TraderTraitor」の犯行か",
-      "title": "Binanceの約1兆円流出、北朝鮮ハッカー集団「TraderTraitor」の犯行か",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-10-30T22:13:43.000Z",
-      "description": "Binanceから約60億ドルの暗号資産が流出した事件で、TRM LabsとChainalysisは北朝鮮のサイバー集団「TraderTraitor」の関与を指摘した。過去最大規模の被害に対し、盗難資産の分散洗浄が進む一方、当局や発行元による迅速な資産凍結も進められている。",
-      "url": "https://www.itmedia.co.jp/news/article/2610/31/2000002775/"
     }
   ]
 }
