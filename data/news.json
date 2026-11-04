@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T01:07:30.322Z",
+  "updatedAt": "2026-11-04T10:40:03.896Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,6 +36,285 @@
   "errors": [],
   "items": [
     {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601334?source=rss-すし店の休廃業・解散が急増 25年",
+      "title": "すし店の休廃業・解散が急増 25年",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-11-04T10:10:49.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601334?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/04/2000002884/-中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か Googleが取引停止",
+      "title": "中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か Googleが取引停止",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-04T09:51:41.000Z",
+      "description": "Googleは、中国企業が出荷前のAndroid端末にバックドアを仕込み、犯罪者にアクセス権を販売していたと発表した。130万台超に不正ソフトが組み込まれ、広告詐欺や通信中継に悪用していたという。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002884/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601329?source=rss-G育成指名の14歳 入団意思を表明",
+      "title": "G育成指名の14歳 入団意思を表明",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-04T09:39:53.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601329?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/04/2000002885/-無印良品、クレカ「MUJI Card」カード番号全ケタ、約109万件漏えいか 不正アクセスで続報",
+      "title": "無印良品、クレカ「MUJI Card」カード番号全ケタ、約109万件漏えいか 不正アクセスで続報",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-04T09:33:11.000Z",
+      "description": "「無印良品」を展開する良品計画は11月4日、10月30日に公表した公式アプリ「MUJIアプリ」への不正アクセスについて、当初は対象外としていたクレジットカード情報や氏名、住所なども外部からアクセスされた可能性があると発表した。新たに判明した対象には、クレジットカード「MUJI Card」のカード番号全桁を含む会員情報約...",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002885/"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6601331?source=rss-無印良品 クレカ番号など流出か",
+      "title": "無印良品 クレカ番号など流出か",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-11-04T09:32:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601331?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6601322?source=rss-特定健診の支援見直し提言 財務省",
+      "title": "特定健診の支援見直し提言 財務省",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-11-04T09:02:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601322?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601320?source=rss-織田翔希 レンジャーズ幹部ら面談",
+      "title": "織田翔希 レンジャーズ幹部ら面談",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-04T08:39:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601320?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/04/2000002764/-議事録も資料もAIが作るなら、人間は何をする？ AIエージェントへ舵を切る「Plaud」を試す",
+      "title": "議事録も資料もAIが作るなら、人間は何をする？ AIエージェントへ舵を切る「Plaud」を試す",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-04T08:39:03.000Z",
+      "description": "ビジネスシーンに浸透したAI文字起こし。AIボイスレコーダーのPlaudは、その先のAIエージェントへと舵を切った。新基盤「Plaud Intelligence」では録音から要約、資料作りまで自動で進み、対談の録音からは字幕ファイルまで作れた。新製品「Plaud One」は声でAIに指示できるイヤフォン型だが、相手の前...",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002764/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601318?source=rss-G松井監督 育成指名の中学生言及",
+      "title": "G松井監督 育成指名の中学生言及",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-04T08:36:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601318?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6601317?source=rss-ゴジラ-0.0初日興収が実写歴代1位",
+      "title": "ゴジラ-0.0初日興収が実写歴代1位",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-11-04T08:35:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601317?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601314?source=rss-東証続落 米選挙懸念でAI株売り",
+      "title": "東証続落 米選挙懸念でAI株売り",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-11-04T07:59:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601314?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/04/2000002878/-デニーズアプリに不正アクセス 旧アプリ移行処理で認証情報を不正作成される 個人情報漏えいか",
+      "title": "デニーズアプリに不正アクセス 旧アプリ移行処理で認証情報を不正作成される 個人情報漏えいか",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-04T07:55:18.000Z",
+      "description": "旧デニーズアプリから新アプリへの移行に関するシステム処理で、第三者が認証情報を不正に作成し、一部の利用者のアカウントにアクセスできる状態になっていたという。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002878/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601311?source=rss-キャンパスノート 15年ぶり刷新",
+      "title": "キャンパスノート 15年ぶり刷新",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-11-04T07:47:23.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601311?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/04/2000002877/-NTTの島田明社長、不正アクセス攻撃者の遮断で法制化求める 事前の想定が重要と強調",
+      "title": "NTTの島田明社長、不正アクセス攻撃者の遮断で法制化求める 事前の想定が重要と強調",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-04T07:36:36.000Z",
+      "description": "政府が攻撃者側のWebサイトへの接続を遮断するよう通信事業者に要請したことについて、NTTの島田明社長は11月4日の決算会見で、法制化について政府に対応を求める方針を明らかにした。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002877/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601303?source=rss-森保監督 アジア杯の延期に言及",
+      "title": "森保監督 アジア杯の延期に言及",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-04T06:35:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601303?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601278?source=rss-BYD海外販売が倍増 中国車に明暗",
+      "title": "BYD海外販売が倍増 中国車に明暗",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-11-04T06:23:32.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601278?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601293?source=rss-松井巨人vs工藤中日 開幕戦で実現",
+      "title": "松井巨人vs工藤中日 開幕戦で実現",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-04T05:50:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601293?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/04/2000002850/-GMOペイメント、決済支援システムで「不正なユーザーによる行為」 「Vプリカ」69件漏えい、3件はセキュリティコードも",
+      "title": "GMOペイメント、決済支援システムで「不正なユーザーによる行為」 「Vプリカ」69件漏えい、3件はセキュリティコードも",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-04T05:35:56.000Z",
+      "description": "3件は、クレジットカード番号に相当する「Vプリカ番号」（16桁）と、専用のセキュリティコード、有効期限、氏名がそろって盗み取られた可能性がある。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002850/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601300?source=rss-サッカー日本代表 南野拓実が復帰",
+      "title": "サッカー日本代表 南野拓実が復帰",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-04T05:33:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601300?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/04/2000002870/-セガ系に不正アクセス ゲームセンター向けサービス停止 バンダイ系の「太鼓の達人」などにも影響",
+      "title": "セガ系に不正アクセス ゲームセンター向けサービス停止 バンダイ系の「太鼓の達人」などにも影響",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-04T04:59:49.000Z",
+      "description": "セガサミーホールディングス傘下、セガ フェイブのサーバの一部が第三者による不正アクセスを受けた。11月1日午後3時から関連サービスを停止しており、一部アーケードゲームのオンラインサービスや「SEGA ID」の新規登録などが利用できない状態となっている。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002870/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/04/2000002869/-GitHub、「Copilot Fusion」正式リリース タスクに応じて最適なAIモデル選択、高性能・低コスト両立",
+      "title": "GitHub、「Copilot Fusion」正式リリース タスクに応じて最適なAIモデル選択、高性能・低コスト両立",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-04T04:13:20.000Z",
+      "description": "米GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002869/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601290?source=rss-広島・森下がFA行使 胸中明かす",
+      "title": "広島・森下がFA行使 胸中明かす",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-04T03:59:12.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601290?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/04/2000002866/-ビックカメラG、メールアドレスなど約1490万件漏えいの可能性 委託先への不正アクセスで",
+      "title": "ビックカメラG、メールアドレスなど約1490万件漏えいの可能性 委託先への不正アクセスで",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-04T03:34:49.000Z",
+      "description": "ビックカメラとコジマ、ソフマップは11月2日、メールマガジン登録者のメールアドレスなど約1490万件が流出した可能性があると発表した。メール配信の委託先、アララへの不正アクセスが原因。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002866/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601284?source=rss-ジュース1本50円 利益ない自販機",
+      "title": "ジュース1本50円 利益ない自販機",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-11-04T03:02:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601284?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601279?source=rss-UFJ新銀行 キャッシュカードなし",
+      "title": "UFJ新銀行 キャッシュカードなし",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-11-04T03:00:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601279?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/04/2000002804/-ランサム攻撃で身代金を払う企業・払わない企業の違いとは？ オランダ警察などが約700件の記録から分析",
+      "title": "ランサム攻撃で身代金を払う企業・払わない企業の違いとは？ オランダ警察などが約700件の記録から分析",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-04T03:00:00.000Z",
+      "description": "オランダ警察や英エディンバラ大学などに所属する研究者らが発表した論文「You Can’t Talk Your Way Out of Cyber Extortion: An Empirical Study of Ransomware Negotiations」は、ランサムウェア攻撃における犯行グループとの値引き交渉の実態...",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002804/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/04/2000002805/-なぜCookie同意バナーの「拒否」ボタンは見つからないのか 1万4000サイト調査で見えた“同意させる”手口",
+      "title": "なぜCookie同意バナーの「拒否」ボタンは見つからないのか 1万4000サイト調査で見えた“同意させる”手口",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-04T03:00:00.000Z",
+      "description": "韓国の成均館大学に所属する研究者らが発表した論文「When the Abyss Looks Back: Unveiling Evolving Dark Patterns in Cookie Consent Banners」は、WebサイトのCookie（クッキー）同意バナーにおけるダークパターンの実態を調査した研究報告...",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002805/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601277?source=rss-J2で再び 得点時にハンドの疑惑",
+      "title": "J2で再び 得点時にハンドの疑惑",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-04T02:35:02.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601277?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6601275?source=rss-マッシュル実写映画化 来年に公開",
+      "title": "マッシュル実写映画化 来年に公開",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-11-04T02:33:55.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601275?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/04/2000002861/-メルアド7700万件流出か アララメッセージの不正アクセスで続報 共通環境から契約企業のサーバへ侵入 悪用も確認",
+      "title": "メルアド7700万件流出か アララメッセージの不正アクセスで続報 共通環境から契約企業のサーバへ侵入 悪用も確認",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-04T01:41:58.000Z",
+      "description": "アララ（東京都港区）が提供するメール配信サービス「アララメッセージ」への不正アクセスを巡り、新たに約7700万件のメールアドレスが外部に流出、またはその恐れがある。ペイクラウドホールディングスが10月29日に公表した不正アクセスの続報で、影響を受ける契約企業は最大約380社に上る。同サービスは10月31日から全面停止し...",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002861/"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601266?source=rss-フードデリバリー業界に淘汰の波",
+      "title": "フードデリバリー業界に淘汰の波",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-11-04T01:25:19.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6601266?source=rss"
+    },
+    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6601264?source=rss-1兆円盗難 バイナンスが手口公表",
       "title": "1兆円盗難 バイナンスが手口公表",
       "source": "Yahoo!ニュース IT",
@@ -43,6 +322,15 @@
       "publishedAt": "2026-11-04T00:49:15.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6601264?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/04/2000002854/-アソビュー、会員情報1582万件流出 最終ログイン日や利用施設も メール委託先・アララ不正アクセスで",
+      "title": "アソビュー、会員情報1582万件流出 最終ログイン日や利用施設も メール委託先・アララ不正アクセスで",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-04T00:42:16.000Z",
+      "description": "会員ID・会員番号、性別、会員登録日、最終ログイン日、郵便番号、住んでいる地域に加え、チケット購入日時、チケットの種類、購入枚数、参加人数、キャンセルの有無などの情報が流出したという。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002854/"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6601261?source=rss-米津「Lemon」MV10億回再生突破",
@@ -54,13 +342,13 @@
       "url": "https://news.yahoo.co.jp/pickup/6601261?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601258?source=rss-自治体システム移行費巡り調査へ",
-      "title": "自治体システム移行費巡り調査へ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-11-04T00:20:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601258?source=rss"
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/04/2000002855/-Apple、刷新版「Siri AI」を全開発者に開放 アプリ連携で予約や注文などの操作が可能に",
+      "title": "Apple、刷新版「Siri AI」を全開発者に開放 アプリ連携で予約や注文などの操作が可能に",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-04T00:37:42.000Z",
+      "description": "Appleは、音声アシスタント「Siri AI」とサードパーティアプリを連携させる機能を開発者向けに開放すると発表し、各OSのβ版でプレビュー提供を開始した。「App Intents」を利用し、アプリを開かずにSiri AIから直接操作が可能になる。一般ユーザーへの提供は数カ月後の見込みだ。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002855/"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/04/2000002852/-セブン-イレブン「7NOW」の利用者情報16万件超漏えい 配達委託先に不正アクセス、出前館でも約800件",
@@ -70,15 +358,6 @@
       "publishedAt": "2026-11-04T00:09:00.000Z",
       "description": "登録ドライバーから条件に合う人を選び、配送を依頼できるプラットフォーム「ピックゴー」が不正アクセスを受けた。",
       "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002852/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601251?source=rss-異例抜擢 マリナーズ新監督に36歳",
-      "title": "異例抜擢 マリナーズ新監督に36歳",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-03T23:37:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601251?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/04/2000002851/-Microsoft、メモリ8GBのWindows 11 PCを高速化 マルチタスク処理は最大40％向上",
@@ -97,15 +376,6 @@
       "publishedAt": "2026-11-03T23:23:21.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6601253?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/04/2000002850/-GMOペイメント、決済支援システムで「不正なユーザーによる行為」 「Vプリカ」69件漏えい、3件はセキュリティコードも",
-      "title": "GMOペイメント、決済支援システムで「不正なユーザーによる行為」 「Vプリカ」69件漏えい、3件はセキュリティコードも",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-03T23:22:40.000Z",
-      "description": "3件は、クレジットカード番号に相当する「Vプリカ番号」（16桁）と、専用のセキュリティコード、有効期限、氏名がそろって盗み取られた可能性がある。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002850/"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601250?source=rss-パーソナルトレ トラブル急増",
@@ -144,24 +414,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002848/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601242?source=rss-森保J 集大成の場なく年内に幕か",
-      "title": "森保J 集大成の場なく年内に幕か",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-03T21:55:23.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601242?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601241?source=rss-広島・森下がFA決断 争奪戦確実",
-      "title": "広島・森下がFA決断 争奪戦確実",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-03T21:44:10.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601241?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/04/2000002847/-Aterm設定画面、「PHP使ってないのに.php」なぜ？ NECに聞いた",
       "title": "Aterm設定画面、「PHP使ってないのに.php」なぜ？ NECに聞いた",
       "source": "ITmedia NEWS",
@@ -169,15 +421,6 @@
       "publishedAt": "2026-11-03T21:32:05.000Z",
       "description": "PHPから移行したわけでもなく、「過去にPHPを使っていた名残」との見方も否定した。では、なぜ？",
       "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002847/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601238?source=rss-阪神・木浪が残留決断 複数年合意",
-      "title": "阪神・木浪が残留決断 複数年合意",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-03T21:13:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601238?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6601235?source=rss-長澤まさみ ボロボロ姿に充実感",
@@ -196,15 +439,6 @@
       "publishedAt": "2026-11-03T14:59:10.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6601234?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601233?source=rss-タイ 輸入EVの物品税引き上げへ",
-      "title": "タイ 輸入EVの物品税引き上げへ",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-11-03T14:40:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601233?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6601231?source=rss-カワラボ メンバーの個人Xを休止",
@@ -252,33 +486,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6601222?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601220?source=rss-スペイン2部 試合中搬送のFW死去",
-      "title": "スペイン2部 試合中搬送のFW死去",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-03T12:45:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601220?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601215?source=rss-松井秀喜監督「擬音語」で指導",
-      "title": "松井秀喜監督「擬音語」で指導",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-03T11:02:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601215?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601212?source=rss-豪が追加利上げ 18年ぶり高水準",
-      "title": "豪が追加利上げ 18年ぶり高水準",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-11-03T10:23:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601212?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6601209?source=rss-GMOのサーバー「設計上の不備」",
       "title": "GMOのサーバー「設計上の不備」",
       "source": "Yahoo!ニュース IT",
@@ -306,15 +513,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6601201?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601200?source=rss-アジア杯延期 JFA会長がコメント",
-      "title": "アジア杯延期 JFA会長がコメント",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-03T09:00:56.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601200?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6601198?source=rss-SNS巡る問題 揺らぐ表現の自由",
       "title": "SNS巡る問題 揺らぐ表現の自由",
       "source": "Yahoo!ニュース IT",
@@ -322,15 +520,6 @@
       "publishedAt": "2026-11-03T08:53:06.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6601198?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601195?source=rss-小園海斗 去就「話せることない」",
-      "title": "小園海斗 去就「話せることない」",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-03T08:27:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601195?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6601192?source=rss-是枝氏 倉本作品は「教科書です」",
@@ -369,24 +558,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6601164?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601151?source=rss-きのこの山イヤホン 再販時の配慮",
-      "title": "きのこの山イヤホン 再販時の配慮",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-11-03T02:47:00.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601151?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6601150?source=rss-佐野勇斗&髙石あかり 今年の顔に",
-      "title": "佐野勇斗&髙石あかり 今年の顔に",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-11-03T02:40:19.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601150?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6601143?source=rss-親と縁切る「家族じまい」相談増",
       "title": "親と縁切る「家族じまい」相談増",
       "source": "Yahoo!ニュース 国内",
@@ -396,42 +567,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6601143?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601141?source=rss-安いもやし限界 5年で13社消える",
-      "title": "安いもやし限界 5年で13社消える",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-11-03T01:17:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601141?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6601138?source=rss-我が家・坪倉 相方の杉山巡り謝罪",
-      "title": "我が家・坪倉 相方の杉山巡り謝罪",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-11-03T01:02:59.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601138?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601135?source=rss-子どものセルフレジ操作 SNS賛否",
-      "title": "子どものセルフレジ操作 SNS賛否",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-11-03T00:47:57.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601135?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6601134?source=rss-米アップルiPhone好調で増収増益",
-      "title": "米アップルiPhone好調で増収増益",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-11-03T00:44:56.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601134?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/03/2000002840/-Apple、第4四半期として過去最高の増収増益 ターナスCEO初の決算「Siri AIはずっと望んでいたSiri」",
       "title": "Apple、第4四半期として過去最高の増収増益 ターナスCEO初の決算「Siri AIはずっと望んでいたSiri」",
       "source": "ITmedia NEWS",
@@ -439,141 +574,6 @@
       "publishedAt": "2026-11-03T00:44:48.000Z",
       "description": "Appleの7月?9月期決算は、売上高が前年同期比12％増、純利益も12％増となり、共に同四半期の過去最高を記録した。通期でも過去最高を更新した。新CEOのジョン・ターナス氏による初の会見で、折りたたみ型「iPhone Duo」やAI戦略「Siri AI」の進捗を報告。次期も増収を見込む。",
       "url": "https://www.itmedia.co.jp/news/article/2611/03/2000002840/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6601133?source=rss-トランプ政権に「共感」日本で23%",
-      "title": "トランプ政権に「共感」日本で23%",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-11-03T00:06:45.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601133?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/03/2000002829/-渦中のGMO記者会見、責任の所在はどこに？ 熊谷代表が語った“グループ内の力関係”",
-      "title": "渦中のGMO記者会見、責任の所在はどこに？ 熊谷代表が語った“グループ内の力関係”",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-03T00:00:00.000Z",
-      "description": "GMOインターネットグループが11月2日に開いた記者会見では、過去に指摘された脆弱性への対応の遅れや、熊谷正寿代表のSNS発信、経営責任などを巡り質問が相次いだ。報道陣の質問に経営陣はどう答えたのか。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/03/2000002829/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/03/2000002831/-Anthropic、IPO申請書を修正 7?9月売上高は約170億ドル、インフラ契約額は約8954億ドル",
-      "title": "Anthropic、IPO申請書を修正 7?9月売上高は約170億ドル、インフラ契約額は約8954億ドル",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-02T23:20:20.000Z",
-      "description": "Anthropicは、証券取引委員会（SEC）にIPOに向けた登録届出書の修正版を提出した。第3四半期の売上高は前年同期比約12.3倍の約169億ドルに拡大した一方、営業損益は赤字に転落。また、AI計算資源やインフラに関する将来の支出約束額が約8954億ドルに上ることも明らかにした。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/03/2000002831/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/03/2000002830/-Marvell、光通信技術のLumentumを約18兆円で買収 AIデータセンターの高速化に対応",
-      "title": "Marvell、光通信技術のLumentumを約18兆円で買収 AIデータセンターの高速化に対応",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-02T22:07:56.000Z",
-      "description": "半導体大手のMarvell Technologyは、光通信関連製品を手掛けるLumentum Holdingsを買収することで合意したと発表した。買収額は約1150億ドル。AIデータセンターで急増するデータ通信需要に対応するため、自社の半導体技術とLumentumの光通信技術を統合し、次世代AI接続技術の提供を目指す。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/03/2000002830/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/02/2000002828/-「命の砂時計」連呼のGMO会見──熊谷代表の発言にXではツッコミ続出",
-      "title": "「命の砂時計」連呼のGMO会見──熊谷代表の発言にXではツッコミ続出",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-02T11:57:33.000Z",
-      "description": "GMOインターネットグループの熊谷正寿代表は11月2日の記者会見で、AIの説明に時間を割いた理由を記者が尋ねると、自身の「命の砂時計」をインターネットとグループに捧げていると語った。Xでの発信を一定期間休止することも表明した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002828/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/02/2000002823/-GMO熊谷代表、涙の謝罪会見でも“熊谷節”さく裂──「31年間、もうけるという言葉は使ったことがない」",
-      "title": "GMO熊谷代表、涙の謝罪会見でも“熊谷節”さく裂──「31年間、もうけるという言葉は使ったことがない」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-02T10:27:04.000Z",
-      "description": "GMOインターネットグループの熊谷正寿代表は11月2日、「お名前.com デスクトップクラウド」への不正アクセスに関する説明会で、身代金を支払わない理由や、AI時代のサイバー攻撃への危機感を語った。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002823/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/02/2000002806/-GMO熊谷代表、会見で改めて謝罪 SNS投稿巡り「配慮が欠けていた」",
-      "title": "GMO熊谷代表、会見で改めて謝罪 SNS投稿巡り「配慮が欠けていた」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-02T10:20:14.000Z",
-      "description": "GMOインターネットグループの熊谷正寿代表は11月2日、FX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡る記者会見で謝罪した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002806/"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6601082?source=rss-GMO熊谷社長ら 報酬を3カ月減額",
-      "title": "GMO熊谷社長ら 報酬を3カ月減額",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-11-02T09:24:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601082?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/02/2000002800/-山岳救助を迅速化へ 兵庫県警が登山アプリ「ヤマップ」と協定締結",
-      "title": "山岳救助を迅速化へ 兵庫県警が登山アプリ「ヤマップ」と協定締結",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-02T06:10:17.000Z",
-      "description": "山岳救助の強化のため兵庫県警は30日、登山アプリ「YAMAP（ヤマップ）」を運営するヤマップ（福岡市）と協定を締結した。登山計画を記入する「登山届」の情報共有などを通して山岳遭難の未然防止や救助活動の迅速化につなげる。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002800/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/02/2000002795/-アットコスメ、会員約300万人分の情報漏えい 不正アクセスで",
-      "title": "アットコスメ、会員約300万人分の情報漏えい 不正アクセスで",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-02T05:40:09.000Z",
-      "description": "「@cosme共通ID」に登録された会員情報の一部・約300万人分が漏えいした。名前や住所、生年月日、肌質、髪質などが含まれている。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002795/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/02/2000002786/-ニコニコレンタカー、免許証画像の事前登録を廃止 保存済み画像も全削除 サイバー攻撃の増加受け",
-      "title": "ニコニコレンタカー、免許証画像の事前登録を廃止 保存済み画像も全削除 サイバー攻撃の増加受け",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-02T03:23:04.000Z",
-      "description": "ニコニコレンタカーは10月27日、公式アプリ「ニコパス」での運転免許証画像の事前登録機能を廃止すると発表した。これまで預かっていた画像データは全て削除済みという。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002786/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/02/2000002785/-楽天証券、顧客情報362件が漏えいか NTTデータ委託先に不正アクセス",
-      "title": "楽天証券、顧客情報362件が漏えいか NTTデータ委託先に不正アクセス",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-02T03:02:40.000Z",
-      "description": "漏えいした可能性がある項目は明らかにしていない。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002785/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/02/2000002783/-ワールド子会社に不正アクセス、会員情報のべ約120万件が流出の可能性 「RAGTAG」運営元",
-      "title": "ワールド子会社に不正アクセス、会員情報のべ約120万件が流出の可能性 「RAGTAG」運営元",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-02T02:06:13.000Z",
-      "description": "氏名、住所、電話番号、生年月日、性別、メールアドレスを含む。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002783/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/02/2000002782/-クラブツーリズムに不正アクセス 個人情報約432万件漏えいの可能性、サイト停止",
-      "title": "クラブツーリズムに不正アクセス 個人情報約432万件漏えいの可能性、サイト停止",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-02T01:48:11.000Z",
-      "description": "氏名、国籍、性別、生年月日・年齢、住所、電話番号、メールアドレス、会員ID、緊急連絡先が対象。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002782/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/02/2000002780/-ロゴ画像用の公開領域に顧客ファイルも保存 GMO系シングルサインオン、4.5万人分漏えい",
-      "title": "ロゴ画像用の公開領域に顧客ファイルも保存 GMO系シングルサインオン、4.5万人分漏えい",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-02T01:23:14.000Z",
-      "description": "顧客情報を含む一時ファイルなどを、ロゴ画像と同じ公開領域に保存する設計になっていたことで、約9年間にわたり外部から取得できる状態だったことが原因。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002780/"
     }
   ]
 }
