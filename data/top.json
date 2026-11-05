@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T01:22:47.219Z",
+  "updatedAt": "2026-11-05T10:33:22.912Z",
   "generatedBy": "GitHub Actions",
   "market": {
     "nikkei225": {
@@ -28,10 +28,10 @@
     "latitude": 36.5657,
     "longitude": 139.8836,
     "temperature": 13.7,
-    "weatherCode": 2,
-    "windSpeed": 8.7,
+    "weatherCode": 1,
+    "windSpeed": 4.2,
     "precipitationProbability": 100,
-    "temperatureMax": 16.3,
+    "temperatureMax": 15.6,
     "temperatureMin": 10.9,
     "source": "Open-Meteo",
     "url": "https://api.open-meteo.com/v1/forecast?latitude=36.5657&longitude=139.8836&current=temperature_2m%2Cweather_code%2Cwind_speed_10m&daily=precipitation_probability_max%2Ctemperature_2m_max%2Ctemperature_2m_min&timezone=Asia%2FTokyo&forecast_days=2",
