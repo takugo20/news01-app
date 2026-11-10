@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T16:53:12.386Z",
+  "updatedAt": "2026-11-10T23:00:23.780Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,69 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6602110?source=rss-巨人 元楽天監督の平石氏招へいへ",
+      "title": "巨人 元楽天監督の平石氏招へいへ",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-10T22:25:26.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602110?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602109?source=rss-亀梨和也&赤西仁 来年8月にライブ",
+      "title": "亀梨和也&赤西仁 来年8月にライブ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-11-10T22:14:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602109?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/11/2000003083/-Google、「Gemini 4 Carbon」一般提供開始 Geminiアプリでは最上位「AI Ultra」限定",
+      "title": "Google、「Gemini 4 Carbon」一般提供開始 Geminiアプリでは最上位「AI Ultra」限定",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-10T22:03:30.000Z",
+      "description": "Googleは、最上位AIモデル「Gemini 4 Carbon」の提供を開始した。一般ユーザーは月額1万4500円の「Google AI Ultra」契約で利用可能となる。複雑な推論や高度なコーディングに特化しており、開発者向けAPIや新機能「/swarm」のプレビュー提供も始まった。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6602107?source=rss-小泉氏 首相総裁選出馬なら支える",
+      "title": "小泉氏 首相総裁選出馬なら支える",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-11-10T21:39:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602107?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6602105?source=rss-巨人 森下暢仁に4年契約を準備",
+      "title": "巨人 森下暢仁に4年契約を準備",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-10T21:08:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602105?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/11/2000002913/-「盗撮」→「法律で規制」が話題のAI眼鏡 海外では大ヒットなのに、日本での普及は限定的 ビジネスでの活用事例を探る",
+      "title": "「盗撮」→「法律で規制」が話題のAI眼鏡 海外では大ヒットなのに、日本での普及は限定的 ビジネスでの活用事例を探る",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-10T20:00:00.000Z",
+      "description": "海外で規制する動きが出ている「AI眼鏡（スマートグラス）」。負の側面が注目されがちだが、ビジネスや医療の現場で活用される事例も出始めている。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000002913/"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6602104?source=rss-証明書コンビニ交付で障害か 復旧",
+      "title": "証明書コンビニ交付で障害か 復旧",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-11-10T17:50:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602104?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6602099?source=rss-タマホーム社員 保険金を不正請求",
       "title": "タマホーム社員 保険金を不正請求",
@@ -153,15 +216,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003079/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6602079?source=rss-安保3文書 民間力強化を明記へ",
-      "title": "安保3文書 民間力強化を明記へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-11-10T11:01:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602079?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6602078?source=rss-関電が作業服を刷新 ビームス監修",
       "title": "関電が作業服を刷新 ビームス監修",
       "source": "Yahoo!ニュース 経済",
@@ -214,15 +268,6 @@
       "publishedAt": "2026-11-10T09:23:37.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6602067?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6602063?source=rss-証明書のコンビニ交付 障害相次ぐ",
-      "title": "証明書のコンビニ交付 障害相次ぐ",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-11-10T09:06:39.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602063?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6602064?source=rss-緒方理貢 トライアウト不参加に",
@@ -286,15 +331,6 @@
       "publishedAt": "2026-11-10T07:13:36.000Z",
       "description": "日本ケンタッキー・フライド・チキンが、実験販売メニューの商品画像の制作に生成AIを用いることがあると、ITmedia NEWSの取材に回答した。フロートの画像が「AI画像ではないか」とXで話題になったことがきっかけだが、利用の意図や狙いは明らかにしていない。",
       "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003070/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6602045?source=rss-広島森下ら10人FA権行使 NPB公示",
-      "title": "広島森下ら10人FA権行使 NPB公示",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-10T06:53:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602045?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6602044?source=rss-「仮面舞踏会」チケ即日完売 なぜ",
@@ -405,15 +441,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003045/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602016?source=rss-中村橋之助 父としての覚悟明かす",
-      "title": "中村橋之助 父としての覚悟明かす",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-11-10T02:41:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602016?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/10/2000003051/-NTTデータ、住友生命から受託したシステムに不正アクセス 「Vitality」利用者約8万人の情報漏えい",
       "title": "NTTデータ、住友生命から受託したシステムに不正アクセス 「Vitality」利用者約8万人の情報漏えい",
       "source": "ITmedia NEWS",
@@ -486,15 +513,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/10/2000002985/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6601988?source=rss-バスケ吉田亜沙美 がん公表の思い",
-      "title": "バスケ吉田亜沙美 がん公表の思い",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-09T23:19:25.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6601988?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/10/2000003040/-「AI店長」、対人関係に苦戦 指摘が生かされずスタッフからの報告減少 PwCが“売店”で実験",
       "title": "「AI店長」、対人関係に苦戦 指摘が生かされずスタッフからの報告減少 PwCが“売店”で実験",
       "source": "ITmedia NEWS",
@@ -511,24 +529,6 @@
       "publishedAt": "2026-11-09T22:53:56.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6601983?source=rss"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/10/2000003043/-Google、第8世代TPUに「8tx」と「8i Max」を追加 機密データ処理と大規模AIエージェントに特化",
-      "title": "Google、第8世代TPUに「8tx」と「8i Max」を追加 機密データ処理と大規模AIエージェントに特化",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-09T22:26:48.000Z",
-      "description": "Googleは、第8世代TPUに機密データ処理向けの「TPU 8tx」と長大コンテキスト処理向けの「TPU 8i Max」を追加した。自律的なAIエージェントの普及に伴うセキュリティとメモリ性能の課題に対処する。TPU向けソフトウェアのオープンソース化や、計算資源の無駄を省く機能の強化も併せて発表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003043/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/10/2000003042/-Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下げ、出力は最大30％高速化",
-      "title": "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下げ、出力は最大30％高速化",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-09T22:03:56.000Z",
-      "description": "Anthropicは、最上位AIモデルの新版「Claude Fable 5.2」および審査制の「Claude Mythos 5.2」を発表した。出力速度は最大30％向上し、API料金は2割値下げされている。長時間の複雑な推論やエージェント型コーディングに特化しており、同日より主要クラウドや各種アプリで提供が開始された。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003042/"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6601976?source=rss-石破前首相ら戒告処分 参院側不満",
