@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T17:27:11.311Z",
+  "updatedAt": "2026-11-12T23:22:23.801Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,78 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602371?source=rss-小瀧望 WEST.解散後初の公の場",
+      "title": "小瀧望 WEST.解散後初の公の場",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-11-12T23:15:24.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602371?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6602369?source=rss-首相 防衛費巡る「大幅増税」慎重",
+      "title": "首相 防衛費巡る「大幅増税」慎重",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-11-12T22:59:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602369?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602363?source=rss-落語家の三遊亭鳳楽さん死去 79歳",
+      "title": "落語家の三遊亭鳳楽さん死去 79歳",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-11-12T22:33:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602363?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6602362?source=rss-「Microsoft 365」で大規模障害",
+      "title": "「Microsoft 365」で大規模障害",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-11-12T22:19:09.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602362?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6602361?source=rss-エヌビディアCEO辞任 動揺広がる",
+      "title": "エヌビディアCEO辞任 動揺広がる",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-11-12T21:59:48.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602361?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602360?source=rss-EBiDANが紅白初出場 節目に悲願",
+      "title": "EBiDANが紅白初出場 節目に悲願",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-11-12T21:45:40.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602360?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/13/2000003161/-Microsoft 365で大規模障害 「Outlook」でメールにアクセスできず、「Teams」など複数サービスに影響",
+      "title": "Microsoft 365で大規模障害 「Outlook」でメールにアクセスできず、「Teams」など複数サービスに影響",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-12T21:41:21.000Z",
+      "description": "Microsoftの「Microsoft 365」で米国時間11月12日、Exchange Onlineなどに接続できない大規模障害が発生した。原因は多数のサーバが自動ヘルスチェックに失敗して応答しなくなったためで、直近の構成変更が影響した可能性がある。一部は復旧しており、同社は自動復旧の導入など対応を進めている。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003161/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602359?source=rss-幾田りら 髪染め本格俳優デビュー",
+      "title": "幾田りら 髪染め本格俳優デビュー",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-11-12T21:40:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602359?source=rss"
+    },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/12/2000003160/-NVIDIA、“革ジャンCEO”ことフアン氏が辞任 クレスCFOが暫定CEOに",
       "title": "NVIDIA、“革ジャンCEO”ことフアン氏が辞任 クレスCFOが暫定CEOに",
@@ -243,15 +315,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003144/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6602311?source=rss-消費税減税の広報動画 公開見送り",
-      "title": "消費税減税の広報動画 公開見送り",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-11-12T08:00:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602311?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6602313?source=rss-北海道新聞 拘束記者の実名掲載",
       "title": "北海道新聞 拘束記者の実名掲載",
       "source": "Yahoo!ニュース 国内",
@@ -268,15 +331,6 @@
       "publishedAt": "2026-11-12T07:26:47.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6602310?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6602308?source=rss-良品計画の社長 情報流出巡り謝罪",
-      "title": "良品計画の社長 情報流出巡り謝罪",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-11-12T07:04:58.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602308?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/12/2000003139/-AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
@@ -342,15 +396,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6602290?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602287?source=rss-ゴルゴ松本 矯正施設で講演100回",
-      "title": "ゴルゴ松本 矯正施設で講演100回",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-11-12T03:07:02.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602287?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/12/2000003132/-Google DeepMind、「AlphaGenome 2」発表 細胞の種類ごとにDNA変異の影響を予測するAI",
       "title": "Google DeepMind、「AlphaGenome 2」発表 細胞の種類ごとにDNA変異の影響を予測するAI",
       "source": "ITmedia NEWS",
@@ -367,24 +412,6 @@
       "publishedAt": "2026-11-12T02:29:43.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6602274?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602268?source=rss-「DOWNTOWN+」1年 制作の本音",
-      "title": "「DOWNTOWN+」1年 制作の本音",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-11-12T02:22:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602268?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602270?source=rss-石原さとみ 子供に「大好き」習慣",
-      "title": "石原さとみ 子供に「大好き」習慣",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-11-12T02:05:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602270?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6602269?source=rss-二重かわいい 女子大学生の違和感",
@@ -421,15 +448,6 @@
       "publishedAt": "2026-11-12T00:53:56.000Z",
       "description": "不正アクセスの形跡やサイバー攻撃を示す事象は確認していないという。",
       "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003125/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602259?source=rss-宮藤官九郎 映画「真犯人」で主演",
-      "title": "宮藤官九郎 映画「真犯人」で主演",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-11-12T00:42:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602259?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6602254?source=rss-EU「ダークパターン」禁止へ",
@@ -556,24 +574,6 @@
       "publishedAt": "2026-11-11T05:19:36.000Z",
       "description": "アララが提供するメール配信サービスが不正アクセスを受けたことが原因。メルマガ登録時に入力された氏名や性別などの情報も、漏えいした可能性もあるという。",
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003105/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/11/2000003102/-業界初「水道水を使うアンテナ」モバイル端末との接続に成功 三菱電機",
-      "title": "業界初「水道水を使うアンテナ」モバイル端末との接続に成功 三菱電機",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-11T04:50:38.000Z",
-      "description": "一般的な金属製アンテナの接続性能と差分がないことを確認したという。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003102/"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6602146?source=rss-メールの不適切な「CC」境界線は",
-      "title": "メールの不適切な「CC」境界線は",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-11-11T03:02:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602146?source=rss"
     }
   ]
 }
