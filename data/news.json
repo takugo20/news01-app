@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T14:18:00.220Z",
+  "updatedAt": "2026-11-13T21:17:45.376Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6602480?source=rss-自衛官の給与引き上げ法が成立",
+      "title": "自衛官の給与引き上げ法が成立",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-11-13T14:48:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602480?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/13/2000003195/-AI×裸眼3Dディスプレイ？ 2D映像をその場で3D化し、見る人の目も追う 現地で確かめた",
+      "title": "AI×裸眼3Dディスプレイ？ 2D映像をその場で3D化し、見る人の目も追う 現地で確かめた",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-13T14:34:56.000Z",
+      "description": "文章作成とんでん、ソフトバンク、SBクリエイティブの3社が、裸眼で3D映像を見られるデジタルサイネージの実証実験を公開した。AIが視聴者の目の位置を追跡し、既存の2D動画をリアルタイムで3D映像に変換する。現地で体験した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003195/"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602479?source=rss-紅白 あいみょんや米津の名前なし",
+      "title": "紅白 あいみょんや米津の名前なし",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-11-13T14:22:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602479?source=rss"
+    },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6602477?source=rss-MS障害 日本は比較的安定状態",
       "title": "MS障害 日本は比較的安定状態",
@@ -153,15 +180,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6602448?source=rss"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/13/2000003195/-AI×裸眼3Dディスプレイ？ 2D映像をその場で3D化し、見る人の目も追う 現地で確かめた",
-      "title": "AI×裸眼3Dディスプレイ？ 2D映像をその場で3D化し、見る人の目も追う 現地で確かめた",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-13T09:25:54.000Z",
-      "description": "文章作成とんでん、ソフトバンク、SBクリエイティブの3社が、裸眼で3D映像を見られるデジタルサイネージの実証実験を公開した。AIが視聴者の目の位置を追跡し、既存の2D動画をリアルタイムで3D映像に変換する。現地で体験した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003195/"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6602444?source=rss-損保3社タマホーム保険販売停止へ",
       "title": "損保3社タマホーム保険販売停止へ",
       "source": "Yahoo!ニュース 経済",
@@ -214,15 +232,6 @@
       "publishedAt": "2026-11-13T07:52:08.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6602430?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602429?source=rss-紅白出場歌手 Xのコメントまとめ",
-      "title": "紅白出場歌手 Xのコメントまとめ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-11-13T07:39:01.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602429?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602426?source=rss-紅白 堺雅人&二宮司会共演は偶然",
@@ -511,15 +520,6 @@
       "publishedAt": "2026-11-12T14:53:52.000Z",
       "description": "米NVIDIAは11月12日（現地時間）、1993年の共同創業以来同社を率いてきたジェンスン・フアン氏が、社長兼CEOと取締役を即日辞任したと発表した。CFOのコレット・クレス氏が暫定CEOに就任し、取締役会は社内外から正式なCEOを選ぶ。",
       "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003160/"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6602349?source=rss-石破氏 採決で退席の小渕氏を評価",
-      "title": "石破氏 採決で退席の小渕氏を評価",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-11-12T13:32:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602349?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6602346?source=rss-選挙ポスターAI作成? 戸惑いの声",
