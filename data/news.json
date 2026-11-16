@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T10:50:00.044Z",
+  "updatedAt": "2026-11-16T21:48:38.709Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,105 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602851?source=rss-グラミー新設賞 候補にベビメタら",
+      "title": "グラミー新設賞 候補にベビメタら",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-11-16T21:35:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602851?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/16/2000003244/-Google、人間の関与なしに脆弱性を見つけて悪用するAIフレームワークを初めて観測 GTIGのAI脅威レポート",
+      "title": "Google、人間の関与なしに脆弱性を見つけて悪用するAIフレームワークを初めて観測 GTIGのAI脅威レポート",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-16T14:00:56.000Z",
+      "description": "Googleは、AIを悪用したサイバー攻撃の動向をまとめた四半期レポートを公開した。攻撃者が複数のAIエージェントを組み合わせ、自律的に脆弱性の発見から攻撃までを実行するフレームワークが初めて確認された。偽プロフィールによる標的への接近や世論工作の自動化、LLMJackingの被害拡大なども報告している。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003244/"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6602845?source=rss-FWルカク ベルギー代表引退表明",
+      "title": "FWルカク ベルギー代表引退表明",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-16T13:56:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602845?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6602840?source=rss-卵サンドつかむ客動画炎上 店説明",
+      "title": "卵サンドつかむ客動画炎上 店説明",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-11-16T13:31:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602840?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6602838?source=rss-立憲 党職員への「退職勧奨」検討",
+      "title": "立憲 党職員への「退職勧奨」検討",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-11-16T13:20:34.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602838?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6602841?source=rss-矢野ら カープに謝罪求める要請書",
+      "title": "矢野ら カープに謝罪求める要請書",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-16T13:20:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602841?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602834?source=rss-高橋一生が公演中に負傷 舞台中止",
+      "title": "高橋一生が公演中に負傷 舞台中止",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-11-16T12:44:03.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602834?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6602830?source=rss-ゴルフの年間女王 次々と米進出",
+      "title": "ゴルフの年間女王 次々と米進出",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-16T12:30:30.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602830?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602831?source=rss-漫画ひらやすみ 連載5年半に幕",
+      "title": "漫画ひらやすみ 連載5年半に幕",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-11-16T11:57:43.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602831?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602827?source=rss-中田乃愛さん死去 テレ東など追悼",
+      "title": "中田乃愛さん死去 テレ東など追悼",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-11-16T11:15:16.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602827?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6602825?source=rss-コカイン摘発 過去最多更新ペース",
+      "title": "コカイン摘発 過去最多更新ペース",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-11-16T11:00:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602825?source=rss"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602823?source=rss-日テレ・徳島えりかアナが退社へ",
       "title": "日テレ・徳島えりかアナが退社へ",
@@ -79,15 +178,6 @@
       "publishedAt": "2026-11-16T09:51:28.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6602820?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6602818?source=rss-ゴルフ植竹希望 交通事故遭い欠場",
-      "title": "ゴルフ植竹希望 交通事故遭い欠場",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-16T09:43:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602818?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6602817?source=rss-マンション短期売買 課税強化検討",
@@ -171,15 +261,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003233/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602804?source=rss-山形ユキオ氏死去 アニメで主題歌",
-      "title": "山形ユキオ氏死去 アニメで主題歌",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-11-16T07:25:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602804?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6602802?source=rss-日経平均は反落 AI株が下げ主導",
       "title": "日経平均は反落 AI株が下げ主導",
       "source": "Yahoo!ニュース 経済",
@@ -223,24 +304,6 @@
       "publishedAt": "2026-11-16T06:55:27.000Z",
       "description": "メンテ入りから5時間以上経った午後3時半時点でも復旧しておらず、「待ち合わせしているのに連絡が取れない」などユーザーが困惑している。",
       "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003230/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6602797?source=rss-中井亜美 同い年の島田麻央に言及",
-      "title": "中井亜美 同い年の島田麻央に言及",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-16T06:47:37.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602797?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602794?source=rss-ゴジラ-0.0 米ヒットも割れる評価",
-      "title": "ゴジラ-0.0 米ヒットも割れる評価",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-11-16T05:56:34.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602794?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602791?source=rss-TOBE 年内でISSEIとの契約終了",
@@ -349,15 +412,6 @@
       "publishedAt": "2026-11-16T02:46:01.000Z",
       "description": "運転免許証は表面・裏面と自撮り画像、マイナンバーカードは表面画像を含む。個人番号が含まれるマイナカードの裏面の漏えいは確認していない。",
       "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003222/"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602771?source=rss-ちばてつやさん死去 賞は継続方針",
-      "title": "ちばてつやさん死去 賞は継続方針",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-11-16T02:43:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602771?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6602766?source=rss-日韓首脳 17日にフィリピンで会談",
@@ -477,42 +531,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6602735?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602728?source=rss-スピッツ 事故受け今後の活動言及",
-      "title": "スピッツ 事故受け今後の活動言及",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-11-15T13:24:26.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602728?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6602721?source=rss-まさか 駅伝タスキ渡し失格の背景",
-      "title": "まさか 駅伝タスキ渡し失格の背景",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-15T12:43:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602721?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6602714?source=rss-生活保護費改定 物価高の反映焦点",
-      "title": "生活保護費改定 物価高の反映焦点",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-11-15T11:49:58.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602714?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6602704?source=rss-防衛省AI活用の基本方針 見直しへ",
-      "title": "防衛省AI活用の基本方針 見直しへ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-11-15T10:00:56.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602704?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6602643?source=rss-検事の取り調べ AIでチェックへ",
       "title": "検事の取り調べ AIでチェックへ",
       "source": "Yahoo!ニュース IT",
@@ -520,15 +538,6 @@
       "publishedAt": "2026-11-15T01:48:48.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6602643?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6602619?source=rss-Netflixが値上げ 最安は990円に",
-      "title": "Netflixが値上げ 最安は990円に",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-11-14T22:58:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602619?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/15/2000003207/-NVIDIAフアン前CEOの復帰求める署名が11万人超 マスク氏らも賛同、米議会は追及継続",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-11-13T10:45:49.000Z",
       "description": "NTTドコモビジネスなど4社が、データセンターの排熱を使ったエビ養殖の実証に乗り出す。2027年度にはバナメイエビの飼育を始める計画だ。なぜエビを選んだのか、育てたエビをどうするのか。同社の担当者に話を聞いた。",
       "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/13/2000003197/-「お名前.com」不正アクセス、補償申請約30億円に GMOインターネットが決算説明会で謝罪",
-      "title": "「お名前.com」不正アクセス、補償申請約30億円に GMOインターネットが決算説明会で謝罪",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-13T09:17:23.000Z",
-      "description": "GMOインターネットは11月13日、「お名前.com デスクトップクラウド」への不正アクセスに関わる直接費用が計30億5000万円に上る見込みだと発表した。費用総額は確定していないとして、通期の業績予想は修正していない。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003197/"
     }
   ]
 }
