@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T18:39:20.895Z",
+  "updatedAt": "2026-11-16T00:51:57.463Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,150 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6602759?source=rss-コンテナホテル8年で145店舗 背景",
+      "title": "コンテナホテル8年で145店舗 背景",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-11-16T00:42:07.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602759?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6602755?source=rss-そごう・西武大規模改装に400億円",
+      "title": "そごう・西武大規模改装に400億円",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-11-16T00:25:56.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602755?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6602758?source=rss-7-9月期実質GDP 4期ぶりマイナス",
+      "title": "7-9月期実質GDP 4期ぶりマイナス",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-11-16T00:24:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602758?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6602756?source=rss-介護事業所 昨年度は38.3%が赤字",
+      "title": "介護事業所 昨年度は38.3%が赤字",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-11-16T00:18:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602756?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6602754?source=rss-「I'm so happy」中井亜美GP連勝",
+      "title": "「I'm so happy」中井亜美GP連勝",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-15T23:26:08.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602754?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/16/2000003210/-京成、公式サイト「システム不具合」で閲覧できない状態に 復旧未定",
+      "title": "京成、公式サイト「システム不具合」で閲覧できない状態に 復旧未定",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-15T23:24:20.000Z",
+      "description": "「京成スカイライナー」の予約システムが不正アクセスを受け、最大約337万件の個人情報が流出した可能性があると13日に発表していた。その後、公式サイトが閲覧できなくなったが、両者の関係は不明。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003210/"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6602749?source=rss-AIに思考丸投げ 16歳「今後怖い」",
+      "title": "AIに思考丸投げ 16歳「今後怖い」",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-11-15T23:22:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602749?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/16/2000003209/-金曜に起きた「Outlook使えない」問題、土曜午後に復旧……「Microsoft 365」障害、約36時間続く",
+      "title": "金曜に起きた「Outlook使えない」問題、土曜午後に復旧……「Microsoft 365」障害、約36時間続く",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-15T23:05:13.000Z",
+      "description": "障害発生中は、Outlookでメール送受信ができなかったり、Copilotが使えないなどの問題が起き、日本の政府や企業にも大きな影響が出た。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003209/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/16/2000003208/-OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」 カード番号は渡さず、購入ごとに生体認証",
+      "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」 カード番号は渡さず、購入ごとに生体認証",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-15T23:00:07.000Z",
+      "description": "OpenAIは、AIエージェント「dot」による決済機能「ChatGPT Wallet」を発表した。実際のカード情報を店舗に渡さず、購入ごとに生体認証を求める仕組みで安全性を確保する。米国のChatGPT Pro加入者向けに提供を開始した。将来は事前承認に基づく自律決済にも対応する計画。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6602748?source=rss-AI敵視から融和へ Disney路線変更",
+      "title": "AI敵視から融和へ Disney路線変更",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-11-15T22:52:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602748?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6602747?source=rss-JSR売却 差益9000億円超の見込み",
+      "title": "JSR売却 差益9000億円超の見込み",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-11-15T22:47:18.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602747?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6602745?source=rss-大学発ベンチャー過去10年で3.5倍",
+      "title": "大学発ベンチャー過去10年で3.5倍",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-11-15T22:43:59.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602745?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6602743?source=rss-46歳ロナウジーニョ 公式戦に出場",
+      "title": "46歳ロナウジーニョ 公式戦に出場",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-15T22:28:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602743?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6602744?source=rss-フアン氏がNVIDIA復帰協議 報道",
+      "title": "フアン氏がNVIDIA復帰協議 報道",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-11-15T22:28:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602744?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602740?source=rss-岡田准一が音楽番組初MC 日テレ",
+      "title": "岡田准一が音楽番組初MC 日テレ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-11-15T21:41:58.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602740?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6602738?source=rss-オリ OB後藤駿太氏コーチ招へい",
+      "title": "オリ OB後藤駿太氏コーチ招へい",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-15T21:16:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6602738?source=rss"
+    },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6602735?source=rss-原潜の保有「反対」52% 読売調査",
       "title": "原潜の保有「反対」52% 読売調査",
@@ -81,15 +225,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6602727?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6602724?source=rss-NVIDIAフアン氏復帰を 署名広がる",
-      "title": "NVIDIAフアン氏復帰を 署名広がる",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-11-15T13:02:58.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602724?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602723?source=rss-ミセス大森インフル 長野公演延期",
       "title": "ミセス大森インフル 長野公演延期",
       "source": "Yahoo!ニュース エンタメ",
@@ -126,15 +261,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6602714?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6602710?source=rss-横田さん拉致49年 北側の真相不明",
-      "title": "横田さん拉致49年 北側の真相不明",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-11-15T11:03:14.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602710?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602705?source=rss-映画VIVANT 新キャラに石黒賢",
       "title": "映画VIVANT 新キャラに石黒賢",
       "source": "Yahoo!ニュース エンタメ",
@@ -151,15 +277,6 @@
       "publishedAt": "2026-11-15T10:00:56.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6602704?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6602700?source=rss-衝撃 J内定の帝京渡辺が4人抜き弾",
-      "title": "衝撃 J内定の帝京渡辺が4人抜き弾",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-15T09:21:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602700?source=rss"
     },
     {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6602698?source=rss-スガキヤ20年ぶり関東に進出 狙い",
@@ -198,24 +315,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6602689?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6602688?source=rss-中日・大島洋平 年俸3年前の8%に",
-      "title": "中日・大島洋平 年俸3年前の8%に",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-15T08:03:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602688?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6602690?source=rss-外食大手 スキマバイトを即戦力に",
-      "title": "外食大手 スキマバイトを即戦力に",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-11-15T08:01:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602690?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602682?source=rss-松丸亮吾チーム脱出ゲーム世界3位",
       "title": "松丸亮吾チーム脱出ゲーム世界3位",
       "source": "Yahoo!ニュース エンタメ",
@@ -234,15 +333,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6602679?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6602678?source=rss-タマホーム 架空請求を売上計上か",
-      "title": "タマホーム 架空請求を売上計上か",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-11-15T07:14:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602678?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6602674?source=rss-首相APEC出席へ 焦点は日中関係",
       "title": "首相APEC出席へ 焦点は日中関係",
       "source": "Yahoo!ニュース 国内",
@@ -250,15 +340,6 @@
       "publishedAt": "2026-11-15T06:39:22.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6602674?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6602668?source=rss-森保Jなぜブラジル撃破 要因分析",
-      "title": "森保Jなぜブラジル撃破 要因分析",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-15T05:56:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602668?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6602661?source=rss-駅伝 タスキ渡しで失格ハプニング",
@@ -279,15 +360,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6602653?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6602647?source=rss-子どもの間で「宝石集め」ブーム",
-      "title": "子どもの間で「宝石集め」ブーム",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-11-15T02:23:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602647?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602646?source=rss-やす子 子ども食堂運営にやりがい",
       "title": "やす子 子ども食堂運営にやりがい",
       "source": "Yahoo!ニュース エンタメ",
@@ -295,15 +367,6 @@
       "publishedAt": "2026-11-15T02:19:47.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6602646?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6602644?source=rss-東京で「臭い豚骨」がブーム 背景",
-      "title": "東京で「臭い豚骨」がブーム 背景",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-11-15T01:52:40.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602644?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6602643?source=rss-検事の取り調べ AIでチェックへ",
@@ -322,24 +385,6 @@
       "publishedAt": "2026-11-15T01:44:27.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6602642?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6602636?source=rss-月収2万円と年金5万円 70代の現実",
-      "title": "月収2万円と年金5万円 70代の現実",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-11-15T01:06:17.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602636?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602625?source=rss-VIVANTドラム編 地上波初放送へ",
-      "title": "VIVANTドラム編 地上波初放送へ",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-11-14T23:37:30.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602625?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6602619?source=rss-Netflixが値上げ 最安は990円に",
@@ -387,15 +432,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6602556?source=rss"
     },
     {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6602508?source=rss-マイクロソフト 大規模障害を謝罪",
-      "title": "マイクロソフト 大規模障害を謝罪",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-11-13T23:55:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602508?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/14/2000003193/-相次ぐ情報漏えいでアナログ回帰？ ダイソー「パスワード管理ノート」が品薄に 一方でリスクも──IPAに聞いた",
       "title": "相次ぐ情報漏えいでアナログ回帰？ ダイソー「パスワード管理ノート」が品薄に 一方でリスクも──IPAに聞いた",
       "source": "ITmedia NEWS",
@@ -403,15 +439,6 @@
       "publishedAt": "2026-11-13T22:30:00.000Z",
       "description": "大創産業（ダイソー）は11月11日、紙の「パスワード管理ノート」の売れ行きが10月末ごろから伸び、一時的に品薄になっているとITmedia NEWSの取材に答えた。IPAは紙での管理を否定しない一方、紙では防ぎにくいリスクへの対策として、多要素認証やパスキーの設定を勧めている。",
       "url": "https://www.itmedia.co.jp/news/article/2611/14/2000003193/"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6602486?source=rss-マネックス証券 免許証画像流出か",
-      "title": "マネックス証券 免許証画像流出か",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-11-13T22:28:18.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602486?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/13/2000003195/-AI×裸眼3Dディスプレイ？ 2D映像をその場で3D化し、見る人の目も追う 現地で確かめた",
@@ -547,33 +574,6 @@
       "publishedAt": "2026-11-12T23:04:46.000Z",
       "description": "Googleは、AIエージェントによる作業や日常的なコーディングに向けた高速・高効率の新モデル「Gemini 4 Hydrogen」を発表した。「Gemini 3.8 Flash」の約2.5倍の速さでタスクを終え、推論の深さを4段階から選べる。APIやGeminiアプリなどで同日から順次提供している。",
       "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/13/2000003161/-Microsoft 365で大規模障害 「Outlook」でメールにアクセスできず、「Teams」など複数サービスに影響",
-      "title": "Microsoft 365で大規模障害 「Outlook」でメールにアクセスできず、「Teams」など複数サービスに影響",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-12T21:41:21.000Z",
-      "description": "Microsoftの「Microsoft 365」で米国時間11月12日、Exchange Onlineなどに接続できない大規模障害が発生した。原因は多数のサーバが自動ヘルスチェックに失敗して応答しなくなったためで、直近の構成変更が影響した可能性がある。一部は復旧しており、同社は自動復旧の導入など対応を進めている。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003161/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/12/2000003160/-NVIDIA、“革ジャンCEO”ことフアン氏が辞任 クレスCFOが暫定CEOに",
-      "title": "NVIDIA、“革ジャンCEO”ことフアン氏が辞任 クレスCFOが暫定CEOに",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-12T14:53:52.000Z",
-      "description": "米NVIDIAは11月12日（現地時間）、1993年の共同創業以来同社を率いてきたジェンスン・フアン氏が、社長兼CEOと取締役を即日辞任したと発表した。CFOのコレット・クレス氏が暫定CEOに就任し、取締役会は社内外から正式なCEOを選ぶ。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003160/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/12/2000003158/-宝くじ公式サイト、会員の当落情報まで第三者が閲覧の可能性 リスト型攻撃か",
-      "title": "宝くじ公式サイト、会員の当落情報まで第三者が閲覧の可能性 リスト型攻撃か",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-12T09:54:27.000Z",
-      "description": "宝くじを販売する全国の都道府県と指定都市は11月11日、公式サイトに不正ログインした第三者が、一部会員のくじの当落情報や氏名、住所などを閲覧した可能性があると発表した。同日までに、不正な購入や当せん金の受け取りは確認していないという。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003158/"
     }
   ]
 }
