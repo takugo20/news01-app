@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T11:21:40.595Z",
+  "updatedAt": "2026-11-18T20:13:29.066Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,87 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6603094?source=rss-熊本県で震度5弱 津波の心配なし",
+      "title": "熊本県で震度5弱 津波の心配なし",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-11-18T17:27:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603094?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6603093?source=rss-NHK飲み会通達 記者が不満漏らす",
+      "title": "NHK飲み会通達 記者が不満漏らす",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-11-18T15:00:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603093?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6603091?source=rss-森保監督 海外から「打診」明かす",
+      "title": "森保監督 海外から「打診」明かす",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-18T14:08:35.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603091?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6603082?source=rss-太田裕美さん 夫明かす最期の様子",
+      "title": "太田裕美さん 夫明かす最期の様子",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-11-18T13:05:41.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603082?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6603078?source=rss-SA・PAのゴミ箱 280カ所で廃止へ",
+      "title": "SA・PAのゴミ箱 280カ所で廃止へ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-11-18T12:17:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603078?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6603077?source=rss-阪神・湯浅京己 来季育成で再出発",
+      "title": "阪神・湯浅京己 来季育成で再出発",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-18T12:15:51.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603077?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6603076?source=rss-支援金 対象年収下限「56万円」案",
+      "title": "支援金 対象年収下限「56万円」案",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-11-18T12:11:23.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603076?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6603073?source=rss-45分1カット撮影「会社員」の凄さ",
+      "title": "45分1カット撮影「会社員」の凄さ",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-11-18T11:40:37.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603073?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/18/2000003302/-楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？ 「本番データでの確認が必要だった」",
+      "title": "楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？ 「本番データでの確認が必要だった」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-18T11:16:22.000Z",
+      "description": "楽天証券の顧客情報漏えい問題で、同社が本番の顧客データをマスキングせずにテスト環境へ保存していたことが分かった。最大約1572万口座分が漏えいした可能性がある。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003302/"
+    },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6603069?source=rss-歌手の太田裕美さんが死去 71歳",
       "title": "歌手の太田裕美さんが死去 71歳",
@@ -126,15 +207,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003304/"
     },
     {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/18/2000003302/-楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？ 「本番データでの確認が必要だった」",
-      "title": "楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？ 「本番データでの確認が必要だった」",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-18T08:40:07.000Z",
-      "description": "楽天証券の顧客情報漏えい問題で、同社が本番の顧客データをマスキングせずにテスト環境へ保存していたことが分かった。最大約1572万口座分が漏えいした可能性がある。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003302/"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6603054?source=rss-Suica「紫のうさぎ」得票率51.7%",
       "title": "Suica「紫のうさぎ」得票率51.7%",
       "source": "Yahoo!ニュース 経済",
@@ -198,15 +270,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6603037?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6603039?source=rss-NHK会長「飲み会」通達巡り言及",
-      "title": "NHK会長「飲み会」通達巡り言及",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-11-18T06:37:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603039?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6603035?source=rss-受刑者の選挙権制限は合憲 最高裁",
       "title": "受刑者の選挙権制限は合憲 最高裁",
       "source": "Yahoo!ニュース 国内",
@@ -223,15 +286,6 @@
       "publishedAt": "2026-11-18T06:17:11.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6603033?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6603032?source=rss-Suica新キャラ紫のうさぎ X反応",
-      "title": "Suica新キャラ紫のうさぎ X反応",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-11-18T06:11:31.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603032?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/18/2000003294/-AI脅威対処へ新枠組み 重要鉱物やエネルギーで連携 首相、ASEANとの首脳会議出席",
@@ -277,15 +331,6 @@
       "publishedAt": "2026-11-18T04:38:13.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6603025?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6603026?source=rss-T・ウッズ 約2年ぶり競技復帰へ",
-      "title": "T・ウッズ 約2年ぶり競技復帰へ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-18T04:35:11.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603026?source=rss"
     },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6603020?source=rss-森保監督 選手から感謝の声止まず",
@@ -351,15 +396,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003287/"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6603007?source=rss-「1リットルの涙」沢村一樹ら出演",
-      "title": "「1リットルの涙」沢村一樹ら出演",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-11-18T02:19:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603007?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/18/2000003284/-口座情報漏えいの楽天証券、「ワンタイムキー発行に時間がかかっている」 出金やログインパス変更に必要",
       "title": "口座情報漏えいの楽天証券、「ワンタイムキー発行に時間がかかっている」 出金やログインパス変更に必要",
       "source": "ITmedia NEWS",
@@ -423,15 +459,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003280/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6602989?source=rss-森保監督 涙のラストミーティング",
-      "title": "森保監督 涙のラストミーティング",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-17T23:15:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602989?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/18/2000003279/-OpenAI、「GPT-6.2」の「Astra」と「Sol」を公開 AI自己改善能力は初の「High」に",
       "title": "OpenAI、「GPT-6.2」の「Astra」と「Sol」を公開 AI自己改善能力は初の「High」に",
       "source": "ITmedia NEWS",
@@ -459,15 +486,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003278/"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6602978?source=rss-小渕優子氏更迭 自民総務会で反発",
-      "title": "小渕優子氏更迭 自民総務会で反発",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-11-17T21:32:04.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602978?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6602976?source=rss-NHK 職員に「飲み会22時頃まで」",
       "title": "NHK 職員に「飲み会22時頃まで」",
       "source": "Yahoo!ニュース 経済",
@@ -477,15 +495,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6602976?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6602959?source=rss-浜辺美波 手描きキングギドラ披露",
-      "title": "浜辺美波 手描きキングギドラ披露",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-11-17T13:38:55.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602959?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6602951?source=rss-「JINS」最大1829万件の情報流出",
       "title": "「JINS」最大1829万件の情報流出",
       "source": "Yahoo!ニュース IT",
@@ -493,15 +502,6 @@
       "publishedAt": "2026-11-17T12:30:05.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6602951?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6602941?source=rss-政府広報 陰謀論系YouTuber起用",
-      "title": "政府広報 陰謀論系YouTuber起用",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-11-17T11:20:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6602941?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/17/2000003275/-楽天証券に不正アクセス、最大1125万口座のIDなど漏えいか 「テスト環境」の一部情報が流出のおそれ",
