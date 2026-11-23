@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T19:15:10.307Z",
+  "updatedAt": "2026-11-23T01:28:05.488Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -35,6 +35,150 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6603639?source=rss-オリックス 藤浪晋太郎の獲得発表",
+      "title": "オリックス 藤浪晋太郎の獲得発表",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-23T00:51:00.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603639?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6603638?source=rss-野党 文科相の「問責」提出の構え",
+      "title": "野党 文科相の「問責」提出の構え",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-11-23T00:34:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603638?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6603636?source=rss-「ほぼ日手帳」海外で人気のワケ",
+      "title": "「ほぼ日手帳」海外で人気のワケ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-11-23T00:20:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603636?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6603633?source=rss-スクバルが9年714億円で合意 報道",
+      "title": "スクバルが9年714億円で合意 報道",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-22T23:56:14.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603633?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6603632?source=rss-首相の国会出席削減 自民が議論",
+      "title": "首相の国会出席削減 自民が議論",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-11-22T23:48:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603632?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6603626?source=rss-攻撃急増 背景にセキュリティ軽視",
+      "title": "攻撃急増 背景にセキュリティ軽視",
+      "source": "Yahoo!ニュース IT",
+      "category": "IT",
+      "publishedAt": "2026-11-22T23:18:11.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603626?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6603629?source=rss-SASUKE 富栄ドラムら100人参戦",
+      "title": "SASUKE 富栄ドラムら100人参戦",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-11-22T23:13:45.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603629?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6603628?source=rss-SOS見せず突然退職 企業どう防ぐ",
+      "title": "SOS見せず突然退職 企業どう防ぐ",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-11-22T23:08:33.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603628?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6603625?source=rss-中2でがん 20歳でプロゴルファー",
+      "title": "中2でがん 20歳でプロゴルファー",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-22T22:56:56.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603625?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/23/2000003394/-OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」",
+      "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-22T22:49:18.000Z",
+      "description": "OpenAIのチーフサイエンティストが、AIの予測精度を示す「パープレキシティ」を共通指標とし、開発の上限を業界で設けるよう提案する論考を公開した。GPT-3.5以降の社内モデルの推移も開示し、早ければ2027年にも事前学習が急加速する恐れがあるとして、監視技術が追いつくまでの歯止めを訴えている。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/23/2000003394/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6603622?source=rss-連休最終日 西-東日本は行楽日和",
+      "title": "連休最終日 西-東日本は行楽日和",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-11-22T22:35:06.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603622?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6603619?source=rss-空手・植草歩さん 結婚を発表",
+      "title": "空手・植草歩さん 結婚を発表",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-22T22:34:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603619?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6603623?source=rss-戸柱恭孝 オリックス移籍を決断",
+      "title": "戸柱恭孝 オリックス移籍を決断",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-22T22:31:36.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603623?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6603621?source=rss-中島美嘉 約8年ぶりに連ドラ出演",
+      "title": "中島美嘉 約8年ぶりに連ドラ出演",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-11-22T22:22:57.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603621?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6603620?source=rss-24年の1億円超所得者 10年で倍増",
+      "title": "24年の1億円超所得者 10年で倍増",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-11-22T22:21:56.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603620?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6603615?source=rss-たまごっち30周年「復活」の歴史",
+      "title": "たまごっち30周年「復活」の歴史",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-11-22T22:11:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603615?source=rss"
+    },
     {
       "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6603613?source=rss-ゴルフ佐久間朱莉がSNSに謝罪文",
       "title": "ゴルフ佐久間朱莉がSNSに謝罪文",
@@ -126,33 +270,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6603588?source=rss"
     },
     {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6603586?source=rss-声優・安野希世乃が結婚を発表",
-      "title": "声優・安野希世乃が結婚を発表",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-11-22T10:25:24.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603586?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6603587?source=rss-熱海富士 仕切り直前に突然の鼻血",
-      "title": "熱海富士 仕切り直前に突然の鼻血",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-22T10:22:06.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603587?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6603582?source=rss-「普天間」負担軽減会議 開催へ",
-      "title": "「普天間」負担軽減会議 開催へ",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-11-22T10:07:41.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603582?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6603585?source=rss-ジュノンボーイGP 兵庫出身の高3",
       "title": "ジュノンボーイGP 兵庫出身の高3",
       "source": "Yahoo!ニュース エンタメ",
@@ -171,15 +288,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6603579?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6603575?source=rss-ソフトバンク 新ユニホームを発表",
-      "title": "ソフトバンク 新ユニホームを発表",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-22T09:03:24.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603575?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6603573?source=rss-三原則例外 被爆者「言語道断だ」",
       "title": "三原則例外 被爆者「言語道断だ」",
       "source": "Yahoo!ニュース 国内",
@@ -196,15 +304,6 @@
       "publishedAt": "2026-11-22T08:07:46.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6603568?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6603567?source=rss-桑田氏 118km直球は「恐る恐る」",
-      "title": "桑田氏 118km直球は「恐る恐る」",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-22T07:57:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603567?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6603563?source=rss-益永死刑囚が死亡 連続企業爆破",
@@ -234,15 +333,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6603554?source=rss"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6603545?source=rss-桑田真澄氏58歳が118キロ球 騒然",
-      "title": "桑田真澄氏58歳が118キロ球 騒然",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-22T05:22:21.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603545?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6603538?source=rss-うーん 買い取り店で揺れる人の心",
       "title": "うーん 買い取り店で揺れる人の心",
       "source": "Yahoo!ニュース 経済",
@@ -250,15 +340,6 @@
       "publishedAt": "2026-11-22T04:44:13.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6603538?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6603539?source=rss-元GKシュナイダー潤之介さん死去",
-      "title": "元GKシュナイダー潤之介さん死去",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-22T04:19:29.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603539?source=rss"
     },
     {
       "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6603530?source=rss-声優・青木志貴 性自認公表の理由",
@@ -279,15 +360,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6603531?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6603523?source=rss-無資格注射疑いのペット店 実態は",
-      "title": "無資格注射疑いのペット店 実態は",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-11-22T02:33:53.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603523?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6603522?source=rss-AI兵器先行の米露 規制に消極姿勢",
       "title": "AI兵器先行の米露 規制に消極姿勢",
       "source": "Yahoo!ニュース IT",
@@ -297,24 +369,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6603522?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6603512?source=rss-メンズメイク 若者を悩ます世代差",
-      "title": "メンズメイク 若者を悩ます世代差",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-11-22T00:58:05.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603512?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6603511?source=rss-VIVANT ゲイの描き方に識者疑問",
-      "title": "VIVANT ゲイの描き方に識者疑問",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-11-22T00:42:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603511?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6603509?source=rss-地方銀行再編 各地でくすぶる火種",
       "title": "地方銀行再編 各地でくすぶる火種",
       "source": "Yahoo!ニュース 経済",
@@ -322,33 +376,6 @@
       "publishedAt": "2026-11-22T00:29:41.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6603509?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6603506?source=rss-ホカロンのロゴ入り靴下 売れた訳",
-      "title": "ホカロンのロゴ入り靴下 売れた訳",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-11-22T00:12:49.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603506?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6603504?source=rss-氷河期世代の正社員率改善も 格差",
-      "title": "氷河期世代の正社員率改善も 格差",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-11-21T23:49:12.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603504?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6603503?source=rss-村上春樹さんが村上龍さんを追悼",
-      "title": "村上春樹さんが村上龍さんを追悼",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-11-21T23:39:54.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603503?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/22/2000003388/-Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定",
@@ -367,15 +394,6 @@
       "publishedAt": "2026-11-21T14:26:52.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6603483?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6603461?source=rss-参政・神谷宗幣氏 演説に変化",
-      "title": "参政・神谷宗幣氏 演説に変化",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-11-21T11:23:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603461?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6603448?source=rss-六花亭 クレカ不正利用を1件確認",
@@ -403,15 +421,6 @@
       "publishedAt": "2026-11-21T04:59:13.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6603398?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6603344?source=rss-丸井 EC顧客名など883万件漏えい",
-      "title": "丸井 EC顧客名など883万件漏えい",
-      "source": "Yahoo!ニュース IT",
-      "category": "IT",
-      "publishedAt": "2026-11-20T13:31:51.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603344?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/20/2000003381/-デジ庁、政府機関向けファイル共有サービスで漏えいか 7月末から第三者がアクセス",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-11-19T09:40:42.000Z",
       "description": "楽天証券で11月19日、米Anthropicの米国株式IPOの抽選結果の発表が遅れ、申込者の画面に一時「抽選対象外」の表示が出た。楽天証券は「想定よりお申込みが多く」処理に時間がかかったと説明しており、SNSでは表示が出た後に当選していたとの報告が相次いだ。",
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003347/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/19/2000003338/-脆弱性で話題「nginx」なんて読む？ 「ンギンクス」ではなく……",
-      "title": "脆弱性で話題「nginx」なんて読む？ 「ンギンクス」ではなく……",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-19T09:18:57.000Z",
-      "description": "素直に読むと「ンギンクス」だし、「エヌジーアイエヌエックス」「エヌジンクス」などと発音する人もいるようだが……。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003338/"
     }
   ]
 }
