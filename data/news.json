@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T13:26:11.607Z",
+  "updatedAt": "2026-11-24T23:47:43.830Z",
   "generatedBy": "GitHub Actions",
   "feeds": [
     {
@@ -36,13 +36,121 @@
   "errors": [],
   "items": [
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6603843?source=rss-浅野翔吾 ケーキあーんされ大照れ",
-      "title": "浅野翔吾 ケーキあーんされ大照れ",
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6603874?source=rss-カブス 佐藤輝明と巨額契約の背景",
+      "title": "カブス 佐藤輝明と巨額契約の背景",
       "source": "Yahoo!ニュース スポーツ",
       "category": "スポーツ",
-      "publishedAt": "2026-11-24T13:16:13.000Z",
+      "publishedAt": "2026-11-24T23:44:52.000Z",
       "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603843?source=rss"
+      "url": "https://news.yahoo.co.jp/pickup/6603874?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6603871?source=rss-新型ウォークマン 旗艦品は65万円",
+      "title": "新型ウォークマン 旗艦品は65万円",
+      "source": "Yahoo!ニュース 経済",
+      "category": "経済",
+      "publishedAt": "2026-11-24T23:35:31.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603871?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6603872?source=rss-竹内まりや KFCのCM曲がギネス",
+      "title": "竹内まりや KFCのCM曲がギネス",
+      "source": "Yahoo!ニュース エンタメ",
+      "category": "エンタメ",
+      "publishedAt": "2026-11-24T23:27:54.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603872?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6603868?source=rss-米中に次ぐAI国家確立へ 政府案",
+      "title": "米中に次ぐAI国家確立へ 政府案",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-11-24T23:10:28.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603868?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6603867?source=rss-直木賞ノミネート 5作品決まる",
+      "title": "直木賞ノミネート 5作品決まる",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-11-24T22:56:25.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603867?source=rss"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/25/2000003430/-AIエージェントは隙あらばサンドボックスの外に出るのか Anthropicが評価手法「Siren」を発表",
+      "title": "AIエージェントは隙あらばサンドボックスの外に出るのか Anthropicが評価手法「Siren」を発表",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-24T22:41:42.000Z",
+      "description": "Anthropicは、AIエージェントが脆弱なサンドボックスから抜け出すかどうかを測る評価手法「Siren」を発表した。1700以上のシナリオで6モデルを検証し、最新モデル群が外に置かれた認証情報などを不正に使った割合は0.6?1.6％にとどまった。システムプロンプトでのルール明示や報告ツールなどの対策を組み合わせると...",
+      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003430/"
+    },
+    {
+      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/25/2000003429/-京王、1100万人超の個人情報漏えいか 一部クレカ番号なども 9月のランサム被害で",
+      "title": "京王、1100万人超の個人情報漏えいか 一部クレカ番号なども 9月のランサム被害で",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "publishedAt": "2026-11-24T22:00:00.000Z",
+      "description": "京王電鉄は11月24日、京王グループが9月に受けたランサムウェア攻撃を巡り、顧客や取引先など約1063万人分の個人情報が漏えいした可能性があると発表した。一部には海外からの宿泊客のパスポートの写しやクレジットカード番号も含まれる。従業員や採用応募者などの一部は漏えいを確認した。二次被害は確認していないという。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003429/"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6603860?source=rss-副首都 来年秋に複数同時に指定",
+      "title": "副首都 来年秋に複数同時に指定",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-11-24T21:51:04.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603860?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6603858?source=rss-平良海馬がBジェイズと合意 報道",
+      "title": "平良海馬がBジェイズと合意 報道",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-24T21:37:10.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603858?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6603857?source=rss-新人王の発表目前 セ・パ有力候補",
+      "title": "新人王の発表目前 セ・パ有力候補",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-24T21:24:46.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603857?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6603856?source=rss-佐藤輝明がカブスと契約合意 報道",
+      "title": "佐藤輝明がカブスと契約合意 報道",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-24T21:20:44.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603856?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6603852?source=rss-未払い督促強化のNHK 事業収入増",
+      "title": "未払い督促強化のNHK 事業収入増",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内",
+      "publishedAt": "2026-11-24T13:55:39.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603852?source=rss"
+    },
+    {
+      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6603851?source=rss-巨人・浅野翔吾 女子大で調理実習",
+      "title": "巨人・浅野翔吾 女子大で調理実習",
+      "source": "Yahoo!ニュース スポーツ",
+      "category": "スポーツ",
+      "publishedAt": "2026-11-24T13:31:20.000Z",
+      "description": "",
+      "url": "https://news.yahoo.co.jp/pickup/6603851?source=rss"
     },
     {
       "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6603844?source=rss-首相 第2次補正予算案編成を指示",
@@ -70,15 +178,6 @@
       "publishedAt": "2026-11-24T13:03:48.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6603841?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6603840?source=rss-栗山巧氏 西武の本部付特別補佐に",
-      "title": "栗山巧氏 西武の本部付特別補佐に",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-24T12:37:16.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603840?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/24/2000003427/-ソフトバンク、アイティメディアの売却検討か 2社「コメント控える」「決定した事実ない」",
@@ -189,15 +288,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6603822?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6603817?source=rss-重要土地法の改正案が衆院可決",
-      "title": "重要土地法の改正案が衆院可決",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-11-24T08:43:20.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603817?source=rss"
-    },
-    {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6603814?source=rss-Z世代トレンド 大賞「ドパガキ」",
       "title": "Z世代トレンド 大賞「ドパガキ」",
       "source": "Yahoo!ニュース IT",
@@ -223,15 +313,6 @@
       "publishedAt": "2026-11-24T07:56:28.000Z",
       "description": "",
       "url": "https://news.yahoo.co.jp/pickup/6603809?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6603812?source=rss-首相とICC赤根所長面会 支持伝達",
-      "title": "首相とICC赤根所長面会 支持伝達",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-11-24T07:51:52.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603812?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6603807?source=rss-ヴェレダ クレカ4万件超漏えいか",
@@ -342,33 +423,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6603773?source=rss"
     },
     {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6603770?source=rss-立憲 最大5万円給付案を参院提出",
-      "title": "立憲 最大5万円給付案を参院提出",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-11-24T01:28:07.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603770?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 国内-https://news.yahoo.co.jp/pickup/6603766?source=rss-文科相 自宅家賃を政治資金で支出",
-      "title": "文科相 自宅家賃を政治資金で支出",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内",
-      "publishedAt": "2026-11-24T00:46:28.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603766?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース エンタメ-https://news.yahoo.co.jp/pickup/6603759?source=rss-ラッパーのBASIさん 5年前に死去",
-      "title": "ラッパーのBASIさん 5年前に死去",
-      "source": "Yahoo!ニュース エンタメ",
-      "category": "エンタメ",
-      "publishedAt": "2026-11-24T00:18:48.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603759?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/24/2000003399/-SpaceXをオレゴン州とバージニア州が提訴 Grokの性的画像生成で",
       "title": "SpaceXをオレゴン州とバージニア州が提訴 Grokの性的画像生成で",
       "source": "ITmedia NEWS",
@@ -376,15 +430,6 @@
       "publishedAt": "2026-11-23T23:39:38.000Z",
       "description": "オレゴン州とバージニア州は、AI「Grok」が児童性的虐待コンテンツ（CSAM）や同意のない性的画像を生成・拡散したとしてSpaceXなどを提訴したと発表した。両州は「Spicy」モードなどで安全策を無視し、消費者を欺いたと主張。一方、Xの安全対策アカウントは悪用に対し保護策を強化したと説明している。",
       "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003399/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6603750?source=rss-塩貝健人が重度筋損傷 長期離脱へ",
-      "title": "塩貝健人が重度筋損傷 長期離脱へ",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-23T23:32:22.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603750?source=rss"
     },
     {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/24/2000003398/-CrowdStrike、Zscalerを約439億ドルで買収へ 狙いはAIエージェントの安全確保",
@@ -396,15 +441,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003398/"
     },
     {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6603738?source=rss-巨人 織田翔希と26日に初対面",
-      "title": "巨人 織田翔希と26日に初対面",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-23T22:03:42.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603738?source=rss"
-    },
-    {
       "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/24/2000003397/-NVIDIA、フアン氏のCEO復帰を発表 トランプ大統領「私がまとめた」と取締役会への働きかけ認める",
       "title": "NVIDIA、フアン氏のCEO復帰を発表 トランプ大統領「私がまとめた」と取締役会への働きかけ認める",
       "source": "ITmedia NEWS",
@@ -412,24 +448,6 @@
       "publishedAt": "2026-11-23T21:32:46.000Z",
       "description": "NVIDIAは、11月12日に退任したジェンスン・フアン氏の社長兼CEOおよび取締役への復帰を発表した。取締役会は米政府高官の意見を踏まえ、国家安全保障上のリスクはないと判断したという。トランプ大統領はCNBCの取材に対し、取締役会へ直接復帰を働きかけたことを認め、ウォーレン上院議員は「無謀な決定」と批判している。",
       "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003397/"
-    },
-    {
-      "id": "Yahoo!ニュース スポーツ-https://news.yahoo.co.jp/pickup/6603734?source=rss-阪神 FAの上林誠知と契約合意",
-      "title": "阪神 FAの上林誠知と契約合意",
-      "source": "Yahoo!ニュース スポーツ",
-      "category": "スポーツ",
-      "publishedAt": "2026-11-23T21:15:09.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603734?source=rss"
-    },
-    {
-      "id": "Yahoo!ニュース 経済-https://news.yahoo.co.jp/pickup/6603732?source=rss-フアン氏 エヌビディアCEOに復帰",
-      "title": "フアン氏 エヌビディアCEOに復帰",
-      "source": "Yahoo!ニュース 経済",
-      "category": "経済",
-      "publishedAt": "2026-11-23T14:17:46.000Z",
-      "description": "",
-      "url": "https://news.yahoo.co.jp/pickup/6603732?source=rss"
     },
     {
       "id": "Yahoo!ニュース IT-https://news.yahoo.co.jp/pickup/6603699?source=rss-タッチ決済改札 利用者が戸惑いも",
@@ -556,24 +574,6 @@
       "publishedAt": "2026-11-20T06:11:05.000Z",
       "description": "ドン・キホーテのAI社員「近藤あい」が11月23日に正式デビューする。実は裏には約20人のAIキャラクターが控えているという。開発に約1年半を費やした舞台裏や、AI社員を導入した狙いを担当者に聞いた。",
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003369/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/20/2000003368/-Microsoft、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
-      "title": "Microsoft、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-20T04:29:35.000Z",
-      "description": "米Microsoftは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発表しました。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003368/"
-    },
-    {
-      "id": "ITmedia NEWS-https://www.itmedia.co.jp/news/article/2611/20/2000003367/-ハンコヤドットコム、カード番号やセキュリティコード8220件漏えいか 決済画面改ざんされる",
-      "title": "ハンコヤドットコム、カード番号やセキュリティコード8220件漏えいか 決済画面改ざんされる",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "publishedAt": "2026-11-20T04:05:21.000Z",
-      "description": "不正アクセスにより決済画面が改ざんされ、顧客が入力したカード情報が外部へ送信される状態になっていた。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003367/"
     }
   ]
 }
